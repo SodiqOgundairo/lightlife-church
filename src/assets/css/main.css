@@ -1,0 +1,183 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,200;0,400;1,200;1,300&display=swap");
+
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Mouse+Memoirs&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Inspiration&display=swap');
+
+
+body {
+  /* font-family: "Poppins", sans-serif !important; */
+  font-family: 'Ubuntu', sans-serif !important;
+  margin: 0;
+  padding: 0;
+  box-sizing: content-box;
+  background-color: #00050a;
+  overflow-x: hidden;
+}
+
+.head{
+  /* font-family: 'Mouse Memoirs', sans-serif; */
+  font-family: 'Inspiration', cursive;
+}
+/* 
+:root {
+    --animate-duration: 800ms;
+    --animate-delay: 0.9s;
+  } */
+
+.mt-05 {
+  margin-top: 70px;
+}
+
+.fs-extra {
+  font-size: 6em;
+}
+
+.theme {
+  color: #E0B043;
+  /* color: #562250; */
+}
+
+.accent {
+  /* color: #E0B043; */
+  color: #562250;
+}
+
+/* .theme-gradient {
+  color: #E0B043;
+  color: linear(112.92deg, 
+  rgba(89, 4, 141, 0.402) -1.17%, 
+  rgba(0, 0, 0, 0.197) 100%);
+  color: #562250; 
+} */
+
+.logo{
+  width: 50%;
+}
+
+.bg-theme {
+  background-color: #E0B043;
+  /* background-color: #562250; */
+}
+
+.bg-accent {
+  /* background-color: #E0B043; */
+  background-color: #562250;
+}
+
+.bg-none {
+  background: none !important;
+}
+
+.border-theme {
+  border-color: #E0B043;
+  /* border-color: #562250; */
+}
+
+.border-accent {
+  /* border-color: #E0B043; */
+  border-color: #562250;
+}
+
+.bgg {
+  /* width: 100%;
+  margin: 0px;
+  padding: 0px; */
+  background-image: url('../img/bg4.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-blend-mode: lighten;
+}
+
+button {
+  box-shadow: none !important;
+}
+
+input,
+textarea {
+  resize: none;
+}
+
+.height-reduced {
+  height: 450px;
+  overflow-x: hidden !important;
+}
+
+/* SCROLL BAR */
+::-webkit-scrollbar {
+  width: 5px;
+}
+
+::-webkit-scrollbar-track {
+  box-shadow: inset 0 0 6px rgba(200, 200, 200, 1);
+  border-radius: 5px;
+}
+
+::-webkit-scrollbar-thumb {
+  box-shadow: inset 0 0 6px rgba(90, 90, 90, 0.7);
+  border-radius: 15px;
+  background-color: #fff;
+}
+
+/* SCROLL BAR ENDS*/
+
+/* GLASSMORPHISM */
+.glass {
+  /* From https://css.glass */
+  /* background: rgba(255, 255, 255, 0.2); */
+  /* border-radius: 16px; */
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(5px);
+  -webkit-backdrop-filter: blur(5px);
+  /* border: 1px solid rgba(255, 255, 255, 0.3); */
+}
+
+.glass-gradient {
+    background: linear-gradient(
+        112.92deg, 
+        rgba(241, 244, 211, 0.233) -1.17%, 
+        rgba(97, 97, 96, 0.1) 100%);
+    /* background: linear-gradient(
+        112.92deg, 
+        rgba(89, 4, 141, 0.402) -1.17%, 
+        rgba(0, 0, 0, 0.197) 100%); */
+    /* opacity: 25%; */
+}
+
+.glass-gradient-accent {
+    /* background: linear-gradient(
+        112.92deg, 
+        rgba(241, 244, 211, 0.233) -1.17%, 
+        rgba(97, 97, 96, 0.1) 100%); */
+    background: linear-gradient(
+        112.92deg, 
+        rgba(88, 4, 141, 0.538) -1.17%, 
+        rgba(0, 0, 0, 0.356) 100%); 
+    /* opacity: 25%; */
+}
+
+.img-fit{
+    object-fit: cover;
+    object-position: center;
+    width: max-content;
+    height: max-content;
+}
+
+.layer {
+    background-color: rgba(37, 37, 37, 0.148);
+    backdrop-filter: blur(3px);
+    background-size: cover;
+  }
+
+  
+.layer-theme {
+  background-color:#56225069;
+  backdrop-filter: blur(3px);
+  background-size: cover;
+}
+
+
+/* FOOTER */
