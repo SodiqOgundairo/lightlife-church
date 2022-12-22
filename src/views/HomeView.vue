@@ -1,7 +1,7 @@
 <template>
   <div>
     <Hero />
-    <About />
+    <!-- <About /> -->
     <Section1 />
     <Section2 />
   </div>
@@ -11,11 +11,13 @@
 import Hero from "@/components/Hero.vue";
 import Section1 from "../components/Section1.vue";
 import Section2 from "../components/Section2.vue";
-import About from "@/components/AboutCard.vue";
+// import About from "@/components/AboutCard.vue";
 export default {
   name: "HomeView",
 
-  components: { Hero, Section1, Section2, About },
+  components: { Hero, Section1, Section2,
+    //  About
+     },
 
   setup() {
     return {};
