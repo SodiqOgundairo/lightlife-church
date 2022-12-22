@@ -3,11 +3,15 @@
 
     <div class="col overlay">
       <div class="row layer bg-vid pt-5">
-        <video height="320" src="../assets/montage/llcMontage.mp4" type="video/mp4" playsinline autoplay muted loop>
-        </video>
-        <div class="col-md-10 mt-5 m-auto">
-        </div>
+        <!-- <video height="320" src="../assets/montage/llcMontage.mp4" type="video/mp4" playsinline autoplay muted loop>
+        </video> -->
+
+        <img src="../assets/montage/llcMontage.gif" alt="llcMontage" class="img-fluid montage" />
       </div>
+    </div>
+
+    <div class="card">
+      .card-body
     </div>
   </div>
 </template>
@@ -37,9 +41,20 @@ export default {
   height: 320;
 }
 
-video{
+@media (max-width:700px){
+  .bg-vid{
+    height: 240px
+  }
+
+  .montage{
+    height: 240px
+  }
+}
+
+.montage{
   object-fit: cover;
   object-position: center;
+  height: 420px;
 }
 
 </style>

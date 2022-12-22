@@ -1,16 +1,14 @@
 <template>
   <header>
     <nav
-      class="navbar navbar-expand-md navbar-light fixed-top bg-light glass d-flex justify-content-between bg-opacity-25 animate__animated animate__flipInX"
+      class="navbar navbar-expand-md navbar-light fixed-top bg-light glass d-flex justify-content-between bg-opacity-50 animate__animated animate__flipInX"
     >
       <div class="container-fluid theme">
-        <!-- <div class=""> -->
-        <div class="col-sm">
-        <router-link to="/" class="navbar-brand" href="#"> <img src="../assets/img/llc.png" class="img-fluid logo" alt=""> </router-link>
-        </div>
-        <!-- <a class="navbar-brand" href="#"> LIGHTLIFE CHURCH </a> -->
+  
+        <router-link to="/" class="navbar-brand" > <img src="../assets/img/llc.png" class="img-fluid logo" alt=""> </router-link>
+ 
         <button
-          class="navbar-toggler"
+          class="navbar-toggler d-lg-none"
           type="button"
           data-bs-toggle="collapse"
           data-bs-target="#navbarCollapse"
@@ -20,10 +18,9 @@
         >
           <span class="navbar-toggler-icon ms-end"></span>
         </button>
-        <!-- </div> -->
-        <div class="navbar-brand">
+        <!-- <div class="navbar-brand"> -->
           <div class="collapse navbar-collapse" id="navbarCollapse">
-            <ul class="navbar-nav me-auto mb-2 mb-md-0">
+            <ul class="navbar-nav ms-auto mb-2 px-4 mx-3 mt-lg-0">
               <li class="nav-item">
                 <router-link to="/" class="nav-link active" aria-current="page" href="#">Home</router-link>
               </li>
@@ -41,7 +38,7 @@
               </li>
             </ul>
           </div>
-        </div>
+        <!-- </div> -->
       </div>
     </nav>
   </header>
