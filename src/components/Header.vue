@@ -18,7 +18,7 @@
           aria-expanded="false"
           aria-label="Toggle navigation"
         >
-          <span class="navbar-toggler-icon float-end"></span>
+          <span class="navbar-toggler-icon ms-end"></span>
         </button>
         <!-- </div> -->
         <div class="navbar-brand">

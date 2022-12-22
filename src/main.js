@@ -25,10 +25,10 @@ import '../node_modules/aos/dist/aos.css'
 import '../node_modules/aos/dist/aos.js'
 
 //DROPIFY CSS
-import '../node_modules/dropify/dist/css/dropify.min.css'
+// import '../node_modules/dropify/dist/css/dropify.min.css'
 
 //DROPIFY JS
-import '../node_modules/dropify/dist/js/dropify.min'
+// import '../node_modules/dropify/dist/js/dropify.min'
 
 // CUSTOM CSS
 import './assets/css/main.css' 
