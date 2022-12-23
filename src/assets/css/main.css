@@ -43,32 +43,59 @@ body {
   font-size: 6em;
 }
 
+
+/* COLORS */
 .theme {
-  color: #d4af37;
+  color: #2b002b;
 }
 
 .accent {
-  color: #590fb7;
+  color: #d4af37;
 }
 
-.theme-gradient {
-  color: linear-gradient(112.92deg, #ff0076 -1.17%, #590fb7 100%);
+.accent-2 {
+  color: #590fb7;
 }
 
 .bg-theme-gradient {
   background: linear-gradient(112.92deg, #ff0076 -1.17%, #590fb7 100%);
 }
 
-.logo {
-  width: 50%;
+.bg-accent-gradient {
+  background: linear-gradient(112.92deg, #df98fa -1.17%, #9055ff 100%);
 }
 
 .bg-theme {
-  background-color: #d4af37;
+  background-color: #2b002b;
 }
 
 .bg-accent {
+  background-color: #d4af37;
+}
+
+.bg-accent-2 {
   background-color: #590fb7;
+}
+
+.border-theme {
+  border-color: #2b002b;
+}
+
+.border-accent {
+  border-color: #d4af37;
+}
+
+.border-accent-2 {
+  border-color: #590fb7;
+}
+
+.theme-gradient {
+  color: linear-gradient(112.92deg, #ff0076 -1.17%, #590fb7 100%);
+}
+/* COLORS END */
+
+.logo {
+  width: 50%;
 }
 
 .bg-none {
@@ -87,19 +114,29 @@ body {
   text-shadow: 0px 2px 4px rgba(0, 0, 0, 0.612);
 }
 
-.bgg {
-  /* width: 100%;
-  margin: 0px;
-  padding: 0px; */
-  background-image: url("../img/bg4.png");
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-position: center;
-  background-blend-mode: lighten;
-}
-
 /* BUTTONS */
 .btn-theme {
+  color: white;
+  background-color: #2b002b;
+  border-radius: 5px;
+  border-top: 2px solid #970a97;
+  border-bottom: none;
+  border-right: none;
+  border-left: none;
+  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.25);
+  padding: 10px 20px;
+  margin: 10px;
+  text-decoration: none;
+  text-align: center;
+}
+
+.btn-theme:hover {
+  background-color: #ffffff;
+  color: #2b002b;
+  box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.679);
+}
+
+.btn-accent {
   color: white;
   background-color: #d4af37;
   border-radius: 5px;
@@ -114,13 +151,13 @@ body {
   text-align: center;
 }
 
-.btn-theme:hover {
+.btn-accent:hover {
   background-color: #ffffff;
   color: #d4af37;
   box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.679);
 }
 
-.btn-accent {
+.btn-accent-2 {
   color: white;
   background-color: #590fb7;
   border-radius: 5px;
@@ -135,7 +172,7 @@ body {
   text-align: center;
 }
 
-.btn-accent:hover {
+.btn-accent-2:hover {
   background-color: #ffffff;
   color: #590fb7;
   box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.679);

@@ -8,7 +8,7 @@
         <img
           src="../assets/montage/llcMontage.gif"
           alt="llcMontage"
-          class="montage"
+          class="img-fluid montage"
         />
       </div>
     </div>
@@ -26,7 +26,7 @@
                 <div>
                   
                   <div class="card-body ">
-                    <p class="h1 card-title theme fw-bold">LIGHTLIFE CHURCH</p>
+                    <p class="h1 card-title accent fw-bold">LIGHTLIFE CHURCH</p>
                     <small class="text-muted h5 fst-italic"
                     >...Empowering Saints!</small
                   >

@@ -11,8 +11,8 @@
               >
                 <div class="card bg-gradient glass bg-opacity-75 shadow-lg p-2 border-0">
                   <div class="card-body text-center">
-                    <p class="h3 theme fw-bold card-title">ASSIMILATION</p>
-                    <hr class="w-25 m-auto border-2 border border-dark" />
+                    <p class="h3 text-white fw-bold card-title">ASSIMILATION</p>
+                    <hr class="w-50 m-auto border-2 border border-black" />
                     <p class="card-text pt-2 text-white text-shadow">
                       Lorem ipsum dolor sit amet consectetur adipisicing elit.
                       Asperiores modi debitis facere doloribus ipsum illum
@@ -32,7 +32,7 @@
                 >
                   <div class="card-body text-center">
                     <p class="h3 text-white fw-bold card-title">EMPOWERMENT</p>
-                    <hr class="w-25 m-auto border-2 border border-light" />
+                    <hr class="w-50 m-auto border-2 border border-black" />
                     <p class="card-text text-white text-shadow pt-2">
                       Lorem ipsum dolor sit amet consectetur adipisicing elit.
                       Asperiores modi debitis facere doloribus ipsum illum
@@ -50,7 +50,7 @@
                 <div class="card bg-gradient glass bg-opacity-50 shadow-lg p-2 border-0">
                   <div class="card-body text-center">
                     <p class="h3 text-white fw-bold card-title">RELEASE</p>
-                    <hr class="w-25 m-auto border-2 border border-dark" />
+                    <hr class="w-50 m-auto border-2 border border-black" />
                     <p class="card-text text-white text-shadow pt-2">
                       Lorem ipsum dolor sit amet consectetur adipisicing elit.
                       Asperiores modi debitis facere doloribus ipsum illum

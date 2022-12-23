@@ -11,7 +11,7 @@
                   alt=""
                   class="img-fluid logo mb-2"
                 />
-                <p class="h4 theme">LIGHTLIFE CHURCH</p>
+                <p class="h4 accent">LIGHTLIFE CHURCH</p>
                 <small class="fw-light fst-italic"
                   >1-2 Funso Adeogun Street, off Quarry Road, Abeokuta, Ogun
                   State</small
@@ -32,30 +32,60 @@
                     <router-link
                       to="/post"
                       class="nav-link text-white fw-light"
-                      >Our Blog
+                      >DLD
                     </router-link>
                   </li>
                   <li class="list-unstyled">
                     <router-link
                       to="/programme"
                       class="nav-link text-white fw-light"
-                      >Upcoming Programes
+                      >Upcoming Programmes
                     </router-link>
                   </li>
-                  <li class="list-unstyled">
+                  <!-- <li class="list-unstyled">
                     <router-link
                       to="/support"
                       class="nav-link text-white fw-light"
                       >Support
                     </router-link>
-                  </li>
+                  </li> -->
                 </ul>
               </div>
-
+              
               <div class="col-md-4 my-4 m-auto">
                 <div class="my-2">
                   <p class="h5">JOIN OUR DAILY LIGHT DEVOTIONAL</p>
-                  <input type="email" class="form-control" placeholder="email here"> <button class="btn btn-sm bg-theme my-2">Subscribe</button>
+                  <input type="email" class="form-control" placeholder="email here"> <button class="btn btn-sm bg-accent my-2">Subscribe</button>
+                </div>
+                <div class="my-2">
+                  <p class="h5">CONNECT GROUPS</p>
+                  <li class="list-unstyled">
+                    <router-link
+                      to="/"
+                      class="nav-link text-white fw-light"
+                      >L.O.V.E Ladies
+                    </router-link>
+                    <router-link
+                      to="/"
+                      class="nav-link text-white fw-light"
+                      >God's Guys
+                    </router-link>
+                    <router-link
+                      to="/"
+                      class="nav-link text-white fw-light"
+                      >Light Life Messages
+                    </router-link>
+                    <router-link
+                      to="/"
+                      class="nav-link text-white fw-light"
+                      >Mixlr
+                    </router-link>
+                    <router-link
+                      to="/"
+                      class="nav-link text-white fw-light"
+                      >Facebook Live
+                    </router-link>
+                  </li>
                 </div>
               </div>
 

@@ -28,13 +28,13 @@
                 <router-link to="/about" class="nav-link" aria-current="page" href="#">About LLC</router-link>
               </li>
               <li class="nav-item">
-                <router-link to="/post" class="nav-link" aria-current="page" href="#">LLC Blog</router-link>
+                <router-link to="/post" class="nav-link" aria-current="page" href="#">DLD</router-link>
               </li>
               <li class="nav-item">
-                <router-link to="/programme" class="nav-link " aria-current="page" href="#">Programmes</router-link>
+                <router-link to="/programme" class="nav-link " aria-current="page" href="#">LLC Programmes</router-link>
               </li>
               <li class="nav-item">
-                <router-link to="/support" class="nav-link" aria-current="page" href="#">Support</router-link>
+                <router-link to="/support" class="nav-link" aria-current="page" href="#">To Give</router-link>
               </li>
             </ul>
           </div>
