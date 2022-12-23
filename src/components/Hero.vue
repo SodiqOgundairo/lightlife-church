@@ -10,9 +10,36 @@
       </div>
     </div>
 
-    <div class="card">
-      .card-body
-    </div>
+    <section>
+      <div class="row bg-light py-5">
+        <div class="col-md-8 py-5 m-auto">
+          <div class="card p-5 border-0 shadow-lg rounded-0">
+            <div class="row g-0">
+              <!-- <div class="col-md-6 gap-3 d-flex align-self-center"> -->
+                <div class="card-body text-center">
+                  <p class="h1 card-title accent fw-bold">LIGHTLIFE CHURCH</p>
+                  <small class="text-muted h5 fst-italic">...Empowering Saints!</small>
+                  <p class="px-5 pt-5 card-text">
+                    LLC is not just a place, it is a people. It is a community where sinners, 
+                    the destitute, the despondent, the rejected, the depressed, the confused, 
+                    the hurting people can find salvation, love, hope joy, purpose, peace, acceptance and guidance. 
+                  </p>
+                  <router-link to="/about" class=" btn-accent">Read More 
+                  </router-link>
+                </div>
+              <!-- </div> -->
+              <!-- <div class="col-md-6 d-flex bg-accent">
+                <img
+                  src="../assets/img/llc.png"
+                  class="img-fluid"
+                  alt="PJ"
+                />
+              </div> -->
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
   </div>
 </template>
 

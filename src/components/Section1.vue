@@ -11,7 +11,7 @@
               >
                 <div class="card bg-dark glass bg-opacity-25 shadow-lg p-2 border-0">
                   <div class="card-body text-center">
-                    <p class="h3 accent fw-bold card-title">WORSHIP</p>
+                    <p class="h3 accent fw-bold card-title">ASSIMILATION</p>
                     <hr class="w-25 m-auto border-2 border border-dark" />
                     <p class="card-text pt-2 text-white">
                       Lorem ipsum dolor sit amet consectetur adipisicing elit.
@@ -31,7 +31,7 @@
                   class="card bg-dark glass bg-opacity-50 shadow-lg p-2 border-0"
                 >
                   <div class="card-body text-center">
-                    <p class="h3 text-white fw-bold card-title">PRAY</p>
+                    <p class="h3 text-white fw-bold card-title">EMPOWERMENT</p>
                     <hr class="w-25 m-auto border-2 border border-light" />
                     <p class="card-text text-white pt-2">
                       Lorem ipsum dolor sit amet consectetur adipisicing elit.
@@ -49,7 +49,7 @@
               >
                 <div class="card bg-white glass bg-opacity-75 shadow-lg p-2 border-0">
                   <div class="card-body text-center">
-                    <p class="h3 theme fw-bold card-title">CONNECT</p>
+                    <p class="h3 theme fw-bold card-title">RELEASE</p>
                     <hr class="w-25 m-auto border-2 border border-dark" />
                     <p class="card-text pt-2">
                       Lorem ipsum dolor sit amet consectetur adipisicing elit.

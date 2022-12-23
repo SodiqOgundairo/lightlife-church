@@ -5,7 +5,7 @@
     >
       <div class="container-fluid theme">
   
-        <router-link to="/" class="navbar-brand" > <img src="../assets/img/llc.png" class="img-fluid logo" alt=""> </router-link>
+        <router-link to="/" class="navbar-brand" > <img src="../assets/img/llc.png" class="img-fluid nav-logo" alt=""> </router-link>
  
         <button
           class="navbar-toggler d-lg-none"
@@ -55,7 +55,7 @@ export default {
 </script>
 
 <style scoped>
-  .logo{
-    width: 60px;
+  .nav-logo{
+    width: 40px;
 }
 </style>
