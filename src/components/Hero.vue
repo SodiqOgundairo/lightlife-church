@@ -8,7 +8,7 @@
         <img
           src="../assets/montage/llcMontage.gif"
           alt="llcMontage"
-          class="img-fluid montage"
+          class="montage"
         />
       </div>
     </div>

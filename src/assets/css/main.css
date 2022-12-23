@@ -64,12 +64,10 @@ body {
 }
 
 .bg-theme {
-  background-color: #e0b043;
-  /* background-color: #562250; */
+  background-color: #d4af37;
 }
 
 .bg-accent {
-  /* background-color: #E0B043; */
   background-color: #590fb7;
 }
 
@@ -78,12 +76,10 @@ body {
 }
 
 .border-theme {
-  border-color: #e0b043;
-  /* border-color: #562250; */
+  border-color: #d4af37;
 }
 
 .border-accent {
-  /* border-color: #E0B043; */
   border-color: #590fb7;
 }
 
@@ -105,9 +101,9 @@ body {
 /* BUTTONS */
 .btn-theme {
   color: white;
-  background-color: #e0b043;
+  background-color: #d4af37;
   border-radius: 5px;
-  border-top: 2px solid #b3851b;
+  border-top: 2px solid #876b0f;
   border-bottom: none;
   border-right: none;
   border-left: none;
@@ -120,7 +116,7 @@ body {
 
 .btn-theme:hover {
   background-color: #ffffff;
-  color: #e0b043;
+  color: #d4af37;
   box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.679);
 }
 
