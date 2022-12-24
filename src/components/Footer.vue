@@ -143,7 +143,8 @@
 <script>
 export default {
   name: "Footer-vue",
-};
+}
+
 </script>
 
 <style scope>

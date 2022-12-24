@@ -16,13 +16,13 @@
     <section>
       <div class="row bg-light py-5">
         <div class="col-md-10 py-5 m-auto">
-          <div class="card p-5 border-0 shadow-lg rounded-0">
+          <div class="card border-0 shadow-lg rounded-0">
             <div class="row g-0">
               <div class="col-md-6 d-flex bg-accent">
                 <img src="../assets/img/welcome.jpg" class="img-fluid" alt="PJ" />
               </div>
 
-              <div class="col-md-6 gap-3 d-flex align-self-center px-4">
+              <div class="col-md-6 gap-3 p-5 d-flex align-self-center px-4">
                 <div>
                   
                   <div class="card-body ">

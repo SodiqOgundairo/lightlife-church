@@ -1,8 +1,9 @@
 <template>
   <article>
+
     <section>
       <div class="row bg-white py-5">
-        <div class="col-md-8 py-5 m-auto">
+        <div class="col-md-8 py-5 py-sm-2 m-auto">
           <div class="card border-0 shadow-lg rounded-0">
             <div class="row g-0">
               <div class="col-md-6 d-flex bg-theme">
@@ -38,7 +39,7 @@
     </section>
 
     <section>
-      <div class="row bg-theme py-5">
+      <div class="row bg-accent py-5">
         <div class="col-md-8 py-5 m-auto">
           <div class="card border-0 shadow-lg rounded-0">
             <div class="row g-0">
@@ -49,7 +50,7 @@
                     Get the messages from Pastor Juwon Owolabi right from here
                   </p>
                                     
-                  <router-link to="/" class="  d-block btn-accent-2"
+                  <router-link to="/post" class="  d-block btn-accent-2"
                   > Get PJ's Teachings
                 </router-link>
                 </div>

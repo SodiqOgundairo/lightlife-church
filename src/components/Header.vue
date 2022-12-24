@@ -31,6 +31,9 @@
                 <router-link to="/post" class="nav-link" aria-current="page" href="#">DLD</router-link>
               </li>
               <li class="nav-item">
+                <router-link to="/post" class="nav-link" aria-current="page" href="#">PJ's Teachings</router-link>
+              </li>
+              <li class="nav-item">
                 <router-link to="/programme" class="nav-link " aria-current="page" href="#">LLC Programmes</router-link>
               </li>
               <li class="nav-item">
