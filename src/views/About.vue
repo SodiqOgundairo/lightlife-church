@@ -493,13 +493,13 @@
                   </p>
                   <ul class="list-group">
                     <li class="list-group-item bg-none">
-                      <span class="fw-bold theme"> LightLife Kitchen:</span>he vision
+                      <span class="fw-bold theme"> LightLife Kitchen: </span>the vision
                       is to feed the hungry one or two times a day in places where
                       hunger is most severe. Giving of foodstuff during major festive
                       seasons to widows, poor and physically challenged.
                     </li>
                     <li class="list-group-item bg-none">
-                      <span class="fw-bold theme"> LightLife Edu:</span> the vision is
+                      <span class="fw-bold theme"> LightLife Edu: </span> the vision is
                       to provide scholarship to brilliant but unprivileged students,
                       ranging from primary to university education. Also stationary
                       will be provided to students through this platform. This will
@@ -507,17 +507,17 @@
                       learn handiwork.
                     </li>
                     <li class="list-group-item bg-none">
-                      <span class="fw-bold theme"> LightLife Store:</span>his vison is
+                      <span class="fw-bold theme"> LightLife Store: </span>this vison is
                       to provide clothing and other similar materials to those in
                       need.
                     </li>
                     <li class="list-group-item bg-none">
-                      <span class="fw-bold theme"> LightLife Homes:</span>he vision of
+                      <span class="fw-bold theme"> LightLife Homes: </span>the vision of
                       this arm is to provide home for the homeless. This will include
                       motherless homes and so on.
                     </li>
                     <li class="list-group-item bg-none">
-                      <span class="fw-bold theme"> Lightlife Care:</span> This arm of
+                      <span class="fw-bold theme"> Lightlife Care: </span> This arm of
                       our ministry deals more with visiting and catering for the
                       prisoners and hospitals.
                     </li>
