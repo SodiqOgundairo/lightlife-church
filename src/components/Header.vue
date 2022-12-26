@@ -22,22 +22,22 @@
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav ms-auto mb-2 px-4 mx-3 mt-lg-0">
               <li class="nav-item">
-                <router-link to="/" class="nav-link active" aria-current="page" href="#">Home</router-link>
+                <router-link to="/" class="nav-link" aria-current="page">Home</router-link>
               </li>
               <li class="nav-item">
-                <router-link to="/about" class="nav-link" aria-current="page" href="#">About LLC</router-link>
+                <router-link to="/about" class="nav-link" aria-current="page" >About LLC</router-link>
               </li>
               <li class="nav-item">
-                <router-link to="/post" class="nav-link" aria-current="page" href="#">DLD</router-link>
+                <router-link to="/post" class="nav-link" aria-current="page" >DLD</router-link>
               </li>
               <li class="nav-item">
-                <router-link to="/post" class="nav-link" aria-current="page" href="#">PJ's Teachings</router-link>
+                <router-link to="/teachings" class="nav-link" aria-current="page" >PJ's Teachings</router-link>
               </li>
               <li class="nav-item">
-                <router-link to="/programme" class="nav-link " aria-current="page" href="#">LLC Programmes</router-link>
+                <router-link to="/programme" class="nav-link " aria-current="page">LLC Programmes</router-link>
               </li>
               <li class="nav-item">
-                <router-link to="/support" class="nav-link" aria-current="page" href="#">To Give</router-link>
+                <router-link to="/support" class="nav-link" aria-current="page">To Give</router-link>
               </li>
             </ul>
           </div>

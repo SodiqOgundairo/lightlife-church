@@ -13,6 +13,7 @@ const LogInLLC = () => import ('../pages/LogInLLC.vue')
 const PageNotFound = () => import ('../pages/PageNotFound.vue')
 const BlogUpload = () => import ('../pages/BlogUpload.vue')
 const BlogPost = () => import ('../pages/BlogPost.vue')
+const Teachings = () => import ('../pages/Teachings.vue')
 const Support = () => import ('../pages/Support.vue')
 const Programme = () => import ('../pages/Programme.vue')
 
@@ -50,6 +51,11 @@ const routes = [
     path: '/post',
     name: 'post',
     component: BlogPost,
+  },
+  { 
+    path: '/teachings',
+    name: 'teachings',
+    component: Teachings,
   },
   { 
     path: '/support',

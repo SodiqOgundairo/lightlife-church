@@ -3,7 +3,7 @@
   <div class="row my-5 m-auto">
       <!-- <div class="row my-5 m-auto"> -->
           <div class="col-md-12 m-auto">
-                  <p class="h5 card-title fs-extra theme opacity-50 text-center head">Meet Our Ministers</p>
+                  <p class="h1 card-title fs-1 mb-3 text-white-50 text-center">Meet Our Ministers</p>
 
       <div class="row m-auto">
 

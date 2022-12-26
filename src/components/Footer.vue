@@ -55,7 +55,9 @@
               <div class="col-md-4 my-4 m-auto">
                 <div class="my-2">
                   <p class="h5">JOIN OUR DAILY LIGHT DEVOTIONAL</p>
-                  <input type="email" class="form-control" placeholder="email here"> <button class="btn btn-sm bg-accent my-2">Subscribe</button>
+                  <input type="email" class="form-control" placeholder="email here"> 
+                  <router-link to="/ss" class="btn btn-sm bg-accent my-2">Subscribe</router-link>
+                  <!-- <button class="btn btn-sm bg-accent my-2">Subscribe</button> -->
                 </div>
                 <div class="my-2">
                   <p class="h5">CONNECT GROUPS</p>
