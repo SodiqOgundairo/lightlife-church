@@ -25,84 +25,72 @@
               <img
                 src="../assets/img/programs.jpg"
                 class="img-fluid"
-                alt="PJ's teachings
+                alt="LLC Programmes
           "
               />
             </div>
           </div>
         </div>
 
-        <div
-          class="card border-1 border-theme m-auto p-lg-5 py-4 my-4 px-3 shadow-lg"
-        >
-          <p class="card-title h3 border-bottom">
-            AUDIO MESSAGES
-          </p>
-          <p>To download Audio messages <a href="https://t.me/lightlifechurch" target="_blank" rel="noopener noreferrer" class="nav-link d-inline accent-2 fst-italic fw-bold">click here</a> </p>
-        </div>
-
-        <div
-          class="card border-0 border-theme bg-accent-gradient m-auto p-lg-5 py-4 px-3 my-4 shadow-lg"
-        >
-          <p class="card-title h3 theme border-bottom">BOOKS WRITTEN BY PJ</p>
-    <p class=""> To purchase any of PJ's books please contact</p>
-          
-<article class="row ">
-    <div class=" m-auto">
-      <div class="container-fluid">
-        <div class="row">
-          <section class="col-md-4 m-auto p-5">
-            <div class="card border-0 shadow-lg">
-              <img
-                src="../assets/img/llc.png"
-                class="card-img-top bg-accent-gradient img-fluid"
-                alt="..."
-              />
-              <div class="card-body">
-                <h5 class="card-title">Book 1 Title</h5>
-                <small class="card-text text-muted"
-                  >N5,000
-                </small>
-              </div>
-            </div>
-          </section>
-          
-          <section class="col-md-4 m-auto p-5">
-            <div class="card border-0 shadow-lg">
-              <img
-                src="../assets/img/llc.png"
-                class="card-img-top bg-theme img-fluid"
-                alt="..."
-              />
-              <div class="card-body">
-                <h5 class="card-title">Book 2 Title</h5>
-                <small class="card-text text-muted"
-                  >N5,000
-                </small>
-              </div>
-            </div>
-          </section>
-          
-          <section class="col-md-4 m-auto p-5">
-            <div class="card border-0 shadow-lg">
-              <img
-                src="../assets/img/llc.png"
-                class="card-img-top bg-light img-fluid"
-                alt="..."
-              />
-              <div class="card-body">
-                <h5 class="card-title">Book 3 Title</h5>
-                <small class="card-text text-muted"
-                  >N5,000
-                </small>
-              </div>
-            </div>
-          </section>
-
-        </div>
-      </div>
-    </div>
-  </article>
+        <div style="overflow-x:auto;">
+          <table>
+            <tr>
+              <th>First Name</th>
+              <th>Last Name</th>
+              <th>Points</th>
+              <th>Points</th>
+              <th>Points</th>
+              <th>Points</th>
+              <th>Points</th>
+              <th>Points</th>
+              <th>Points</th>
+              <th>Points</th>
+              <th>Points</th>
+              <th>Points</th>
+            </tr>
+            <tr>
+              <td>Jill</td>
+              <td>Smith</td>
+              <td>50</td>
+              <td>50</td>
+              <td>50</td>
+              <td>50</td>
+              <td>50</td>
+              <td>50</td>
+              <td>50</td>
+              <td>50</td>
+              <td>50</td>
+              <td>50</td>
+            </tr>
+            <tr>
+              <td>Eve</td>
+              <td>Jackson</td>
+              <td>94</td>
+              <td>94</td>
+              <td>94</td>
+              <td>94</td>
+              <td>94</td>
+              <td>94</td>
+              <td>94</td>
+              <td>94</td>
+              <td>94</td>
+              <td>94</td>
+            </tr>
+            <tr>
+              <td>Adam</td>
+              <td>Johnson</td>
+              <td>67</td>
+              <td>67</td>
+              <td>67</td>
+              <td>67</td>
+              <td>67</td>
+              <td>67</td>
+              <td>67</td>
+              <td>67</td>
+              <td>67</td>
+              <td>67</td>
+            </tr>
+          </table>
         </div>
       </div>
     </div>
@@ -160,6 +148,8 @@
       <p class="card-title h2 text-center theme head">Monthly Programmes</p>
     </div>
     <div class="card p-3 m-5 shadow-lg border-theme">
+      <div style="overflow-x:auto;">
+
     <table class="table table-hover table-inverse table-responsive">
       <thead class="thead-inverse">
         <tr>
@@ -184,6 +174,7 @@
           </tr>
         </tbody>
     </table>
+    </div>
     </div>
     </div>
     </div>
