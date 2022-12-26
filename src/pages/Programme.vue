@@ -1,9 +1,8 @@
 <template>
-
   <header class="mt-5">
     <div class="text-center bgg">
       <div class="bg-dark bg-opacity-50 py-5">
-        <p class="h1 page-title text-white fs-extra"> PJ's TEACHINGS   </p>
+        <p class="h1 page-title text-white fs-extra">LLC PROGRAMMES</p>
       </div>
     </div>
   </header>
@@ -16,8 +15,9 @@
             <div class="col-md-6 gap-3 d-flex align-self-center">
               <div class="card-body">
                 <p class="card-text">
-                 Download all of PJ's Teachings books and Audio Sermons right from here. More text can still come into this place to tell stories about what the  page is about. 
-                 <span class="d-block">Thank you!</span>
+                  Follow up on all LLC programmes so you don't miss out on any right from here. More text can still come into this place to tell
+                  stories about what the page is about.
+                  <span class="d-block">Thank you!</span>
                 </p>
               </div>
             </div>
@@ -32,162 +32,182 @@
           </div>
         </div>
 
-        <div style="overflow-x:auto;">
-          <table>
-            <tr>
-              <th>First Name</th>
-              <th>Last Name</th>
-              <th>Points</th>
-              <th>Points</th>
-              <th>Points</th>
-              <th>Points</th>
-              <th>Points</th>
-              <th>Points</th>
-              <th>Points</th>
-              <th>Points</th>
-              <th>Points</th>
-              <th>Points</th>
-            </tr>
-            <tr>
-              <td>Jill</td>
-              <td>Smith</td>
-              <td>50</td>
-              <td>50</td>
-              <td>50</td>
-              <td>50</td>
-              <td>50</td>
-              <td>50</td>
-              <td>50</td>
-              <td>50</td>
-              <td>50</td>
-              <td>50</td>
-            </tr>
-            <tr>
-              <td>Eve</td>
-              <td>Jackson</td>
-              <td>94</td>
-              <td>94</td>
-              <td>94</td>
-              <td>94</td>
-              <td>94</td>
-              <td>94</td>
-              <td>94</td>
-              <td>94</td>
-              <td>94</td>
-              <td>94</td>
-            </tr>
-            <tr>
-              <td>Adam</td>
-              <td>Johnson</td>
-              <td>67</td>
-              <td>67</td>
-              <td>67</td>
-              <td>67</td>
-              <td>67</td>
-              <td>67</td>
-              <td>67</td>
-              <td>67</td>
-              <td>67</td>
-              <td>67</td>
-            </tr>
+        <!-- WEEKLY PROGRAMMES -->
+        
+  
+        <div
+          class="card p-3 my-5 col-md-12 m-auto shadow-lg border-theme"
+          style="overflow-x: auto"
+        >
+          <p class="card-title h2 accent">Weekly Programmes</p>
+
+          <table class="table table-hover table-inverse table-responsive">
+            <thead class="thead-inverse">
+              <tr>
+                <th>Day</th>
+                <th>Programme</th>
+                <th>Time</th>
+                <th>Venue</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td scope="row" rowspan="2">Sunday</td>
+                <td>First Service</td>
+                <td>8:00 am</td>
+                <td>Zion</td>
+              </tr>
+              <tr>
+                <td scope="row">Second Service</td>
+                <td>9:30am</td>
+                <td>Zion</td>
+              </tr>
+              <tr>
+                <td
+                  scope="row"
+                  colspan="4"
+                  class="text-white text-center fst-italic bg-secondary"
+                >
+                  Only One Service is observed on First Sundays of every Month
+                  starting 9:30am
+                </td>
+              </tr>
+              <tr>
+                <td scope="row" rowspan="">Monday</td>
+                <td>Love Ladies</td>
+                <td>5:00 pm</td>
+                <td>Zion</td>
+              </tr>
+              <tr>
+                <td scope="row" rowspan="">Tuesday</td>
+                <td>God’s Guys</td>
+                <td>9:00 pm</td>
+                <td>Google Meet</td>
+              </tr>
+              <tr>
+                <td scope="row" rowspan="">Wednesday</td>
+                <td>Relationship Clinic</td>
+                <td>6:00 pm</td>
+                <td>Zion</td>
+              </tr>
+              <tr>
+                <td scope="row" rowspan="">Thursday</td>
+                <td>WordFeast</td>
+                <td>6:00 pm</td>
+                <td>Zion</td>
+              </tr>
+              <tr>
+                <td
+                  scope="row"
+                  colspan="4"
+                  class="text-white text-center fst-italic bg-secondary"
+                >
+                  LAST WEEKEND OF THE MONTH: WEEKEND OF WONDERS (WOW)
+                </td>
+              </tr>
+              <tr>
+                <td scope="row" rowspan="">Friday</td>
+                <td>WOW</td>
+                <td>5:00 pm</td>
+                <td>Zion</td>
+              </tr>
+              <tr>
+                <td scope="row" rowspan="">Saturday</td>
+                <td>WOW</td>
+                <td>5:00 pm</td>
+                <td>Zion</td>
+              </tr>
+              <tr>
+                <td scope="row" rowspan="">Sunday</td>
+                <td>WOW</td>
+                <td>8:00 am</td>
+                <td>Zion</td>
+              </tr>
+            </tbody>
           </table>
         </div>
+
       </div>
     </div>
   </section>
 
-
-
-  <main class="pt-5">
-    <div class="text-center py-5 bg-drk bgg">
-      <p class="h1 text-white fs-extra">LLC <span class="head">Programmes</span></p>
+  
+  <article class="row bg-light py-5">
+    <div class="col-md-10 m-auto">
+      <div class="container">
+        <p class="card-title h2 accent">SPECIAL PROGRAMMES</p>
+        <div class="row">
+          <section class="col-md-4 m-auto p-5">
+            <div class="card border-0 shadow-lg">
+              <img
+                src="../assets/img/story.jpeg"
+                class="card-img-top img-fluid"
+                alt="..."
+              />
+              <div class="card-body">
+                <h5 class="card-title">ThanksGiving Sunday</h5>
+                <small class="card-text text-muted"
+                  >Sunday 7th August, 2022 is our thanksgiving Sunday. Join us 
+                </small>
+              </div>
+            </div>
+          </section>
+          <section class="col-md-4 m-auto p-5">
+            <div class="card border-0 shadow-lg">
+              <img
+                src="../assets/img/llc.png"
+                class="card-img-top bg-theme img-fluid"
+                alt="..."
+              />
+              <div class="card-body">
+                <h5 class="card-title">Weekend of Encounter</h5>
+                <small class="card-text text-muted"
+                  >Night of Encounter now Weekend of Encounters
+                </small>
+              </div>
+            </div>
+          </section>
+          <section class="col-md-4 m-auto p-5">
+            <div class="card border-0 shadow-lg">
+              <img
+                src="../assets/img/llc.png"
+                class="card-img-top bg-theme img-fluid"
+                alt="..."
+              />
+              <div class="card-body">
+                <h5 class="card-title">Title</h5>
+                <small class="card-text text-muted"
+                  >Description description description description
+                </small>
+              </div>
+            </div>
+          </section>
+        </div>
+      </div>
     </div>
-    <div class="row bg-light">
-    <div class="col-md-8 m-auto p-4 bg-white">
-    <div class="card-header mt-2">
-      <p class="card-title h2 text-center accent head">Weekly Programmes</p>
-    </div>
-    <div class="card p-3 m-5 shadow-lg border-theme">
-    <table class="table table-hover table-inverse table-responsive">
-      <thead class="thead-inverse">
-        <tr>
-          <th>Day</th>
-          <th>Programme</th>
-          <th>Time</th>
-          <th>Duration</th>
-        </tr>
-        </thead>
-        <tbody>
-          <tr>
-            <td scope="row" rowspan="2">Sunday</td>
-            <td>First Service</td>
-            <td>7:00 am</td>
-            <td>1hr 30mins</td>
-          </tr>
-          <tr>
-            <td scope="row">Second Service</td>
-            <td>9:00am</td>
-            <td>2hrs 30mins</td>
-          </tr>
-          <tr>
-            <td scope="row" colspan="4" class="text-white text-center fst-italic bg-secondary">Only Second Service is observed on First Sundays of the Month</td>
-          </tr>
-          <tr>
-            <td scope="row" rowspan="">Thursday</td>
-            <td>WordFeast</td>
-            <td>5:00 am</td>
-            <td>1hr 30mins</td>
-          </tr>
-        </tbody>
-    </table>
-    </div>
-    </div>
-    <hr/>
-    <div class="col-md-8 m-auto p-4 bg-white">
-    <div class="card-header mt-2">
-      <p class="card-title h2 text-center theme head">Monthly Programmes</p>
-    </div>
-    <div class="card p-3 m-5 shadow-lg border-theme">
-      <div style="overflow-x:auto;">
-
-    <table class="table table-hover table-inverse table-responsive">
-      <thead class="thead-inverse">
-        <tr>
-          <th>Day</th>
-          <th>Programme</th>
-          <th>Time</th>
-          <th>Duration</th>
-        </tr>
-        </thead>
-        <tbody>
-          <tr>
-            <td scope="row">1st Sunday of the Month</td>
-            <td>Thanksgiving Service</td>
-            <td>9:00 am</td>
-            <td>1hr 30mins</td>
-          </tr>
-          <tr>
-            <td scope="row">Last Weekend</td>
-            <td scope="row">Weekend of Wonders <span class="fw-bold"> (WOW)  </span> </td>
-            <td>9:00am</td>
-            <td>2hrs 30mins</td>
-          </tr>
-        </tbody>
-    </table>
-    </div>
-    </div>
-    </div>
-    </div>
-    
-  </main>
+  </article>
 </template>
 
 <script>
-
 export default {
   name: "Programme-vue",
-
 };
 </script>
 
-<style></style>
+<style>
+.bgg {
+  /* width: 100%;
+  margin: 0px;
+  padding: 0px; */
+  background-image: url("../assets/img/programs-1.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-blend-mode: lighten;
+}
+@media (max-width: 550px) {
+  .page-title {
+    font-size: xx-large;
+  }
+}
+</style>

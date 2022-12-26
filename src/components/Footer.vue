@@ -42,6 +42,13 @@
                       >Upcoming Programmes
                     </router-link>
                   </li>
+                  <li class="list-unstyled">
+                    <router-link
+                      to="/support"
+                      class="nav-link text-white fw-light"
+                      >PJ's Teachings
+                    </router-link>
+                  </li>
                   <!-- <li class="list-unstyled">
                     <router-link
                       to="/support"

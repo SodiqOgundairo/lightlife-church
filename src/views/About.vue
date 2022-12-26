@@ -54,32 +54,77 @@
               </p>
             </div>
           </div>
+        </div>
+      </div>
+    </section>
 
-          <div
-            class="card border-0 border-theme bg-theme-gradient m-auto p-lg-5 py-4 my-4 shadow-lg"
-          >
-            <p class="card-title h3 text-white border-bottom">
-              OUR PURPOSE STATEMENT
-            </p>
-            <ul class="list-group list-group-flush">
-              <li class="list-group-item text-white p-2 bg-none">
-                To assimilate Citizens into God’s Kingdom through Evangelism
-              </li>
-              <li class="list-group-item text-white p-2 bg-none">
-                Empower/Groom into Maturity through Discipleship and Worship
-              </li>
-              <li class="list-group-item text-white p-2 bg-none">
-                Release them into Ministry through Service
-              </li>
-            </ul>
-          </div>
+    <section class="">
+      <div class="row bg-white py-5">
+        <div class="col-md-10 shadow-lg m-auto py-3 p-md-5">
+          <div class=" border-1 border-theme p-md-5 my-3">
+          
+          <div class="accordion" id="myAcccordions">
+            <!-- SINGLE ITEM -->
+            <div class="accordion-item">
+              <h4 class="accordion-header" id="headingOne">
+                <button
+                  class="accordion-button card-title h3 fs-3 border-bottom bg-accent-gradient text-white"
+                  type="button"
+                  data-bs-toggle="collapse"
+                  data-bs-target="#purposeStatement"
+                  aria-expanded="true"
+                  aria-controls="purposeStatement"
+                >
+                  OUR PURPOSE STATEMENT
+                </button>
+              </h4>
+              <div
+                id="purposeStatement"
+                class="accordion-collapse collapse"
+                aria-labelledby="headingOne"
+                data-bs-parent="#myAcccordions"
+              >
+                <div class="accordion-body">
+                  <ul class="list-group list-group-flush">
+                    <li class="list-group-item p-2 bg-none">
+                      To assimilate Citizens into God’s Kingdom through
+                      Evangelism
+                    </li>
+                    <li class="list-group-item p-2 bg-none">
+                      Empower/Groom into Maturity through Discipleship and
+                      Worship
+                    </li>
+                    <li class="list-group-item p-2 bg-none">
+                      Release them into Ministry through Service
+                    </li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+            <!-- SINGLE ITEM END -->
 
-          <div
-            class="card border-0 border-theme bg-accent-gradient m-auto p-lg-5 py-4 my-4 shadow-lg"
-          >
-            <!-- <div class="row g-0 align-self-center align-items-center"> -->
-            <p class="card-title h3 theme border-bottom">VISION</p>
-            <ul class="list-group list-group-flush">
+            <!-- SINGLE ITEM -->
+            <div class="accordion-item">
+              <h4 class="accordion-header" id="headingTwo">
+                <button
+                  class="accordion-button card-title h3 fs-3 border-bottom bg-accent-gradient text-white"
+                  type="button"
+                  data-bs-toggle="collapse"
+                  data-bs-target="#vision"
+                  aria-expanded="true"
+                  aria-controls="vision"
+                >
+                  VISION
+                </button>
+              </h4>
+              <div
+                id="vision"
+                class="accordion-collapse collapse"
+                aria-labelledby="headingTwo"
+                data-bs-parent="#myAcccordions"
+              >
+                <div class="accordion-body">
+                 <ul class="list-group list-group-flush">
               <li class="list-group-item theme p-2 bg-none">
                 To Raise Kingdom Leaders in All Sphere of Human Influence.
               </li>
@@ -90,267 +135,188 @@
                 To make disciple for Christ in Nations.
               </li>
             </ul>
-            <!-- </div> -->
-          </div>
-
-          <!--  OUR PURPOSE TARGET AUDIENCE AND OUR PURPOSE STATEMENT 
-
-
-          <div class="card border-1 border-theme m-auto p-md-5 my-3">
-            <div class="row g-0 align-self-center align-items-center">
-              <div class="col-md-4 gap-3 m-3 m-auto">
-                <div class="card-body bg-accent-gradient my-1 rounded-3">
-                  <p class="card-title h3 text-white border-bottom">
-                    OUR PURPOSE
-                  </p>
-                  <p class="card-text text-white">
-                    To Raise an Army of Disciples and Leaders
-                  </p>
-                </div>
-
-                <div class="card-body bg-theme-gradient my-1 rounded-3">
-                  <p class="card-title h3 text-white border-bottom">
-                    OUR TARGET AUDIENCE
-                  </p>
-                  <p class="card-text text-white">The Unchurched</p>
-                </div>
-              </div>
-
-              <div class="col-md-7 m-3 m-auto">
-                <div class="card-body bg-theme rounded-3 p-4">
-                  <p class="card-title h3 text-white border-bottom">
-                    OUR PURPOSE STATEMENT
-                  </p>
-                  <ul class="list-group list-group-flush">
-                    <li
-                      class="list-group-item text-white p-1 bg-dark bg-opacity-25"
-                    >
-                      To assimilate Citizens into God’s Kingdom through
-                      Evangelism
-                    </li>
-                    <li
-                      class="list-group-item text-white p-1 bg-dark bg-opacity-25"
-                    >
-                      Empower/Groom into Maturity through Discipleship and
-                      Worship
-                    </li>
-                    <li
-                      class="list-group-item text-white p-1 bg-dark bg-opacity-25"
-                    >
-                      Release them into Ministry through Service
-                    </li>
-                  </ul>
                 </div>
               </div>
             </div>
-          </div> -->
-          <!-- 
-          <div class="card border-1 border-theme m-auto p-md-5 my-3">
-            <div class="row g-0 align-self-center m-auto align-items-center">
-              <div class="col-md-3 m-auto">
-                <div class="card-body bg-accent-gradient my-1 rounded-3">
-                  <p class="card-title h4 text-white border-bottom">
-                    OUR 3-FOLD MISSION STATEMENT
-                  </p>
-                  <ul class="list-group list-group-flush">
-                    <li class="list-group-item bg-none text-white">
-                      Assimilate
-                    </li>
-                    <li class="list-group-item bg-none text-white">
-                      Empowerment
-                    </li>
-                    <li class="list-group-item bg-none text-white">Release</li>
-                  </ul>
-                </div>
-              </div>
+            <!-- SINGLE ITEM END -->
 
-              <div class="col-md-5 m-auto">
-                <div
-                  class="card-body border border-2 border-theme rounded-3 p-4"
+            <!-- SINGLE ITEM -->
+            <div class="accordion-item">
+              <h4 class="accordion-header" id="headingThree">
+                <button
+                  class="accordion-button card-title h3 fs-3 border-bottom bg-accent-gradient text-white"
+                  type="button"
+                  data-bs-toggle="collapse"
+                  data-bs-target="#philosophy"
+                  aria-expanded="true"
+                  aria-controls="philosophy"
                 >
-                  <p class="card-title h3 accent-2 border-bottom">VISION</p>
+                OUR PHILOSOPHY
+                </button>
+              </h4>
+              <div
+                id="philosophy"
+                class="accordion-collapse collapse"
+                aria-labelledby="headingThree"
+                data-bs-parent="#myAcccordions"
+              >
+                <div class="accordion-body">
+                  <div class="card bg-white p-lg-5 py-4">
+                    <div class="row g-0 align-items-center">
+                      <div class="col-md-6 d-flex">
+                        <img
+                          src="../assets/img/cong2.jpg"
+                          class="img-fluid rounded-3 img-fit"
+                          alt="About LLC
+                    "
+                        />
+                      </div>
+                      <div class="col-md-6 gap-3 d-flex align-self-center">
+                        <div class="card-body">
+                                                    <p class="card-text">
+                            Lightlife church is a New Testament church. We believe in
+                            the five-fold ministry; Apostles, Prophets, Evangelists,
+                            Pastors and Teachers. We believe that for a church to be
+                            equipped, matured and come to the fullness of Christ, it
+                            must embrace and manifest all the five-fold ministry gifts.
+                            Ephesians 4:7-16
+                            <span class="d-block mt-2">
+                              We also believe that every believer is called to ministry
+                              to serve through their ministerial gifts. Also, we believe
+                              that every believer is born to be a leader. However, we
+                              lead by serving others. We take pleasure in serving and
+                              not being served. Matthew 20:24-28.
+                            </span>
+                          </p>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <!-- SINGLE ITEM END -->
+
+            <!-- SINGLE ITEM -->
+            <div class="accordion-item">
+              <h4 class="accordion-header" id="headingFour">
+                <button
+                  class="accordion-button card-title h3 fs-3 border-bottom bg-accent-gradient text-white"
+                  type="button"
+                  data-bs-toggle="collapse"
+                  data-bs-target="#commitment"
+                  aria-expanded="true"
+                  aria-controls="commitment"
+                >
+                OUR COMMITMENT
+                </button>
+              </h4>
+              <div
+                id="commitment"
+                class="accordion-collapse collapse"
+                aria-labelledby="headingFour"
+                data-bs-parent="#myAcccordions"
+              >
+                <div class="accordion-body">
                   <ul class="list-group list-group-flush">
-                    <li class="list-group-item">
-                      To Raise Kingdom Leaders in All Sphere of Human Influence.
-                    </li>
-                    <li class="list-group-item">
-                      To Help Saints Mature and Fulfil God’s Purpose.
-                    </li>
-                    <li class="list-group-item">
-                      To make disciple for Christ in Nations.
-                    </li>
+                    <li class="list-group-item">Love</li>
+                    <li class="list-group-item">Excellence</li>
+                    <li class="list-group-item">Worship</li>
+                    <li class="list-group-item">Prayer</li>
+                    <li class="list-group-item">Building Relationships</li>
+                    <li class="list-group-item">Soul Winning</li>
+                    <li class="list-group-item">Humility</li>
+                    <li class="list-group-item">Hospitality</li>
+                    <li class="list-group-item">Training</li>
+                    <li class="list-group-item">Character building</li>
                   </ul>
                 </div>
               </div>
-              <div class="col-md-3 m-auto">
-                <div class="card-body bg-theme-gradient my-1 rounded-3">
-                  <p class="card-title h3 text-white border-bottom">SUMMMARY</p>
-                  <p class="card-text text-white">
-                    To assimilate citizens (believers) into the God’s Kingdom
-                    (church), Empower them and Release them for Service
-                    (ministry)
-                  </p>
+            </div>
+            <!-- SINGLE ITEM END -->
+
+            <!-- SINGLE ITEM -->
+            <div class="accordion-item">
+              <h4 class="accordion-header" id="headingFive">
+                <button
+                  class="accordion-button card-title h3 fs-3 border-bottom bg-accent-gradient text-white"
+                  type="button"
+                  data-bs-toggle="collapse"
+                  data-bs-target="#aims"
+                  aria-expanded="true"
+                  aria-controls="aims"
+                >
+                OUR AIMS
+                </button>
+              </h4>
+              <div
+                id="aims"
+                class="accordion-collapse collapse"
+                aria-labelledby="headingFive"
+                data-bs-parent="#myAcccordions"
+              >
+                <div class="accordion-body">
+                  <ul class="list-group list-group-flush">
+                    <li class="list-group-item">
+                      To be conformed to the image of Christ. To know Him and be
+                      like Him in all things.
+                    </li>
+                    <li class="list-group-item">
+                      To equip every believers in LLC to fulfil their ministry and
+                      vision.
+                    </li>
+                    <li class="list-group-item">
+                      To ensure every believer function in their ministerial calling
+                      whether as apostles, prophets, evangelists, pastors or
+                      teachers for the equipping of other saints.
+                    </li>
+                    <li class="list-group-item">
+                      To reach the lost souls through evangelism and church planting
+                      the gospel of Christ.
+                    </li>
+                    <li class="list-group-item">
+                      To help saints live as a worthy ambassadors of Christ, living
+                      a life of love and worthy of emulation.
+                    </li>
+                    <li class="list-group-item">
+                      To build churches in villages, towns and cities to reach the
+                      nations.
+                    </li>
+                    <li class="list-group-item">
+                      To cater for the poor and less privileges through our
+                      Lightlight Social Responsibility (LLCR) arm.
+                    </li>
+                  </ul>                  
                 </div>
               </div>
             </div>
-          </div> -->
-        </div>
-      </div>
-    </section>
+            <!-- SINGLE ITEM END -->
 
-    <!-- <section class="bg-white p-5">
-      <div class="bg-light col-md-11 m-auto shadow-lg p-5"> 
-      <div class="card my-3 p-md-5">
-        <table class="col-md-4 table table-hover">
-          <thead>
-          <tr>
-            <th scope="col"></th>
-            <th scope="col">MISSION</th>
-            <th scope="col">STRATEGY</th>
-            <th scope="col">SCRIPTURE REF</th>
-          </tr>
-          </thead>
-          <tbody>
-          <tr class="table-secondary">
-            <td>1</td>
-            <th scope="row">Assimilate</th>
-            <td>Evangelism/Worship</td>
-            <td>Matthew 28:19</td>
-          </tr>
-          <tr class="table-light">
-            <td>2</td>
-            <th scope="row">Empowerment</th>
-            <td>Discipleship Training </td>
-            <td>       Eph 4:13-14, Mt 28:20</td>
-          </tr>
-          <tr class="table-secondary">
-            <td>3</td>
-            <th scope="row">Release</th>
-            <td>Ministry/Service </td>
-            <td> 2Tim 2:2,  Eph  4:12</td>
-          </tr>
-          </tbody>
-        </table>
-      </div>
-    </div>
-    </section> -->
-
-    <section class="">
-      <div class="row bg-white py-5">
-        <div class="col-md-10 bg-theme-gradient shadow-lg m-auto p-lg-5 py-4">
-          <div class="card bg-white p-lg-5 py-4">
-            <div class="row g-0 align-items-center">
-              <div class="col-md-6 d-flex">
-                <img
-                  src="../assets/img/cong2.jpg"
-                  class="img-fluid rounded-3 img-fit"
-                  alt="About LLC
-            "
-                />
-              </div>
-              <div class="col-md-6 gap-3 d-flex align-self-center">
-                <div class="card-body">
-                  <p class="card-title h2 accent-2 border-bottom head">
-                    OUR PHILOSOPHY
-                  </p>
-                  <p class="card-text">
-                    Lightlife church is a New Testament church. We believe in
-                    the five-fold ministry; Apostles, Prophets, Evangelists,
-                    Pastors and Teachers. We believe that for a church to be
-                    equipped, matured and come to the fullness of Christ, it
-                    must embrace and manifest all the five-fold ministry gifts.
-                    Ephesians 4:7-16
-                    <span class="d-block mt-2">
-                      We also believe that every believer is called to ministry
-                      to serve through their ministerial gifts. Also, we believe
-                      that every believer is born to be a leader. However, we
-                      lead by serving others. We take pleasure in serving and
-                      not being served. Matthew 20:24-28.
-                    </span>
-                  </p>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
-
-    <section class="">
-      <div class="row bg-white py-5">
-        <div class="col-md-10 bg-accent bg-opacity-50 shadow-lg m-auto p-md-5">
-          <div class="card bg-white p-md-5 my-3">
-            <div class="card-body">
-              <p class="card-title h2 accent border-bottom">OUR COMMITMENT</p>
-              <ul class="list-group list-group-flush">
-                <li class="list-group-item">Love</li>
-                <li class="list-group-item">Excellence</li>
-                <li class="list-group-item">Worship</li>
-                <li class="list-group-item">Prayer</li>
-                <li class="list-group-item">Building Relationships</li>
-                <li class="list-group-item">Soul Winning</li>
-                <li class="list-group-item">Humility</li>
-                <li class="list-group-item">Hospitality</li>
-                <li class="list-group-item">Training</li>
-                <li class="list-group-item">Character building</li>
-              </ul>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
-
-    <section class="">
-      <div class="row bg-white py-5">
-        <div class="col-md-10 bg-light bg-opacity-50 shadow-lg m-auto p-md-5">
-          <div class="card bg-white border-1 border-theme p-md-5 my-3">
-            <div class="card-body">
-              <p class="card-title h2 accent border-bottom">OUR AIMS</p>
-              <ul class="list-group list-group-flush">
-                <li class="list-group-item">
-                  To be conformed to the image of Christ. To know Him and be
-                  like Him in all things.
-                </li>
-                <li class="list-group-item">
-                  To equip every believers in LLC to fulfil their ministry and
-                  vision.
-                </li>
-                <li class="list-group-item">
-                  To ensure every believer function in their ministerial calling
-                  whether as apostles, prophets, evangelists, pastors or
-                  teachers for the equipping of other saints.
-                </li>
-                <li class="list-group-item">
-                  To reach the lost souls through evangelism and church planting
-                  the gospel of Christ.
-                </li>
-                <li class="list-group-item">
-                  To help saints live as a worthy ambassadors of Christ, living
-                  a life of love and worthy of emulation.
-                </li>
-                <li class="list-group-item">
-                  To build churches in villages, towns and cities to reach the
-                  nations.
-                </li>
-                <li class="list-group-item">
-                  To cater for the poor and less privileges through our
-                  Lightlight Social Responsibility (LLCR) arm.
-                </li>
-              </ul>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
-
-    <section class="">
-      <div class="row bg-white py-5">
-        <div class="card bg-theme p-md-5 my-3">
-          <div class="card-body">
-            <p class="card-title h2 text-white border-bottom">EXPLANATION</p>
-            <div class="col-md-8 m-auto bg-light rounded-3 p-3 p-lg-5">
+            <!-- SINGLE ITEM -->
+            <div class="accordion-item">
+              <h4 class="accordion-header" id="headingSix">
+                <button
+                  class="accordion-button card-title h3 fs-3 border-bottom bg-accent-gradient text-white"
+                  type="button"
+                  data-bs-toggle="collapse"
+                  data-bs-target="#explanation"
+                  aria-expanded="true"
+                  aria-controls="explanation"
+                >
+                EXPLANATION
+                </button>
+              </h4>
+              <div
+                id="explanation"
+                class="accordion-collapse collapse"
+                aria-labelledby="headingSix"
+                data-bs-parent="#myAcccordions"
+              >
+                <div class="accordion-body">
+                          
+            <div class="m-auto bg-light rounded-3 p-3">
               <div class="my-3">
-                <p class="card-header theme">
+                <p class="card-header bg-dark bg-opacity-50 text-white p-2 rounded-2">
                   <span class="fw-bold"> 1.0 </span> ASSIMILATING CITIZENS
                 </p>
                 <p class="card-text">
@@ -372,7 +338,7 @@
               </div>
 
               <div class="my-3">
-                <p class="card-header theme">
+                <p class="card-header bg-dark bg-opacity-50 text-white p-2 rounded-2">
                   <span class="fw-bold"> 1.1 </span> STRATEGIES
                 </p>
                 <p class="card-text">
@@ -387,7 +353,7 @@
               </div>
 
               <div class="my-3">
-                <p class="card-header theme">
+                <p class="card-header bg-dark bg-opacity-50 text-white p-2 rounded-2">
                   <span class="fw-bold"> 1.2 </span> PLATFORMS
                 </p>
                 <ol class="list-group">
@@ -400,7 +366,7 @@
               </div>
 
               <div class="my-3">
-                <p class="card-header theme">
+                <p class="card-header bg-dark bg-opacity-50 text-white p-2 rounded-2">
                   <span class="fw-bold"> 1.3 </span> FOLLOW UP
                 </p>
                 <p class="card-text">
@@ -425,17 +391,33 @@
                 the pastor.
               </p>
             </div>
-          </div>
-        </div>
-      </div>
-    </section>
+                </div>
+              </div>
+            </div>
+            <!-- SINGLE ITEM END -->
 
-    <section class="bg-white pb-lg-5">
-      <div class="col-md-10 m-3 p-md-5 bg-light m-auto">
-        <div class="card p-md-5 my-3 shadow-lg">
-          <div class="card-header">
-            <p class="card-title fw-bold theme h2">CITIZENS COMMITMENT</p>
-          </div>
+            <!-- SINGLE ITEM -->
+            <div class="accordion-item">
+              <h4 class="accordion-header" id="headingSeven">
+                <button
+                  class="accordion-button card-title h3 fs-3 border-bottom bg-accent-gradient text-white"
+                  type="button"
+                  data-bs-toggle="collapse"
+                  data-bs-target="#citizensCommitment"
+                  aria-expanded="true"
+                  aria-controls="citizensCommitment"
+                >
+                CITIZENS COMMITMENT
+                </button>
+              </h4>
+              <div
+                id="citizensCommitment"
+                class="accordion-collapse collapse"
+                aria-labelledby="headingSeven"
+                data-bs-parent="#myAcccordions"
+              >
+                <div class="accordion-body">
+                    
           <div class="card-body">
             <p class="card-title">
               In LLC, the Citizens are regarded as our official members. A
@@ -471,73 +453,105 @@
               </li>
               <li class="list-group-item">
                 <span class="fw-bold">Training: </span> Citizens must have gone
-                through Citizens School (CS}
+                through Citizens School (CS)
               </li>
             </ol>
           </div>
-        </div>
-      </div>
-    </section>
+                </div>
+              </div>
+            </div>
+            <!-- SINGLE ITEM END -->
 
-    <section>
-      <div class="bg-theme p-lg-5 p-3">
-        <div class="card border-0 shadow-lg mx-lg-5 px-3 p-lg-5">
+            <!-- SINGLE ITEM -->
+            <div class="accordion-item">
+              <h4 class="accordion-header" id="headingEight">
+                <button
+                  class="accordion-button card-title h3 fs-3 border-bottom bg-accent-gradient text-white"
+                  type="button"
+                  data-bs-toggle="collapse"
+                  data-bs-target="#llcr"
+                  aria-expanded="true"
+                  aria-controls="llcr"
+                >
+                LIGHTLIFE COMMUNITY RESPONSIBILITY (LLCR)
+                </button>
+              </h4>
+              <div
+                id="llcr"
+                class="accordion-collapse collapse"
+                aria-labelledby="headingEight"
+                data-bs-parent="#myAcccordions"
+              >
+                <div class="accordion-body">
+                  <p class="card-text">
+                    As part of our mandate, we are called to shine as light in the
+                    “world”. This connotes impact beyond the four walls of the church
+                    into the community. Therefore, in accordance with the words of
+                    Jesus in Matthew 25:31-40 we have the responsibility to take care
+                    of the needy in society. In the light of this, we have various
+                    arms to cater for this vision.
+                  </p>
+                  <ul class="list-group">
+                    <li class="list-group-item bg-none">
+                      <span class="fw-bold theme"> LightLife Kitchen:</span>he vision
+                      is to feed the hungry one or two times a day in places where
+                      hunger is most severe. Giving of foodstuff during major festive
+                      seasons to widows, poor and physically challenged.
+                    </li>
+                    <li class="list-group-item bg-none">
+                      <span class="fw-bold theme"> LightLife Edu:</span> the vision is
+                      to provide scholarship to brilliant but unprivileged students,
+                      ranging from primary to university education. Also stationary
+                      will be provided to students through this platform. This will
+                      also include schools, such as vocational schools for people to
+                      learn handiwork.
+                    </li>
+                    <li class="list-group-item bg-none">
+                      <span class="fw-bold theme"> LightLife Store:</span>his vison is
+                      to provide clothing and other similar materials to those in
+                      need.
+                    </li>
+                    <li class="list-group-item bg-none">
+                      <span class="fw-bold theme"> LightLife Homes:</span>he vision of
+                      this arm is to provide home for the homeless. This will include
+                      motherless homes and so on.
+                    </li>
+                    <li class="list-group-item bg-none">
+                      <span class="fw-bold theme"> Lightlife Care:</span> This arm of
+                      our ministry deals more with visiting and catering for the
+                      prisoners and hospitals.
+                    </li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+            <!-- SINGLE ITEM END -->
+
+            <!-- SINGLE ITEM -->
+            <div class="accordion-item">
+              <h4 class="accordion-header" id="headingNine">
+                <button
+                  class="accordion-button card-title h3 fs-3 border-bottom bg-accent-gradient text-white"
+                  type="button"
+                  data-bs-toggle="collapse"
+                  data-bs-target="#growthPlan"
+                  aria-expanded="true"
+                  aria-controls="growthPlan"
+                >
+                GROWTH PLAN
+                </button>
+              </h4>
+              <div
+                id="growthPlan"
+                class="accordion-collapse collapse"
+                aria-labelledby="headingNine"
+                data-bs-parent="#myAcccordions"
+              >
+                <div class="accordion-body">
+                  
           <div class="card-body">
-            <p class="h5 card-title fs-1 accent head">
-              LIGHTLIFE COMMUNITY RESPONSIBILITY (LLCR)
-            </p>
+            <p class="h5 card-title fs-1 accent"></p>
             <p class="card-text">
-              As part of our mandate, we are called to shine as light in the
-              “world”. This connotes impact beyond the four walls of the church
-              into the community. Therefore, in accordance with the words of
-              Jesus in Matthew 25:31-40 we have the responsibility to take care
-              of the needy in society. In the light of this, we have various
-              arms to cater for this vision.
-            </p>
-            <ul class="list-group">
-              <li class="list-group-item bg-none">
-                <span class="fw-bold theme"> LightLife Kitchen:</span>he vision
-                is to feed the hungry one or two times a day in places where
-                hunger is most severe. Giving of foodstuff during major festive
-                seasons to widows, poor and physically challenged.
-              </li>
-              <li class="list-group-item bg-none">
-                <span class="fw-bold theme"> LightLife Edu:</span> the vision is
-                to provide scholarship to brilliant but unprivileged students,
-                ranging from primary to university education. Also stationary
-                will be provided to students through this platform. This will
-                also include schools, such as vocational schools for people to
-                learn handiwork.
-              </li>
-              <li class="list-group-item bg-none">
-                <span class="fw-bold theme"> LightLife Store:</span>his vison is
-                to provide clothing and other similar materials to those in
-                need.
-              </li>
-              <li class="list-group-item bg-none">
-                <span class="fw-bold theme"> LightLife Homes:</span>he vision of
-                this arm is to provide home for the homeless. This will include
-                motherless homes and so on.
-              </li>
-              <li class="list-group-item bg-none">
-                <span class="fw-bold theme"> Lightlife Care:</span> This arm of
-                our ministry deals more with visiting and catering for the
-                prisoners and hospitals.
-              </li>
-            </ul>
-          </div>
-        </div>
-      </div>
-    </section>
-
-    <section>
-      <div class="bg-white p-lg-5 p-3">
-        <div
-          class="card bg-theme border-0 shadow-lg mx-lg-5 px-lg-3 px-2 p-lg-5"
-        >
-          <div class="card-body">
-            <p class="h5 card-title fs-1 accent">GROWTH PLAN</p>
-            <p class="card-text text-white">
               Our core focus is not just have members but to raise disciples who
               are also leaders (Matthew 28:19). Therefore, we focus on
               empowering you to become kingdom leaders who will in-turn raise
@@ -554,8 +568,8 @@
               </span>
             </p>
             <ul class="list-group border-2 border-theme">
-              <li class="list-group-item bg-none text-white">
-                <span class="card-header bg-light bg-opacity-25 d-block"
+              <li class="list-group-item bg-none">
+                <span class="card-header bg-dark p-2 rounded-1 bg-opacity-25 d-block"
                   >Level 1: Community</span
                 >
                 <span class="d-block">
@@ -569,8 +583,8 @@
                 platforms, outreaches and evangelism .
               </li>
 
-              <li class="list-group-item bg-none text-white">
-                <span class="card-header bg-light bg-opacity-25 d-block"
+              <li class="list-group-item bg-none">
+                <span class="card-header bg-dark p-2 rounded-1 bg-opacity-25 d-block"
                   >Level 2: The Multitude</span
                 >
                 Just as the multitude comes to listen to Jesus once in a while.
@@ -578,8 +592,8 @@
                 regularly but they are not committed citizens of our church.
               </li>
 
-              <li class="list-group-item bg-none text-white">
-                <span class="card-header bg-light bg-opacity-25 d-block"
+              <li class="list-group-item bg-none">
+                <span class="card-header bg-dark p-2 rounded-1 bg-opacity-25 d-block"
                   >Level 3: The Citizens</span
                 >
                 <span class="d-block">
@@ -620,6 +634,24 @@
               </li>
             </ul>
           </div>
+                </div>
+              </div>
+            </div>
+            <!-- SINGLE ITEM END -->
+          </div>
+          </div>
+
+
+        </div>
+      </div>
+    </section>
+
+
+    <section>
+      <div class="bg-white p-lg-5 p-3">
+        <div
+          class="card bg-theme border-0 shadow-lg mx-lg-5 px-lg-3 px-2 p-lg-5"
+        >
         </div>
       </div>
     </section>
@@ -633,7 +665,7 @@
           <div class="card border-0 shadow-lg">
             <div class="row g-0">
               <div class="col-md-6 d-flex justify-content-center">
-              <video src="../assets/montage/PJmontage.mp4" controls></video>
+                <video src="../assets/montage/PJmontage.mp4" controls></video>
                 <!-- <img
                   src="../assets/img/PJ-a.png"
                   class="img-fluid pt-2 border-bottom-sm pj rotate"
@@ -662,15 +694,15 @@
       </div>
     </section>
 
-    <Ministers />
+    <!-- <Ministers /> -->
   </article>
 </template>
 
 <script>
-import Ministers from "@/components/Ministers.vue";
+// import Ministers from "@/components/Ministers.vue";
 export default {
   name: "About-vue",
-  components: { Ministers },
+  // components: { Ministers },
 };
 </script>
 

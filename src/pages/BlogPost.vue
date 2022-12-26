@@ -67,64 +67,15 @@
             <p class="fst-italic">
               Confession, Action, Keypoints text here
             </p>
+          
+    <router-link to="/post" class="my-3 d-block btn-accent"
+    > Download Devotional for the Month
+    </router-link>
           </div>
     <!-- </div> -->
     </div>
     </article>
 
-    <article class="row bg-light py-5">
-      <div class="col-md-10 m-auto">
-        <div class="container">
-          <div class="row">
-            <section class="col-md-4 m-auto p-5">
-              <div class="card border-0 shadow-lg">
-                <img
-                  src="../assets/img/story.jpeg"
-                  class="card-img-top img-fluid"
-                  alt="..."
-                />
-                <div class="card-body">
-                  <h5 class="card-title">ThanksGiving Sunday</h5>
-                  <small class="card-text text-muted"
-                    >Sunday 7th August, 2022 is our thanksgiving Sunday. Join us 
-                  </small>
-                </div>
-              </div>
-            </section>
-            <section class="col-md-4 m-auto p-5">
-              <div class="card border-0 shadow-lg">
-                <img
-                  src="../assets/img/llc.png"
-                  class="card-img-top bg-theme img-fluid"
-                  alt="..."
-                />
-                <div class="card-body">
-                  <h5 class="card-title">Weekend of Encounter</h5>
-                  <small class="card-text text-muted"
-                    >Night of Encounter now Weekend of Encounters
-                  </small>
-                </div>
-              </div>
-            </section>
-            <section class="col-md-4 m-auto p-5">
-              <div class="card border-0 shadow-lg">
-                <img
-                  src="../assets/img/llc.png"
-                  class="card-img-top bg-theme img-fluid"
-                  alt="..."
-                />
-                <div class="card-body">
-                  <h5 class="card-title">Title</h5>
-                  <small class="card-text text-muted"
-                    >Description description description description
-                  </small>
-                </div>
-              </div>
-            </section>
-          </div>
-        </div>
-      </div>
-    </article>
   </main>
 </template>
 
