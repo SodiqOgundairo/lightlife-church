@@ -132,15 +132,15 @@
     <div class="row text-light text-center m-auto  py-2 m-auto opacity-50">
       <!-- <div class="col-md-10 "> -->
         <div class="col-md-4 text-center m-auto">
-          <small>@LightLife Ministries 2022. All rights reserved </small>
+          <small>@LightLife Ministries {{thisYear}}. All rights reserved </small>
         </div>
         <div class="col-md-4 text-center m-auto">
           <small
             >Designed with ❤ by
             <span>
               <a href="https://twitter.com/gr8QM__" class="text-decoration-none"
-                >gr8QM</a
-              ></span
+                >gr8QM  </a
+              >  </span
             >
           </small>
       </div>
@@ -150,8 +150,23 @@
 </template>
 
 <script>
+// import { reactive } from '@vue/reactivity'
+import { computed } from '@vue/runtime-core'
 export default {
   name: "Footer-vue",
+
+  setup() {
+    let date = new Date()
+    
+    const thisYear = computed(() => {
+      return `${date.getFullYear()}`
+      // return `${date.getFullYear()} ${date.getMonth()} ${date.getDate()}`
+    })
+ 
+    return {
+      thisYear,
+    }
+  }
 }
 
 </script>
