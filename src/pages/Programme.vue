@@ -15,9 +15,8 @@
             <div class="col-md-6 gap-3 d-flex align-self-center">
               <div class="card-body">
                 <p class="card-text">
-                  Follow up on all LLC programmes so you don't miss out on any right from here. More text can still come into this place to tell
-                  stories about what the page is about.
-                  <span class="d-block">Thank you!</span>
+                  Follow this page to get more acquianted with our <strong>major programmes</strong> at LLC. All our programmes are Spirit-filled and they will definitly bless you.
+                  <!-- <span class="d-block">Thank you!</span> -->
                 </p>
               </div>
             </div>

@@ -19,7 +19,7 @@
                 <div>
                   <p class="h5 card-title">DAILY LIGHT DEVOTIONAL</p>
                   <p class="card-text">
-                    Start your day with the right words as inspired by the Holy Spirit. And be sure to be blessed by these messages
+                    How you start your day determines the outcome. Start your day with the right words as inspired by the Holy Spirit. You will definitely be blessed by this powerful devotionals.
                   </p>
                   
                 </div>

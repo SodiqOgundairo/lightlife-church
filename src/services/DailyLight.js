@@ -4,7 +4,7 @@ export class DailyLight {
         [
             {
                 "id": "0",
-                "uniqueDate": "27/12/2022",
+                "uniqueDate": "12/31/2022",
                 "DisplayDate": "27th December, 2022",
                 "title": "DAILY LIGHT DEVOTIONAL TUESDAY CONFIRM",
                 "memoryVerse": "Herein is love, not that we loved God, but ahtat He loved us, and sent His Son to be  the propitation for our sins.",
@@ -46,7 +46,7 @@ export class DailyLight {
             {
                 "id": "2",
 
-                "uniqueDate": "2/1/2023",
+                "uniqueDate": "1/2/2023",
 
                 "title": "MAKE ROOM FOR MORE",
 
@@ -71,7 +71,7 @@ export class DailyLight {
             {
                 "id": "3",
 
-                "uniqueDate": "3/1/2023",
+                "uniqueDate": "1/3/2023",
 
                 "title": "GOD HAS A PURPOSE FOR YOU 1",
 
@@ -98,7 +98,7 @@ export class DailyLight {
             {
                 "id": "4",
 
-                "uniqueDate": "4/1/2023",
+                "uniqueDate": "1/4/2023",
 
                 "title": "GOD HAS A PURPOSE FOR YOU 2",
 
@@ -123,7 +123,7 @@ export class DailyLight {
             {
                 "id": "5",
 
-                "uniqueDate": "5/1/2023",
+                "uniqueDate": "1/5/2023",
 
                 "title": "OVERWHELMED?",
 
@@ -148,7 +148,7 @@ export class DailyLight {
             {
                 "id": "6",
 
-                "uniqueDate": "6/1/2023",
+                "uniqueDate": "1/6/2023",
 
                 "title": "FREEDOM FROM SELF-CONDEMNATION",
 
@@ -173,7 +173,7 @@ export class DailyLight {
             {
                 "id": "7",
 
-                "uniqueDate": "7/1/2023",
+                "uniqueDate": "1/7/2023",
 
                 "title": "THE MYSTERY OF MERCY",
 
@@ -198,7 +198,7 @@ export class DailyLight {
             {
                 "id": "8",
 
-                "uniqueDate": "8/1/2023",
+                "uniqueDate": "1/8/2023",
 
                 "title": "THE POWER OF INSTRUCTIONS ",
 
@@ -223,7 +223,7 @@ export class DailyLight {
             {
                 "id": "9",
 
-                "uniqueDate": "9/1/2023",
+                "uniqueDate": "1/9/2023",
 
                 "title": "THE WHOS AND WHYS OF MENTORSHIP ",
 

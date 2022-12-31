@@ -79,9 +79,9 @@
           <p class="fw-bold" v-if="dld.footerTitleTwo"> {{dld.footerTitleTwo}} </p>
           <p class="fst-italic" v-if="dld.footerTextTwo"> {{dld.footerTextTwo}} </p>
 
-          <router-link to="/post" class="my-3 d-block btn-accent">
+          <a href="./../assets/files/DAILY_LIGHT_DEVOTIONALS.pdf" download class="my-3 d-block btn-accent text-decoration-none">
             Download Devotional for the Month
-          </router-link>
+          </a>
         </div>
         <!-- </div> -->
       </div>
@@ -105,10 +105,12 @@ export default {
     let blogDate = date.toDateString()
 
      let todaysDate = date.toLocaleDateString()
+     console.log(todaysDate)
 
     const devotionals =() => {
       return DailyLight.getAllDevotionals()
     };
+
     dld = devotionals().find(test => test.uniqueDate == todaysDate )
 
 

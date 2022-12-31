@@ -74,26 +74,28 @@
                       class="nav-link text-white fw-light"
                       >L.O.V.E Ladies
                     </router-link>
-                    <router-link
+                    <!-- <router-link
                       to="/"
                       class="nav-link text-white fw-light"
                       >God's Guys
-                    </router-link>
-                    <router-link
+                    </router-link> -->
+                    <!-- <router-link
                       to="/"
                       class="nav-link text-white fw-light"
                       >Light Life Messages
-                    </router-link>
-                    <router-link
+                    </router-link> -->
+                    <a class="nav-link text-white fw-light text-decoration-none" href="https://chat.whatsapp.com/LkUA7FE81sM8Tst9mPurRT" target="_blank" rel="noopener noreferrer">God's Guys</a>
+                    <a class="nav-link text-white fw-light text-decoration-none" href="https://t.me/lightlifechurch" target="_blank" rel="noopener noreferrer">LightLife Messages</a>
+                    <!-- <router-link
                       to="/"
                       class="nav-link text-white fw-light"
                       >Mixlr
-                    </router-link>
-                    <router-link
+                    </router-link> -->
+                    <!-- <router-link
                       to="/"
                       class="nav-link text-white fw-light"
                       >Facebook Live
-                    </router-link>
+                    </router-link> -->
                   </li>
                 </div>
               </div>
@@ -101,24 +103,27 @@
               <div class="col-md-2 my-4 m-auto">
               <div class="mb-4">
               <p class="h5">CONTACT US </p>
-              <a href="tel:" class="text-white text-decoration-none d-block"><i class="fa-solid fa-phone me-2"></i>+234 8000000000</a>
-              <a href="mail:" class="text-white text-decoration-none d-block"><i class="fa-solid fa-envelope text-white me-2"></i>info@llc.com</a>
+              <a href="tel: +2348165271030" class="text-white text-decoration-none d-block"><small> <i class="fa-solid fa-phone me-2"></i> +234(0)-816-527-1030</small> </a>
+              <a href="mail:info@lightlifechurch.com" class="text-white text-decoration-none d-block"><small> <i class="fa-solid fa-envelope text-white me-2"></i>info@lightlifechurch.com</small></a>
               </div>
                 <div class="my-2">
                   <p class="h5">FOLLOW US</p>
-                  <a href="">
+                  <!-- <a href="">
                     <i class="fa-brands fa-twitter text-white-50 mx-2"></i
-                  ></a>
-                  <a href="">
+                  ></a> -->
+                  <a href="https://web.facebook.com/LightLifeChurchNG/?_rdc=1&_rdr" target="_blank" rel="noopener" >
                     <i class="fa-brands fa-facebook text-white-50 mx-2"></i>
                   </a>
-                  <a href=""
+
+                  <a href="https://www.youtube.com/@lightlifechurch" target="_blank" rel="noopener" 
                     ><i class="fa-brands fa-youtube text-white-50 mx-2"></i
                   ></a>
-                  <a href=""
+
+                  <a href="https://www.instagram.com/lightlifechurch/" target="_blank" rel="noopener" 
                     ><i class="fa-brands fa-instagram text-white-50 mx-2"></i
                   ></a>
-                  <a href=""
+
+                  <a href="https://t.me/lightlifechurch" target="_blank" rel="noopener" 
                     ><i class="fa-brands fa-telegram text-white-50 mx-2"></i
                   ></a>
                   
@@ -138,7 +143,7 @@
           <small
             >Designed with ❤ by
             <span>
-              <a href="https://twitter.com/gr8QM__" class="text-decoration-none"
+              <a href="https://twitter.com/gr8QM__" class="text-decoration-none" target="_blank" rel="noopener"
                 >gr8QM  </a
               >  </span
             >

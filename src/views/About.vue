@@ -677,14 +677,37 @@
                   <p class="h5 card-title fs-3 accent">Pastor Juwon Owolabi</p>
                   <p class="card-text p-2">
                     <!-- <span class="accent fw-bold"> Pastor Juwon Owolabi </span>  -->
-                    Lorem ipsum dolor sit amet consectetur, adipisicing elit.
-                    Mollitia nihil, ab nisi, quibusdam eligendi iusto ut
-                    impedit, aliquid at voluptatum reiciendis nam praesentium!
-                    Ducimus nostrum, iure magnam dignissimos tempore error?
-                    Lorem ipsum dolor sit amet consectetur, adipisicing elit.
-                    Mollitia nihil, ab nisi, quibusdam eligendi iusto ut
-                    impedit, aliquid at voluptatum reiciendis nam praesentium!
-                    Ducimus nostrum, iure magnam dignissimos tempore error?
+                    
+                    <span class="d-block my-2">
+
+                      Juwon Owolabi is an emerging voice in this generation, a transformational Speaker and Student of the word, Leadership Coach, and Serving Pastor of Lightlife Church, a fast-growing church in Nigeria.
+                    </span> 
+
+                    <span class="d-block my-2">
+
+                      He is the CEO of Juwon Owolabi Consults and JULA Global. His mission is to help individuals and organizations discover, develop, and deploy their individual and leadership power for optimum effectiveness, significance, and success in life.
+                    </span>
+                    
+                    <span class="d-block my-2">
+
+                      Leveraging on this, he emphasizes the need for Spiritual Rebirth, Mind Transformation, and Cultural Revolution for personal success and national development.
+                    </span>
+                    
+                    <span class="d-block my-2">
+
+                      His teachings of the scripture aim to help Christians understand the full benefits of God’s grace in the New Covenant, living a truly free and victorious life.
+                    </span>
+                    
+                    <span class="d-block my-2">
+
+                      He his the author of several best selling books and the popular DailyLight, a Daily devotional that helps believers walk intimately with the Father.
+                    </span>
+                    
+                    <span class="d-block my-2">
+
+                      
+                      He is happily married to Lade with whom they run their ministries and businesses together. They are blessed with two beautiful daughters, Zoe and Zion.
+                    </span>
                   </p>
                 </div>
               </div>
