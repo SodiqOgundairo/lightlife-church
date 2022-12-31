@@ -79,9 +79,10 @@
           <p class="fw-bold" v-if="dld.footerTitleTwo"> {{dld.footerTitleTwo}} </p>
           <p class="fst-italic" v-if="dld.footerTextTwo"> {{dld.footerTextTwo}} </p>
 
-          <a href="./../assets/files/DAILY_LIGHT_DEVOTIONALS.pdf" download class="my-3 d-block btn-accent text-decoration-none">
+          <!-- <a href="../assets/files/DAILY_LIGHT_DEVOTIONALS.pdf" download class="my-3 d-block btn-accent text-decoration-none">
             Download Devotional for the Month
-          </a>
+          </a> -->
+
         </div>
         <!-- </div> -->
       </div>

@@ -646,16 +646,6 @@
       </div>
     </section>
 
-
-    <section>
-      <div class="bg-white p-lg-5 p-3">
-        <div
-          class="card bg-theme border-0 shadow-lg mx-lg-5 px-lg-3 px-2 p-lg-5"
-        >
-        </div>
-      </div>
-    </section>
-
     <section>
       <div class="row bg-accent p-2">
         <div class="p-5 m-auto">

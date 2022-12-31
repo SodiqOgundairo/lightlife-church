@@ -15,8 +15,7 @@
                 <div class="col-md-6 gap-3 d-flex align-self-center">
                   <div class="card-body">
                     <p class="card-text">
-                     Download all of PJ's Teachings books and Audio Sermons right from here. More text can still come into this place to tell stories about what the  page is about. 
-                     <span class="d-block">Thank you!</span>
+                     Download all of PJ's Teachings books and Audio Sermons right from here. Be sure you will be blessed. 
                     </p>
                   </div>
                 </div>
@@ -24,8 +23,7 @@
                   <img
                     src="../assets/img/teachings.jpg"
                     class="img-fluid"
-                    alt="PJ's teachings
-              "
+                    alt="PJ's teachings"
                   />
                 </div>
               </div>
@@ -44,7 +42,8 @@
               class="card border-0 border-theme bg-accent-gradient m-auto p-lg-5 py-4 px-3 my-4 shadow-lg"
             >
               <p class="card-title h3 theme border-bottom">BOOKS WRITTEN BY PJ</p>
-        <p class=""> To purchase any of PJ's books please contact</p>
+              
+              <p class=""> To purchase any of PJ's books please contact: <a href="tel: +2348165271030" class=" text-white text-decoration-none fst-italic"><small> +234(0)-816-527-1030</small> </a> </p>
               
     <article class="row ">
         <div class=" m-auto">
