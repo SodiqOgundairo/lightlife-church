@@ -17,8 +17,8 @@
       >
         <header class="card-header">
           <div class="card-header">
-            <p class="h3 fw-bold theme">
-              <!--  {{ dld.title }}
+          <!--  <p class="h3 fw-bold theme">
+                {{ dld.title }}
               <small class="fs-6 fst-italic d-block fw-light">
                 
                  {{blogDate}}
