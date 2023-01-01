@@ -105,14 +105,14 @@ export default {
 
     let blogDate = date.toDateString()
 
-     let todaysDate = date.toLocaleDateString()
+     let todaysDate = date.toLocaleDateString().toString()
      console.log(todaysDate)
 
     const devotionals =() => {
       return DailyLight.getAllDevotionals()
     };
 
-    dld = devotionals().find(test => test.uniqueDate === test.id )
+    dld = devotionals().find(test => test.uniqueDate = todaysDate )
 
 
 
