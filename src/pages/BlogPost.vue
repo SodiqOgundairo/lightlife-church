@@ -11,14 +11,14 @@
     </section>
 
     <article class="dld">
-      <div class="bg-dark bg-opacity-25 p-md-4 p-2"> 
+      <!-- <div class="bg-dark bg-opacity-25 p-md-4 p-2"> -->
       <div
         class="blog-post card m-3 m-md-5 bg-light bg-opacity-50 shadow-lg glass"
       >
         <header class="card-header">
           <div class="card-header">
-           <p class="h3 fw-bold theme">
-                {{ dld.title }}
+            <p class="h3 fw-bold theme">
+               {{ dld.title }}
               <small class="fs-6 fst-italic d-block fw-light">
                 
                  {{blogDate}}
@@ -49,7 +49,7 @@
                     </p>
                     <p class="card-text accent-2">
                     {{dld.studyBible}}
-                    
+                    <!-- <span class="fst-italic text-dark">1 John 4:10 </span> -->
                     </p>
                   </div>
                 </div>
@@ -70,7 +70,7 @@
             </p>
             <p class="" v-if="dld.texts.textFive">
               {{dld.texts.textFive}}
-            </p> 
+            </p>
           </div>
         </section>
         <div class="card-footer text-muted">
@@ -78,14 +78,14 @@
           <p class="fst-italic"> {{dld.footerText}} </p>
           <p class="fw-bold" v-if="dld.footerTitleTwo"> {{dld.footerTitleTwo}} </p>
           <p class="fst-italic" v-if="dld.footerTextTwo"> {{dld.footerTextTwo}} </p>
- <!--
-         <a href="../assets/files/DAILY_LIGHT_DEVOTIONALS.pdf" download class="my-3 d-block btn-accent text-decoration-none">
+
+          <!-- <a href="../assets/files/DAILY_LIGHT_DEVOTIONALS.pdf" download class="my-3 d-block btn-accent text-decoration-none">
             Download Devotional for the Month
-          </a> 
--->
+          </a> -->
+
         </div>
-        </div> 
-      </div> 
+        <!-- </div> -->
+      </div>
     </article>
   </main>
 </template>
@@ -105,14 +105,16 @@ export default {
 
     let blogDate = date.toDateString()
 
-     let todaysDate = date.toLocaleDateString().toString()
+     let todaysDate = date.toLocaleDateString()
      console.log(todaysDate)
 
     const devotionals =() => {
       return DailyLight.getAllDevotionals()
     };
 
-    dld = devotionals().find(test => test.uniqueDate == todaysDate )
+    dld = devotionals().find((test) => (
+       test.uniqueDate == todaysDate || test.uniqueDateOne === todaysDate
+       ))
 
 
 
