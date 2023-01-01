@@ -19,10 +19,14 @@ export class DailyLight {
                 "footerText": 'prayer',
             },
             {
-                "id": "1",
+                "id": 1,
                 
                 "uniqueDate": "1/1/2023",
+<<<<<<< HEAD
                 "uniqueDateOne": "1-1-2023",
+=======
+                  "uniqueDateOne": "1-1-2023",
+>>>>>>> efd3bd9d6b49301ed2909d3488e9ab0b02d74f0f
 
                 "title": "BE GRATEFUL",
 
@@ -45,7 +49,7 @@ export class DailyLight {
                 "footerText": "Father, I thank you for the life you have given me. I bless you for your blessings, love, grace, forgiveness, and your power at work in me. Thank you for your protection and providence over me, family, and the church. I am forever grateful. ",
             },
             {
-                "id": "2",
+                "id": 2,
 
                 "uniqueDate": "1/2/2023",
 
@@ -70,7 +74,7 @@ export class DailyLight {
                 "footerText": "I upgrade my mind, I make room for more. I will no longer limit God in my mind. I receive with grace all that God is giving me. ",
             },
             {
-                "id": "3",
+                "id": 3,
 
                 "uniqueDate": "1/3/2023",
 
@@ -97,7 +101,7 @@ export class DailyLight {
                 "footerText": "I walk in my purpose. I live fully and deploy all that God has placed in me. I live a meaningful and impactful life. ",
             },
             {
-                "id": "4",
+                "id": 4,
 
                 "uniqueDate": "1/4/2023",
 
