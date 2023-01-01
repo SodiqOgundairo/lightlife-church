@@ -107,7 +107,6 @@ export default {
 
      let todaysDate = date.toLocaleDateString().toString()
      console.log(todaysDate)
-     console.log(dldDate)
 
     const devotionals =() => {
       return DailyLight.getAllDevotionals()
