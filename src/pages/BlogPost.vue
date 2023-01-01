@@ -3,7 +3,7 @@
     <section>
       <div class="text-center bgg">
         <div class="bg-dark bg-opacity-50 py-5">
-          <p class="h1 page-title text-white fs-extra">
+          <p class="h1 page-title text-white fs-bold fs-lg-extra">
             DAILY LIGHT DEVOTIONAL
           </p>
         </div>
@@ -112,7 +112,9 @@ export default {
       return DailyLight.getAllDevotionals()
     };
 
-    dld = devotionals().find(test => test.uniqueDate == todaysDate )
+    dld = devotionals().find((test) => (
+       test.uniqueDate == todaysDate || test.uniqueDateOne === todaysDate
+       ))
 
 
 
