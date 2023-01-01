@@ -106,7 +106,9 @@ export default {
     let blogDate = date.toDateString()
 
      let todaysDate = date.toLocaleDateString().toString()
+     let dldDate = new Date(`${dld.uniqueDate}`)
      console.log(todaysDate)
+     console.log(dldDate)
 
     const devotionals =() => {
       return DailyLight.getAllDevotionals()
