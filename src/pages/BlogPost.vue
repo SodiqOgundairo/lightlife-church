@@ -11,13 +11,13 @@
     </section>
 
     <article class="dld">
-      <!-- <div class="bg-dark bg-opacity-25 p-md-4 p-2"> -->
+      <!-- <div class="bg-dark bg-opacity-25 p-md-4 p-2"> 
       <div
         class="blog-post card m-3 m-md-5 bg-light bg-opacity-50 shadow-lg glass"
       >
         <header class="card-header">
           <div class="card-header">
-          <!--  <p class="h3 fw-bold theme">
+           <p class="h3 fw-bold theme">
                 {{ dld.title }}
               <small class="fs-6 fst-italic d-block fw-light">
                 
@@ -81,11 +81,11 @@
 
          <a href="../assets/files/DAILY_LIGHT_DEVOTIONALS.pdf" download class="my-3 d-block btn-accent text-decoration-none">
             Download Devotional for the Month
-          </a> -->
+          </a> 
 
         </div>
-        <!-- </div> -->
-      </div>
+        </div> 
+      </div> -->
     </article>
   </main>
 </template>
