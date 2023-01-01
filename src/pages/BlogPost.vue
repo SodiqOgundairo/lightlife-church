@@ -93,12 +93,14 @@
 <script>
 import { reactive } from "@vue/reactivity";
 import { DailyLight } from "./../services/DailyLight.js";
+import moment from 'moment'
 
 export default {
   name: "BlogPost-vue",
 
   setup() {
     let dld = reactive({});
+    let momentDate = reactive({})
 
 
     let date = new Date();
@@ -112,9 +114,15 @@ export default {
       return DailyLight.getAllDevotionals()
     };
 
+    momentDate = moment().format("MMM Do YY");
+
     dld = devotionals().find((test) => (
-       test.uniqueDate == todaysDate || test.uniqueDateOne === todaysDate
+       test.uniqueDate == momentDate
+      //  test.uniqueDate == '1/1/2023'
+      //  test.uniqueDate == todaysDate 
+      //  || test.uniqueDateOne === todaysDate
        ))
+
 
 
 
@@ -125,6 +133,7 @@ export default {
       todaysDate,
       devotionals,
       blogDate,
+      momentDate,
     };
   },
 };

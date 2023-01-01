@@ -21,10 +21,11 @@ export class DailyLight {
             {
                 "id": 1,
                 
-                "uniqueDate": "1/1/2023",
+                "uniqueDate": "Jan 1st 23",
+                // "uniqueDate": "1/1/2023",
                   "uniqueDateOne": "1-1-2023",
 
-                "title": "BE GRATEFUL",
+                "title": "BE GRATEFUL.",
 
                 "memoryVerse": "In everything give thanks; for this is the will of God in Christ Jesus for you.",
 
