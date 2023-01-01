@@ -22,11 +22,7 @@ export class DailyLight {
                 "id": 1,
                 
                 "uniqueDate": "1/1/2023",
-<<<<<<< HEAD
-                "uniqueDateOne": "1-1-2023",
-=======
                   "uniqueDateOne": "1-1-2023",
->>>>>>> efd3bd9d6b49301ed2909d3488e9ab0b02d74f0f
 
                 "title": "BE GRATEFUL",
 
