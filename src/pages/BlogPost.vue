@@ -49,7 +49,7 @@
                     </p>
                     <p class="card-text accent-2">
                     {{dld.studyBible}}
-                    <!-- <span class="fst-italic text-dark">1 John 4:10 </span> -->
+                    
                     </p>
                   </div>
                 </div>
