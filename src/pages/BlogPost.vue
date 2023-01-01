@@ -74,10 +74,10 @@
           </div>
         </section>
         <div class="card-footer text-muted">
-          <p class="fw-bold"> {{dld.footerTitle}} </p>
-          <p class="fst-italic"> {{dld.footerText}} </p>
-          <p class="fw-bold" v-if="dld.footerTitleTwo"> {{dld.footerTitleTwo}} </p>
-          <p class="fst-italic" v-if="dld.footerTextTwo"> {{dld.footerTextTwo}} </p>
+          <p class="fw-bold text-black"> {{dld.footerTitle}} </p>
+          <p class="fst-italic text-black"> {{dld.footerText}} </p>
+          <p class="fw-bold text-black" v-if="dld.footerTitleTwo"> {{dld.footerTitleTwo}} </p>
+          <p class="fst-italic text-black" v-if="dld.footerTextTwo"> {{dld.footerTextTwo}} </p>
 
           <!-- <a href="../assets/files/DAILY_LIGHT_DEVOTIONALS.pdf" download class="my-3 d-block btn-accent text-decoration-none">
             Download Devotional for the Month
