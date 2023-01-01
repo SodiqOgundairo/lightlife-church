@@ -11,7 +11,7 @@
     </section>
 
     <article class="dld">
-      <!-- <div class="bg-dark bg-opacity-25 p-md-4 p-2"> 
+      <div class="bg-dark bg-opacity-25 p-md-4 p-2"> 
       <div
         class="blog-post card m-3 m-md-5 bg-light bg-opacity-50 shadow-lg glass"
       >
@@ -78,14 +78,14 @@
           <p class="fst-italic"> {{dld.footerText}} </p>
           <p class="fw-bold" v-if="dld.footerTitleTwo"> {{dld.footerTitleTwo}} </p>
           <p class="fst-italic" v-if="dld.footerTextTwo"> {{dld.footerTextTwo}} </p>
-
+ <!--
          <a href="../assets/files/DAILY_LIGHT_DEVOTIONALS.pdf" download class="my-3 d-block btn-accent text-decoration-none">
             Download Devotional for the Month
           </a> 
-
+-->
         </div>
         </div> 
-      </div> -->
+      </div> 
     </article>
   </main>
 </template>
