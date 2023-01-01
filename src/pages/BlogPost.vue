@@ -18,7 +18,7 @@
         <header class="card-header">
           <div class="card-header">
             <p class="h3 fw-bold theme">
-               {{ dld.title }}
+              <!--  {{ dld.title }}
               <small class="fs-6 fst-italic d-block fw-light">
                 
                  {{blogDate}}
@@ -70,7 +70,7 @@
             </p>
             <p class="" v-if="dld.texts.textFive">
               {{dld.texts.textFive}}
-            </p>
+            </p> 
           </div>
         </section>
         <div class="card-footer text-muted">
@@ -79,7 +79,7 @@
           <p class="fw-bold" v-if="dld.footerTitleTwo"> {{dld.footerTitleTwo}} </p>
           <p class="fst-italic" v-if="dld.footerTextTwo"> {{dld.footerTextTwo}} </p>
 
-          <!-- <a href="../assets/files/DAILY_LIGHT_DEVOTIONALS.pdf" download class="my-3 d-block btn-accent text-decoration-none">
+         <a href="../assets/files/DAILY_LIGHT_DEVOTIONALS.pdf" download class="my-3 d-block btn-accent text-decoration-none">
             Download Devotional for the Month
           </a> -->
 
