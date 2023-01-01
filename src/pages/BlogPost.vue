@@ -112,7 +112,7 @@ export default {
       return DailyLight.getAllDevotionals()
     };
 
-    dld = devotionals().find(test => test.uniqueDate == todaysDate )
+    dld = devotionals().find(test => test.uniqueDate == '1/1/2023' )
    // let dldDate = `${dld.uniqueDate}`
 
 
