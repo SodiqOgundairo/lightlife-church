@@ -106,7 +106,6 @@ export default {
     let blogDate = date.toDateString()
 
      let todaysDate = date.toLocaleDateString().toString()
-     let dldDate = new Date(`${dld.uniqueDate}`)
      console.log(todaysDate)
      console.log(dldDate)
 
@@ -115,7 +114,7 @@ export default {
     };
 
     dld = devotionals().find(test => test.uniqueDate.parse === todaysDate )
-
+     let dldDate = new Date(`${dld.uniqueDate}`)
 
 
     // console.log(devotionals().find(test => test.id ==  1 ))
