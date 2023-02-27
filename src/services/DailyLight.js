@@ -2,22 +2,22 @@ export class DailyLight {
     static dld =
         // eslint-disable-next-line no-unexpected-multiline
         [
-            {
-                "id": "0",
-                "uniqueDate": "12/31/2022",
-                "DisplayDate": "27th December, 2022",
-                "title": "DAILY LIGHT DEVOTIONAL TUESDAY CONFIRM",
-                "memoryVerse": "Herein is love, not that we loved God, but ahtat He loved us, and sent His Son to be  the propitation for our sins.",
-                "bibleVerse": "1 John 4:10",
-                "studyBible": "1 John 4:10",
-                'texts': {
-                    "textOne": 'paragraph one starts in here and ends in here',
-                    "textTwo": 'paragraph two starts in here',
-                    "textThree": 'paragraph three starts in here',
-                },
-                "footerTitle": 'CONFESSION',
-                "footerText": 'prayer',
-            },
+            // {
+            //     "id": "0",
+            //     "uniqueDate": "12/31/2022",
+            //     "DisplayDate": "27th December, 2022",
+            //     "title": "DAILY LIGHT DEVOTIONAL TUESDAY CONFIRM",
+            //     "memoryVerse": "Herein is love, not that we loved God, but ahtat He loved us, and sent His Son to be  the propitation for our sins.",
+            //     "bibleVerse": "1 John 4:10",
+            //     "studyBible": "1 John 4:10",
+            //     'texts': {
+            //         "textOne": 'paragraph one starts in here and ends in here',
+            //         "textTwo": 'paragraph two starts in here',
+            //         "textThree": 'paragraph three starts in here',
+            //     },
+            //     "footerTitle": 'CONFESSION',
+            //     "footerText": 'prayer',
+            // },
             {
                 "id": 1,
                 
@@ -25,7 +25,7 @@ export class DailyLight {
                 // "uniqueDate": "1/1/2023",
                   "uniqueDateOne": "1-1-2023",
 
-                "title": "BE GRATEFUL.",
+                "title": "BE GRATEFUL",
 
                 "memoryVerse": "In everything give thanks; for this is the will of God in Christ Jesus for you.",
 
@@ -48,7 +48,9 @@ export class DailyLight {
             {
                 "id": 2,
 
-                "uniqueDate": "1/2/2023",
+                // "uniqueDate": "1/2/2023",
+                "uniqueDate": "Jan 2nd 23",
+
 
                 "title": "MAKE ROOM FOR MORE",
 
@@ -73,7 +75,9 @@ export class DailyLight {
             {
                 "id": 3,
 
-                "uniqueDate": "1/3/2023",
+                // "uniqueDate": "1/3/2023",
+                "uniqueDate": "Jan 3rd 23",
+
 
                 "title": "GOD HAS A PURPOSE FOR YOU 1",
 
@@ -100,7 +104,9 @@ export class DailyLight {
             {
                 "id": 4,
 
-                "uniqueDate": "1/4/2023",
+                // "uniqueDate": "1/4/2023",
+                "uniqueDate": "Jan 4th 23",
+
 
                 "title": "GOD HAS A PURPOSE FOR YOU 2",
 
@@ -125,7 +131,8 @@ export class DailyLight {
             {
                 "id": "5",
 
-                "uniqueDate": "1/5/2023",
+                // "uniqueDate": "1/5/2023",
+                "uniqueDate": "Jan 5th 23",
 
                 "title": "OVERWHELMED?",
 
@@ -150,7 +157,8 @@ export class DailyLight {
             {
                 "id": "6",
 
-                "uniqueDate": "1/6/2023",
+                "uniqueDate": "Jan 6th 23",
+                // "uniqueDate": "1/6/2023",
 
                 "title": "FREEDOM FROM SELF-CONDEMNATION",
 
@@ -175,7 +183,8 @@ export class DailyLight {
             {
                 "id": "7",
 
-                "uniqueDate": "1/7/2023",
+                "uniqueDate": "Jan 7th 23",
+                // "uniqueDate": "1/7/2023",
 
                 "title": "THE MYSTERY OF MERCY",
 
@@ -200,7 +209,8 @@ export class DailyLight {
             {
                 "id": "8",
 
-                "uniqueDate": "1/8/2023",
+                "uniqueDate": "Jan 8th 23",
+                // "uniqueDate": "1/8/2023",
 
                 "title": "THE POWER OF INSTRUCTIONS ",
 
@@ -225,7 +235,9 @@ export class DailyLight {
             {
                 "id": "9",
 
-                "uniqueDate": "1/9/2023",
+                // "uniqueDate": "1/9/2023",
+                "uniqueDate": "Jan 9th 23",
+
 
                 "title": "THE WHOS AND WHYS OF MENTORSHIP ",
 
@@ -252,7 +264,8 @@ export class DailyLight {
             {
                 "id": "10",
 
-                "uniqueDate": "10/1/2023",
+                // "uniqueDate": "10/1/2023",
+                "uniqueDate": "Jan 10th 23",
 
                 "title": "HOW TO STUDY THE BIBLE",
 
@@ -277,7 +290,8 @@ export class DailyLight {
             {
                 "id": "11",
 
-                "uniqueDate": "11/1/2023",
+                // "uniqueDate": "11/1/2023",
+                "uniqueDate": "Jan 11th 23",
 
                 "title": "HOW TO STUDY THE BIBLE PART 2",
 
@@ -304,7 +318,8 @@ export class DailyLight {
             {
                 "id": "12",
 
-                "uniqueDate": "12/1/2023",
+                // "uniqueDate": "12/1/2023",
+                "uniqueDate": "Jan 12th 23",
 
                 "title": "HOW TO STUDY THE BIBLE PART 3",
 
@@ -329,7 +344,8 @@ export class DailyLight {
             {
                 "id": "13",
 
-                "uniqueDate": "13/1/2023",
+                // "uniqueDate": "13/1/2023",
+                "uniqueDate": "Jan 13th 23",
 
                 "title": "HOW TO STUDY THE BIBLE PART 4",
 
@@ -354,7 +370,8 @@ export class DailyLight {
             {
                 "id": "14",
 
-                "uniqueDate": "14/1/2023",
+                // "uniqueDate": "14/1/2023",
+                "uniqueDate": "Jan 14th 23",
 
                 "title": "FORGIVENESS IS A MUST",
 
@@ -381,7 +398,8 @@ export class DailyLight {
             {
                 "id": "15",
 
-                "uniqueDate": "15/1/2023",
+                // "uniqueDate": "15/1/2023",
+                "uniqueDate": "Jan 15th 23",
 
                 "title": "THE POWER OF WORDS",
 
@@ -408,7 +426,8 @@ export class DailyLight {
             {
                 "id": "16",
 
-                "uniqueDate": "16/1/2023",
+                // "uniqueDate": "16/1/2023",
+                "uniqueDate": "Jan 16th 23",
 
                 "title": "THE POWER OF WORDS 2",
 
@@ -433,7 +452,8 @@ export class DailyLight {
             {
                 "id": "17",
 
-                "uniqueDate": "17/1/2023",
+                // "uniqueDate": "17/1/2023",
+                "uniqueDate": "Jan 17th 23",
 
                 "title": "THE POWER OF WORDS 3",
 
@@ -462,7 +482,8 @@ export class DailyLight {
             {
                 "id": "18",
 
-                "uniqueDate": "18/1/2023",
+                // "uniqueDate": "18/1/2023",
+                "uniqueDate": "Jan 18th 23",
 
                 "title": "YOU ARE NOT ALONE",
 
@@ -487,7 +508,8 @@ export class DailyLight {
             {
                 "id": "19",
 
-                "uniqueDate": "19/1/2023",
+                // "uniqueDate": "19/1/2023",
+                "uniqueDate": "Jan 19th 23",
 
                 "title": "THE KINGDOM LIFE",
 
@@ -512,7 +534,8 @@ export class DailyLight {
             {
                 "id": "20",
 
-                "uniqueDate": "20/1/2023",
+                // "uniqueDate": "20/1/2023",
+                "uniqueDate": "Jan 20th 23",
 
                 "title": "THE KINGDOM LIFE (PART 2)",
 
@@ -537,7 +560,8 @@ export class DailyLight {
             {
                 "id": "21",
 
-                "uniqueDate": "21/1/2023",
+                // "uniqueDate": "21/1/2023",
+                "uniqueDate": "Jan 21st 23",
 
                 "title": "THE KINGDOM LIFE (PART 3)",
 
@@ -562,7 +586,8 @@ export class DailyLight {
             {
                 "id": "22",
 
-                "uniqueDate": "22/1/2023",
+                // "uniqueDate": "22/1/2023",
+                "uniqueDate": "Jan 22nd 23",
 
                 "title": "THE KINGDOM LIFE (PART 4)",
 
@@ -587,7 +612,8 @@ export class DailyLight {
             {
                 "id": "23",
 
-                "uniqueDate": "23/1/2023",
+                // "uniqueDate": "23/1/2023",
+                "uniqueDate": "Jan 23rd 23",
 
                 "title": "THE KINGDOM LIFE (PART 5)",
 
@@ -614,7 +640,8 @@ export class DailyLight {
             {
                 "id": "24",
 
-                "uniqueDate": "24/1/2023",
+                // "uniqueDate": "24/1/2023",
+                "uniqueDate": "Jan 24th 23",
 
                 "title": "THE KINGDOM LIFE (PART 6)",
 
@@ -639,7 +666,8 @@ export class DailyLight {
             {
                 "id": "25",
 
-                "uniqueDate": "25/1/2023",
+                // "uniqueDate": "25/1/2023",
+                "uniqueDate": "Jan 25th 23",
 
                 "title": "THE KINGDOM LIFE (PART 7)",
 
@@ -664,7 +692,8 @@ export class DailyLight {
             {
                 "id": "26",
 
-                "uniqueDate": "26/1/2023",
+                // "uniqueDate": "26/1/2023",
+                "uniqueDate": "Jan 26th 23",
 
                 "title": "THE KINGDOM LIFE (PART 8)",
 
@@ -689,7 +718,8 @@ export class DailyLight {
             {
                 "id": "27",
 
-                "uniqueDate": "27/1/2023",
+                // "uniqueDate": "27/1/2023",
+                "uniqueDate": "Jan 27th 23",
 
                 "title": "THE KINGDOM LIFE (PART 9)",
 
@@ -714,7 +744,8 @@ export class DailyLight {
             {
                 "id": "28",
 
-                "uniqueDate": "28/1/2023",
+                // "uniqueDate": "28/1/2023",28    
+                "uniqueDate": "Jan 28th 23",
 
                 "title": "NEVER DESPISE YOUR CALLING",
 
@@ -739,7 +770,8 @@ export class DailyLight {
             {
                 "id": "29",
 
-                "uniqueDate": "29/1/2023",
+                // "uniqueDate": "29/1/2023",
+                "uniqueDate": "Jan 29th 23",
 
                 "title": "NEVER DESPISE YOUR YOUTH",
 
@@ -764,7 +796,8 @@ export class DailyLight {
             {
                 "id": "30",
 
-                "uniqueDate": "30/1/2023",
+                // "uniqueDate": "30/1/2023",
+                "uniqueDate": "Jan 30th 23",
 
                 "title": "NEVER DESPISE YOUR SMALL BEGINNINGS",
 
@@ -789,7 +822,8 @@ export class DailyLight {
             {
                 "id": "31",
 
-                "uniqueDate": "31/1/2023",
+                // "uniqueDate": "31/1/2023",
+                "uniqueDate": "Jan 31st 23",
 
                 "title": "OVERCOMING  REGRETS OF YOUR PAST",
 
@@ -814,7 +848,8 @@ export class DailyLight {
             {
                 "id": "32",
 
-                "uniqueDate": "1/2/2023",
+                // "uniqueDate": "1/2/2023",
+                "uniqueDate": "Feb 1st 23",
 
                 "title": "WHAT TO DO WHEN YOUR EXPECTATIONS ARE UNMET",
 
@@ -841,7 +876,8 @@ export class DailyLight {
             {
                 "id": "33",
 
-                "uniqueDate": "2/2/2023",
+                // "uniqueDate": "2/2/2023",
+                "uniqueDate": "Feb 2nd 23",
 
                 "title": "UNDERSTANDING AGAPE (PART 1)",
 
@@ -868,7 +904,8 @@ export class DailyLight {
             {
                 "id": "34",
 
-                "uniqueDate": "3/2/2023",
+                // "uniqueDate": "3/2/2023",
+                "uniqueDate": "Feb 3rd 23",
 
                 "title": "UNDERSTANDING AGAPE (PART 2)",
 
@@ -895,7 +932,8 @@ export class DailyLight {
             {
                 "id": "35",
 
-                "uniqueDate": "4/2/2023",
+                // "uniqueDate": "4/2/2023",
+                "uniqueDate": "Feb 4th 23",
 
                 "title": "UNDERSTANDING AGAPE (PART 3)",
 
@@ -920,7 +958,8 @@ export class DailyLight {
             {
                 "id": "36",
 
-                "uniqueDate": "5/2/2023",
+                // "uniqueDate": "5/2/2023",
+                "uniqueDate": "Feb 5th 23",
 
                 "title": "UNDERSTANDING AGAPE (PART 4)",
 
@@ -945,7 +984,8 @@ export class DailyLight {
             {
                 "id": "37",
 
-                "uniqueDate": "6/2/2023",
+                // "uniqueDate": "6/2/2023",
+                "uniqueDate": "Feb 6th 23",
 
                 "title": "UNDERSTANDING AGAPE (PART 5)",
 
@@ -970,7 +1010,8 @@ export class DailyLight {
             {
                 "id": "38",
 
-                "uniqueDate": "7/2/2023",
+                // "uniqueDate": "7/2/2023",
+                "uniqueDate": "Feb 7th 23",
 
                 "title": "UNDERSTANDING AGAPE (PART 6)",
 
@@ -995,7 +1036,8 @@ export class DailyLight {
             {
                 "id": "39",
 
-                "uniqueDate": "8/2/2023",
+                // "uniqueDate": "8/2/2023",
+                "uniqueDate": "Feb 8th 23",
 
                 "title": "THE BLESSING",
 
@@ -1022,7 +1064,8 @@ export class DailyLight {
             {
                 "id": "40",
 
-                "uniqueDate": "9/2/2023",
+                // "uniqueDate": "9/2/2023",
+                "uniqueDate": "Feb 9th 23",
 
                 "title": "MOVE YOUR MOUNTAINS",
 
@@ -1047,7 +1090,8 @@ export class DailyLight {
             {
                 "id": "41",
 
-                "uniqueDate": "10/2/2023",
+                // "uniqueDate": "10/2/2023",
+                "uniqueDate": "Feb 10th 23",
 
                 "title": "YOU CAN BE HEALED",
 
@@ -1072,7 +1116,8 @@ export class DailyLight {
             {
                 "id": "42",
 
-                "uniqueDate": "11/2/2023",
+                // "uniqueDate": "11/2/2023",
+                "uniqueDate": "Feb 11th 23",
 
                 "title": "OBEDIENCE TO GOD",
 
@@ -1099,7 +1144,8 @@ export class DailyLight {
             {
                 "id": "43",
 
-                "uniqueDate": "12/2/2023",
+                // "uniqueDate": "12/2/2023",
+                "uniqueDate": "Feb 12th 23",
 
                 "title": "KNOWING THE WILL OF GOD",
 
@@ -1124,7 +1170,8 @@ export class DailyLight {
             {
                 "id": "44",
 
-                "uniqueDate": "13/2/2023",
+                // "uniqueDate": "13/2/2023",
+                "uniqueDate": "Feb 13th 23",
 
                 "title": "DISCERNING GOD'S WILL 2",
 
@@ -1149,7 +1196,8 @@ export class DailyLight {
             {
                 "id": "45",
 
-                "uniqueDate": "14/2/2023",
+                // "uniqueDate": "14/2/2023",
+                "uniqueDate": "Feb 14th 23",
 
                 "title": "DISCERNING GOD'S WILL 3",
 
@@ -1174,7 +1222,8 @@ export class DailyLight {
             {
                 "id": "46",
 
-                "uniqueDate": "15/2/2023",
+                // "uniqueDate": "15/2/2023",
+                "uniqueDate": "Feb 15th 23",
 
                 "title": "PLANNING FOR MARRIAGE",
 
@@ -1199,7 +1248,8 @@ export class DailyLight {
             {
                 "id": "47",
 
-                "uniqueDate": "16/2/2023",
+                // "uniqueDate": "16/2/2023",
+                "uniqueDate": "Feb 16th 23",
 
                 "title": "PLANNING FOR MARRIAGE 2",
 
@@ -1226,7 +1276,8 @@ export class DailyLight {
             {
                 "id": "48",
 
-                "uniqueDate": "17/2/2023",
+                // "uniqueDate": "17/2/2023",
+                "uniqueDate": "Feb 17th 23",
 
                 "title": "PLANNING FOR MARRIAGE 3",
 
@@ -1253,7 +1304,8 @@ export class DailyLight {
             {
                 "id": "49",
 
-                "uniqueDate": "18/2/2023",
+                // "uniqueDate": "18/2/2023",
+                "uniqueDate": "Feb 18th 23",
 
                 "title": "USE YOUR TONGUES WISELY",
 
@@ -1280,7 +1332,8 @@ export class DailyLight {
             {
                 "id": "50",
 
-                "uniqueDate": "19/2/2023",
+                // "uniqueDate": "19/2/2023",
+                "uniqueDate": "Feb 19th 23",
 
                 "title": "HOLY SPIRIT,  EVERYDAY",
 
@@ -1305,7 +1358,8 @@ export class DailyLight {
             {
                 "id": "51",
 
-                "uniqueDate": "20/2/2023",
+                // "uniqueDate": "20/2/2023",
+                "uniqueDate": "Feb 20th 23",
 
                 "title": "VESSELS UNTO HONOUR",
 
@@ -1332,7 +1386,8 @@ export class DailyLight {
             {
                 "id": "52",
 
-                "uniqueDate": "21/2/2023",
+                // "uniqueDate": "21/2/2023",
+                "uniqueDate": "Feb 21st 23",
 
                 "title": "COME THE WAY YOU ARE ",
 
@@ -1357,7 +1412,8 @@ export class DailyLight {
             {
                 "id": "53",
 
-                "uniqueDate": "22/2/2023",
+                "uniqueDate": "Feb 22nd 23",
+                // "uniqueDate": "22/2/2023",
 
                 "title": "THE POWER OF DILIGENCE",
 
@@ -1386,7 +1442,8 @@ export class DailyLight {
             {
                 "id": "54",
 
-                "uniqueDate": "23/2/2023",
+                // "uniqueDate": "23/2/2023",
+                "uniqueDate": "Feb 23rd 23",
 
                 "title": "SHORTCUT, SHORT LIFE",
 
@@ -1415,7 +1472,8 @@ export class DailyLight {
             {
                 "id": "55",
 
-                "uniqueDate": "24/2/2023",
+                // "uniqueDate": "24/2/2023",
+                "uniqueDate": "Feb 24th 23",
 
                 "title": "CONSISTENCY IS NOT ENOUGH",
 
@@ -1444,7 +1502,8 @@ export class DailyLight {
             {
                 "id": "56",
 
-                "uniqueDate": "25/2/2023",
+                // "uniqueDate": "25/2/2023",
+                "uniqueDate": "Feb 25th 23",
 
                 "title": "DOES GOD CONDEMNS?",
 
@@ -1473,7 +1532,8 @@ export class DailyLight {
             {
                 "id": "57",
 
-                "uniqueDate": "26/2/2023",
+                // "uniqueDate": "26/2/2023",
+                "uniqueDate": "Feb 26th 23",
 
                 "title": "GO YE",
 
@@ -1502,7 +1562,8 @@ export class DailyLight {
             {
                 "id": "58",
 
-                "uniqueDate": "27/2/2023",
+                // "uniqueDate": "27/2/2023",
+                "uniqueDate": "Feb 27th 23",
 
                 "title": "IT’S URGENT ",
 
@@ -1525,6 +1586,1917 @@ export class DailyLight {
                 "footerTitle": 'PRAYER',
 
                 "footerText": "Father, give me the grace and strength to win souls. ",
+
+                // "footerTitleTwo": 'QUOTES',
+
+                // "footerTextTwo": "No matter how far or fast you go in the wrong direction, you will never get to your desired destination.",
+            },
+            {
+                "id": "59",
+
+                // "uniqueDate": "27/2/2023",
+                "uniqueDate": "Feb 28th 23",
+
+                "title": "GENUINE WORSHIP",
+
+                "memoryVerse": "He said to his servants, \"Stay here with the donkey while I and the boy go over there. We will worship and then we will come back to you.",
+
+                "bibleVerse": "Genesis 22:5",
+
+                "studyBible": "JOHN 4:19-26",
+
+                'texts': {
+                    "textOne": "In studying the scripture rightly, there is a principle called the principle of first mention. This means that the first place a word appeared in the scripture carries the original meaning of that word. The first place the word worship appeared in the bible was Genesis chapter twenty two verse five. You will be shocked that there were no drums, keyboards, trumpets, saxophones, nor were there singing, dancing, kneeling, raising of hands, weeping, and all of the stuff we see as worship today. This means that there must be something about genuine worship that we have missed along the way. ",
+
+                    "textTwo": "Part of the Christian liturgy that has been largely misunderstood is worship. Though worship is a natural instinct in man, practised in every culture and religion. However, in Christianity, worship is not just a religious ritual. It is not just an outburst of emotion. Worship is not a religious routine (Amos 5:21, 8:10). It is not just singing slow songs or shouts of beautiful praises or lying face down before the Lord or afflicting your body. Also, worship is not only bringing offering, seeds, and sacrifices before the Lord. There is nothing wrong with that but it is not the core. (Jer 6:20)",
+
+                    "textThree": "Genuine worship is prompt obedience to divine instruction. When Abraham went to worship, there were no drums, piano, guitar or any singer. He was simply going to obey the instruction of God. When we cultivate the habit of prompt and total obedience to God’s word, that is an act of worship. Consider the action of Saul when he disobeyed divine instruction to destroy everything but spared choiced cattles to sacrifice to God as an act of worship. He missed the main act of worship which is obedience (1Sam 15). Lastly, true worship is giving selflessly, willingly with a sincere heart. What you give is not as important as how you give. (2Cor 9:6-8). Abraham was going to sacrifice Isaac to God, there is no worship without sacrifice.",
+                },
+
+                "footerTitle": 'PRAYER',
+
+                "footerText": "Father, in The name of Jesus, give me the grace to worship you in truth and in Spirit. ",
+
+                // "footerTitleTwo": 'QUOTES',
+
+                // "footerTextTwo": "No matter how far or fast you go in the wrong direction, you will never get to your desired destination.",
+            },
+            {
+                "id": "60",
+
+                // "uniqueDate": "27/2/2023",
+                "uniqueDate": "Mar 1st 23",
+
+                "title": "COMPONENTS OF SPIRITUAL GROWTH (PART 1)",
+
+                "memoryVerse": "He is the one we proclaim, admonishing and teaching everyone with all wisdom, so that we may present everyone fully mature in Christ.",
+
+                "bibleVerse": "COLOSSIANS 2:28",
+
+                "studyBible": "COLOSIANS 2:24-29",
+
+                'texts': {
+                    "textOne": "The goal of God is not redemption or salvation. The aim of God for establishing the church is not miracles, breakthroughs, attendance, or signs and wonders. The goal of God is not to get you born again. All these are great and are part of God’s plan for us, but are only means to an end. The purpose and goal of God is spiritual maturity. Being born again is just the beginning of a journey to maturity in Christ. This automatically becomes the goal of the church. The primary goal of the church is not to accumulate membership but to raise disciples.",
+
+                    "textTwo": "From my years of pastoring, I discovered that it is possible to be in church and not be in Christ. You can rise through the ranks of your denomination and yet remain a novice in the spirit. You can be a giant in the church and yet remain a dwarf in Christ. You can hold a high position in the church yet be unrecognised in Christ. You can be ten years in church yet one week in Christ. The goal is not just the activities in the church, but your progress in the spirit. Henceforth, the goal of the church is to ensure that we make reasonable progress as expected by our Lord Jesus.  My primary goal as a pastor is not to help you make more money, it is to help you become more like Christ. Conformity to the image of Christ marks the success of a believer.",
+
+                    "textThree": "Spiritual growth is the degree of our conformity to the image of Christ’s character and nature. The sign that you are growing spiritually is the extent to which you look less like the world and more like Christ. Therefore, spiritual maturity is when we become fully conformed to the image, likeness, and nature of Christ. How much of Christ is manifested in you? Everything you do as a believer must be tailored towards this goal. When an inner change leads to an outward transformation, growth is taking place. I want this to be your goal this year. Everything you desire to achieve in life is directly attached to your growth spiritually. Hence, for the next few days, we will be learning how to grow spiritually. Stay blessed. ",
+                },
+
+                "footerTitle": 'PRAYER',
+
+                "footerText": "Lord Jesus, in these few days I will be learning about spiritual maturity, help me to grow significantly in the spirit. My spirit is open to receiving understanding in Jesus' name. ",
+
+                // "footerTitleTwo": 'QUOTES',
+
+                // "footerTextTwo": "No matter how far or fast you go in the wrong direction, you will never get to your desired destination.",
+            },
+            {
+                "id": "61",
+
+                // "uniqueDate": "27/2/2023",
+                "uniqueDate": "Mar 2nd 23",
+
+                "title": "COMPONENTS OF SPIRITUAL GROWTH (PART 2)",
+
+                "memoryVerse": "In fact, though by this time you ought to be teachers, you need someone to teach you the elementary truths of God's word all over again. You need milk, not solid food!",
+
+                "bibleVerse": "HEBREWS 5:12",
+
+                "studyBible": "GALATIANS 4:1-7",
+
+                'texts': {
+                    "textOne": "The major problem in Christianity today is that believers have defined success based on material possession. If you are rich with good cars and houses, it means you are in tune with God but if you are facing challenges and trials, you are living in sin and God is not happy with you. This is not how to describe spiritual growth. The fact that you have material success does not mean God is there and the fact that you lack it doesn't mean God is absent too. It doesn't matter the kind of progress you are making in life, if it is not spiritual, then you are not really making any progress.",
+
+                    "textTwo": "Spiritual maturity is responsible for unlocking the true riches of God. The power of God in you is fully manifested only when you are mature in God. When a baby girl is born, people can adore her for her cuteness but that’s not all. As she grows into becoming a teenager and a full-grown adult, you begin to see the effulgence of the glory and beauty of a mature woman. I can tell you that you are not saved or free indeed just by being born again alone. Maturity is what guarantees your true freedom. As cute as the baby is, she can’t get married, bear a child, or raise children until she’s fully matured. There are a lot of potentials in Christ that you can’t manifest until you grow in Him. As long as you remain a child, what is yours can't be given to you. The healing, power to cast out demons, the anointing, and every other thing you desire await your maturity.",
+
+                    "textThree": "However, you can't attain maturity without being committed to spiritual responsibilities. A lot of Christians today run away from spiritual responsibilities. They want to exploit but are not ready for the commitment to prayer, fasting, studying, soul-winning, and serving in a local church. If you must grow spiritually, it has to be deliberate. Growth does not occur accidentally. Spiritual growth is not a gift from God, but your responsibility to Him. The Holy Spirit will not do it for you, but will only do it with you. It will cost you other important things, such as time, pleasure, food, resources, and material success at times. You only grow spiritually when you make an effort to do so. It must be your spiritual goal for you to grow spiritually. ",
+                },
+
+                "footerTitle": 'MEDITATION',
+
+                "footerText": "Your spiritual growth is your responsibility, not God’s or your pastor’s. ",
+
+                // "footerTitleTwo": 'QUOTES',
+
+                // "footerTextTwo": "No matter how far or fast you go in the wrong direction, you will never get to your desired destination.",
+            },
+            {
+                "id": "62",
+
+                // "uniqueDate": "27/2/2023",
+                "uniqueDate": "Mar 3rd 23",
+
+                "title": "COMPONENTS OF SPIRITUAL GROWTH (PART 3)",
+
+                "memoryVerse": "And I, brethren, could not speak unto you as unto spiritual, but as unto carnal, even as unto babes in Christ.",
+
+                "bibleVerse": "1 CORINTHIANS 3:1",
+
+                "studyBible": "1 CORINTHIANS 3:1-7",
+
+                'texts': {
+                    "textOne": "A lot of Christians are confused about the difference between the manifestation of gifts and spiritual maturity. The sign of progress in Christ is not the manifestation of gifts but the revealing of your maturity. There are many Christians today who manifest one spiritual gift or the other but are still carnal Christians. A canal believer is someone who is born again but is still living in the flesh. He is born again yet he is not growing up spiritually. Is it possible for a canal believer to manifest spiritual gifts? The answer is Yes. This is because a gift is not something you necessarily worked for or deserve, it’s free. That’s why it's a gift. God can give you gifts for the sake of your assignment but that doesn't translate to spiritual maturity.",
+
+                    "textTwo": "1 Cor 1:5-7 - \" For in him you have been enriched in every way — in all your speaking and in all your knowledge— 6 because our testimony about Christ was confirmed in you. 7 Therefore you do not lack any spiritual gift as you eagerly wait for our Lord Jesus Christ to be revealed.\" Let’s look at the example of the Corinthian church here. In chapter two, Paul’s epistle revealed that they were blessed with all spiritual gifts. They’ve been enriched with wisdom, speaking in tongues, healing, and many other gifts. They manifest the gifts of the spirit, but let's quickly jump to chapter three and see what Paul had to say.",
+
+                    "textThree": "1 Cor 3:1-4 - \"Brothers, I could not address you as spiritual but as worldly — mere infants in Christ. 2 I gave you milk, not solid food, for you were not yet ready for it. Indeed, you are still not ready. 3 You are still worldly. For since there is jealousy and quarrelling among you, are you not worldly? Are you not acting like mere men? 4 For when one says, \"I follow Paul,\" and another, \"I follow Apollos,\" are you not mere men?\" I was shocked to read that the same Corinthian church that Paul addressed as having all spiritual gifts was now described as being canal/worldly. Paul called them infants in Christ. Wow! This means the presence of gifts in your life and ministry does not equate to growth. There are lots of baby prophets, apostles, evangelists, and pastors. Most of the people on our pulpits today are gifted but are worldly believers. This is why it's difficult to raise genuine disciples who can make sacrifices for the kingdom.",
+                },
+
+                "footerTitle": 'MEDITATION',
+
+                "footerText": "Don't confuse spiritual gifts with spiritual growth.",
+
+                // "footerTitleTwo": 'QUOTES',
+
+                // "footerTextTwo": "No matter how far or fast you go in the wrong direction, you will never get to your desired destination.",
+            },
+            {
+                "id": "63",
+
+                // "uniqueDate": "27/2/2023",
+                "uniqueDate": "Mar 4th 23",
+
+                "title": "COMPONENTS OF SPIRITUAL GROWTH (PART 4)",
+
+                "memoryVerse": "As newborn babes, desire the pure milk of the word, that you may grow thereby",
+
+                "bibleVerse": "1 PETER 2:2",
+
+                "studyBible": "HEBREWS 5:7-14",
+
+                'texts': {
+                    "textOne": "The number one ingredient of spiritual growth is the word. In the course of spiritual maturity, the Word of God is a compulsory course. As a believer, you are born of the Spirit ( John 3:1 That which is born of the flesh is flesh; and that which is born of the Spirit is Spirit). You are a spirit man and the food of the spirit is the knowledge of Christ. The reason people remain a baby years after being born again is that they are starving their spirit by not feeding on the word. I’m not just talking about reading the bible casually. It's a deliberate and intentional learning of Christ. (Heb 5:11 We have much to say about this, but it is hard to explain because you are slow to learn.) There is a pace and intensity with which you must eat the word for you to grow. ",
+
+                    "textTwo": "What makes you grow through the word is not just hearing it, it is obeying it. Exercising and practising the word is what culminates in growth. Also, the fact that you listen to preachers every Sunday does not mean you will grow. It is the word of righteousness that culminates in spiritual growth. (Heb 5:13-14 For everyone who partakes only of milk is unskilled in the word of righteousness, for he is a babe.) Listening to prosperity and success messages is great but their nutrient content for spiritual maturity is very low. ",
+
+                    "textThree": "The word of God is in different categories, which cater for various levels of spiritual growth. There is the milk level, followed by the meat and bone levels. What you need when you just get born again is the milk level. This is the ‘easy Christianity’. They beg you to come to church. They beg you to study the bible. But after some time, Christ expects you to grow to the meat level. This level is the discipleship level. You no longer serve God when it's convenient. You are committed to Christ all the way. Then the bone level, where you are ready to lay your life for Jesus. You are bearing fruits and manifesting the power and nature of Jesus. You must not remain a milk-sucking baby Christian all the days of your life. To grow significantly, you must be given to the study of the scripture. You must be a consistent learner of the things of the spirit. Listen to spirit-lifting messages. Choose a word-based church, not a motivational church.",
+                },
+
+                "footerTitle": 'PRAYER',
+
+                "footerText": "Lord help me to be committed to learning about Christ through Your word. Open my heart to understand as I study. Amen.",
+
+                // "footerTitleTwo": 'QUOTES',
+
+                // "footerTextTwo": "No matter how far or fast you go in the wrong direction, you will never get to your desired destination.",
+            },
+            {
+                "id": "64",
+
+                // "uniqueDate": "27/2/2023",
+                "uniqueDate": "Mar 5th 23",
+
+                "title": "COMPONENTS OF SPIRITUAL GROWTH (PART 5)",
+
+                "memoryVerse": "My brethren, count it all joy when you fall into various trials",
+
+                "bibleVerse": "JAMES 1:2",
+
+                "studyBible": "LUKE 6:22-23",
+
+                'texts': {
+                    "textOne": "One of the unpopular components of spiritual growth is trials. One of the reasons we have weak Christianity today is because we have a “have it easy mentality”. This generation of Christians believes that once you are a Christian, trials, and tribulations are not supposed to come to you. This generation of believers often runs away from trials. They want to serve God without making any sacrifices or commitments. They want a celebrity pastor who will demand no commitment from them. They want to worship in the closest, finest, and most comfortable church in town. They criticize giving, tithing, and anything that pushes them away from their comfort zones.",
+
+                    "textTwo": "However, this was not the same gospel handed down to us. This was not the gospel that Paul or any of the disciples practised. Trials are part of the menu for your spiritual growth. You don’t need to pray for trials, they have a way of finding you. But when they come, James said you should count it all joy. Another translation says you should see it as a gift. Trial is a gift because it helps you to mature in Christ. Pleasure will never teach you half of what trials will teach you. On the other side of challenges is a better you.",
+
+                    "textThree": "Trials reveal your spiritual maturity. Challenges and trials come to everyone. What differentiates a baby Christian from a mature believer is how they respond to trials.  A baby Christian will cry and wail when trials come. Consequently, he becomes a victim. But a growing Christian rejoices because he knows all things work together for his good. He takes up the challenges, does all that's required, and comes out as an overcomer. Sometimes we are too lazy to pray, fast, give, and serve until we are in one challenge where the only way out is these things. Trials will force you to grow. Some people never exercise their faith until they have a health crisis. Some never fast until they experience a delay. Some are never loving until their marriage hits a rock. Trials help you to change. The grace of God is not meant to keep suffering away. It's meant to empower you in it.",
+                },
+
+                "footerTitle": 'MEDITATION',
+
+                "footerText": "You are either coming from a lot, going through a lot, or going to a lot. But the grace of God empowers you to overcome everything.",
+
+                // "footerTitleTwo": 'QUOTES',
+
+                // "footerTextTwo": "No matter how far or fast you go in the wrong direction, you will never get to your desired destination.",
+            },
+            {
+                "id": "65",
+
+                // "uniqueDate": "27/2/2023",
+                "uniqueDate": "Mar 6th 23",
+
+                "title": "COMPONENTS OF SPIRITUAL GROWTH (PART 6)",
+
+                "memoryVerse": "Let us not give up meeting together, as some are in the habit of doing, but let us encourage one another — and all the more as you see the Day approaching.",
+
+                "bibleVerse": "HEBREWS 10:25",
+
+                "studyBible": "MATTHEW 20:20-28",
+
+                'texts': {
+                    "textOne": "It is rampant today to see a lot of young Christians who are freelance believers. Freelance believers are believers who are full of “revelation” so much that they feel too big to belong to any local church. This is a common trend in this generation and I strongly believe that it is the devil's strategy to destroy them. A lot of young folks out there believe that as long as they are born again they do not need to belong to any local church, submit to a spiritual head, or serve under a ministry. Many of them worship online and have celebrity pastors whom they are not accountable to. To say the least, they are not accountable to anyone.",
+
+                    "textTwo": "True spiritual maturity serves. In fact, you can’t be spiritually mature without serving in a local church and under a pastor or a spiritual head. If all you do is the online church and you do not participate in any system of the church, your growth will be very limited. Serving God as a believer is what helps your spiritual growth. Most times, what makes many believers run away from serving in their local church is pride. If you are too proud to serve, you are too small to lead. Don’t be too proud to do the little things in the church. Some are so full of rhema that once their pastor does not give them a role on the pulpit, they are too big to serve in other systems like sanitation, welfare, media, or any places where they can’t be seen.",
+
+                    "textThree": "Activities may not necessarily lead to spiritual growth but you cannot grow without activities. Your light cannot shine without serving others, especially believers. Isolating yourself from others is not spiritual maturity, it is spiritual pride. Some will say they do not want any trouble from church people, well this is also a sign of carnality. Labouring in the vine is part of serving and working with others.  Though we are sons, we are also servants of God. Paul noted that one of the signs of spiritual maturity is serving as a teacher in the church. To grow, commit yourself to serve in a local church. Submit to a spiritual head to whom you are accountable. Find a department in the church to work with. Use your gifts and skills for the furtherance of the church. As you do this, you will grow in love and Christ. Your online church must not replace a local church.",
+                },
+
+                "footerTitle": 'MEDITATION',
+
+                "footerText": "Heb 10:25 – Let us not give up meeting together, as some are in the habit of doing, but let us encourage one another — and all the more as you see the Day approaching.",
+
+                // "footerTitleTwo": 'QUOTES',
+
+                // "footerTextTwo": "No matter how far or fast you go in the wrong direction, you will never get to your desired destination.",
+            },
+            {
+                "id": "66",
+
+                // "uniqueDate": "27/2/2023",
+                "uniqueDate": "Mar 7th 23",
+
+                "title": "NEVER FORGET",
+
+                "memoryVerse": "You shall remember that you were a slave in the land of Egypt, and the Lord your God redeemed you; therefore I command you this thing today.",
+
+                "bibleVerse": "DEUTERONOMY 15:15",
+
+                "studyBible": "DEUTERONOMY 7:17-19",
+
+                'texts': {
+                    "textOne": "God gave us brains for a purpose. One of such purposes is to remember things. More than we keep some things in our brains, we must keep some memories in our hearts too. Life is a series of moments, great moments, and bad moments. All are useful. While great moments excite us, bad moments teach us. Forgetfulness can be a terrible attitude that can lead a man to everlasting damnation. While there are things you must forget, there are things you must always remember too.",
+
+                    "textTwo": "Top on the list of what you must remember is your moments of visitation. There are moments in our lives when God supernaturally visits us. These moments are destiny-defining. It might be God giving you supernatural signs like Moses’s burning bush. It might be supernatural deliverance like the red sea parted for the children of Israel. It might be angelic visitation like Gideon had. It might be a supernatural provision like God using a stranger to pay your school fees and so on. These supernatural moments may not always repeat themselves in your life. However, similar challenges will always occur. When you fail to remember the moments of your past encounters, you will be overwhelmed by future challenges.",
+
+                    "textThree": "This is why God always tells the Jews to remember how He delivered them from Pharaoh (Deut 82; 15:15; 24:18). When you easily forget what God has done, you will miss what he can do. Never forget the moment God showed you your husband or wife because that will be your anchor when you face a crisis in that marriage. Never forget when God called you and showed you your assignment because that is what will be your anchor in the face of persecution. Never forget how God provided or healed you because that is what will boost your faith in times of lack and sickness. Keep a good memory of God’s intervention in your life. Many of the Jews easily forgot how God parted the Red Sea for them. So, the next time God was going to divide the Jordan river, He asked them to take a stone from the middle of Jordan as a remembrance of that deliverance in JOSHUA 4.",
+                },
+
+                "footerTitle": 'MEDITATION',
+
+                "footerText": "Never forget what God has done in your life. ",
+
+                // "footerTitleTwo": 'QUOTES',
+
+                // "footerTextTwo": "No matter how far or fast you go in the wrong direction, you will never get to your desired destination.",
+            },
+            {
+                "id": "67",
+
+                // "uniqueDate": "27/2/2023",
+                "uniqueDate": "Mar 8th 23",
+
+                "title": "NEVER FORGET PART 2",
+
+                "memoryVerse": "And you shall remember the Lord your God, for it is He who gives you the power to get wealth, that He may establish His covenant which He swore to your fathers, as it is this day.",
+
+                "bibleVerse": "DEUTERONOMY 8:18",
+
+                "studyBible": "1 SAMUEL 15:10-19",
+
+                'texts': {
+                    "textOne": "The reason many believers become ungrateful and unthankful is because of this plague of forgetfulness. It is a terrible thing to forget what God has done for you. The temptation that comes with forgetting God is that you start thinking that whatever you have achieved was by your power. I have seen many believers who were very fervent just before their visitation and breakthrough came. Immediately God blessed them, they disappeared from the church. These are forgetters. Don’t forget God. It is easy to remember God in your difficult season but it’s also easier to forget Him in your blessed seasons. ",
+
+                    "textTwo": "To prevent pride in your life, what God did for you must always be precious and great in your heart. His goodness, mercies, provision, and protection must be something that you cherish always. Don’t be too familiar with God’s blessings in your life that you forget who is responsible for them. Don’t allow what you think God didn’t do make you forget all He has done. Saul forgot how much being chosen as a king meant to him. He forgot so soon how unqualified he felt when Samuel was anointing him. Because of this, he started dishonouring God. Don’t be like Saul. When you forget God you become proud.",
+
+                    "textThree": "Don’t forget the emotions that were triggered the moment you had that breakthrough. Never forget how grateful you were at that moment. How much that visitation meant to you. Some of us will make all sorts of promises, some will even swear to do something for God if their prayers are answered. But the moment they receive their answered prayer, they suddenly forget everything.  This is why you must document your encounters and testimonies. Write them down in your note, on the wall of your house, and name something after it. And you must go back often to read them so that you can trigger that emotion afresh. This will keep you humble and thankful. God hates people who move on too quickly after their miracles like the ten lepers ( Lk 17:11-19). ",
+                },
+
+                "footerTitle": 'MEDITATION',
+
+                "footerText": "Father, in the name of Jesus, cure every disease of forgetfulness in my life.",
+
+                // "footerTitleTwo": 'QUOTES',
+
+                // "footerTextTwo": "No matter how far or fast you go in the wrong direction, you will never get to your desired destination.",
+            },
+            {
+                "id": "68",
+
+                // "uniqueDate": "27/2/2023",
+                "uniqueDate": "Mar 9th 23",
+
+                "title": "NEVER FORGET PART 3",
+
+                "memoryVerse": "And Laban said to him, \"Please stay, if I have found favour in your eyes, for I have learned by experience that the Lord has blessed me for your sake",
+
+                "bibleVerse": "GENESIS 30:27",
+
+                "studyBible": "GENESIS 30:25-34",
+
+                'texts': {
+                    "textOne": "The reason many people repeat the same mistakes over and over is that they always forget their experiences. Your experience is not a liability, it is an asset if you know how to use it. One of the greatest teachers of wisdom is experience, though not the best. People who jettison their experiences always find themselves in their old mess. When you fail and refuse to sit down and take the lessons, that’s an experience you just wasted. The reason some move from one failed marriage to another is that they refuse to learn from the first failed marriage.",
+
+                    "textTwo": "Never forget the mistakes you made. I’m not saying you should allow the regrets of your mistakes haunt you. I’m not saying you should allow the depression of your past failures rub you of the present joy and peace. No! It is when you haven't taken the lessons from your mistakes that it depresses you. When you learn from your past, you become grateful for it. Jacob, after working for Laban for years, learnt that he could not be rich and free through salary. Then he had to sign a partnership deal with laban. You will likely repeat a mistake you didn't learn from. If you don't know why you failed a course last year, you will likely fail it again. When you don't know why your business crashed, it will likely crash again.",
+
+                    "textThree": "Your experiences must be fresh. Yet they must not be your prison. They must be your stepping stone. Today, one of the criteria to work in any company is experience. If you have learnt nothing in the past, you will be irrelevant in the future. Never forget your experiences with failure, success, people, companies, and churches because they help you make better decisions in charting new courses tomorrow.",
+                },
+
+                "footerTitle": 'MEDITATION',
+
+                "footerText": "Turn your experiences into assets.",
+
+                // "footerTitleTwo": 'QUOTES',
+
+                // "footerTextTwo": "No matter how far or fast you go in the wrong direction, you will never get to your desired destination.",
+            },
+            {
+                "id": "69",
+
+                // "uniqueDate": "27/2/2023",
+                "uniqueDate": "Mar 10th 23",
+
+                "title": "NEVER FORGET PART 4",
+
+                "memoryVerse": "My son, hear the instruction of thy father, and forsake not the law of thy mother:",
+
+                "bibleVerse": "PROVERBS 1:8",
+
+                "studyBible": "JUDGES 13:3-5",
+
+                'texts': {
+                    "textOne": "Another thing you must never forget is what God said to you. Never forget the instruction of God in your life. Instructions are what make you a high flier in life. The book of Proverbs emphasises how critical it is for a son to listen to the voice of his father. We are the sons (and daughters), and God is our Father (Prov 1:8). Why is it important never to forget the words God spoke to you? It is simply because persecution always comes after God speaks to you. In the parable of the sower in Matthew 13, Jesus thought that the word always attracts the devil. It always attracts problems and persecution.",
+
+                    "textTwo": "There is a tendency to forget what God told you in the light when you are in the dark. What God said in the light must not lose its potency because you are in the dark. It is also important that you must never forget what you told God in the dark and the light. It is easier for Mary to say “Be it unto me according to your word” when her stomach was still flat, when nobody was mocking her yet, and when the morning sickness was absent. But to stay focused, she must remember those words. She must remember the faith she had when the angel spoke to her. The assurance in the message was what kept Mary going in the face of opposition.",
+
+                    "textThree": "What did God say to you when you are starting that ministry, business, courtship, or journey? If you forget it, you will not only lose your anchor but also your faith. This is why receiving God’s word of direction is very important in any situation in life. Saul forgot the instruction of Samuel and he lost the kingdom. Samson forgot the instruction of God and lost his power. This was why Mary “kept these things in her heart” (Lk 2:19). Without the word of God in your heart, you may become discouraged and give up in times of trouble. Without the Word of God in your heart, you become rich, and comfortable, and forget God in times of pleasure. God’s instructions for your destiny are what keep you focused and committed to the assignment knowing that His words never fail.",
+                },
+
+                "footerTitle": 'PRAYER',
+
+                "footerText": "Father, help me not to forget your instructions in my life and ministry.",
+
+                // "footerTitleTwo": 'QUOTES',
+
+                // "footerTextTwo": "No matter how far or fast you go in the wrong direction, you will never get to your desired destination.",
+            },
+            {
+                "id": "70",
+
+                // "uniqueDate": "27/2/2023",
+                "uniqueDate": "Mar 11th 23",
+
+                "title": "NEVER FORGET PART 5",
+
+                "memoryVerse": "And David said, Is there yet any that is left of the house of Saul, that I may shew him kindness for Jonathan's sake?",
+
+                "bibleVerse": "2 SAMUEL 9:2",
+
+                "studyBible": "2 SAMUEL 9: 1-10",
+
+                'texts': {
+                    "textOne": "The last on this series is never to forget the people that helped you succeed. Today many successful people in ministry, business, and career have forgotten the people that helped them climb the ladder of success. It is foolish and dangerous to forget the people that God used to raise you. There is a proverb in my dialect that says, “Never bite the hands that feed you.” I have personally seen this play out a lot of times and the end of those involved is always tragic. I often hear some foolish people say nobody helped them. Yet I have never seen a man God came down directly to help. There are no self-made men. God has always used men to help men.",
+
+                    "textTwo": "Don’t forget that servant or slave God used for you. Don’t forget that old unpopular pastor God used for your ministry. Don’t forget your uneducated parents that God used to pay your fees. Don’t forget your spouse that stayed with you when you were nothing. Never forget that teacher/coach that believed in you when you didn’t believe in yourself. Don’t be too big to relate with the people that sacrificed all to make you big. Just because you are now popular and influential doesn't mean you should forget your destiny helpers. Don’t allow pride to make you see people who sacrificed their opportunity for you yesterday as lazy today. No matter how small the help they gave you might be, you might never be where you are today without it.",
+
+                    "textThree": "Nabal was such a man that forgot who helped him (1 Sam 25:2-22). Eventually, he lost his life. He despised the help of David. David on the other hand did not forget the role Jonathan played in his life and he honoured his son in his stead.  Don’t despise the little help that people render to you. There is no such thing as a self-made man. God always uses men to make men. People who forget the men and women that God used for them will soon be forgotten. No matter how irrelevant they may be to you now, make sure you don’t forget them. Even if you don't have something to give them, honour them in your heart and with your mouth.",
+                },
+
+                "footerTitle": 'MEDITATION',
+
+                "footerText": "Honour the people that God has used for you genuinely.",
+
+                // "footerTitleTwo": 'QUOTES',
+
+                // "footerTextTwo": "No matter how far or fast you go in the wrong direction, you will never get to your desired destination.",
+            },
+            {
+                "id": "71",
+
+                // "uniqueDate": "27/2/2023",
+                "uniqueDate": "Mar 12th 23",
+
+                "title": "RECOGNISING CASUAL ANOINTING",
+
+                "memoryVerse": "Is this not the carpenter’s son? Isn't His mother called Mary? And His brothers James, Joses, Simon, and Judas?",
+
+                "bibleVerse": "MATTHEW 13:55",
+
+                "studyBible": "2 KINGS 51:8-5",
+
+                'texts': {
+                    "textOne": "The undoing of many believers today is their inability to recognize powerful but casual grace. Many often miss the people that God sent to them because there is nothing spectacular about them. Listen to this, there are many supernatural yet not spectacular people around you. There are many powerful yet not goofy graces around you. Your pastor can carry grace for the miraculous yet not dramatical. There are many destiny helpers around you that you despise because they are not theatrical.",
+
+                    "textTwo": "The reason people miss their anointed destiny helper is that they are looking for the dramatic and spectacular. Jacob never raised the dead or opened the eyes of the blind yet his presence alone can bless a nation. There is nothing spectacular about Joseph. No angel was following him around yet he possessed the anointing to bless and make great any organisation. It is very easy to miss such graces and anointing because they do not come with so much noise and paraphernalia as others. Many of you adore the sensational television healing minister. You will do anything to have your internet celebrity evangelist lay hands on you. Meanwhile, you despise your local church pastor because he is not dramatical. Don’t forget that your spiritual father is the authorised covering over you. They have the exact anointing that your destiny needs.",
+
+                    "textThree": "You must be alert to discern casual anointed individuals around you. They might be your servants, employees, employers, or friends. They might be meek, gentle, and easygoing. Don’t let their meek attitude deceive you. Don’t let what they wear discourage you. Sometimes, people with heavy anointing are casual. They don’t move with an entourage. They don’t shake or shout. Naaman almost missed his miracle because Elisha was too casual for him. Their meetings might not be so crowded. But they are heavily anointed and sent to you. If you despise the anointed you will miss the anointing.",
+                },
+
+                "footerTitle": 'MEDITATION',
+
+                "footerText": "The fact that the anointed looks casual does not make his anointing casual.",
+
+                // "footerTitleTwo": 'QUOTES',
+
+                // "footerTextTwo": "No matter how far or fast you go in the wrong direction, you will never get to your desired destination.",
+            },
+            {
+                "id": "72",
+
+                // "uniqueDate": "27/2/2023",
+                "uniqueDate": "Mar 13th 23",
+
+                "title": "HONOURING YOUR ANOINTED",
+
+                "memoryVerse": "But Jesus said to them, “A prophet is not without honour except in his own country, among his own relatives, and in his own house.”",
+
+                "bibleVerse": "MARK 6:4",
+
+                "studyBible": "MARK 6:1-6",
+
+                'texts': {
+                    "textOne": "The anointing you do not honour cannot work for you. There is no time in history when prophets and Men of God have been so dishonoured as today. This is one of the reasons we are not seeing the manifestation of the anointing in our churches as before. You cannot love the anointing and dishonour the anointed. Many believers do not prosper today despite their belief in God. But please note that your prosperity lies in the honour you give to the anointed. I recently visited one of our first-timers in her restaurant. She was so excited to see me. She received me well and gave me gifts when I was leaving. She later shared with my wife how her business has been greatly impacted after my visit. Meanwhile, there are people you will be begging to visit and they will decline. It was how she received me that blessed her business.",
+
+                    "textTwo": "Whether they are young or old, rich or poor, bishops or brothers, famous or unpopular. The anointing makes the difference. They might be your family or friends, if you don’t honour them as the anointed you cannot receive the reward of the anointing in their lives. Honour is what makes the anointing flow. If your son is a prophet and all you see is your son, his anointing will never work for you. If the pastor is your childhood friend and all you see is your friend, you can't draw from his grace. This is why prophets can’t do mighty works in their family, local churches, or countries. Don’t allow familiarity to rob you of your blessings.",
+
+                    "textThree": "Listen, one of the reasons the enemy attacks the anointed with blackmail and defamation is to discredit the anointed. This is why he always amplifies the weakness, mistakes, and errors of your pastors to you so that you can find a “genuine” reason to dishonour him or her. The enemy knows that as long as you dishonor your anointed, his anointing can never work for you. If you want to receive what God has sent your pastor to give you, you must close your hearts to his errors and focus on honouring him. Honouring your Man of God is your legal obligation, not a choice. It is the key to your prosperity. It is your access to receiving the grace that he carries. Even the anointed can not profit without honouring his anointing.",
+                },
+
+                "footerTitle": 'MEDITATION',
+
+                "footerText": "“Let the elders who rule well be counted worthy of double honour, especially those who labour in the word and doctrine.” I Timothy 71:5",
+
+                // "footerTitleTwo": 'QUOTES',
+
+                // "footerTextTwo": "No matter how far or fast you go in the wrong direction, you will never get to your desired destination.",
+            },
+            {
+                "id": "72",
+
+                // "uniqueDate": "27/2/2023",
+                "uniqueDate": "Mar 13th 23",
+
+                "title": "HONOURING YOUR ANOINTED",
+
+                "memoryVerse": "But Jesus said to them, “A prophet is not without honour except in his own country, among his own relatives, and in his own house.”",
+
+                "bibleVerse": "MARK 6:4",
+
+                "studyBible": "MARK 6:1-6",
+
+                'texts': {
+                    "textOne": "The anointing you do not honour cannot work for you. There is no time in history when prophets and Men of God have been so dishonoured as today. This is one of the reasons we are not seeing the manifestation of the anointing in our churches as before. You cannot love the anointing and dishonour the anointed. Many believers do not prosper today despite their belief in God. But please note that your prosperity lies in the honour you give to the anointed. I recently visited one of our first-timers in her restaurant. She was so excited to see me. She received me well and gave me gifts when I was leaving. She later shared with my wife how her business has been greatly impacted after my visit. Meanwhile, there are people you will be begging to visit and they will decline. It was how she received me that blessed her business.",
+
+                    "textTwo": "Whether they are young or old, rich or poor, bishops or brothers, famous or unpopular. The anointing makes the difference. They might be your family or friends, if you don’t honour them as the anointed you cannot receive the reward of the anointing in their lives. Honour is what makes the anointing flow. If your son is a prophet and all you see is your son, his anointing will never work for you. If the pastor is your childhood friend and all you see is your friend, you can't draw from his grace. This is why prophets can’t do mighty works in their family, local churches, or countries. Don’t allow familiarity to rob you of your blessings.",
+
+                    "textThree": "Listen, one of the reasons the enemy attacks the anointed with blackmail and defamation is to discredit the anointed. This is why he always amplifies the weakness, mistakes, and errors of your pastors to you so that you can find a “genuine” reason to dishonour him or her. The enemy knows that as long as you dishonor your anointed, his anointing can never work for you. If you want to receive what God has sent your pastor to give you, you must close your hearts to his errors and focus on honouring him. Honouring your Man of God is your legal obligation, not a choice. It is the key to your prosperity. It is your access to receiving the grace that he carries. Even the anointed can not profit without honouring his anointing.",
+                },
+
+                "footerTitle": 'MEDITATION',
+
+                "footerText": "“Let the elders who rule well be counted worthy of double honour, especially those who labour in the word and doctrine.” I Timothy 71:5",
+
+                // "footerTitleTwo": 'QUOTES',
+
+                // "footerTextTwo": "No matter how far or fast you go in the wrong direction, you will never get to your desired destination.",
+            },
+            {
+                "id": "73",
+
+                // "uniqueDate": "27/2/2023",
+                "uniqueDate": "Mar 14th 23",
+
+                "title": "HONOURING YOUR ANOINTED PART 2",
+
+                "memoryVerse": "Hear me, O Judah and you inhabitants of Jerusalem: Believe in the Lord your God, and you shall be established; believe His prophets, and you shall prosper.",
+
+                "bibleVerse": "2 CHRONICLES 20:20",
+
+                "studyBible": "2 SAMUEL 1:1-16",
+
+                'texts': {
+                    "textOne": "To continue yesterday’s discussion. I think the church has a lot to learn in this area. The church today easily joins the world to crucify and kill her prophets. We are not experiencing the power of God in the church because of the height of dishonour amongst us.  Mantles are not being released to the next generation because the price of honour is not found among us anymore. This ignorance and pride are rather killing us. When a pastor falls, other pastors and churches are the first to throw the stone. Listen to this, the fall of a prophet doesn’t cancel his anointing.",
+
+                    "textTwo": "Before you start arguing, let’s learn from David. If there is anyone who should dishonour Saul, it’s David. David knew Saul was possessed by a demon, lost his mind, and was not in tune with God. God already promised the kingdom to David. Yet David understood that Saul was still the anointed of the Lord. He yet honoured him with all his heart. David understood that Saul still has the batton. And he can’t forcefully take the baton from him. He has the mantle and he must be the one to release it. Therefore, he honoured him despite all his weaknesses and errors of Saul till his death.",
+
+                    "textThree": "Using the excuses of the errors of your prophet or pastor to misbehave and dishonour them will only rob you of your throne. The anointed may do things you don’t understand, he may be unconventional with his approach. If there is one big lesson I have learnt in the past two years, it is never to dishonour the prophets in my heart, not to talk of in my mouth and behaviours. You are on the path to destruction if you are fond of abusing spiritual fathers, leaders, and mentors around you. Not only must you stop but you must distance yourself from people who do such. Celebrate your man of God. Receive them as your prophet. I know everyone wants to be a prophet today but you must have a reference.",
+                },
+
+                "footerTitle": 'MEDITATION',
+
+                "footerText": "When the Bible says “touch not my anointed” even the backslidden ones are included.",
+
+                // "footerTitleTwo": 'QUOTES',
+
+                // "footerTextTwo": "No matter how far or fast you go in the wrong direction, you will never get to your desired destination.",
+            },
+            {
+                "id": "74",
+
+                // "uniqueDate": "27/2/2023",
+                "uniqueDate": "Mar 15th 23",
+
+                "title": "HONOURING YOUR ANOINTED PART 3",
+
+                "memoryVerse": "Let the elders who rule well be counted worthy of double honour, especially those who labour in the word and doctrine.",
+
+                "bibleVerse": "1 TIMOTHY 5:17",
+
+                "studyBible": "2 CORINTHIANS 8:1-7",
+
+                'texts': {
+                    "textOne": "Today I want to teach you how to create a system of honour both personally and as a church. As you get closer to your pastor, you see him go to the toilet, see him cry, eat, play, and do things that ordinary humans do. That’s because he is human too. Like some of us, we don’t pretend and we do not delight in you seeing us as special or different. When this happens, naturally your honour for him might decline. This is why it is dangerous to be close to an anointed person. The fact that a man or woman is anointed does not make him less human. Therefore, you must create a system that ensures that your honour for him increases.",
+
+                    "textTwo": "I can say that the person that honours me most as an anointed person is my wife. Yet no one knows my weaknesses, errors, mistakes or is closer to me than her. Before anyone started giving me an honorarium, my wife will bless me with her money after a powerful sermon and say “I must sow into this anointing”. She still does it till now. As a person, one of the ways you honour your man of God is by blessing him financially and materially (Gal 6:6, 1Cor 9:11). Separate some amount of money to bless your anointed. It can be monthly, weekly or yearly. This must be something that costs you something, not just anything. This is a system of honour.",
+
+                    "textThree": "As a local church, choose a day annually to celebrate and give good gifts to your Man of God. Some call it Pastors’ Appreciation Day. Be intentional about it. Also, speak well of your Pastor everywhere you go. Don’t just stand where people abuse your pastor or any pastor, and you are mute. Defend your pastor in times of persecution and stand with them in hard times. This is how you can receive from his anointing. Support the vision of your Pastor even when you don’t understand it. Share his messages with your friends, invite people to his meetings, buy his materials, and be proud of him.",
+                },
+
+                "footerTitle": 'MEDITATION',
+
+                "footerText": "It is dishonouring to wait till your anointed asks or be in lack before you bless them with your material blessing.",
+
+                // "footerTitleTwo": 'QUOTES',
+
+                // "footerTextTwo": "No matter how far or fast you go in the wrong direction, you will never get to your desired destination.",
+            },
+            {
+                "id": "75",
+
+                // "uniqueDate": "27/2/2023",
+                "uniqueDate": "Mar 16th 23",
+
+                "title": "HOW DO I HEAR GOD? ",
+
+                "memoryVerse": "God, who at sundry times and in divers manners spake in time past unto the fathers by the prophets.",
+
+                "bibleVerse": "HEBREWS 1:1",
+
+                "studyBible": "ISAIAH 30:21",
+
+                'texts': {
+                    "textOne": "After I got born again, when I heard some men of God in a meeting say “God said there is somebody here” I used to think, when did God say that? How come I didn't hear it? Will God ever speak to me? Will I ever hear the voice of God? This was my concern as a growing believer, but thanks be to our heavenly father who is willing to talk to us more than we are willing to hear.",
+
+                    "textTwo": "God speaks to us in various ways. The first authentic way God speaks to us is through His word. God’s word is His voice over your life. Don't say God is not speaking to you when your bible is closed. The scripture is the written voice of God. The word of God is Christ Himself. It is more authentic than any other way. You cannot miss it when you hear Him through the scripture (Hebrews 1:2). Through the scriptures, you can be led daily, and you can discover the will of God for you in any area of life.",
+
+                    "textThree": "Secondly, God speaks to us through the still small voice. This is another common way God speaks to us. This is very similar to the inner witness. This is God speaking to your mind. You must train your mind to hear and obey this voice by faith. God can give you direction, clarity, or ideas in this way. The problem with us is that we always think it has to be dramatic when He speaks. God led me through this way most of the time.",
+
+                    "textFour": "God also speaks to us through an audible voice. God called Samuel in an audible voice in first Samuel chapter three. You can hear God as if He is speaking to your ears. God also speaks to us through dreams and visions as He did to the prophets, priests, and kings, especially in the Old Testament. (Job 4:13-16, Gen 46:2, Jud 7:13-15, Is 6:1-8.). Lastly, God speaks to us through people. They may be men of God, prophets, brothers, or sisters in the church. He speaks to us through situations. However, God primarily speaks to us directly and then confirms it through others.",
+                },
+
+                "footerTitle": 'MEDITATION',
+
+                "footerText": "Know how God speaks to you and stick with it.",
+
+                // "footerTitleTwo": 'QUOTES',
+
+                // "footerTextTwo": "No matter how far or fast you go in the wrong direction, you will never get to your desired destination.",
+            },
+            {
+                "id": "76",
+
+                // "uniqueDate": "27/2/2023",
+                "uniqueDate": "Mar 17th 23",
+
+                "title": "YOUR HAPPINESS IS YOUR RESPONSIBILITY",
+
+                "memoryVerse": "Rejoice in the Lord always. Again I will say, rejoice!",
+
+                "bibleVerse": "Phlipphians 4:4",
+
+                "studyBible": "Phlipphians 4:4-8",
+
+                'texts': {
+                    "textOne": "In Nigeria where I live, it is rare to find someone who is happy, jovial, and excited on a normal day. Almost everyone is angry about someone. People get mad at the smallest thing. There are a few times I have picked a taxi and the driver was rude and angry without reason. Sometimes, the supermarket attendant was just mad for no reason. I understand that many things could trigger such an attitude. However, you can choose to be happy.",
+
+                    "textTwo": "The responsibility of your joy is yours to choose. Never allow any external factor, person or circumstances to determine your happiness. Happiness is not a function of what’s happening around you, it’s a function of what’s happening within you. It is how you’ve trained your mind to react to things that determine your happiness. Negative thoughts and pessimism rob you of your happiness. Whatever controls your happiness controls your life. If you allow people to determine when you are happy, then they can control your life. This is why it is your responsibility to control your mood.",
+
+                    "textThree": "You can be happy when you choose to. You can be happy whether things are good or bad. You can be happy whether you fail or succeed. You can be happy when you have everything and when you have nothing. You can be happy on Monday just as you are happy on Saturday. You can be happy whether you are married or single. You are responsible for your happiness. Choose to be happy at all times. Happiness provides the impetus and energy that you need to succeed. Nobody wants to help or associate with a sadist. Depression is not far from a sad heart. Sickness is close to a man who is always angry. Keep a grateful heart and you will have more reasons to be happy than to be sorrowful. It’s your decision, not your situation that determines your happiness.",
+                },
+
+                "footerTitle": 'CONFESSION ',
+
+                "footerText": "I choose joy over sorrow. Irrespective of what is happening to me, I choose to be happy. I am joyful every day, every time and everywhere. I reject anxiety and I permit joy. I do not allow negative thoughts in my mind. I am thankful always. I expect the best every day.",
+
+                // "footerTitleTwo": 'QUOTES',
+
+                // "footerTextTwo": "No matter how far or fast you go in the wrong direction, you will never get to your desired destination.",
+            },
+            {
+                "id": "77",
+
+                // "uniqueDate": "27/2/2023",
+                "uniqueDate": "Mar 18th 23",
+
+                "title": "GIVE ATTENTION TO “LITTLE” (PART1)",
+
+                "memoryVerse": "Honour all people. Love the brotherhood. Fear God. Honour the king.",
+
+                "bibleVerse": "1 PETER 2:17",
+
+                "studyBible": "JOB 8:7",
+
+                'texts': {
+                    "textOne": "In our quest to experience the spectacular, we often miss the ordinary. While we focus on the sensational, we miss the regular. In the bid to see the miraculous in our lives, we jettison the usual. Any man who cannot give attention to little cannot experience the great. The reason you haven’t seen the miraculous you are looking for is that you kept overlooking the ordinary. Without the ordinary rod of Moses, the Red Sea cannot be parted. The reason you haven’t experienced the multiplication in your finances is that you kept disregarding the little you have. Without the five loaves of bread and two fishes, Jesus cannot feed the five thousand. The widow in 2 Kings chapter four remained in debt until she recognized that the solution to her financial crisis was a bottle of oil around the corner of her room.",
+
+                    "textTwo": "A lot of people want to meet great people. They want to have billionaires, governors, and important people in their circle, but they maltreat ordinary people. Without Saul’s servant, he will never be king. Without Mordecai, Esther will never be Queen. The ordinary people you disregard today may hold the key to your breakthrough tomorrow. Give attention to small things or people in your life because this is the door to your greatness. After Esau wasted his birthright through greed, he suddenly realised that a little blessing can change his life (Genesis 27:38)",
+
+                    "textThree": "Give attention to the way you manage little opportunities. Your dream is to win an Oscar but how do you take the opportunity to act in a drama before the fifty members of your church? I know you want to sing to millions of people, but when you had the opportunity to back up for someone in the church, did you take that privilege seriously or it meant nothing to you? Your faithfulness to little things is what determines your access to great things. The way you treat the ordinary is what opens doors to the supernatural for you. Jesus appreciated the little bread and fish, he multiplied them. You complain and murmur about the little, that’s why it disappeared. The man with one talent complained and it was taken away from him.",
+                },
+
+                "footerTitle": 'MEDITATION',
+
+                "footerText": "Great opportunities are hidden in small ones. If you desire greater ones, appreciate the small ones and maximize them.",
+
+                // "footerTitleTwo": 'QUOTES',
+
+                // "footerTextTwo": "No matter how far or fast you go in the wrong direction, you will never get to your desired destination.",
+            },
+            {
+                "id": "78",
+
+                // "uniqueDate": "27/2/2023",
+                "uniqueDate": "Mar 19th 23",
+
+                "title": "GIVE ATTENTION TO “LITTLE” (PART 2)",
+
+                "memoryVerse": "Lest there be any fornicator or profane person like Esau, who for one morsel of food sold his birthright.",
+
+                "bibleVerse": "HEBREWS 61:21",
+
+                "studyBible": "GENESIS 25:29-34",
+
+                'texts': {
+                    "textOne": "The same way many little things determine your greatness, little things can also bring your downfall.  The greatest factors that have destroyed a lot of people are little mistakes. Great men have fallen because of little unfaithfulness. Little greed and covetousness were what destroyed Esau. One little disobedience was what destroyed the human race through Adam's sin. Little unforgiveness can take a man to hell. A little mistake can destroy a destiny. One fornication can result in HIV or unwanted pregnancy. Don’t joke with the tragedy little errors and mistakes can cause you.",
+
+                    "textTwo": "Most times, a little bad attitude that you didn’t deal with may be what will deal with you in the future. Sometimes, the little weakness that you didn’t tackle may be what stands against you in the face of your greatest opportunity. Sometimes, the little things that you didn’t know in an exam are what bring a carryover in a course. Sometimes, one little thing you fail to do in an interview is what makes you lose the job.  You must know that sometimes, little things are what make all the difference. What destroyed Saul was a little mistake of offering the sacrifice when he was just supposed to wait for Samuel to come. He lost his kingdom through nastiness.",
+
+                    "textThree": "It is little foxes that destroy the vine. Little things like not greeting people, coming late to meetings, not dressing well, carelessness, lack of planning and discipline, laziness, and sleepiness can destroy a man. With all the sacrifices that Moses made for God and the Israelites, he couldn’t get to the promised land because he struck the rock instead of touching his head. ",
+                },
+
+                "footerTitle": 'MEDITATION',
+
+                "footerText": "Little mistakes can destroy great efforts.",
+
+                // "footerTitleTwo": 'QUOTES',
+
+                // "footerTextTwo": "No matter how far or fast you go in the wrong direction, you will never get to your desired destination.",
+            },
+            {
+                "id": "79",
+
+                // "uniqueDate": "27/2/2023",
+                "uniqueDate": "Mar 20th 23",
+
+                "title": "UPDATE YOUR MIND",
+
+                "memoryVerse": "Do not conform any longer to the pattern of this world, but be transformed by the renewing of your mind. Then you will be able to test and approve what God's will is — his good, pleasing and perfect will.",
+
+                "bibleVerse": "ROMANS  12:2",
+
+                "studyBible": "MATTHEW 12:33-37",
+
+                'texts': {
+                    "textOne": "The mind is one of the most powerful components of your being. The mind refers to the core of your soul. Most times the Bible refers to it as the heart. The scriptures say a lot about it, for instance, “Out of the heart flows the issues of life” (Proverbs 4:23)  “As a man thinks in his heart so is he” (Proverbs 23:7) “Out of the good treasure of the heart, brings good things” (Matthew 12:35). Your life could be out of order if you don’t know how to use this powerful engine called the mind.",
+
+                    "textTwo": "The mind is like an operating system of a computer. It defines the capacity of the system. I just purchased an iPad recently and I was installing some apps that can help me to be more productive. The iPad was not a recent version, it was made a few years back. I went to the apple store to download a particular app and once I pressed download, it brought up this message “This Application Requires IOS 14 or later. You must update to IOS 14 to download or use this application”. Then God began to teach me some lessons here.",
+
+                    "textThree": "There are many things available to us as children of God in Christ but we can’t download them because our mind is obsolete. We know that it’s available but every attempt to access it proves abortive. This is because our minds (IOS system) require a more recent version to be able to access and use that application (blessing). Sometimes, we are shut from accessing a realm we used to access because the criteria to now access it has been upgraded and we will need the upgrade of our mind. The fact that it’s available doesn’t mean it’s accessible. There is a requirement that makes it usable.",
+
+                    "textFour": "Upgrading your mind requires constant openness to the workings of the Spirit. It takes enlarging your capacity to be able to dream bigger for God. It may require longer hours of prayer, fasting, studying, and staying in God’s presence. It may require loving more or being more merciful to others. You may need to have more faith. You need to find out what you need to upgrade to access the realm you desire. ",
+                },
+
+                "footerTitle": 'MEDITATION',
+
+                "footerText": "Whatever it requires, ensure your operating system is updated so that you can enjoy up-to-date blessings.",
+
+                // "footerTitleTwo": 'QUOTES',
+
+                // "footerTextTwo": "No matter how far or fast you go in the wrong direction, you will never get to your desired destination.",
+            },
+            {
+                "id": "80",
+
+                // "uniqueDate": "27/2/2023",
+                "uniqueDate": "Mar 21st 23",
+
+                "title": "CHECK YOUR MOTIVE",
+
+                "memoryVerse": "We justify our actions by appearances; God examines our motives. (THE MESSAGE)",
+
+                "bibleVerse": "PROVERBS 21:2",
+
+                "studyBible": "1 CORINTHIANS 4:1-5",
+
+                'texts': {
+                    "textOne": "Looking through the scriptures, we can come to conclude that God doesn't just judge our actions, He’s much more interested in our motives. The motive is the reason behind the actions. Some years ago, when I eventually agreed to start the Lightlife Ministry, God decided to check why I agreed. I had a discussion with my fiance who happens to be my wife now. Knowing that it’s not a smooth ride, I decided to paint a great picture of ministry to her. I told her we will travel the world preaching the gospel. How we will run a big ministry, drive good cars and so many beautiful things.",
+
+                    "textTwo": "On a fateful day, the Spirit of God came to me and asked me a series of questions. What if you never travelled out of this country to preach the gospel? What if you never have a big ministry? What if you are never known? What if you never buy a car? These among many other disturbing questions were asked? I knew God wasn’t trying to pull my legs. After thinking about it, I sadly answered that I will still give my all to God. I asked my wife the same questions and she also said she will still go ahead and marry me. More than two years after starting the ministry we can not boast of ten committed members. I was as poor as a church rat. Nothing seems to be working. Thank God things are getting better. God was trying to test our motive all this while.",
+
+                    "textThree": "The reason you take an action is more important than the action. He weighs your motive. Your action can be right but if your motive is wrong, God will mark that action wrong. Prov 21:2 We justify our actions by appearances; God examines our motives. Why did you give that seed to the pastor? Why are you in that relationship? Why do you want to start your ministry? Why do you want to help that person? Your why is more important than your what. A right action suddenly becomes wrong once the motive is wrong. The reason many start well but do not end well is because of a wrong motive.",
+
+                    "textFour": "Check your heart. Ensure that your mind is pure. Let your actions be backed up with good intentions so that you do not lose your rewards. Men may not discern your motive but God will.",
+                },
+
+                "footerTitle": 'PRAYER',
+
+                "footerText": "Father, purify my heart. Help me get rid of every evil motive. Help me to do all things in the spirit of faith, love and truth.",
+
+                // "footerTitleTwo": 'QUOTES',
+
+                // "footerTextTwo": "No matter how far or fast you go in the wrong direction, you will never get to your desired destination.",
+            },
+            {
+                "id": "81",
+
+                // "uniqueDate": "27/2/2023",
+                "uniqueDate": "Mar 22nd 23",
+
+                "title": "TEST BEFORE TESTIMONY",
+
+                "memoryVerse": "Then David said to Saul, “Let no man’s heart fail because of him; your servant will go and fight with this Philistine.”",
+
+                "bibleVerse": "1 SAMUEL 17:32 ",
+
+                "studyBible": "I SAMUEL 17:23-32 ",
+
+                'texts': {
+                    "textOne": "David, though anointed as king amongst his brethren, was not permitted to be enthroned as king until he eliminated the limitation called Goliath. Your success experience is just behind that gate of limitation. In Goliath lies the access to the throne. So also, behind barriers lie the opportunities to succeed. If you avoid it, you will never be able to find success. If you confront it, you will locate your greatness. Many people do not know that in their test is the promotion, in the mess is their message, and in the test is their testimony. Once you know this you won’t avoid them.",
+
+                    "textTwo": "If you must be limitless, you must learn how to see opportunities in problems. There is no mountain anywhere, every man's ignorance they say is his mountain. The problem is that our minds have been framed to see enemies more than friends,  curses more than blessings, demons more than angels, limitations more than possibilities, barriers more than opportunities, and negativities more than positivities. Even Christians still struggle with this mindset. I tell you that there are more opportunities than problems.",
+
+                    "textThree": "Impossibility has become the theme of our hearts, therefore, the song in our mouths and the evidence in our lives. You need to train your mind to think in terms of possibilities, only then can you see things happening in your life. Limitations and possibilities both start from the heart. A defeated mind cannot experience victory. What your mind sees is what your life experiences. A lot of Christians are loud in their confessions but timid in their actions. You must know that the answer to your Sunday confession might show up on Monday as a challenge. If you are not bold to face it, you won’t see your answer. I can imagine the young David praying “Lord take me to the throne on Sunday, only for Goliath to show up on Monday. Be smart to know how your answered prayers appear.",
+                },
+
+                "footerTitle": 'CONFESSION',
+
+                "footerText": "There are no impossibilities in my life. My mind thinks only of possibilities. There are no mountains I cannot climb, no sea I cannot cross, and no storm that cannot be still.",
+
+                // "footerTitleTwo": 'QUOTES',
+
+                // "footerTextTwo": "No matter how far or fast you go in the wrong direction, you will never get to your desired destination.",
+            },
+            {
+                "id": "82",
+
+                // "uniqueDate": "27/2/2023",
+                "uniqueDate": "Mar 23rd 23",
+
+                "title": "THE ART OF FOLLOWING",
+
+                "memoryVerse": "Follow my example, as I follow the example of Christ.",
+
+                "bibleVerse": "1 Cor 11:1",
+
+                "studyBible": "MARK 1:14-20",
+
+                'texts': {
+                    "textOne": "Many people love to lead today but they hate to follow. They love the glory of leadership but they hate the idea of followership. Can I give you the bad news, you can never be a great leader if you are a poor follower. The art of leadership starts from learning the art of followership. Especially in Christianity, we lead by following. The reason a lot of people hate the idea of followership is this erroneous desire to be the boss (the number one person) Many believers want to start their ministries, churches, NGOs, and businesses because they don’t want to serve anyone. They don't want to submit to anyone. Well, you don’t have to be the number one man to be a leader. You can simply lead just by following.",
+
+                    "textTwo": "It is the rule of life that a leader must be a follower. No matter how smart, intelligent or anointed your leader is, he must be following someone. It does not have to do with position. Jesus is following the Father, yet He is God. To lead God’s people effectively, Jesus commanded us to follow Him. Paul commanded Timothy to follow him. Following is an integral part of leadership. Without following, Jesus cannot make you the leader you are born to be. The process of following is the process of becoming. You can only become great by following. Matt 4:19-20 \" Come, follow me,\" Jesus said, \"and I will make you fishers of men.\"  At once they left their nets and followed him. Nobody will ever follow you if you are not following someone. Jesus was greater than John yet he followed him at some point. A man who is following nobody can’t be trusted.",
+
+                    "textThree": "Who should you follow? Firstly you must follow Jesus. Jesus is our ultimate example. You must walk in His steps as He walked in the step of the Father. Also, follow a man who is following Christ. Like Paul, several people have gone ahead of you. They have walked the path you are walking. Follow them. I do not say that these men will be perfect. There are believers today following nobody because everyone is too sinful for them to follow. There are lots of things you can learn by following your spiritual head or a mentor. The best way to learn is to follow closely. A teacher’s best secret is not taught in the classroom, it's taught through their lifestyle. Learn by observation when you follow. Most importantly, don’t follow too many people. Follow those whose path is similar to yours. I have never listened to many of the most popular preachers on the internet today. I picked my teachers long ago and I follow them religiously. Follow a leader, not a celebrity or an internet sensation.",
+                },
+
+                "footerTitle": 'MEDITATION',
+
+                "footerText": "You cannot lead without following.",
+
+                // "footerTitleTwo": 'QUOTES',
+
+                // "footerTextTwo": "No matter how far or fast you go in the wrong direction, you will never get to your desired destination.",
+            },
+            {
+                "id": "83",
+
+                // "uniqueDate": "27/2/2023",
+                "uniqueDate": "Mar 24th 23",
+
+                "title": "CELEBRATE OTHERS SUCCESS",
+
+                "memoryVerse": "Saul was very angry; this refrain galled him. \"They have credited David with tens of thousands,\" he thought, \"but me with only thousands. What more can he get but the kingdom?\" ",
+
+                "bibleVerse": "1 Sam 18:8-9",
+
+                "studyBible": "1 SAMUEL 18:1-12",
+
+                'texts': {
+                    "textOne": "The story of the first king of Israel had an inspiring beginning but a sad ending. There are many life lessons to learn from the story of Saul. Saul had a Goliath problem for years and in a military showdown that lasted for forty days, he couldn’t solve this problem. Suddenly David showed up and killed Goliath. Saul was happy and excited, and he promoted David immediately. Everything was going smoothly between Saul and David until the women began to sing the praises of David above that of Saul. Saul killed his thousands and David his ten thousand. This was the beginning of Saul's destruction again.",
+
+                    "textTwo": "You will think that Saul should be excited that he had a skilful young warrior in his team. That he should be excited about the future of David. In fact, you will think that he should reward David with greater riches. But this is what jealousy does to a leader. Saul had the throne, but he was not content. He doesn't like anyone to outshine him. He wants to be the trending song in town. He was sad as soon as he lost the number one position on the chat list. Many of us are like Saul. You are happy with your life until someone begins to do better than you. Whether you will continue to rise in life or not is dependent on how you celebrate others' success. If you are always threatened by people's progress, you can never be great in life. The spirit of pride, jealousy, and greed made him make an enemy with someone who is supposed to be his mentee. Unfortunately, a lot of leaders today are like Saul.",
+
+                    "textThree": "I love to celebrate people. When I see a gift or prospect in my followers, I love to allow them to showcase it and I celebrate them. I am so secure in my calling that it doesn't matter what others do. I am content. I went to Lagos recently to a popular leaders' conference with many of our church leaders. Then I met this popular young pastor and we talked and discussed. After taking pictures, I told him a lot of my leaders follow him online and they would like to take pictures with him. I called them and we all took a picture with him. Later he was telling me that I must be a very secure leader to allow my leaders to follow him and hang out around him. I laughed and told him, there is no need for competition in life. I cannot be the best by comparing myself to others. I can only be the best God wants me to be. As a leader, give room to others under you who are better than you to shine. It doesn't reduce you, it increases you.",
+                },
+
+                "footerTitle": 'MEDITATION',
+
+                "footerText": "Be comfortable with others doing better than you. Celebrate others' success because that’s your pathway to success.",
+
+                // "footerTitleTwo": 'QUOTES',
+
+                // "footerTextTwo": "No matter how far or fast you go in the wrong direction, you will never get to your desired destination.",
+            },
+            {
+                "id": "84",
+
+                // "uniqueDate": "27/2/2023",
+                "uniqueDate": "Mar 25th 23",
+
+                "title": "LIVING BY FAITH",
+
+                "memoryVerse": "For in it the righteousness of God is revealed from faith to faith; as it is written, \"The just shall live by faith.\" ",
+
+                "bibleVerse": "ROMANS 1:17",
+
+                "studyBible": "ROMANS 4:13-22",
+
+                'texts': {
+                    "textOne": "The life of a believer is a life of faith. While others live by sight, we live by faith. This faith walk is what majorly separates a believer’s life from an unbeliever’s life. As a believer, sin is not just fornication, lies, malice, idolatry and many more. Anything without faith is a sin. Faith is not a Sunday thing; it is a daily thing. Faith is not only when you are in trouble and looking for a way out. Faith-life must be your lifestyle.",
+
+                    "textTwo": "The world makes judgments and decisions based on the things they see, read on news, feelings or events happening around them. However, we make judgement based on the word of God. We speak in accordance with the word, not our situation. When sick, we speak health, when broke, we confess abundance, when disappointed, we rejoice, when defeated, we shout victory. This is why the world does not understand our way of life.",
+
+                    "textThree": "Believers must know that it is okay for them to be misunderstood. It’s okay for the world to say you are wired and different. It will be abnormal if they don’t say so. Faith-life is the opposite of world-life. Don’t attempt to be understood because that will make you live the world-life. How can you sow your last kobo when there is no hope of help from anywhere? FAITH. How can you leave America and come to a village in Africa as a missionary? FAITH. How can you take the holy communion and say you are healed without going to the hospital? FAITH. How can you believe in a God you have never seen? FAITH.  This is the faith-life we are called to live.",
+                },
+
+                "footerTitle": 'MEDITATION',
+
+                "footerText": "Faith-life might not please the world but it pleases God.",
+
+                // "footerTitleTwo": 'QUOTES',
+
+                // "footerTextTwo": "No matter how far or fast you go in the wrong direction, you will never get to your desired destination.",
+            },
+            {
+                "id": "85",
+
+                // "uniqueDate": "27/2/2023",
+                "uniqueDate": "Mar 26th 23",
+
+                "title": "THE WORKING FAITH",
+
+                "memoryVerse": "For as the body without the spirit is dead, so faith without works is dead also.",
+
+                "bibleVerse": "James 2:26",
+
+                "studyBible": "JAMES 2:17-26",
+
+                'texts': {
+                    "textOne": "Even though faith comes by hearing, it doesn’t work (grow) by hearing. Many believers have a lot of faith yet haven’t been able to move one mountain. They believe the word of God they have heard but it has just not worked in their lives. They believe in the words and prophecy of their pastor but they have tried it and it doesn’t work personally. This is because there is a difference between having faith and using faith.",
+
+                    "textTwo": "It is one thing to acquire something and it is another thing to have the necessary skill to put it to use. While acquiring faith comes by hearing, using it and getting results by it does not come by hearing. The hearing of faith is the first level to a faith-life not the end in itself. If you must get results by faith, there is a higher responsibility to be fulfilled with what you have acquired through hearing. For instance, the hearing of faith brings the Holy Spirit into your heart, but your result in life is dependent on what you do with the Holy Spirit on your inside (Gal 3:2).",
+
+                    "textThree": "So, does faith work or grow? Faith grows through obedience to the word of faith. Every atom of truth you hear places a burden or demand on you. At times, that demand is to do something and sometimes it is to do nothing. Doing something when it looks like you can’t do anything and doing nothing when you are pressed to do something.",
+
+                    "textFour": "Many believers today have what I called “constipated faith”. They are loaded with faith but they are impotent because their system has not been able to digest any, therefore, it's not usable in life. Putting to practical use the word of faith you have heard is what puts your faith to work.",
+                },
+
+                "footerTitle": 'MEDITATION',
+
+                "footerText": "James 2:26: For as the body without the spirit is dead, so faith without works is dead also.",
+
+                // "footerTitleTwo": 'QUOTES',
+
+                // "footerTextTwo": "No matter how far or fast you go in the wrong direction, you will never get to your desired destination.",
+            },
+            {
+                "id": "86",
+
+                // "uniqueDate": "27/2/2023",
+                "uniqueDate": "Mar 27th 23",
+
+                "title": "THE GREATEST RESPONSIBILITY OF A LEADER",
+
+                "memoryVerse": "I no longer call you servants, because a servant does not know his master's business. Instead, I have called you friends, for everything that I learned from my Father I have made known to you",
+
+                "bibleVerse": "John 15:15",
+
+                "studyBible": "JOHN 14:15-21",
+
+                'texts': {
+                    "textOne": "The greatest tragedy of our generation is seeing mentors competing with their mentees. I tell you that there is no time we have a shortage of true leadership than now. A lot of leaders are insecure and thereby unable to fulfil their responsibilities of raising others. As a leader, you must be secured in your calling and purpose. You are not called to be the best among others, but to be the best you are created to be. A lot of leaders are threatened by the gifts and skills of their followers. They feel insecure when they see people who can preach more than them, write better than them or do better than what they do. The greatest responsibility of a leader is to help discover, nurture, and deploy their followers in the best way they can.",
+
+                    "textTwo": "One of my leaders who runs a media outfit came to me some time ago and shared the frustration of how one of his boys always wants to lead and be ahead. He was going to let him go because it looks like he’s taking his roles. After listening to him, I told him that as a leader it is his responsibility to notice that this guy has a leadership role and push him into doing those leadership things instead of thinking they are in competition. I told him this will help him focus on more important things as this other guy is passionate about leading. I told him to mentor him in leadership and that was what he did. Today, they have a very good relationship.",
+
+                    "textThree": "Jesus is our role model. The greatness of a leader is that their followers are greater than them. As a leader, be so secure that you are willing to share all that makes you great with your people. Jesus was so secure that he was willing to leave the scene so that His disciples could take over. He taught them everything He knew, and the ones He couldn’t because of His time, He ensured that the Holy Spirit taught them. Lastly, He was willing to release his secret ingredient to them; the Holy Spirit. He gave Himself absolutely to them. He was happy that they could do what he did and he assured them that they will do greater works. Shame on you as a leader if you don't want those under you to be greater than you. You fail in your duty as a leader if you keep the secret of your success to yourself. This is why we do not have lasting organizational success in Africa. A lot of leaders are not generational thinkers. Most businesses and churches die immediately after their leaders pass. The future of your vision is what you pour into those following you.",
+                },
+
+                "footerTitle": 'MEDITATION',
+
+                "footerText": "It’s your glory when your children are greater than you.",
+
+                // "footerTitleTwo": 'QUOTES',
+
+                // "footerTextTwo": "No matter how far or fast you go in the wrong direction, you will never get to your desired destination.",
+            },
+            {
+                "id": "87",
+
+                // "uniqueDate": "27/2/2023",
+                "uniqueDate": "Mar 28th 23",
+
+                "title": "THE GREATEST RESPONSIBILITY OF A LEADER",
+
+                "memoryVerse": "God made him who had no sin to be sin for us so that in Him we might become the righteousness of God.",
+
+                "bibleVerse": "2 CORINTHIANS 5:21",
+
+                "studyBible": "ROMANS 3:24-26",
+
+                'texts': {
+                    "textOne": "A lot of believers' relationship with God is not cordial because they think God is punishing them when they are going through tough times. They condemn themselves for their sins and beg God for forgiveness over and over again. Can I tell you this, God is never going to punish you for your sins again. But Pastor, does that mean God doesn't correct me? Yes, He does chastise us but He does not punish us for our sins. The situation you are going through is not God punishing you for the sins you commit. Here’s why. On the cross, Jesus was punished for all your sins and in fact the sin of the world. The righteous judgement of God punished your sins already. God cannot punish Jesus and punish you for the same sins. That will be unrighteous of Him. God’s wrath was satisfied when Jesus was laid on the cross. 1 John 2:2 He is the atoning sacrifice for our sins, and not only for ours but also for the sins of the whole world.",
+
+                    "textTwo": "Also, God does not struggle to forgive you. Remember, His forgiveness was not based on what you do but on the sacrifice of Jesus. As long as you have faith in Christ, all your sins are already atoned for. You are already saved from God’s wrath. He can't be mad at you again. He's delighted in you. You will always have challenges as long as we are in the world. And God has given you victory over those challenges of life through Christ. You are more than a conqueror. All you need is to walk in the understanding of God’s love. God is not going to love you less because you messed up. He’d be glad to show you again and again that His love for you is everlasting.",
+
+                    "textThree": "You need to realize that you can not earn God’s forgiveness through His punishment. Sometimes we even try to punish ourselves so that it looks like we have done something to show that we are sorry. Well, that's not going to get your sins forgiven because the wages of sin is death. You can’t get your sins forgiven by starving yourself (fasting) or through prayer or some form of self-affliction to show that you are sorry. Your sins are forgiven through faith in Christ and that's all. Just repent (have a change of mind that birth a turn around in your action).  Never allow your sins to take you away from God. He loves you still.",
+                },
+
+                "footerTitle": 'MEDITATION',
+
+                "footerText": "The death, burial, and resurrection of Jesus took care of your past sin, present sin, and future sin.",
+
+                // "footerTitleTwo": 'QUOTES',
+
+                // "footerTextTwo": "No matter how far or fast you go in the wrong direction, you will never get to your desired destination.",
+            },
+            {
+                "id": "88",
+
+                // "uniqueDate": "27/2/2023",
+                "uniqueDate": "Mar 29th 23",
+
+                "title": "BREAK YOUR LIMITS",
+
+                "memoryVerse": "And the angel of the LORD appeared unto him and said unto him. The LORD is with thee, thou mighty man of valour.",
+
+                "bibleVerse": "JUDGES 6:12",
+
+                "studyBible": "JUDGES 6:1-16 ",
+
+                'texts': {
+                    "textOne": "Life is full of barriers and hindrances, and many times they are divers. Individuals face different forms of limitations and challenges. It may be spiritual, financial, material, marital, psychological, physiological, academic or relational.  Some of these obvious limitations and barriers have indeed limited many in life, but few have achieved unparalleled success despite them. Life’s limitations might have denied most people their desired joy and fulfilment, but few have used it as a stepping stone to outstanding and notable achievements.",
+
+                    "textTwo": "No man has it all easy. I know sometimes, those who are unsuccessful think that the successful ones had it easy. But I can tell you that if you see any successful man or woman, they have faced their own Goliath.  Moses; A murderer, yet became the great deliverer and Law-giver of Israel. King David; Maltreated, persecuted, fornicated, and murdered, yet he rose and became the greatest king in Israel. Gideon; Timid and fearful, yet became a valiant man of war and deliverer of Israel. Paul; a murderer and enemy of the church, yet became an apostle of Christ.",
+
+                    "textThree": "Bill Gates; His first business crashed, yet became one of the richest men in the world. Albert Einstein; could not speak until age 4, yet became the most influential man of the twentieth century. Oprah Winfrey; Gave birth at the age of 14, rejected as a TV presenter, yet she became one of the most influential women in the world. Thomas Edison; Failed 1,000 times before creating the light bulb, yet he became one of the greatest inventors in history. Vincent Van Gogh; Only sold one painting in his lifetime, yet he was one of the greatest artists of all time. Steven Spielberg; Rejected from USC twice, yet is one of the most prolific film producers of all time.",
+
+                    "textFour": "Failure is proof that limitations exist but success is also proof that limitation is an illusion. Success proves that barriers can be overcome. What looks like your limitations can be your greatest point of influence and power. There is adequacies in your inadequacies. There is an advantage in your disadvantage. Sometimes, the presence of challenges is proof that you are in the right direction.",
+                },
+
+                "footerTitle": 'CONFESSION',
+
+                "footerText": "No obstacle is powerful enough to limit me. My obstacles are my stepping stones. I turn my weaknesses into strengths and my losses become my profits.",
+
+                // "footerTitleTwo": 'QUOTES',
+
+                // "footerTextTwo": "No matter how far or fast you go in the wrong direction, you will never get to your desired destination.",
+            },
+            {
+                "id": "89",
+
+                // "uniqueDate": "27/2/2023",
+                "uniqueDate": "Mar 30th 23",
+
+                "title": "HOW TO GET FAVOUR IN YOUR WORKPLACE",
+
+                "memoryVerse": "A gift opens the way for the giver and ushers him into the presence of the great.",
+
+                "bibleVerse": "Prov 18:16",
+
+                "studyBible": "PROVERBS 4:4-13",
+
+                'texts': {
+                    "textOne": "Many divine favours as an unmerited blessing. This is true but not totally true. Some principles govern favour. There are principles that can open the door of favour to you anywhere you are. Sometimes, someone who you think is more favoured than you is doing something you are not doing. God’s grace and favour are not for some selected few. His favour is abundant to all because with God there is no favouritism. God loves everyone and has given everyone the opportunity to be favoured. Sadly, some people do not recognize this opportunity, therefore they messed it up. As an employee, employer, or someone who works with other people, how do you position yourself to be favoured?",
+
+                    "textTwo": "First, your actions matter. The way you relate with your leaders, colleagues, friends, and junior matters a lot. I have taught my members these principles and it works like magic. You want God’s and people's favour, respect them. Respect everyone you work with, whether old or young. If you are an employee let your boss know that you are delighted to work with him/her. Don’t be arrogant, see it as a privilege. Second, always come to the office before your boss or anyone for that matter. Be the first to be at meetings, and don't always give excuses for late coming. Third, do your job excellently and happily. While others are grumbling about too much work, don’t join them. Be happy doing your duty.",
+
+                    "textThree": "Fourth, do more than you are given. If you have finished your duty, help your colleagues who are still struggling with theirs. Also, once in a while go to your boss and ask them if there is something you can help them with. This will buy you a lot of favour. Help them with what others won’t help them with. Sixth, bless your boss with a gift from your salary once in a while. After your salary is sent to you, send your boss a recharge card and thank them. I know it’s your salary and you worked for it, but I'm showing you how to stand out and get favour in difficult times. Lastly, be real. Do all these things from your heart. Don’t do eye service. Don’t try to sabotage your colleagues to look good in your boss’s sight. With this wisdom, you will drive your way right into people’s hearts in your office and this will bring favour.",
+                },
+
+                "footerTitle": 'MEDITATION',
+
+                "footerText": "You can’t be arrogant and proud and expect favour at the same time.",
+
+                // "footerTitleTwo": 'QUOTES',
+
+                // "footerTextTwo": "No matter how far or fast you go in the wrong direction, you will never get to your desired destination.",
+            },
+            {
+                "id": "90",
+
+                // "uniqueDate": "27/2/2023",
+                "uniqueDate": "Mar 31st 23",
+
+                "title": "YOU HAVE DIRECT ACCESS TO THE FATHER",
+
+                "memoryVerse": "For through Him, we both have access to the Father by one Spirit.",
+
+                "bibleVerse": "EPHESIANS 2:18",
+
+                "studyBible": "1 TIMOTHY 2:1-7",
+
+                'texts': {
+                    "textOne": "In the Old Testament, God could not directly reach man because of our sins. So He raised prophets and priests who became mediators between Him and man. God speaks to these prophets and they in turn speak to the people. For instance, God raised Moses and speaks through Moses to the Israelites. This was not God’s perfect will. His perfect will is to speak directly to individuals. This was a flawed template because the imperfection of the mediator could also impair the message. Jesus came to correct the error and linked us directly to God.",
+
+                    "textTwo": "When you become born again, one of the accompanying blessings is the direct access you have to God. I know some pastors and bishops like to make you believe that they have special access to God but that is not true. As a pastor, I do not have special access to God that our members do not have. You are a child of God, He can now speak directly to you. You have direct access to Him. He doesn't need to give you instruction through someone else unless you've been insensitive. So, what is the role of my pastors and prophet? Well, you can read Ephesians chapter three to have your answer. But, know that you can access God directly. You don't need a prophet to tell you who to marry because the Holy Spirit speaks directly to you. ",
+
+                    "textThree": "A prophet I respect so much once told me that a particular sister was my God-ordained wife. Soon another person also said the same thing. However, I was not moved an inch because I know God knows how He speaks to me. And He still spoke to me that day. I was sure if it was from Him, He would have mentioned it to me. Many lazy believers today have become victims in the hand of a fake prophet. Don’t be too lazy to develop your spiritual senses so that you can access what the Father is telling you. God can confirm what He’s telling you through someone else, but He doesn't lead you through them. You are led by the Holy Ghost. In my church, I do not help people to pick their spouses. It doesn't mean that I didn't see something. But I believe you must be led by God into such decisions. ",
+                },
+
+                "footerTitle": 'MEDITATION',
+
+                "footerText": "Jesus is the perfect mediator between you and the Father.",
+
+                // "footerTitleTwo": 'QUOTES',
+
+                // "footerTextTwo": "No matter how far or fast you go in the wrong direction, you will never get to your desired destination.",
+            },
+            {
+                "id": "91",
+
+                // "uniqueDate": "27/2/2023",
+                "uniqueDate": "Apr 1st 23",
+
+                "title": "WHILE YOU WAIT, GROW",
+
+                "memoryVerse": "That you do not become sluggish but imitate those who through faith and patience inherit the promises.",
+
+                "bibleVerse": "HEBREWS 6:12",
+
+                "studyBible": "HABAKKUK 2:1-3",
+
+                'texts': {
+                    "textOne": "There is a lot we can learn from farming. Lots of life’s principles are ingrained in farming. When you plant a seed, you expect a harvest but you do not expect it the next day. There are various durations a seed takes before harvest depending on the type of seed. Anyway, what we do between the time of planting and harvesting is a principle we must apply to other aspects of our lives. We wait, but what are we waiting for? We wait for the plant to grow. But do you know that it’s not only the plant that grows, we grow too. It is not the waiting that matters but what you do while waiting. If you wait without growing, your waiting is a waste of time.",
+
+                    "textTwo": "A lot of us receive great promises from God, we have great visions and dreams, and we have amazing prophecies surrounding us, but what do we do? We wait and do nothing thinking with time, what God has promised will be done. Well, promises are not fulfilled with time, they are fulfilled with growth. What you plant never becomes fruitful just by staying in the ground and waiting for the time to pass, it grows. The magic is in the growth. Your waiting season is not the time to complain about the situation. It’s the time to cultivate your garden. Your waiting season is the time to develop capacity and build your character. It is when the harvest comes that you will be tempted to be proud, arrogant, lazy and indulge in sin.",
+
+                    "textThree": "The children of Israel didn't realise that the reason God took them forty years through the wilderness is for them to outgrow Egypt in them. God gave them the window of forty years so that they can transform their mind from slavery to freedom. But instead, they were busy complaining. Your waiting season is the season to learn patience, faith, perseverance, suffering, love, and become a better person. This is what will help you sustain your harvest. In fact, it is what will determine your harvest. God knows that if you can survive the darkness of waiting, then you can sustain the brightness of the promise. The inability to grow while you wait can sabotage your harvest.",
+                },
+
+                "footerTitle": 'MEDITATION',
+
+                "footerText": "Grow while you wait.",
+
+                // "footerTitleTwo": 'QUOTES',
+
+                // "footerTextTwo": "No matter how far or fast you go in the wrong direction, you will never get to your desired destination.",
+            },
+            {
+                "id": "92",
+
+                // "uniqueDate": "27/2/2023",
+                "uniqueDate": "Apr 2nd 23",
+
+                "title": "PUT YOUR HOPE IN THE LORD",
+
+                "memoryVerse": "Why are you cast down, O my soul? And why are you disquieted within me? Hope in God; For I shall yet praise Him, The help of my countenance and my God.",
+
+                "bibleVerse": "PSALMS 43:5",
+
+                "studyBible": "PSALMS 34:1-8",
+
+                'texts': {
+                    "textOne": "We live in troubled times all over the world. There hasn't been any time in history when the world is in more chaos than now. There is high insecurity with the rise of terrorism, kidnapping and tribal conflict. Nations are going to war against one another. Earthquakes and natural disasters are happening more often. The outbreak of strange diseases on a global scale, and food scarcity birthing hunger in many nations. Economic instability and meltdown all over the nations. It is very easy to be discouraged and sad. Above all, the leaders seem to have failed due to their cluelessness in tackling many of these problems. If the leaders have failed, what then do we do? Who then do we trust and run to? The answer is God.",
+
+                    "textTwo": "Amid the doom and gloom in the world, God has promised those who trust in Him will never be put to shame. In these troubling times, there is nowhere to run to. Even the developed nations have their share in these crises. The only place we can all run to is Jesus. The only place where you can find comfort, peace, and security is in Christ. Trust me, no government can guarantee your tomorrow. Your future is only secured in Christ. Sadly, it might get worse in the world, but it will get better for you because you are a child of God.",
+
+                    "textThree": "Put your trust in God. Be positive about the outcome of your destiny. It is your Father’s pleasure to give you the kingdom. Don’t allow what is going on around you to determine your destiny. The fact that your country is bankrupt doesn't mean your life is bankrupt. Know your heritage in Christ and praise God for it. Encourage yourself in the word of God. Don’t allow your soul to be downcasted. It is easy to be when you look around but look unto God. Put your faith in Him and you won’t be disappointed. He has never for once disappointed His children. But you must focus on His goodness and not on what is going on around you. ",
+                },
+
+                "footerTitle": 'CONFESSION',
+
+                "footerText": "LORD, I trust you absolutely",
+
+                // "footerTitleTwo": 'QUOTES',
+
+                // "footerTextTwo": "No matter how far or fast you go in the wrong direction, you will never get to your desired destination.",
+            },
+            {
+                "id": "93",
+
+                // "uniqueDate": "27/2/2023",
+                "uniqueDate": "Apr 3rd 23",
+
+                "title": "DEALING WITH DEPRESSION  (PART 1)",
+
+                "memoryVerse": "A cheerful heart is a good medicine, but a broken spirit saps a person’s strength.",
+
+                "bibleVerse": "PROVERBS 17:22",
+
+                "studyBible": "JOB 3:11-13",
+
+                'texts': {
+                    "textOne": "Depression is almost a common thing even among believers today. Irrespective of age, gender, class, status, or race, everyone has suffered from depression at one point in their lives. The rich get depressed as much as the poor. Though there is a clinical diagnosis for depression, however, it is majorly an attack directly or indirectly caused by our adversary, the devil. Since it is not the fruit of the Spirit, then it is the work of darkness. Depression is a demonic cloud over your soul.",
+
+                    "textTwo": "Depression is caused by three underlying factors, namely hurts, bitterness, and hopelessness. Hurts can be a result of disappointment, heartbreak, physical pain, and failure. Bitterness is a product of the hurt, it manifests as hatred towards people or yourself, phobias towards things, pain in the mind, and many more. Then hopelessness happens when you can't see a way out of the situation, which makes people give up because they can't see any light at the end of the tunnel. This is when depression happens.",
+
+                    "textThree": "The results of depression are diverse. Some people automatically become unproductive and some slip into some form of addiction. It might be food, sleep, drugs, or sexual addiction. Some resort to hurting themselves, and in critical cases, suicide is possible. The worst of all these causes is hopelessness. Don’t ever get to a point where you lose hope. Once hope is lost, everything is lost. A man without hope has no reason to live. This is why depression can lead to suicide. When depression sets in, there is a voice that speaks to you. A voice that tells you that you are useless. Nobody cares about you, and all sorts of evil things. This is why it must be tackled not just clinically, but spiritually. ",
+                },
+
+                "footerTitle": 'PRAYER',
+
+                "footerText": "I take authority over every spirit of depression in my life, family and friends. Every voice of strangers is silenced permanently in Jesus name.",
+
+                // "footerTitleTwo": 'QUOTES',
+
+                // "footerTextTwo": "No matter how far or fast you go in the wrong direction, you will never get to your desired destination.",
+            },
+            {
+                "id": "94",
+
+                // "uniqueDate": "27/2/2023",
+                "uniqueDate": "Apr 4th 23",
+
+                "title": "DEALING WITH DEPRESSION  (PART 2)",
+
+                "memoryVerse": "Rejoice always",
+
+                "bibleVerse": "1 THESSALONIANS 5:16",
+
+                "studyBible": "1 SAMUEL 20:1-6",
+
+                'texts': {
+                    "textOne": "Today, let's discuss how you can deal with depression and overcome it. People are often depressed over little issues, such as failing an examination. I recently heard about a sixteen-year-old girl who committed suicide because she had a credit instead of a distinction in one of her subjects in WAEC. Some are depressed over more serious issues, such as losing a marriage or a business. However, the same principles will help you stay out of it. You cannot stop hurt from coming. You can’t run away from failures, disappointment, and heartbreaks, but you can determine how you react to them. ",
+
+                    "textTwo": "Firstly, be encouraged in the Lord. There are lots of situations that can discourage and make you hopeless. But never forget that Jesus is your hope of glory. David encouraged himself in God.  To whom God was pleased to make known what is the riches of the glory of this mystery among the Gentiles, which is Christ in you, the hope of glory.—Colossians 1:27. Jesus is your anchor of hope in troubled times. You might not know how He will do it but be sure He will show up.",
+
+                    "textThree": "Second, choose joy over sorrow. Sorrow precedes depression. If the enemy can't steal your joy then you can't be depressed. There is no happy depressed man. To choose joy, be grateful for things that are working in your life over things that aren't working. ",
+
+                    "textFour": "Third, believe that all things work together for you. God often uses our fall to make us stronger. He uses our pain to make us better. The process might not be easy but you will always come out better. But he knows the way that I take; when he has tested me, I will come forth as gold-Job 23:10.  Jesus will never leave you nor forsake you. A man of faith is never depressed. Lastly, grow in the fruit of the spirit. It will be impossible to be depressed when the fruit of the spirit is at work in you. ",
+                },
+
+                "footerTitle": 'CONFESSION',
+
+                "footerText": "The joy of the Lord is my portion. I refused to be depressed. I choose joy over sorrow. I bear the fruit of the spirit.",
+
+                // "footerTitleTwo": 'QUOTES',
+
+                // "footerTextTwo": "No matter how far or fast you go in the wrong direction, you will never get to your desired destination.",
+            },
+            {
+                "id": "95",
+
+                // "uniqueDate": "27/2/2023",
+                "uniqueDate": "Apr 5th 23",
+
+                "title": "THE STORY IS FOR THE GLORY",
+
+                "memoryVerse": "I will harden the hearts of the Egyptians so that they will go in after them. And I will gain glory through Pharaoh and all his army, through his chariots and his horsemen",
+
+                "bibleVerse": "EXODUS 14:17",
+
+                "studyBible": "JOHN 9:1-7",
+
+                'texts': {
+                    "textOne": "The challenges in your life are glories in disguise; the problems you face today are opportunities in disguise. Hidden in those tests are great testimonies. As a believer, you need to know that a furnace is a place of making and grooming. Challenges cannot break you as a believer, they only make you better. God allows challenges to come to you because He wants to reveal His glory in you and not because He hates you. Have this in your mind that every challenge you face is for the glory of His name. They all surely will end in praise. ",
+
+                    "textTwo": "Therefore, the bigger the problems, the greater the glory to be revealed. Great destinies often face hard times. God wants to reveal His greatness even in your lowly state, His power in your sickness, His strength in your weakness, His wealth in your lack, and His purpose in your hopelessness. God wants to make a bold statement about your life. Just like the blind man in the passage above, God wants to reveal His work through you. No suffering, no glory. God will not prevent the enemies from pursuing you, but He makes sure they don’t catch up with you. He allowed the Egyptians to pursue the Israelites, but only to end up in the belly of the sea. The problems pursuing you cannot overtake you. It is to reveal the power of God in your life. ",
+
+                    "textThree": "This is why God doesn’t want you to focus on your problems and suffering, rather He wants you to focus on moving towards the glory (Heb 12:2: looking unto Jesus, the author and finisher of our faith, who for the joy that was set before Him endured the cross, despising the shame, and has sat down at the right hand of the throne of God). Don’t be distracted by the noise of the advancing Egyptian chariot, rather keep moving forward. Your miracle is in your forward movement. ",
+                },
+
+                "footerTitle": 'CONFESSION',
+
+                "footerText": "I see glory not suffering, God is on my side. All things work together for my good. Even in my suffering, I come forth as gold. I press on, I move forward in Jesus' name. The Story is for my Glory.",
+
+                // "footerTitleTwo": 'QUOTES',
+
+                // "footerTextTwo": "No matter how far or fast you go in the wrong direction, you will never get to your desired destination.",
+            },
+            {
+                "id": "96",
+
+                // "uniqueDate": "27/2/2023",
+                "uniqueDate": "Apr 6th 23",
+
+                "title": "DON’T CONFORM",
+
+                "memoryVerse": "Therefore \"Come out from among them and be separate, says the Lord. Do not touch what is unclean, and I will receive you.",
+
+                "bibleVerse": "2 CORINTHIANS 6:17",
+
+                "studyBible": "DANIEL 1:1-21",
+
+                'texts': {
+                    "textOne": "The call to Christianity is not a call to conformity, it is a call to be separated. It is not a call to blend in, it is a call to stand out. Every believer is saved from something into another thing, from darkness to light, from evil to good, from the world to Christ. However, not many Christians really stand out in this world today. The line of boundary between believers and unbelievers is gradually disappearing. It is no longer easy to differentiate between a believer and an unbeliever today. The culture of the world seems not to be different from that of many Christians. The pursuit of unbelievers and believers seems to have aligned. The value, priorities, visions, ideals, and behaviours of some believers put a question mark on the faith they confess. ",
+
+                    "textTwo": "You must ask yourself if you really stand out for Christ. Are you really an ambassador of Christ? One of such men that really stood out for God in his generation was Daniel alongside his three friends. They are exemplary leaders who refused to compromise the principles and commandments of God even when no one was looking in a faraway Babylon. When obeying God is not the trend, they still chose to stand out. Even when it was going to cost them their lives, they were ready to sacrifice it. ",
+
+                    "textThree": "As believers, we must learn from the lives of these four outstanding Israelites who stood out for God in their generation. We must learn never to allow the pleasures of this world destroy the plan and purpose of God for our lives. Don’t allow the pressure of the world make you shift the ancient landmark. Be prepared to stand even if it’s going to cost you money, a job, a relationship, or opportunities. Trends come and go, God remains unchanged. ",
+                },
+
+                "footerTitle": 'CONFESSION',
+
+                "footerText": "I receive the grace to stand out in all ways. I refuse to be conformed to the ways of the world. I am different and unique. I follow the way of light because I am of the light. I do not compromise my faith for the pleasure of the world.",
+
+                // "footerTitleTwo": 'QUOTES',
+
+                // "footerTextTwo": "No matter how far or fast you go in the wrong direction, you will never get to your desired destination.",
+            },
+            {
+                "id": "97",
+
+                // "uniqueDate": "27/2/2023",
+                "uniqueDate": "Apr 7th 23",
+
+                "title": "DON’T CONFORM 2",
+
+                "memoryVerse": "Now when Daniel knew that the writing was signed, he went home. And in his upper room, with his windows open toward Jerusalem, he knelt down on his knees three times that day, and prayed and gave thanks before his God, as was his custom since early days.",
+
+                "bibleVerse": "DANIEL 6:10",
+
+                "studyBible": "DANIEL 6:1-21",
+
+                'texts': {
+                    "textOne": "It takes courage to stand out for Christ in this generation where being born again is not such a popular culture. It’s not really a trending thing to be a dedicated disciple of Christ. You can be called names like “Mugu”, “Ode” and several names when you claim you are affiliated with Christ. I remember losing all my friends immediately after I gave my life to Christ because by then, I was considered to be dull and not lively again. It takes courage to live and speak for Christ. ",
+
+                    "textTwo": "The four Hebrew boys didn’t just follow what was trending, they created their own trend. You must be ready to stand alone and walk alone. Many believers today are afraid of standing for what they believe. They rather obey the wicked authorities than obey God. Daniel did not hide his faith. In following Christ, you must be ready to lose something. In gaining Jesus, there will be a demand to move away from some benefits. God is so jealous that you can't serve him alongside other things. You must be bold to publicly separate yourself from the world. Though there was an official declaration, which was against his faith with capital punishment for offenders. Daniel still decided to stand out for God rather than bow to the king’s injunctions. ",
+
+                    "textThree": "There is a SET UP against believers today to bow to the tall image of gold. It is a pity that many are bowing before this image. To bow is to worship, submit or surrender to a superior being or thing. The moment you bow to these images, you can no longer stand out for Christ. There are set-up images of success, career, self-ambition, wealth, and influence, and many believers are submitting their crowns and identity to get the things that these images promised. ",
+                },
+
+                "footerTitle": 'CONFESSION',
+
+                "footerText": "I refuse to bow to the golden images of this world. Nothing in this world will make me give up my inheritance in Christ Jesus.",
+
+                // "footerTitleTwo": 'QUOTES',
+
+                // "footerTextTwo": "No matter how far or fast you go in the wrong direction, you will never get to your desired destination.",
+            },
+            {
+                "id": "98",
+
+                // "uniqueDate": "27/2/2023",
+                "uniqueDate": "Apr 8th 23",
+
+                "title": "WHAT’S IN YOUR HAND",
+
+                "memoryVerse": "Then Moses answered and said, \"But suppose they will not believe me or listen to my voice; suppose they say, 'The Lord has not appeared to you.'\" So the Lord said to him, \"What is that in your hand?\" He said, \"A rod.\"",
+
+                "bibleVerse": "EXODUS 4:1-2",
+
+                "studyBible": "EXODUS 4:1-14",
+
+                'texts': {
+                    "textOne": "It is amazing to know that God is patient to give answers to all our questions and excuses. In this passage, God was calling Moses to the assignment of delivering the Israelites from slavery. Moses, who was feeling incompetent gave God excuses and reasons why he was the wrong guy for the job. But God kept debunking all his excuses. He asked God for several signs and God gave him. Eventually, he still told God he was not competent for the job. ",
+
+                    "textTwo": "Many of us are like Moses today, we have one million reasons why we are not suitable for the assignment. We argue with God as if we know ourselves more than He knows us. No excuse can disqualify you from your divine assignment. God knew you before He called you. In fact, He made you and He’s familiar with all His products. It is interesting to note that what he needed was already in his hands, a rod. The things we need to succeed in our divine assignment are not somewhere far and unreachable. Most times they are always already with us. They are things we already possess.",
+
+                    "textThree": "The widow (wife of the prophet) in 2 Kings 4:1-7 already had the oil in her house. Yet she never knew that was all she needed for her breakthrough. God will always put something in your hands that can end your problems and anxiety. There is something in your hand that can end your worries and lack. The opportunities we need to fulfil our divine mandate are always within our reach.  All you need is for God to open your eyes to see these things. Some of the things you overlook are the things that God will use to transform your life. Don't ever underestimate what is in your hand because that will be the source of your miracle.  May your eyes be opened today in Jesus name.",
+                },
+
+                "footerTitle": 'CONFESSION',
+
+                "footerText": "My eyes are opened to see the resources, grace, anointing, and relationships that God has placed in my hands for my breakthrough.",
+
+                // "footerTitleTwo": 'QUOTES',
+
+                // "footerTextTwo": "No matter how far or fast you go in the wrong direction, you will never get to your desired destination.",
+            },
+            {
+                "id": "99",
+
+                // "uniqueDate": "27/2/2023",
+                "uniqueDate": "Apr 9th 23",
+
+                "title": "FORGIVENESS IS A MUST",
+
+                "memoryVerse": "And you, being dead in your trespasses and the uncircumcision of your flesh, He has made alive together with Him, having forgiven you all trespasses",
+
+                "bibleVerse": "COLOSSIANS 2:13",
+
+                "studyBible": "GENESIS 50;15-21",
+
+                'texts': {
+                    "textOne": "Most believers are okay with discussing many subjects in the church except forgiveness. Yet one of the blessings of the new birth is the forgiveness we enjoy in Christ. Many Christians still struggle with this experience. Many people have lost their blessings, lost their minds, incurred diseases, and destroyed their relationships because of Unforgiveness. Unforgiveness is the root of emotional trauma and mental diseases. As a believer, forgiveness is not a choice, it is compulsory. One thing you need to understand is that forgiveness is not based on asking. When people offend you, don't expect them to come and ask before you forgive. ",
+
+                    "textTwo": "The New Testament forgiveness is not based on asking (Matthew 6:12). It's based on what Christ did (1 John 2:12). You forgive others as you have also received forgiveness from God without asking many times. When you think about how much you have been forgiven, then forgiving others will not be a problem. Offences will come. It will be impossible to go through a day without someone offending you. But you must not allow offences to come through you nor be affected by the offence of others. Forgiveness breeds hatred, bitterness, and depression. You cannot experience true freedom and liberty in Christ without forgiveness. ",
+
+                    "textThree": "The love of God in you makes it very easy to forgive others. When you allow this kind of love to penetrate and operate freely in your heart, you will find it easy to forgive people. A sure sign of spiritual growth is the ability to forgive easily. However, being unoffendable is far better than forgiveness, when no action by people can offend you. Make a decision today to release everyone you are yet to forgive and live a life of freedom. One of the secrets of sound health and long life is forgiveness. ",
+                },
+
+                "footerTitle": 'CONFESSION',
+
+                "footerText": "I am a forgiver. The love of God abides in me, the love of God in me prohibits me from unforgiveness. I release and forgive easily. Offence will not occur through me.",
+
+                // "footerTitleTwo": 'QUOTES',
+
+                // "footerTextTwo": "No matter how far or fast you go in the wrong direction, you will never get to your desired destination.",
+            },
+            {
+                "id": "100",
+
+                // "uniqueDate": "27/2/2023",
+                "uniqueDate": "Apr 10th 23",
+
+                "title": "FOCUS ON THE INVISIBLE",
+
+                "memoryVerse": "While we do not look at the things which are seen, but at the things which are not seen. For the things which are seen are temporary, but the things which are not seen are eternal.",
+
+                "bibleVerse": "2 CORINTHIANS 4:18",
+
+                "studyBible": "COLOSIANS 3:1-10",
+
+                'texts': {
+                    "textOne": "In this ephemeral world of ours, where everything is controlled by what we see, we make judgement and decisions only by the things we can see. Our lives majorly are governed by the five senses, namely the eye, skin, tongue, nose and ear. However, is all you see all that there is? The scripture above is drawing your attention to something very fundamental. All that exists is not all you can see. Many (even believers) are too conscious of the physical world that they forget that there is a greater world called the spiritual. To be physically driven is to be fleshly driven, to be heavenly focused is to be Spirit-driven. As a child of God, your first reality is the spiritual realm and it is the most important realm for two reasons. ",
+
+                    "textTwo": "First, the spiritual creates the physical. Everything you see in the physical realm are products of the spiritual realm (Heb 11:3). Man is a spiritual being going through human experience. Also, the spiritual realm sustains the physical. Second, the physical realm is temporary but the spiritual is eternal. What your physical eyes can see will expire with time, but the things of the spirit abide forever. ",
+
+                    "textThree": "Therefore, to focus on the ephemeral is to focus on what is passing away. To walk by sight is to live a life that is displeasing to God (Heb 11:6). God wants you to focus on the spiritual not the ephemeral. The realm of the spiritual is where we can please God. The sensual realm is the ordinary realm.",
+                },
+
+                "footerTitle": 'CONFESSION',
+
+                "footerText": "I am a spiritual being having a human experience. I do not focus on the natural but on the supernatural.",
+
+                // "footerTitleTwo": 'QUOTES',
+
+                // "footerTextTwo": "No matter how far or fast you go in the wrong direction, you will never get to your desired destination.",
+            },
+            {
+                "id": "101",
+
+                // "uniqueDate": "27/2/2023",
+                "uniqueDate": "Apr 11th 23",
+
+                "title": "WALKING IN LIGHT",
+
+                "memoryVerse": "Your word is a lamp to my feet And a light to my path.",
+
+                "bibleVerse": "Ps 119:105",
+
+                "studyBible": "JOHN 8:12",
+
+                'texts': {
+                    "textOne": "The world is full of darkness and you should not be surprised because prophet Isiaih already prophesied it. Isa 60:2 For behold, the darkness shall cover the earth, And deep darkness the people; But the Lord will arise over you, And His glory will be seen upon you. But in the midst of that gross darkness, the glory of the Lord will cover you and that glory will become your light. Almost everything in our world today is full of darkness. Therefore, you must learn how to walk in the light that you have received. How can you walk in the light when you are in the midst of darkness? ",
+
+                    "textTwo": "The word of God is a lamp that carries eternal light. Walking in the word is what puts darkness away from your path. You must know the word as against the reality of the world. You must discover what the word says as opposed to what the world says. The world can say you are created to be a slave, or be poor, or to be in sickness or in bondage. These are the darkness that the majority walk in today. But when you dwell in the word and you believe in the word, you will experience light always. Walking in light means walking in God’s perfect will for your life. A man living in darkness is living a life dominated by satan and his works. ",
+
+                    "textThree": "To walk in light means to walk in the righteousness of Christ. Living in darkness also means living in sin. A life of sin is a license to a life of darkness. Keeping the word of God in you prevents you from walking in sin. Ps 119:9 How can a young man cleanse his way? By taking heed according to Your word. Walking in the light is obeying the word. You can not live in obedience to God’s word and walk in darkness. When your heart is full of the word, your life will be flooded with light. One of the expressions of light is understanding. Walking in light gives you the right perspective of life. Light represents knowledge and wisdom. When you walk in the light of God’s word, you are not ignorant nor are you confused. You know what to do at the right time. You know the direction your life should take. All because the word dwells in you. Today decide to be committed to putting the word in your heart not just in your note. ",
+                },
+
+                "footerTitle": 'PRAYER',
+
+                "footerText": "Lord Jesus, help me to keep your word in my heart always.",
+
+                // "footerTitleTwo": 'QUOTES',
+
+                // "footerTextTwo": "No matter how far or fast you go in the wrong direction, you will never get to your desired destination.",
+            },
+            {
+                "id": "102",
+
+                // "uniqueDate": "27/2/2023",
+                "uniqueDate": "Apr 12th 23",
+
+                "title": "BE THE GIVER",
+
+                "memoryVerse": "Give, and it will be given to you: good measure, pressed down, shaken together, and running over will be put into your bosom. For with the same measure that you use, it will be measured back to you.\"",
+
+                "bibleVerse": "LUKE 6:38",
+
+                "studyBible": "2 CORINTHIANS 9:6-13",
+
+                'texts': {
+                    "textOne": "One of the hallmarks of Christianity is giving, not just giving but sacrificial giving. This was first demonstrated by the Father Himself when He gave us His only begotten son. Then, Jesus also gave Himself for us. Unfortunately, this is a dying culture in the twenty-first century church. We have people come on the internet teaching people not to give to the church anymore. It all started from the mindset that you are giving to get blessed alone. No, you give because you are blessed and for the kingdom's expansion. I know some preachers extort and exploit their parishioners. However, we cannot throw the baby along with the water bath. The fact that some preachers abuse this principle does not mean God has forsaken it. This is one of the very expressions of God's Nature. This is one of the avenues of accessing God's blessings and heavenly resources. The bible clearly stated this principle, when you give, it will be given to you. ",
+
+                    "textTwo": "Moreover, God intentionally commanded us to give. Our giving brings honour to God and not to man. Giving to churches, Men of God, charities, and the poor in our community brings great honour to God. You are not giving so that a man can praise you. So, no man should dissuade you from giving. Giving is a mystery, It might not make sense but it delivers results. You might not understand it, but it works. ",
+
+                    "textThree": "Is it biblical to give to churches or men of God? These are among many questions that people ask today. (1 Cor 9:11 If we have sown [the good seed of] spiritual things in you, is it too much if we reap material things from you?) Since it is the responsibility of your spiritual shepherds to feed you spiritually, it is also your responsibility to minister to their physical and material needs. It is right for those who serve on the altar to partake of the offering of the altar. We are enjoined to also give to the poor in our society. (Prov 19:17 Whoever is kind to the poor lends to the LORD, and he will reward them for what they have done).",
+
+                    "textFour": "However, the Bible was clear on how you must give. Whatever you give to God must be what you have determined in your heart. Then you must release with cheerful joy in your heart. Never give to God grudgingly. You cannot confess to being a Christian and not be a giver. ",
+                },
+
+                "footerTitle": 'PRAYER',
+
+                "footerText": "Lord, I receive the grace to give.",
+
+                // "footerTitleTwo": 'QUOTES',
+
+                // "footerTextTwo": "No matter how far or fast you go in the wrong direction, you will never get to your desired destination.",
+            },
+            {
+                "id": "103",
+
+                // "uniqueDate": "27/2/2023",
+                "uniqueDate": "Apr 13th 23",
+
+                "title": "BE THE GIVER 2",
+
+                "memoryVerse": "Remember this: Whoever sows sparingly will also reap sparingly, and whoever sows generously will also reap generously.",
+
+                "bibleVerse": "2 Corinthians 9:6",
+
+                "studyBible": "2 CORINTHIANS 8:1-5",
+
+                'texts': {
+                    "textOne": "Many believers give the excuse that they don't have enough, that is why they cannot give. The story Jesus shared in Mark 12:41-44 gave us an idea about God’s view on giving. He illustrated the people giving in church, the millionaires gave a lot of money that's worthy of praise. But there was a particular poor widow that had just two dollars in her pocket, and she dropped the whole two dollars. Jesus told the disciples that this poor widow gave more than the rich that gave millions of dollars.",
+
+                    "textTwo": "The greatness of a giver is not in what he/she gives but in what remains with him afterwards. Your greatness as a giver is not just in the value of what you gave but in the sacrifice of what you gave. How much does that offering mean to you? What does it cost you? There are some kinds of giving that touch God. Like that of Solomon in 2 Chron 1:6, God was forced to give Solomon a blank check, the rest was history. Giving is not only when it's convenient. ",
+
+                    "textThree": "I called this kind of giving sacrificial giving. It is not in the amount but in the sacrifice. Paul talked about the Macedonian Christians who had this kind of attitude. He mentioned that they did not just give in their abundance, but in their deep poverty, they decided to meet Paul's needs. If you can't give when you have ten thousand, you won't be able to give when you have ten million. Your seeds and offerings mean a lot to God when it costs you something. Do you Want To know the secret of David? It's here in 2 Samuel 24:24. The answer is that he always gives God the very best. Also, the difference between the offering of Cain and Abel is that Abel gave God his best. God knows your best. He knows if what you have been giving is what you should have given. The pastor may thank you, but only God knows if you gave what He led you to give. ",
+
+                    "textFour": "Most importantly, it’s your responsibility to give to God’s work as a believer. Don’t wait until you are cajoled to give. The kingdom cannot advance without your giving. Be a responsible believer. ",
+                },
+
+                "footerTitle": 'ACTION',
+
+                "footerText": "Go out of your comfort zone and give God what you have never given before. ",
+
+                // "footerTitleTwo": 'QUOTES',
+
+                // "footerTextTwo": "No matter how far or fast you go in the wrong direction, you will never get to your desired destination.",
+            },
+            {
+                "id": "104",
+
+                // "uniqueDate": "27/2/2023",
+                "uniqueDate": "Apr 14th 23",
+
+                "title": "SEATED IN HEAVENLIES",
+
+                "memoryVerse": "And God raised us up with Christ and seated us with him in the heavenly realms in Christ Jesus",
+
+                "bibleVerse": "Ephesians 2:6",
+
+                "studyBible": "EPHESIAN 1:15-23",
+
+                'texts': {
+                    "textOne": "Believers in Christ operate in two realms, namely the spiritual and physical realms. While we may be going up and down physically on this earth, we remain seated on the throne with Jesus in the heavenlies. We might look confused running helter skelter on earth, yet our spirit has taken a position and posture of rest in the heavenlies. While it looks like we are not in charge here, yet our spirit through Christ has the power and the authority to determine where the world goes. Jesus rules the universe and the galaxies through the church. ",
+
+                    "textTwo": "To take control, dominion, and charge of the earth, we must constantly and if possible, permanently switch to our spirit man seated with Christ in the heavenlies. Many believers are easily overwhelmed by the activities and circumstances here on earth that they’ve forgotten their position in heaven. We must assume the position and posture of the heavenly man. The man seated with Christ knows all things, has all powers, possesses all authority, can see all things, and controls all things. This man that's seated with Christ is above all principalities and power. No witch or wizard can overpower him. ",
+
+                    "textThree": "If only we have the understanding of the man seated with Christ, then we can also reign like Christ. Until our eyes are opened, we cannot assume the posture of the man above. Physically, we might be here, but spiritually we are up there. The spiritual controls the physical, therefore, the reality of our life should be from the spiritual realm not the physical. The knowledge and revelation of Christ are what puts you in dominion. Understanding your position on the throne gives you authority here in the earthly realm.  Stop trying to change things from the earthly realm. Significant change comes when you move things from where you are seated in the heavenlies. ",
+                },
+
+                "footerTitle": 'PRAYER',
+
+                "footerText": "Father, in the name of Jesus, I receive understanding about my position in the heavenlies and I assume the position and posture of the heavenly man.",
+
+                // "footerTitleTwo": 'QUOTES',
+
+                // "footerTextTwo": "No matter how far or fast you go in the wrong direction, you will never get to your desired destination.",
+            },
+            {
+                "id": "105",
+
+                // "uniqueDate": "27/2/2023",
+                "uniqueDate": "Apr 15th 23",
+
+                "title": "YOUR KINGDOM COME",
+
+                "memoryVerse": "Your kingdom come. Your will be done On earth as it is in heaven.",
+
+                "bibleVerse": "MATTHEW 6:10",
+
+                "studyBible": "LUKE 17:20-25",
+
+                'texts': {
+                    "textOne": "“Thy kingdom come” This is not just a prayer line. It is the will of God to bring the reign of His kingdom here on earth. Against many religious beliefs, God is not in haste to move people away from the earth to heaven. Rather he wants to fill the earth with the glories of His kingdom. It is the will of God that the earth expresses the nature and glory of heaven. He wants His knowledge to fill the earth as the water fills the sea. The purpose of God creating man is not for man to stay with Him in heaven but for God to live with man on earth. The glory of God is already established in heaven, He wants to do the same here on earth and man is the legal pioneer of this assignment. How does God bring His kingdom to earth? ",
+
+                    "textTwo": "Unlike earthly kingdoms, God’s kingdom does not start with a physical presence. It does not come from the external things that we expect like buildings, infrastructural development, great military presence, and things of such. The presence of the kingdom comes when you invite him into your heart Luke 17:21. There is no kingdom without the king. For you to experience the kingdom in your life, the King must be present. When Jesus steps into your heart, the kingdom has come into your life. ",
+
+                    "textThree": "The kingdom will not be expressed by how many church buildings we have but by how many people are getting saved. The greatness of this kingdom here on earth is not in how many mansions we own or how many cars we drive, but in how many people carry the king in their hearts. We take over the kingdoms of the earth by dispossessing souls from the evil one and filling them with the nature and Spirit of the King. ",
+
+                    "textFour": "This is why the number one heart desire of God is that men and women can come to Him. It is in soul-winning that we spread and establish the kingdom. It is through these vessels that God’s glory spreads to every corner of the earth. The glories of God are not luxury cars, expensive mansions, or beautiful cities. The glory of God is the dwelling of God in man. Let’s strive to save as many souls as we can. Don’t be distracted by riches and neglect souls. When the knowledge of the Holy One among men spreads, the kingdom spreads.  ",
+                },
+
+                "footerTitle": 'PRAYER',
+
+                "footerText": "Pray that the Holy Spirit empowers His church for Soul Winning like never before.",
+
+                // "footerTitleTwo": 'QUOTES',
+
+                // "footerTextTwo": "No matter how far or fast you go in the wrong direction, you will never get to your desired destination.",
+            },
+            {
+                "id": "106",
+
+                // "uniqueDate": "27/2/2023",
+                "uniqueDate": "Apr 16th 23",
+
+                "title": "ASKING ACCORDING TO THE WORD",
+
+                "memoryVerse": "For all the promises of God in Him are Yes, and in Him Amen, to the glory of God through us.",
+
+                "bibleVerse": "2 Corinthians 1:20",
+
+                "studyBible": "2 PETER 1:1-4",
+
+                'texts': {
+                    "textOne": "A pastor was making a declaration over his congregation on a particular Sunday service. He began to declare double portions over everyone. Double cars, double house, double promotion, double anointing, double contract, then he mistakenly said double wives. The truth is it doesn't matter how loud anybody says amen to that prayer, God is not going to answer the last one. Why? Because it is not according to the will of God. It is not available in Christ, what is available is a wife for a husband, a husband for a wife. ",
+
+                    "textTwo": "You cannot lay claim to a promise that's not available in the word. Before you can ask or claim anything in the name of Jesus, you need to be sure that it's available by grace. Faith cannot access anything grace hasn't made available. No matter how great your faith is, it has to be in the word or according to the word before your faith can access it. A lot of us ask according to our feelings and that’s why we do not receive. God did not instruct us to ask according to our feelings but according to the word. Also, note this, don’t confuse worrying with praying. God doesn't answer worrying, He answers prayers. ",
+
+                    "textThree": "This is an important principle you must learn if you want your prayers to be answered always. The word of God is what reveals the promises and will of God. God is committed to fulfilling His word, not your desires. Therefore, when your word is filled with the word of God, there is full assurance that your prayers are answered. Learn to pray according to the word. Let the scripture guide you to pray not your emotion.  Lastly, when you pray in the Spirit, you can be sure that you pray hundred per cent according to the word. Speaking in tongues helps you to pray according to the will of God because it is the Spirit Himself that prays through you. ",
+                },
+
+                "footerTitle": 'MEDITATION',
+
+                "footerText": "In the same way, the Spirit helps us in our weaknesses. We do not know what we ought to pray for, but the Spirit himself intercedes for us through wordless groans. Rom 8:26",
+
+                // "footerTitleTwo": 'QUOTES',
+
+                // "footerTextTwo": "No matter how far or fast you go in the wrong direction, you will never get to your desired destination.",
+            },
+            {
+                "id": "107",
+
+                // "uniqueDate": "27/2/2023",
+                "uniqueDate": "Apr 17th 23",
+
+                "title": "YOUR IDENTITY IN CHRIST",
+
+                "memoryVerse": "So then you are no longer strangers and aliens, but you are fellow citizens with the saints, and are of God’s household",
+
+                "bibleVerse": "Ephesians 2:19",
+
+                "studyBible": "COLOSIANS 1:24-27",
+
+                'texts': {
+                    "textOne": "The problem of most believers today is not sin but sin consciousness. One of the deliverance most believers need is the deliverance from seeing themselves as sinners. The prayer of many believers goes like this “Jesus have mercy on me, I humble myself as a sinner, please forgive me.'' If this line is always in your prayers, you need deliverance. Before you gave your life to Christ, you were a sinner. However, immediately after you accept the life of Christ in you, you cease to be a sinner. You are now a saint. Yes, you are a saint. Never address yourself as a sinner anymore. You may make mistakes and fall into sin but you are no longer a sinner. You are now the righteousness of God in Christ. ",
+
+                    "textTwo": "Philippians 1:1: Paul and Timothy, bond-servants of Christ Jesus, To all the saints in Christ Jesus who are in Philippi, including the overseers and deacons.  Paul in his letter oftentimes refers to the church as saints. Not because they are without weakness but because that is their identity in Christ. Jesus has perfected your spirit, to Him you are clean and holy without blemish because of His blood. (Hebrews 10:14 For by one offering He has perfected for all time those who are sanctified) That doesn’t mean you are perfect in character, actions, and intention. Perfection comes as we mature in Christ. ",
+
+                    "textThree": "My mother most times when we are having a conversation always says “who am I? A nobody? What do I know? I know nothing.” One day I cautioned her and told her not to say that again. If you are a nobody, Jesus won't die for you. You know Jesus and that's enough. Calling yourself a sinner, a nobody, and a foolish person is not humility, it is like spitting in the face of Jesus. The purpose of the death of Jesus is to turn you from a sinner to a saint, which he already accomplished. Immediately you are born again, you are a new creature. The sinner died and the saint emerged. You are now a very important person at least to God.  You are no longer defined by what you do but by what Jesus did. God no longer sees you but the Christ in you. ",
+
+                    "textFour": "Therefore, you are not a sinner but a saint. ",
+                },
+
+                "footerTitle": 'CONFESSION',
+
+                "footerText": "I am redeemed in Christ. The sinner in me died. Jesus lives in me. The life I now live is that of Christ. I am a saint, not a sinner. ",
+
+                // "footerTitleTwo": 'QUOTES',
+
+                // "footerTextTwo": "No matter how far or fast you go in the wrong direction, you will never get to your desired destination.",
+            },
+            {
+                "id": "108",
+
+                // "uniqueDate": "27/2/2023",
+                "uniqueDate": "Apr 18th 23",
+
+                "title": "YOUR IDENTITY IN CHRIST 2",
+
+                "memoryVerse": "There is therefore now no condemnation to them which are in Christ Jesus, who walk not after the flesh, but after the Spirit.",
+
+                "bibleVerse": "Romans 8:1",
+
+                "studyBible": "JOHN 8:1-11",
+
+                'texts': {
+                    "textOne": "In Christ you have been justified, therefore, you cannot be condemned. Many believers go about carrying the guilt of their sins and past. They are feeling condemned and guilty. In Christ, you are not condemned. Neither the law, the devil nor your past sins can condemn you. (1 John 3:21 Beloved, if our heart does not condemn us, we have confidence before God) You must break free from the condemnation of your heart and the yoke of guilt you carry about. Jesus was actually condemned and punished for your sins. He took your place so that you can take His place. ",
+
+                    "textTwo": "In our text above, a woman caught in the act of adultery was brought to Jesus. The judgement of the law was to stone her, however, despite the fact that Jesus has not gone to the cross yet, He set the pace by vindicating this woman. Eventually, all her accusers disappeared and Jesus turned to her and said, “I do not condemn you, go and sin no more”. As I said, this happened before the cross. Your own experience is after the cross, this makes your case far better than that woman's. John 3:17 For God did not send the Son into the world to judge the world, but that the world might be saved through Him.",
+
+                    "textThree": "Jesus did not come to condemn men, but to save them. We must abstain from the posture of condemnation, either by ourselves or others. Some believers are quick to condemn themselves. We were saved to see how bad others are and start condemning them. We were saved to see others with compassion so that we can forgive them and preach the gospel to them. If we are not condemned, then we must not condemn others. The only person with the ministry of condemnation is Satan. In Christ you are justified, you are set free from all charges and you have been found guiltless. You can’t be punished for those sins again. I know it sounds too good to be true, but that is the truth. Be set free from the burden of guilt, stop being afraid of God, you and Him and now “Padi” (friends)",
+                },
+
+                "footerTitle": 'CONFESSION',
+
+                "footerText": "I am justified in Christ. No condemnation against me. I am vindicated through the blood of Jesus. ",
+
+                // "footerTitleTwo": 'QUOTES',
+
+                // "footerTextTwo": "No matter how far or fast you go in the wrong direction, you will never get to your desired destination.",
+            },
+            {
+                "id": "109",
+
+                // "uniqueDate": "27/2/2023",
+                "uniqueDate": "Apr 19th 23",
+
+                "title": "YOUR IDENTITY IN CHRIST 3",
+
+                "memoryVerse": "Praise be to the God and Father of our Lord Jesus Christ, who has blessed us in the heavenly realms with every spiritual blessing in Christ",
+
+                "bibleVerse": "Ephesians 1:3",
+
+                "studyBible": "||EPHESIANS 1:1-10",
+
+                'texts': {
+                    "textOne": "In Christ, you are not cursed. You are blessed and that is all you have to believe. We have a Christian culture especially in Africa and among Africans that believes so much in curses more than blessings. They believe in demons more than angels. We believe that once someone has some challenges, it must be tied to one ancestral curse or the other. I am not saying that there are no ancestral curses, what I am saying is that most of the things we attach to curses are not true. ",
+
+                    "textTwo": "If you are in Christ, I strongly believe that you cannot be cursed. The blessedness of Christ is potent to neutralize any form of curse when you possess the revelation. Numbers chapter twenty-three proved this principle. How can I curse those whom God has not cursed? How can I denounce those whom the Lord has not denounced?  Then verse twenty-three hit the nail on the head. ",
+
+                    "textThree": "There is no divination against[b] Jacob, no evil omens against[c] Israel It will now be said of Jacob and of Israel, ‘See what God has done!’",
+
+                    "textFour": "You are a spiritual Israel, more powerful than the physical Israel. You are already blessed in Christ and no man, angel, or devil can curse you as long as you remain in Christ. Tough times will come, but that does not mean you are cursed. People may persecute you but that does not mean you are under a curse. Jesus has already become a curse for you. You are only permitted to experience blessings now.",
+                },
+
+                "footerTitle": 'CONFESSION',
+
+                "footerText": "There is no divination against (YOUR NAME), no evil omens against (YOUR NAME). It will now be said of (YOUR NAME) and of Israel, ‘See what God has done!’",
+
+                // "footerTitleTwo": 'QUOTES',
+
+                // "footerTextTwo": "No matter how far or fast you go in the wrong direction, you will never get to your desired destination.",
+            },
+            {
+                "id": "110",
+
+                // "uniqueDate": "27/2/2023",
+                "uniqueDate": "Apr 20th 23",
+
+                "title": "HE LIVES IN YOU",
+
+                "memoryVerse": "Teach these new disciples to obey all the commands I have given you. And be sure of this: I am with you always, even to the end of the age.”",
+
+                "bibleVerse": "MATTHEW 28:20",
+
+                "studyBible": "1 KINGS 19:11-13",
+
+                'texts': {
+                    "textOne": "I know many believers still pray for God to be with them when they are about to travel. This prayer most times is born out of ignorance or fear. However, it's shocking to discover that it was Jesus Himself who said that He will always be with us till the end of time. As a believer, we are never alone or lonely. You can never go through life alone. In a situation that looks as if God has left, He is always there. When it looks as if God is not working on your behalf, He is always there. Against popular opinion, the presence of God is not always accompanied by the spectacular. Sometimes, we want to see lightning, thunder, storm, smoke, or people falling to ascertain God’s presence. God is a Spirit and He dwells in your spirit. Don’t judge His presence by some spooky events. Heb 12:18-24 ",
+
+                    "textTwo": "Jesus is not with you sometimes, or a few times, or most times of your life, He is here with you always. Always means all the time. He never takes a break from being with you. The mistake we often make is that we want to feel His presence in our lives. There will be times you will feel the presence of God but in reality, most times you will not feel anything. You will be misled if the basis of your relationship with God is based on feelings. We walk with God by faith, so if God says He is with you, you don’t need a feeling to validate that word. ",
+
+                    "textThree": "Also, You must know that the presence of trouble does not mean the absence of God. The Father, the Son, and the Holy Spirit abide in you. (John 14:23 Jesus answered and said to him, “If anyone loves Me, he will keep My word; and My Father will love him, and We will come to him and make Our abode with him.) God doesn't visit you, He lives in you. You carry him everywhere you go. You are never alone but that doesn’t shield you from the challenges of life. As a believer, you will face many persecutions but be rest assured that God is in it with you.",
+                },
+
+                "footerTitle": 'CONFESSION',
+
+                "footerText": "I am not alone. Christ lives in me, He is with me. He is with me all the time, everywhere, and He will never forsake me.",
+
+                // "footerTitleTwo": 'QUOTES',
+
+                // "footerTextTwo": "No matter how far or fast you go in the wrong direction, you will never get to your desired destination.",
+            },
+            {
+                "id": "111",
+
+                // "uniqueDate": "27/2/2023",
+                "uniqueDate": "Apr 21st 23",
+
+                "title": "YOU ARE NOT AN ACCIDENT",
+
+                "memoryVerse": "He predestined us to adoption as sons through Jesus Christ to Himself, according to the kind intention of His will",
+
+                "bibleVerse": "Ephesians 1:5",
+
+                "studyBible": "PSALMS 139:1-17",
+
+                'texts': {
+                    "textOne": "You are not an accident of creation. You are not some combination of numbers in some people's databases. This is not part of who you are in Christ Jesus. Your life in Christ is not an accident at all. Your identity in Christ goes way back to before you were born. You existed in God’s mind long before you appeared here. You need to know that you are a very special and unique person to God. He thought of you before He created you. You're always in His mind and your thoughts fill His mind. ",
+
+                    "textTwo": "God was so detailed about you when He made you. Every part of your life was custom-made to suit His purpose for your life. Your complexion, height, size, and background were not a mistake. You are a deliberate design of a deliberate God. If you're having a difficult time accepting your shape, parents, or complexion, let this be an assurance that none of these was a mistake. You are not ordinarily made, you are wonderfully made.",
+
+                    "textThree": "Psalms 139:14: I praise you, for I am fearfully and wonderfully made. Wonderful are your works; my soul knows it very well.",
+
+                    "textFour": "Be confident in who God has made you to be. God made your destination before He brought you forth. He had a plan, a blueprint, a purpose, and the resources to sponsor your journey. Most importantly, He will never leave you alone. In case you are confused about anything, He has put the Holy Spirit in you to teach you all things and guide you into all truth. ",
+                },
+
+                "footerTitle": 'CONFESSION',
+
+                "footerText": "I am not an accident of creation. I am a deliberate design of a good God. I am His masterpiece. ",
+
+                // "footerTitleTwo": 'QUOTES',
+
+                // "footerTextTwo": "No matter how far or fast you go in the wrong direction, you will never get to your desired destination.",
+            },
+            {
+                "id": "112",
+
+                "uniqueDate": "Apr 22nd 23",
+
+                "title": "YOU ARE TOO LOADED TO FAIL",
+
+                "memoryVerse": "For this reason, I remind you to fan into flame the gift of God, which is in you through the laying on of my hands.",
+
+                "bibleVerse": "2 TIMOTHY 1:6",
+
+                "studyBible": "JOSHUA 6:1-12",
+
+                'texts': {
+                    "textOne": "Some believers wander through life believing that they are helpless, hopeless and empty. They see others doing things with grace and wonder why their own lives are so full of frustration and failure. Some have resigned to fate, thinking they were created for that kind of life. Well, before you conclude, hear what the scripture says about you. Jeremiah 29:11 For I know the plans I have for you,\" declares the LORD, \"plans to prosper you and not to harm you, plans to give you hope and a future. (NIV)",
+
+                    "textTwo": "For I know the plans I have for you,” says the LORD. “They are plans for good and not for disaster, to give you a future and a hope. (NLT)",
+
+                    "textThree": "For I know the plans I have for you, declares the LORD, plans for welfare and not for evil, to give you a future and a hope. (ESV)",
+
+                    "textFour": "You are the most important and valuable being in the universe. You see that there is a purpose in God’s heart for you but more specifically, there is a plan to get you there. God didn’t bring you this far to leave you stranded in the middle of nowhere. There is a road map to get you to that destination. NIV called that plan a prosperity plan, NLT called it a good plan, ESV called it a welfare plan, NKJV called it a peaceful plan, and CEV called it a successful plan. Any of your experience in life that does not conform to these descriptions is not of God.",
+
+                    "textFive": "The truth about you is that you are too loaded to fail. You cannot fail, in fact, you cannot fail. God has put too much investment in you to fail. You carry a heavenly treasure that is needed globally on earth. You need a revelation of what you carry to deliver that purpose and plans God has ordained for you. Hold on to this truth.  Tell yourself this truth every morning, “I CANNOT FAIL” and you will see your narrative change for the better.",
+                },
+
+                "footerTitle": 'PRAYER',
+
+                "footerText": "JESUS, open my eyes to what I'm loaded with.",
+
+                // "footerTitleTwo": 'QUOTES',
+
+                // "footerTextTwo": "No matter how far or fast you go in the wrong direction, you will never get to your desired destination.",
+            },
+            {
+                "id": "113",
+
+                "uniqueDate": "Apr 23rd 23",
+
+                "title": "YOU ARE TOO LOADED TO FAIL (PART 2)",
+
+                "memoryVerse": "And say to Archippus, “Take heed to the ministry which you have received in the Lord, that you may fulfil it.”",
+
+                "bibleVerse": "COLOSSIANS 4:17",
+
+                "studyBible": "JEREMIAH 1:4-8",
+
+                'texts': {
+                    "textOne": "Yesterday, we discussed that many are depressed and frustrated because they don't even know that God has a plan for them. Also, we discussed that the nature of that purpose is great, good, and noble. Meanwhile, some are aware of the gifts and grace of God in their lives. Some possess great gifts, grace, and anointing but they aren't making any meaning out of them for different reasons. Gifts and talents are not enough. There are several factors to ensure that you don't fail in the assignment that God has given to you. ",
+
+                    "textTwo": "Let me say this, “The presence of gifts and anointing does not equate to success and fulfilment” I have seen many talented individuals who are frustrated and depressed in life. The first thing you need to know is that you are responsible for fulfilling your purpose. God’s responsibility is to give you life, gifts, grace, and anointing, your responsibility is to fulfil it. According to our memory verse “And say to Archippus, “Be sure to carry out the ministry the Lord gave you.”",
+
+                    "textThree": "You are the one who needs to ensure that you fulfil your ministry, career, profession, or whatever God has given you. Not your friends, mentor, mentee, parents, government, or ministry. They sure have a role to play but the fulfilment depends majorly on you. If you are not 100% committed to your vision, nobody will commit to it. Finding out what it takes to fulfil your mandate is your responsibility. Don't just sit down relaxed and think time will fulfil it, No, you are the one to fulfil it. Discover, refine, and release that which God has placed in you. Die empty. ",
+                },
+
+                "footerTitle": 'PRAYER',
+
+                "footerText": "LORD, don’t let me die full",
+
+                // "footerTitleTwo": 'QUOTES',
+
+                // "footerTextTwo": "No matter how far or fast you go in the wrong direction, you will never get to your desired destination.",
+            },
+            {
+                "id": "114",
+
+                "uniqueDate": "Apr 24th 23",
+
+                "title": "THE FIGHT OF FAITH ",
+
+                "memoryVerse": "But without faith, it is impossible to please Him, for he who comes to God must believe that He is, and that He is a rewarder of those who diligently seek Him.",
+
+                "bibleVerse": "HEBREWS 11:6",
+
+                "studyBible": "2 Tim 4:1-8",
+
+                'texts': {
+                    "textOne": "Life is full of battles, you may not be able to choose who or what fights you, but you must choose who or what you fight. The battles you choose to fight determine the victory you secure.Remember, you cannot live long enough to fight all your battles. But the battle you cannot but fight and win is the battle against your FAITH. The most valuable asset of a believer is not mansions or luxurious cars but his faith. Your most treasured possession is your faith in Christ. It is important that you are aware of how priceless your faith is, or else you will lose it easily. If some ladies can protect their faith like they protect their jewellery, they will have a better stand with God.",
+
+                    "textTwo": "The greatest assault of the enemy in your life will be against your faith. The enemy is constantly trying to steal, kill or destroy your faith. Satan doesn't want you to be a Christian. This is why your unbelieving friend can have it easy but you don't.  The enemy fights your faith because without faith you cannot please God. Only the people with the faith that Jesus authored can please the Father. The whole essence of man is to please God. Man is created for His pleasure. God created things for our pleasure, but He created us for His own pleasure Ps 149:4, 1 Timothy 6:17). ",
+
+                    "textThree": "In time past, people have sought to please God through religion, sacrifices, self-discipline, and other different ways. The children of Israel could not please God due to their lack of faith in Him. May I tell you, you won’t be able to bring pleasure to God through your music, work, career, and sermons if it is not done in faith. If the enemy succeeds in defeating your faith, you cannot please God anymore. Therefore, protect your faith because that’s all you have to please God. Your faith keeps you connected to God. All the trials, persecutions, afflictions, and sacrifices are the fight for your faith. We keep fighting until we see Jesus on the throne. ",
+                },
+
+                "footerTitle": 'CONFESSION ',
+
+                "footerText": "I will continually please God all the days of my life because my faith in Him is undefeatable. ",
+
+                // "footerTitleTwo": 'QUOTES',
+
+                // "footerTextTwo": "No matter how far or fast you go in the wrong direction, you will never get to your desired destination.",
+            },
+            {
+                "id": "115",
+
+                "uniqueDate": "Apr 25th 23",
+
+                "title": "WHAT’S YOUR SOUL WORTH? $10 BILLION OR MORE?",
+
+                "memoryVerse": "For what will it profit a man if he gains the whole world, and loses his own soul? ",
+
+                "bibleVerse": "MARK 8:36",
+
+                "studyBible": "LUKE 12:13-21 ",
+
+                'texts': {
+                    "textOne": "If you are offered 10 billion dollars or more in exchange for your soul, will you sell it? If your answer is yes, then you would have sold it too cheap. The devil is a good businessman and you can be sure he will still make profits even if he gives you one trillion dollars for your soul. Whatever offer the enemy is offering you in exchange for your soul, it is definitely not worth it. So how much is your soul actually worth? If you take all the wealth of Apple, Google, and Microsoft and add them to the oil fields of  Russia, Saudi Arabia, the U.S, Iraq, and the U.A.E, multiplied by the diamond mines of Russia, Botswana, and Congo plus the gold mines of China, Australia, Ghana and Canada, they are not worth the price of your soul.",
+
+                    "textTwo": "This is because a soul is priceless. Man, the devil, and other beings can create anything but nobody can create the soul. Nobody knows the mystery that created the soul except the Trinity.  No amount of money can buy your soul. If all the resources on earth are put together, they cannot match the worth of your soul. This is why the devil is flashing the fast cars, dresses, and big houses in your face so that you can lose what is most precious to you.",
+
+                    "textThree": "The soul cannot be bought with corruptible materials. The soul was created from the uncreated and everlasting material. So, whatever will purchase it must be higher. Only the incorruptible material can buy it. This is why it takes the blood of Jesus to purchase your soul back from hell. The everlasting life of Jesus was the adequate price God paid to rescue your soul from the chains of hell. Why will you lose your soul? Because of cars, houses, money, or the things that perish?  Don't trade your freedom in Christ for anything.",
+                },
+
+                "footerTitle": 'MEDITATION',
+
+                "footerText": "Only in Jesus is your true value revealed and appreciated.",
+
+                // "footerTitleTwo": 'QUOTES',
+
+                // "footerTextTwo": "No matter how far or fast you go in the wrong direction, you will never get to your desired destination.",
+            },
+            {
+                "id": "116",
+
+                "uniqueDate": "Apr 26th 23",
+
+                "title": "AFTER THIS EARTH, WHAT’S NEXT?",
+
+                "memoryVerse": "He who believes in Him is not condemned; but he who does not believe is condemned already because he has not believed in the name of the only begotten Son of God.",
+
+                "bibleVerse": "JOHN 3:18",
+
+                "studyBible": "LUKE 16:19-31",
+
+                'texts': {
+                    "textOne": "“Heaven is a choice, hell is a choice but eternity is constant”. Think about this statement for a while. Have you ever thought of where you will spend eternity? Or do you think everything will end here on earth? The choice of where you will spend eternity is entirely yours to make. You can choose to spend it with God in eternal bliss, filled with glory, peace and joy or you can also decide to spend it in hell, full of agony, pain, weeping, and gnashing of teeth.",
+
+                    "textTwo": "God has made the provision for your eternal redemption through faith in the finished work of Christ Jesus. Faith in Jesus gives you the free ticket to reign with God forever. Titus 2:11:For the grace of God that brings salvation has appeared to all men. John 3:16: For God so loved the world that he gave his one and only Son, that whoever believes in him shall not perish but have eternal life. Refusal to believe in the first begotten of the father automatically redirects you back to eternal condemnation. The choice is yours. But God does not want anyone to perish. He loves you so much that He died for you and He wants you to spend eternity with Him. However, He cannot force you because you are a free moral being.",
+
+                    "textThree": "You will live forever, whether in hell or heaven. It is either you live forever in the lake of fire with pain or forever with Jesus in peace and joy. Whether you believe that there is hell or heaven doesn't matter. I know there may not be intelligent ways to prove whether there is heaven or hell. The people in Noah’s time also couldn't believe it, but it was too late when the proof was convincing. It will be too late when you are in hell to believe. Jesus wants you to reign with Him in eternity. Surrender your life to Him today if you haven’t and you will escape eternal punishment.",
+                },
+
+                "footerTitle": 'MEDITATION',
+
+                "footerText": "Witness and pray for the salvation of the soul of your families and friends today.",
+
+                // "footerTitleTwo": 'QUOTES',
+
+                // "footerTextTwo": "No matter how far or fast you go in the wrong direction, you will never get to your desired destination.",
+            },
+            {
+                "id": "117",
+
+                "uniqueDate": "Apr 27th 23",
+
+                "title": "WHAT'S YOUR GREATEST PURSUIT?",
+
+                "memoryVerse": "But seek first the kingdom of God and His righteousness, and all these things shall be added to you ",
+
+                "bibleVerse": "MATTHEW 6:33",
+
+                "studyBible": "MATTHEW 19:16-22",
+
+                'texts': {
+                    "textOne": "Good morning! Can I ask you an important question again? What do you think is the greatest pursuit of a man? Some believe it is money, prosperity, or wealth. Some think it is influence, popularity, and power. Some also believe it should be a good wife, husband, or marriage. While some believe that the greatest pursuit of life should be knowledge or wisdom. For some, their greatest pursuit is good health. But let me ask you, what is your greatest pursuit in life? What is your priority in life?",
+
+                    "textTwo": "Your greatest pursuit in life shouldn't be any of these things mentioned above. While it is God’s plan for you to be rich, powerful, married, and be in good health, they should never become your pursuit. Jesus told us what our pursuit should be in Matthew 6:33 But seek first the kingdom of God and His righteousness, and all these things shall be added to you. Your greatest pursuit should be God. Your life should not be all about how much money you have, how big your house is, how many cars you have, or your connections. Your greatest pursuit must be Christ. ",
+
+                    "textThree": "A life without God is vanity. You must get connected to your maker to live a meaningful life. Money without Christ is a life without meaning. You are created to seek God, not things. When you seek God, every other thing you need follows you. It is only God that can satisfy your yearning. It is only Jesus that can bring meaning and purpose to your life. At the end of the tunnel of any other pursuit outside Jesus are darkness, vanity, and destruction. As you pursue Christ, all other things will begin to follow you. The good family that you desire, the fine cars, and the good houses will find you. Then you will live a life of joy and fulfilment.",
+                },
+
+                "footerTitle": 'MEDITATION',
+
+                "footerText": "Seek God (Jesus) not things.",
+
+                // "footerTitleTwo": 'QUOTES',
+
+                // "footerTextTwo": "No matter how far or fast you go in the wrong direction, you will never get to your desired destination.",
+            },
+            {
+                "id": "118",
+
+                "uniqueDate": "Apr 28th 23",
+
+                "title": "THE POWER OF GOD",
+
+                "memoryVerse": "For I am not ashamed of the gospel of Christ, for it is the power of God to salvation for everyone who believes, for the Jew first and also for the Greek.",
+
+                "bibleVerse": "ROMANS 1:16",
+
+                "studyBible": "1 CORINTHIANS 15:1-19",
+
+                'texts': {
+                    "textOne": "What is the power of God? What is the highest expression and manifestation of His power? Is it in healing the sick, raising the dead, making the lame walk, or making the barren fruitful? Is it the power to prosper or make wealth? Is it the power to walk on water? According to our text, you will be shocked that the power of God is simply the Gospel. Yes!  The gospel. The reason the church has not been experiencing the power of God as in the days of the apostles is that the church is no longer preaching the gospel.",
+
+                    "textTwo": "What is the power of God? What is the highest expression and manifestation of His power? Is it in healing the sick, raising the dead, making the lame walk, or making the barren fruitful? Is it the power to prosper or make wealth? Is it the power to walk on water? According to our text, you will be shocked that the power of God is simply the Gospel. Yes!  The gospel. The reason the church has not been experiencing the power of God as in the days of the apostles is that the church is no longer preaching the gospel.",
+
+                    "textThree": "The gospel is simply the message of the birth, death, burial, and resurrection of Jesus Christ. The gospel is all about Jesus. The gospel is the message of the kingdom that Jesus brought into the world. The purpose for which He died and resurrected. The gospel is salvation from sin through the blood of Jesus on the cross. The gospel is the good news of eternal life that is in Christ Jesus. This is the gospel. People prospered, built cities, raised the dead, healed the sick, conducted deliverance, and performed miracles even before Jesus came. However, the only thing that could not happen was the salvation of men from sin, satan and the flesh. The gospel is the deliverance from these things.",
+                },
+
+                "footerTitle": 'PRAYER',
+
+                "footerText": "Father, restore the message of the Gospel to your church in Jesus name.",
+
+                // "footerTitleTwo": 'QUOTES',
+
+                // "footerTextTwo": "No matter how far or fast you go in the wrong direction, you will never get to your desired destination.",
+            },
+            {
+                "id": "119",
+
+                "uniqueDate": "Apr 29th 23",
+
+                "title": "THE POWER OF THE GOSPEL",
+
+                "memoryVerse": "For the message of the cross is foolishness to those who are perishing, but to us who are being saved it is the power of God",
+
+                "bibleVerse": "1 CORINTHIANS 1:18",
+
+                "studyBible": "1 CORINTHIANS 1:18-24",
+
+                'texts': {
+                    "textOne": "What is the greatest miracle that the gospel brought to humanity? There is hardly any miracle that Jesus performed that has not been performed by the Prophets in the Old Testament. The sick were healed, the red sea was parted, the dead came back to life, and supernatural strength. Just mention it. The only miracle missing in the Old Testament was the miracle of salvation. Meanwhile, this is the least miracle we value.",
+
+                    "textTwo": "The gospel has the power to heal the sick, raise the dead, walk on water, and feed thousands (1 Cor 2:4), but the greatest manifestation of its miracle was raising people who are spiritually dead back to life. The greatest miracle of the gospel is the restoration of the Spirit of God back into the spirit of man. It is declaring a wicked and ungodly man justified and holy. The greatest miracle of the gospel is turning people who are children of Satan into children of God.",
+
+                    "textThree": "Do you know what this means? Only the gospel can make a sinner become a saint, a stranger become a family of the commonwealth of Zion, a slave become a son, a hell-bound become a heavenly-bound. What a miracle! The power of the gospel restored man back to God. It converted eternal damnation to eternal bliss. Only the gospel has the power to convict sinners and impart faith to be saved (Romans 10:17). Also, the message of the gospel empowers and matures the believer until he becomes perfect and Christ is formed in him/her. This is the greatest power of God in the gospel.",
+                },
+
+                "footerTitle": 'MEDITATION',
+
+                "footerText": "It is only by the message of the gospel that a man can be saved. No other way.",
+
+                // "footerTitleTwo": 'QUOTES',
+
+                // "footerTextTwo": "No matter how far or fast you go in the wrong direction, you will never get to your desired destination.",
+            },
+            {
+                "id": "120",
+
+                "uniqueDate": "Apr 30th 23",
+
+                "title": "WHAT TO DO WHEN YOUR EXPECTATIONS ARE UNMET",
+
+                "memoryVerse": "Thus says the Lord, “Cursed is the man who trusts in mankind And makes flesh his strength, And whose heart turns away from the Lord.",
+
+                "bibleVerse": "JEREMIAH 17:5",
+
+                "studyBible": "ISAIAH 31:3",
+
+                'texts': {
+                    "textOne": "We wake up every day with expectations. We have expectations from parents, families, school, friends, government, and from God. At times these expectations are valid and normal. For instance, you expect your parents to love and support you in school and in everything. You expect the government to protect you and provide social amenities. You expect your friends to support you when you need them. You expect your spouse to be there for you in difficult times. We also have expectations from ourselves. We expect something from ourselves.",
+
+                    "textTwo": "However, everyday most of our expectations are dashed. Our hearts have been broken by disappointments, especially from those we call our loved ones. But top on the list is the disappointment from the expectation on yourself. As much as we get disappointed from people, one of the worst is the inability to meet our own expectations. A goal you couldn't smash, a project you couldn't finish, a relationship you couldn't keep and the list goes on. How then do we deal with unmet expectations?",
+
+                    "textThree": "First, don’t put your trust in men. Psalms 146:3; Do not trust in princes, in mortal man, in whom there is no salvation. _ NASB. God commanded you never to trust in man no matter how convincing they might sound. Jesus Himself did not trust in man. Men are not reliable because they are human, they are limited in every way. Never see men as your source. God can use a man to help you, He can use your family to meet your needs but always remember that God remains the source. Don’t always focus or reply on people that God has used for you, not even your parents. Men can disappoint because sometimes they don’t have what it takes to help you. Trust God enough to choose who to use.",
+
+                    "textFour": "Lastly, when unmet expectations are your fault, i.e it’s you who is disappointed in yourself, note that you’re also a work in progress. Even your failures are helping you make progress. Always trust in God and not in your abilities. Every other thing can fail but God can’t.",
+                },
+
+                "footerTitle": 'MEDITATION',
+
+                "footerText": "Humans disappoint but God can’t",
 
                 // "footerTitleTwo": 'QUOTES',
 

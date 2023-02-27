@@ -29,7 +29,7 @@
         <section class="card-body">
           <div class="bg-none m-auto p-md-3 p-2 m-2">
             <div class="row g-0">
-              <div
+              <div v-if="dld.bibleVerse"
                 class="col-md-5 gap-3 p-3 rounded-3 bg-theme-gradient d-flex align-self-center"
               >
                 <div class="card-body">
@@ -74,8 +74,8 @@
           </div>
         </section>
         <div class="card-footer text-muted">
-          <p class="fw-bold text-black"> {{dld.footerTitle}} </p>
-          <p class="fst-italic text-black"> {{dld.footerText}} </p>
+          <p class="fw-bold text-black" v-if="dld.footerTitle"> {{dld.footerTitle}} </p>
+          <p class="fst-italic text-black" v-if="dld.footerText"> {{dld.footerText}} </p>
           <p class="fw-bold text-black" v-if="dld.footerTitleTwo"> {{dld.footerTitleTwo}} </p>
           <p class="fst-italic text-black" v-if="dld.footerTextTwo"> {{dld.footerTextTwo}} </p>
 
