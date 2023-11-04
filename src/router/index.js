@@ -1,4 +1,5 @@
-import { createRouter, createWebHistory } from 'vue-router'
+import { createRouter } from 'vue-router'
+import {  createWebHistory } from 'vue-router'
 // import HomeView from '../views/HomeView.vue'
 // import About from '../views/About.vue'
 // import LogInLLC from '../pages/LogInLLC.vue'
@@ -13,12 +14,14 @@ const LogInLLC = () => import ('../pages/LogInLLC.vue')
 const PageNotFound = () => import ('../pages/PageNotFound.vue')
 const BlogUpload = () => import ('../pages/BlogUpload.vue')
 const BlogPost = () => import ('../pages/BlogPost.vue')
+const BlogContent = () => import ('../pages/BlogContent.vue')
 const Teachings = () => import ('../pages/Teachings.vue')
 const Support = () => import ('../pages/Support.vue')
 const Programme = () => import ('../pages/Programme.vue')
+// const BlogPage = () => import ('../pages/BlogPage.vue')
 
-import store from '@/store'
-import { IS_USER_AUTHETICATED_GETTER } from '@/store/storeconstants'
+// import store from '@/store'
+// import { IS_USER_AUTHETICATED_GETTER } from '@/store/storeconstants'
 
 
 const routes = [
@@ -53,6 +56,11 @@ const routes = [
     component: BlogPost,
   },
   { 
+    path: '/blog',
+    name: 'blog',
+    component: BlogContent,
+  },
+  { 
     path: '/teachings',
     name: 'teachings',
     component: Teachings,
@@ -67,14 +75,25 @@ const routes = [
     path: '/:pathMatch(.*)*',
     component: PageNotFound
 },
+// {
+//   path: '*',
+//   redirect: '/PageNotFound',
+// },
   {
     name: 'programme',
     path: '/programme',
     component: Programme
 },
+//   {
+//     name: 'blogpage',
+//     path: '/blogpage',
+//     component: BlogPage
+// },
 ]
 
 const router = createRouter({
+  mode: history,
+  base: '/',
   history: createWebHistory(process.env.BASE_URL),
   routes, 
   scrollBehavior: (to, from, savedPosition) => {
@@ -90,15 +109,23 @@ const router = createRouter({
 })
 
 // navitaion guards
-router.beforeEach((to, from, next) => {
-  if('auth' in to.meta && to.meta.auth && !store.getters[`auth/${IS_USER_AUTHETICATED_GETTER}`]) {
-    next('/login')
-  } else if ('auth' in to.meta && !to.meta.auth && store.getters[`auth/${IS_USER_AUTHETICATED_GETTER}`]) {
-    next('/posts')
-  } else {
-    next()
-  }
-})
+// router.beforeEach((to, from, next) => {
+//   if('auth' in to.meta && to.meta.auth && !store.getters[`auth/${IS_USER_AUTHETICATED_GETTER}`]) {
+//     next('/login')
+//   } else if ('auth' in to.meta && !to.meta.auth && store.getters[`auth/${IS_USER_AUTHETICATED_GETTER}`]) {
+//     next('/posts')
+//   } else {
+//     next()
+//   }
+// })
+
+// router.beforeEach((to, from, next) => {
+//   if (!isAuthenticated && to.name !== 'Login') {
+//     next('/login');
+//   } else {
+//     next();
+//   }
+// });
 
 
 export default router

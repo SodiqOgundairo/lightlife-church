@@ -36,6 +36,12 @@
               <li class="nav-item">
                 <router-link to="/programme" class="nav-link " aria-current="page">LLC Programmes</router-link>
               </li>
+              <!-- <li class="nav-item">
+                <router-link to="/upload" class="nav-link " aria-current="page">Submit Testimonies</router-link>
+              </li> -->
+              <li class="nav-item">
+                <router-link to="/blog" class="nav-link " aria-current="page">Testimonies</router-link>
+              </li>
               <li class="nav-item">
                 <router-link to="/support" class="nav-link" aria-current="page">To Give</router-link>
               </li>
@@ -60,5 +66,9 @@ export default {
 <style scoped>
   .nav-logo{
     width: 40px;
+}
+
+header {
+  background-color: #2b002b !important;
 }
 </style>
