@@ -46,18 +46,18 @@ const routes = [
     component: LogInLLC,
   },
   { 
-    path: '/upload',
-    name: 'upload',
+    path: '/upload-testimony',
+    name: 'upload-testimony',
     component: BlogUpload,
   },
   { 
-    path: '/post',
-    name: 'post',
+    path: '/daily-light-devotional',
+    name: 'daily-light-devotional',
     component: BlogPost,
   },
   { 
-    path: '/blog',
-    name: 'blog',
+    path: '/testimonies',
+    name: 'testimonies',
     component: BlogContent,
   },
   { 
@@ -92,7 +92,7 @@ const routes = [
 ]
 
 const router = createRouter({
-  mode: history,
+  mode: 'history',
   base: '/',
   history: createWebHistory(process.env.BASE_URL),
   routes, 

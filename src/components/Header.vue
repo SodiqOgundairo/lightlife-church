@@ -28,7 +28,7 @@
                 <router-link to="/about" class="nav-link" aria-current="page" >About LLC</router-link>
               </li>
               <li class="nav-item">
-                <router-link to="/post" class="nav-link" aria-current="page" >DLD</router-link>
+                <router-link to="/daily-light-devotional" class="nav-link" aria-current="page" >DLD</router-link>
               </li>
               <li class="nav-item">
                 <router-link to="/teachings" class="nav-link" aria-current="page" >PJ's Teachings</router-link>
@@ -40,7 +40,7 @@
                 <router-link to="/upload" class="nav-link " aria-current="page">Submit Testimonies</router-link>
               </li> -->
               <li class="nav-item">
-                <router-link to="/blog" class="nav-link " aria-current="page">Testimonies</router-link>
+                <router-link to="/testimonies" class="nav-link " aria-current="page">Testimonies</router-link>
               </li>
               <li class="nav-item">
                 <router-link to="/support" class="nav-link" aria-current="page">To Give</router-link>

@@ -3502,6 +3502,437 @@ export class DailyLight {
 
                 // "footerTextTwo": "No matter how far or fast you go in the wrong direction, you will never get to your desired destination.",
             },
+            {
+                "id": "121a",
+
+                "image": "https://drive.google.com/uc?export=view&id=1SGzmZUIz9peRiffOvjNztl1fWVw0QjiC",
+                
+                "uniqueDate": "Dec 28th 23",
+
+                "title": "TESTING FOR 2024 DLD",
+
+                "memoryVerse": "Behold, I will do a new thing, Now it shall spring forth; Shall you not know it? I will even make a road in the wilderness And rivers in the desert.",
+
+                "bibleVerse": "ISAIAH  43:19",
+
+                "studyBible": "ISAIAH 43:15-21",
+
+                'texts': {
+                    "textOne": "HAPPY NEW YEAR! I want to officially welcome you to the year 2024. You are fortunate to be part of the people that overcame 2023. Despite all the evil in the previous year, none of them is powerful enough to stop you from seeing the new year. I want you to know that it is a privilege supplied through the grace of God for you to be part of the people celebrating the new year. Whatever state you are in currently, you must be grateful for life.",
+
+                    "textTwo": "Whether 2023 has been a great year for you or maybe it hasn’t been a fulfilling year for you, that does not really matter now because God is doing something new in your life. No matter the level of success you have seen in 2023, the Lord is taking you to a whole new level that you’ve never seen before. Maybe you are still in the euphoria of the big things you've achieved so far, may I announce to you that God has moved on to something bigger and greater for your business, ministry, and life. His plan for you is from glory to glory.",
+
+                    "textThree": "Maybe your own story is different. Maybe there are goals you couldn't achieve in the previous year. Maybe your business didn't do well or your marriage didn’t go as planned. Well, I still have good news for you. Cheer up because God is doing something new. I would like you to know that the best of God for you is not behind you, it's in front of you. Alas! God is doing a new thing in your life. Everything you thought was impossible, God is empowering you to achieve them. All you need to do is to see it. Shift your focus from what is gone and set your gaze on what God is doing now. Stop murmuring and complaining about the past. It's time to start celebrating your future because this year will be far better than your previous year. This is your Game Changer Year. You might begin small but it shall end great.",
+                },
+
+                "footerTitle": 'CONFESSION',
+
+                "footerText": "Father, I thank you for the grace to see the new year 2024. My eyes are opened to see the new things you are doing in my life. I gaze and manifest all your blessings for me this year. I accomplish the impossible because this is my Game Changer year. Glory to Jesus.",
+
+                // "footerTitleTwo": 'QUOTES',
+
+                // "footerTextTwo": "No matter how far or fast you go in the wrong direction, you will never get to your desired destination.",
+
+                "bibleReadingPlanTitle": '1 YEAR BIBLE READING PLAN',
+
+                "bibleReadingPlanText": "GENESIS 1-2; MATTHEW 1",
+            },
+            {
+                "id": "121",
+
+                "uniqueDate": "Jan 1st 24",
+
+                "title": "WELCOME TO YOUR NEW SEASON",
+
+                "memoryVerse": "Behold, I will do a new thing, Now it shall spring forth; Shall you not know it? I will even make a road in the wilderness And rivers in the desert.",
+
+                "bibleVerse": "ISAIAH  43:19",
+
+                "studyBible": "ISAIAH 43:15-21",
+
+                'texts': {
+                    "textOne": "HAPPY NEW YEAR! I want to officially welcome you to the year 2024. You are fortunate to be part of the people that overcame 2023. Despite all the evil in the previous year, none of them is powerful enough to stop you from seeing the new year. I want you to know that it is a privilege supplied through the grace of God for you to be part of the people celebrating the new year. Whatever state you are in currently, you must be grateful for life.",
+
+                    "textTwo": "Whether 2023 has been a great year for you or maybe it hasn’t been a fulfilling year for you, that does not really matter now because God is doing something new in your life. No matter the level of success you have seen in 2023, the Lord is taking you to a whole new level that you’ve never seen before. Maybe you are still in the euphoria of the big things you've achieved so far, may I announce to you that God has moved on to something bigger and greater for your business, ministry, and life. His plan for you is from glory to glory.",
+
+                    "textThree": "Maybe your own story is different. Maybe there are goals you couldn't achieve in the previous year. Maybe your business didn't do well or your marriage didn’t go as planned. Well, I still have good news for you. Cheer up because God is doing something new. I would like you to know that the best of God for you is not behind you, it's in front of you. Alas! God is doing a new thing in your life. Everything you thought was impossible, God is empowering you to achieve them. All you need to do is to see it. Shift your focus from what is gone and set your gaze on what God is doing now. Stop murmuring and complaining about the past. It's time to start celebrating your future because this year will be far better than your previous year. This is your Game Changer Year. You might begin small but it shall end great.",
+                },
+
+                "footerTitle": 'CONFESSION',
+
+                "footerText": "Father, I thank you for the grace to see the new year 2024. My eyes are opened to see the new things you are doing in my life. I gaze and manifest all your blessings for me this year. I accomplish the impossible because this is my Game Changer year. Glory to Jesus.",
+
+                // "footerTitleTwo": 'QUOTES',
+
+                // "footerTextTwo": "No matter how far or fast you go in the wrong direction, you will never get to your desired destination.",
+
+                "bibleReadingPlanTitle": '1-YEAR BIBLE READING PLAN',
+
+                "bibleReadingPlanText": "GENESIS 1-2; MATTHEW 1",
+            },
+            {
+                "id": "122",
+
+                "uniqueDate": "Jan 2nd 24",
+
+                "title": "DO YOU HAVE A PLAN?",
+
+                "bibleVerse": "PROVERBS 16:3",
+
+                "memoryVerse": "Put God in charge of your work, then what you've planned will take place. (THE MESSAGE)",
+
+                "studyBible": "PROVERBS 16:1-4",
+
+                'texts': {
+                    "textOne": "The New Year has already begun and is running fast. I want you to know that there is a reason God brought you into this year. There is a purpose for your life and there are things that God has in His eternal plan that you achieved in this season. There may be many great promises that God has given you this year or many blessings that you are excited about this year. However, can I ask you a question? Do you have a plan? God has shown you your destination but have you downloaded the blueprint for the journey? Do you have the map that can lead you to your treasure?",
+
+                    "textTwo": "God doesn't just have a purpose for you, He also has a plan to back it up. I know what I'm doing. I have it all planned out, plans to take care of you, not abandon you, plans to give you the future you hope for (Jer 29:11). Plan is the step-by-step strategy to get to where you are going or to accomplish a goal. Without proper planning, you cannot accomplish anything. Your eyes may be seeing great things but if there are no plans in your heart, God will be limited. Don’t run into the year without a clear plan downloaded from the secret place of God. Spend time crafting God’s master plan for you and your business. God is doing a new thing, a new thing will require a new plan.",
+
+                    "textThree": "The root problem of many believers is that they want to execute God’s purpose with their own plans. No! You’ve got to find out how He plans to execute His purpose. It’s your responsibility to find out the plans of God for you this year. He is committed to His own plan, not yours. (Ps 33:11 But the plans of the Lord stand firm forever, the purposes of his heart through all generations). There is a strategy for your vision. Don’t just copy your friend's plan. What works for him may not work for you. Pay the price, tarry in His presence so that you can carry His plans for you. When it is God’s plan, it cannot fail. Don’t attempt to execute a divine mandate with a natural strategy. A masterpiece vision requires a master plan execution.",
+                },
+
+                "footerTitle": 'CONFESSION',
+
+                "footerText": "Father, thank you for your purpose and plans for my life. Today, I download your blueprint for my life. I come to the comprehension of your strategy and divine agenda for my life. I know what to do to get to where you’ve destined for me. I’m not ignorant and I'm not confused.",
+
+                // "footerTitleTwo": 'QUOTES',
+
+                // "footerTextTwo": "No matter how far or fast you go in the wrong direction, you will never get to your desired destination.",
+
+                "bibleReadingPlanTitle": '1-YEAR BIBLE READING PLAN',
+
+                "bibleReadingPlanText": "GENESIS 3-5; MATTHEW 2",
+            },
+            {
+                "id": "123",
+
+                "uniqueDate": "Jan 3rd 24",
+
+                "title": "ENJOYING DIVINE LEADING",
+
+                "bibleVerse": "ROMANS 8:14",
+
+                "memoryVerse": "For as many as are led by the Spirit of God, these are sons of God.",
+
+                "studyBible": "PSALMS 23:1-6",
+
+                'texts': {
+                    "textOne": "Who or What is leading you is very germane to your success in life. An old adage says that “An army of sheep led by a lion will defeat an army of lions led by a sheep,” think about this. It means your victory in life is a function of who is leading you. There is a common slang in my country Nigeria, that says “Follow who know road”. This means that you should follow the person who knows the way. One of the greatest privileges and blessings that believers have is access to divine leading. It is a blessing to be led by the holy Ghost. When you follow God’s leading, you are not just following who knows the road, you are following the road (Way) Himself. ",
+
+                    "textTwo": "A lot of believers missed it in academics, marriage, career, and life because they were led by their parents, uncles, community, or emotions instead of being led by God. Nobody knows your path like your maker. He has walked your path. He knows the end of the road before it begins. He knows the bends, the corners, where you need to slow down or speed up. Life will be stress-free when you are led by God. You can avoid the potholes and the traffic when He is leading you. ",
+
+                    "textThree": "God leads us through the Holy Spirit, indicating that your spiritual senses must be mature enough to know His leadings. An average believer is being led by their senses and emotions. Who led you into that relationship or marriage, God or emotions? Who led you into that business or career, God or your intelligence? Who led you into that ministry, God or your belly? Until you make a U-turn, God can’t lead you. David acknowledged how God led him and where God led him to. God led him into green pastures, beside the still water, and on the path of righteousness. The moment David tried to lead himself, he found himself walking the valley of the shadow of death. That wasn’t God leading him. However, God did not forsake him. His hand can only protect where He leads. ",
+                },
+
+                "footerTitle": 'CONFESSION',
+
+                "footerText": "Father, thank you for the blessing of divine leading. I declare that I am led by the Spirit. I do not follow my emotions, intelligence, or society. I submit to the Leadership of the Spirit in all my ways. I receive wisdom for direction.  ",
+
+                // "footerTitleTwo": 'QUOTES',
+
+                // "footerTextTwo": "No matter how far or fast you go in the wrong direction, you will never get to your desired destination.",
+
+                "bibleReadingPlanTitle": '1-YEAR BIBLE READING PLAN',
+
+                "bibleReadingPlanText": "GENESIS 6-8; MATTHEW 3",
+            },
+            {
+                "id": "124",
+
+                "uniqueDate": "Jan 4th 24",
+
+                "title": "ENJOYING DIVINE LEADING PART 2",
+
+                "bibleVerse": "PSALMS 23:1",
+
+                "memoryVerse": "The Lord is my shepherd; I shall not want.",
+
+                "studyBible": "1KINGS 17:1-9",
+
+                'texts': {
+                    "textOne": "Whether you believe it or not, your prosperity in life is tied to being led by the Lord. A lot of believers today are missing God’s provision for their lives and marriage because they are not led by the Spirit. Your provision in life is where God leads to. There are countless examples of this in the scripture. Lot looked at the plains of Jordan and it was so green that it looked like the garden of the Lord (Gen 13:10). Lot decided to choose with his senses like most believers do. At the end of the Day, the destruction of Sodom caught up with him. The fact that it’s green doesn't mean it's God.",
+
+                    "textTwo": "Abimelech is another epic example. Abimelech left Bethlehem because of famine but without the voice of the Lord. He allowed the economic situation of the land to lead him out of God's land to a place that was booming economically. In today’s parlance, he “Japa” with his family without being led by God. At the end of the day, his lineage was wiped out of history by death. Provision and prosperity are in the place that God leads you to. If God leads you into the wilderness, it will become a city. If God leads you into a desert, it will overflow with rivers. Don’t just move because things are hard, be led because your destiny is location-sensitive. A fish is designed to live in water. An elephant is made for the jungle. There’s a place God has positioned you and that’s where your provision lies.",
+
+                    "textThree": "A good example of someone that God led into provision was prophet Elijah. After Elijah declares no rain, which means there will be famine in the Land, God leads him to Brook-Cherith. And there, the Lord sent provision of food to him daily. God led again to a widow in Zarephath who will make provision for his needs again. Elijah was feeding fat while others were dying in famine because he was led by God. God knows where your provisions lie and if you allow him to lead, you will never lack. David says “The Lord is my shepherd, I shall not want” As long as God is leading you, your green pasture is guaranteed. Trust his voice to lead you to your promised land. Wherever His voice leads, His hands always provide. ",
+                },
+
+                "footerTitle": 'CONFESSION',
+
+                "footerText": "Read Psalms 23",
+
+                // "footerTitleTwo": 'QUOTES',
+
+                // "footerTextTwo": "No matter how far or fast you go in the wrong direction, you will never get to your desired destination.",
+
+                "bibleReadingPlanTitle": '1-YEAR BIBLE READING PLAN',
+
+                "bibleReadingPlanText": "GENESIS 9-11, MATTHEW 4",
+            },
+            {
+                "id": "125",
+
+                "uniqueDate": "Jan 5th 24",
+
+                "title": "ENJOYING DIVINE LEADING PART 3",
+
+                "bibleVerse": "EXODUS 33:15",
+
+                "memoryVerse": "And he said unto him, If thy presence go not with me, carry us not up hence.",
+
+                "studyBible": "I SAMUEL 30:1-19",
+
+                'texts': {
+                    "textOne": "A believer who enjoys divine leading will always walk in victory. A lot of believers suffer from defeat because they are not led into battles by the Lord. You can never lose another battle as long as you are led. One of the secrets of David’s consistent victory in battles was that he didn’t fight a battle without asking God first. He will never go into any battle without God’s approval. In our text, we can see David going to ask God again and again before going to fight the Amalekites. ",
+
+                    "textTwo": "One of the reasons why God needs to lead you is because of the strategy you need to fight. Every battle needs a different strategy. David never assumed that the way that God led him yesterday would be the same way God is leading him today. God has different strategies for different battles. For Joshua, God told him to gather the priest and march around the wall for seven days, and on the seventh day, a loud shout should be made. And that was it, (Joshua 6:1-5). As for Jehosaphat, all he needed to do was to gather a choir and as they began to sing, God was fighting their battles for them (2 Chron 20). For Moses, all he had to do was to lift his hand and as long as his hand remained lifted the Israelites were winning ( Ex 17:11-13).",
+
+                    "textThree": "Divine direction is the key to victorious living in life. Many of us go into battles we are not supposed to go into. When Herod was looking for Jesus, God didn’t send an angel to kill Herod, He simply instructed Joseph to flee with the baby. When God leads you He either fights for you or with you. But when you lead yourself, you will have to fight alone. Start enjoying cheap victory through God’s leading. ",
+                },
+
+                "footerTitle": 'CONFESSION',
+
+                "footerText": "I declare that I enjoy consistent victory in all battles of life. I enjoy God’s leading as I engage in both known and unknown battles in life. I engage in the right strategies for the right battles. Henceforth, I know no defeat in Jesus' name. ",
+
+                // "footerTitleTwo": 'QUOTES',
+
+                // "footerTextTwo": "No matter how far or fast you go in the wrong direction, you will never get to your desired destination.",
+
+                "bibleReadingPlanTitle": '1-YEAR BIBLE READING PLAN',
+
+                "bibleReadingPlanText": "GENESIS 12-14; MATTHEW 5: 1-26",
+            },
+            {
+                "id": "126",
+
+                "uniqueDate": "Jan 6th 24",
+
+                "title": "WHAT’S YOUR CONSECRATION?",
+
+                "bibleVerse": "2 CORINTHIANS  6:17",
+
+                "memoryVerse": "Wherefore come out from among them, and be ye separate, saith the Lord, and touch not the unclean thing; and I will receive you.",
+
+                "studyBible": "JUDGES 16:2-5",
+
+                'texts': {
+                    "textOne": "One of the subjects less talked about today among believers is the subject of consecration. Today, many believers have misinterpreted the message of grace to living a life without boundaries. Grace doesn't take away our consecration rather it deepens it. As God anoints you and separates you for His use, there are things, places, and people that He expects you to stay away from to keep your anointing. This is beyond whether it's sinful or not. Paul said the fact that something is permissible doesn't mean it's beneficial.",
+
+                    "textTwo": "There are two types of consecration. The first is general consecration, which talks about the general instruction as written in the scriptures. This deals with instruction to all believers to stay away from sin. Sin contaminates your anointing as a believer. Sin pollutes your anointing and your consecration. The second type of consecration is Specific Consecration. This is the specific or personal instruction that God gives you to protect and keep your anointing. In the case of Samson, his specific consecration was that his hair must be uncut, and should not eat unclean things. The specific consecration is not necessarily a sinful act or habit but God in his omniscience knows how it affects the person involved.",
+
+                    "textThree": "A lot of people have made a doctrine out of personal consecration. This is the wrong thing to do. Specific consecration most time is personal to a person or a people. They are God’s personal dealing with your heart. For instance, God can tell you not to wear earrings, not to wear trousers, not to eat a particular food, or maybe to leave your beard uncut. Imposing this on everyone is not right. However, the point is that you must identify the particular instruction that is your own consecration. It may be to wake up and pray at a particular time or fast on certain days. Your consecration is what protects your grace and life. Keep it for it is your life. ",
+                },
+
+                "footerTitle": 'PRAYER',
+
+                "footerText": "Father open my understanding to my consecration and give me the grace to keep it in Jesus name.",
+
+                // "footerTitleTwo": 'QUOTES',
+
+                // "footerTextTwo": "No matter how far or fast you go in the wrong direction, you will never get to your desired destination.",
+
+                "bibleReadingPlanTitle": '1-YEAR BIBLE READING PLAN',
+
+                "bibleReadingPlanText": "GENESIS 15-17; MATTHEW 5: 27-48",
+            },
+            {
+                "id": "127",
+
+                "uniqueDate": "Jan 7th 24",
+
+                "title": "THE POWER OF INSTRUCTION",
+
+                "bibleVerse": "PROVERBS 8:10",
+
+                "memoryVerse": "Receive my instruction, and not silver, And knowledge rather than choice gold",
+
+                "studyBible": "PROVERBS 4:1-13",
+
+                'texts': {
+                    "textOne": "It was one day to our fifth anniversary and a lot of things we planned to do were not yet paid for. I was sitting in the church when God gave me an instruction, which was the key to unlock the door of supply for the anniversary. The Spirit of God instructed me to dance like a baby. Immediately I started dancing. I danced, danced, and danced. I somersaulted and did a lot of childish dancing. Some of the leaders around me at some point were embarrassed by the way I danced. When I got home again, I continued the dance. ",
+
+                    "textTwo": "On the second day, provision started coming. There is always a provision before any need arises. Every day of the anniversary events till the end of it, there was supernatural provision in millions of naira. It takes an instruction to fly in life. You will fail woefully if you don’t like to follow instructions. Consider being in an exam and you didn't read the instructions well. Instead of listing and explaining, you only listed the points. You already know that will end in failure. Instruction is a lifesaver. A lot of people run into problems because of a lack of instruction. A lot of believers missed their miracles because they couldn’t follow the instructions that God gave them.",
+
+                    "textThree": "The widow in 2 Kings chapter 4 followed the instruction of the prophet and she got her miracles. The Bible says only fools despise instruction (Prov 1:7). According to Proverbs 18:13, many people are in poverty because they hate instruction. Sometimes, believers despise the instruction of the Lord because it doesn’t make sense. Sometimes, it may seem that there is no connection between your problem and the instruction God is giving you. However, don’t be so wise to ignore it, rather be foolish enough to follow it. God instructed Elijah to go to a poor suicidal widow to be fed. He obeyed and it all ended in wonders. Learn how to hear and follow instructions, and you will live long and be successful.",
+                },
+
+                "footerTitle": 'PRAYER',
+
+                "footerText": "Father, in the name of Jesus, open my ears to your instructions. Give me the grace to follow and obey your instructions. I receive daily instructions for my marriage, career, business, and ministry. Amen.",
+
+                // "footerTitleTwo": 'QUOTES',
+
+                // "footerTextTwo": "No matter how far or fast you go in the wrong direction, you will never get to your desired destination.",
+
+                "bibleReadingPlanTitle": '1-YEAR BIBLE READING PLAN',
+
+                "bibleReadingPlanText": "GENESIS 18-19; MATTHEW 6",
+            },
+            {
+                "id": "128",
+
+                "uniqueDate": "Jan 8th 24",
+
+                "title": "TRANSGENERATIONAL IMPACT",
+
+                "bibleVerse": "GENESIS 17:7",
+
+                "memoryVerse": "And I will establish My covenant between Me and you and your descendants after you in their generations, for an everlasting covenant, to be God to you and your descendants after you",
+
+                "studyBible": "GENESIS 12:1-3",
+
+                'texts': {
+                    "textOne": "God’s nature of blessings is not such that it ends with an individual. God is always transgenerational and futuristic in thinking. He sees life more like a relay race where the baton is passed from one person to the next, than like a sprint. God’s work is from one generation to another. Whatever God has called you to do, believe me, He doesn’t want it to end with you. He wants your impact to transcend your generation. However, you must have a transgenerational mindset for your impact to go beyond your generation. ",
+
+                    "textTwo": "To have a transgenerational impact, you must seek impact over personal gain. You must prioritize what you can accomplish for others over personal goals. It is a mindset that focuses on building structures, systems, and assets instead of pleasures and accumulating liabilities. This kind of mindset focuses on legacies instead of retirement. You must fight battles that your parents refused to fight and secure the future for the next generation. Focus on planting trees that you are not likely to eat out of its fruits. A selfish person cannot command generational impact. ",
+
+                    "textThree": "A man or woman of generational impact is very bad at the blame game. They take responsibility and contribute their best. They are committed to the consistent growth and development of the people around them. Are you committed to the growth of your community or nation no matter how small? Are you ready to pay the price of breaking free from the culture of mediocrity into excellence? Only excellence has the power to make a transgenerational impact. You can start in small ways by thinking about others before yourself and teaching others the little you know. ",
+
+                    "textFour": "Encouraging others to be a better version of themselves. With consistent growth and a compelling vision, the song of your impact will be sung for generations to come.",
+                },
+
+                "footerTitle": 'CONFESSION',
+
+                "footerText": "I’m a generational impact maker. I cause transformations beyond the borders of my Nation and generation. I become an agent of change. I am a voice and image of hope and excellence to my prosperity. I go beyond and above as a positive symbol of greatness and possibilities.",
+
+                // "footerTitleTwo": 'QUOTES',
+
+                // "footerTextTwo": "No matter how far or fast you go in the wrong direction, you will never get to your desired destination.",
+
+                "bibleReadingPlanTitle": '1-YEAR BIBLE READING PLAN',
+
+                "bibleReadingPlanText": "GENESIS 20-22; MATTHEW 7",
+            },
+            {
+                "id": "129",
+
+                "uniqueDate": "Jan 9th 24",
+
+                "title": "SECRECY; THE POWER OF SIN",
+
+                "bibleVerse": "PROVERBS 28:13",
+
+                "memoryVerse": "He who conceals his transgressions will not prosper, But he who confesses and forsakes them will find compassion.",
+
+                "studyBible": "PSALMS 19:12-13",
+
+                'texts': {
+                    "textOne": "A son of a rich man mistakenly killed one of his Dad’s favourite cats. One of the father’s slaves happened to see him and threatened to tell his father. The son begged the slave not to disclose this incident to the father. So, the slave gave a condition to the son, that all the rights (food, stipends, clothes) that he enjoyed as a son would be given to him. So whenever the father gives the slave a duty to do, he will call the son and give it to him. This continued for a while and anytime the son wanted to protest, the slave would remind him of the secret. After some time, the father noticed and he called his son. The son reluctantly told the father. The father hugged him and told him that the cat was nothing compared to him as a son and that he should have told him long before that time.",
+
+                    "textTwo": "The next day, the slave called the son to send him an errand again. The son refused, so he threatened to tell his father and he told the slave confidently that the father was already aware and had forgiven him. This was how the son broke free from the slave’s bondage. Many of us are like the son. A lot of believers care more about their reputation than their character. Your reputation is who people think you are but your character is who you are. Many believers today are seemingly holy on the outside but are dying inside because of secret sin. Confession of sin is no more a practice among Christians because everybody wants to be seen as fine. Meanwhile, your so-called holiness is hypocrisy. A lot of believers struggling with different sins are getting buried in these sins because they kept it a secret. The power of sin is secrecy. However, there is no secret before God. Even the ones you commit in your heart are known to God. This is why James encouraged us to confess our sins to one another. Sometimes, confession is all you need to break the power of that sin.",
+                },
+
+                "footerTitle": 'MEDITATION',
+
+                "footerText": "Go ahead and deliver yourself from secret strongholds by sharing that burden of sin with a trusted believer or pastor",
+
+                // "footerTitleTwo": 'QUOTES',
+
+                // "footerTextTwo": "No matter how far or fast you go in the wrong direction, you will never get to your desired destination.",
+
+                "bibleReadingPlanTitle": '1-YEAR BIBLE READING PLAN',
+
+                "bibleReadingPlanText": "GENESIS 23-24; MATTHEW 8",
+            },
+            {
+                "id": "130",
+
+                "uniqueDate": "Jan 10th 24",
+
+                "title": "PATHWAY TO SIGNIFICANCE",
+
+                "bibleVerse": "DEUTERONOMY 26:19",
+
+                "memoryVerse": "And that He will set you high above all nations which He has made, in praise, in name, and in honor, and that you may be a holy people to the Lord your God, just as He has spoken.",
+
+                "studyBible": "JEREMIAH 1:1-10",
+
+                'texts': {
+                    "textOne": "God created you to stand out in life. You are not made to be lost in the crowd. You are designed for significance. To be significant means to be important and to stand out or to be worthy of note. This is your destiny. No matter your past or background, God wants you to live a life of significance. But how do I begin my journey to significance? It’s simple, the foundational principle is to know the most significant figure in history, in the person of Jesus. I was a nobody until I met Jesus. Immediately I met Him and began my journey with Him, people began to notice me and the value I carry.",
+
+                    "textTwo": "Having a relationship does two things to you, self-awareness and self-discovery. You suddenly discover why you are here and what you carry. You become aware of the treasure and value you carry. Simply yourself, the perception will change. Secondly, your world perception will also change. You suddenly begin to see opportunity and open doors for greatness everywhere you go. On your path to significance is self-development and personal productivity. You must learn how to push yourself to do the things that you need to do. You must learn to work very hard and be disciplined. The reason a lot of believers could not rise to the place of significance is because of a lack of discipline. ",
+
+                    "textThree": "Becoming significant in life requires inspiring others consistently. Note that to be successful isn't the same as being significant. This is more than success. Your significance is measured by how much you have contributed to people's lives, your society, and the world at large. Prophet Samuel, Elijah, King David, Paul, and the rest of the great people are significant not because of what they did for themselves but what they did for God and humanity. The journey of significance is often traveled on the road of sacrifice and meaningful contribution. To be significant you must do something significant.",
+                },
+
+                "footerTitle": 'CONFESSION',
+
+                "footerText": "I stand out with Christ. I do not roam in confusion and mediocrity. I am made for significance. I’m empowered by Christ to positively inspire the nations of the world. I will not leave this earth a nonentity. I become a force to reckon with. ",
+
+                // "footerTitleTwo": 'QUOTES',
+
+                // "footerTextTwo": "No matter how far or fast you go in the wrong direction, you will never get to your desired destination.",
+
+                "bibleReadingPlanTitle": '1-YEAR BIBLE READING PLAN',
+
+                "bibleReadingPlanText": "GENESIS 25-26; MATTHEW 9:1-17",
+            },
+            {
+                "id": "131",
+
+                "uniqueDate": "Jan 11th 24",
+
+                "title": "UNDERSTANDING THE WILL OF GOD FOR YOUR LIFE",
+
+                "bibleVerse": "EPHESIANS 5:17",
+
+                "memoryVerse": "Therefore do not be foolish, but understand what the Lord's will is. NIV",
+
+                "studyBible": "HEBREWS 5:12-14 ",
+
+                'texts': {
+                    "textOne": "There is a popular proverb in my language that says “The soup that the husband doesn't eat, the wife must not cook it.'' What this means is that the secret to please your husband is knowing what he wants in the first place. One of the major challenges of many believers is understanding the will of God for their lives. There is God’s will concerning all areas of your life. God is not only interested in your spiritual life alone, there is God’s will for your marriage, education, career, business, choice of friends, where you live, and all other areas of your life. You cannot live a fulfilling life if you don’t understand His will for you. There is no way you can obey God when you can't simply discern what His will for you is. This is why many believers today just do guesswork. They keep trying one thing to another, guessing what they think God will want them to do. God doesn't want us to guess or assume as regards His will. He wants us to be sure.",
+
+                    "textTwo": "Not knowing the will of God does not only displease Him but also wastes your time, resources, and energy. However, God did not leave us without clearly stating what His will is for every area of our lives. Don’t do guesswork when His will for you is plainly written in His word. Most believers can’t figure out God’s will due to their immaturity in Christ. Remaining a babe in Christ makes your spiritual senses underdeveloped. Don't be deceived, being born again does not release to you all that you are in Christ. It gives you access but you must develop some spiritual stamina to be able to take them.",
+
+                    "textThree": "Our memory verse affirmed that it is foolish not to know the will of God for your life. Understanding His will simply means knowing his plan and purpose for your life. Understanding what He wants for you and what He doesn't. There are things you might think are good for you but are not part of His will for you. That lady might be beautiful but is she the will of God for you? The job might have great pay but is it the will of God for you? A mature believer knows that because it is good doesn't mean that God is in it. Whatever is not part of God’s will for you is a waste of your time and much more, it is disobedience.",
+                },
+
+                "footerTitle": 'CONFESSION',
+
+                "footerText": "I grow in the things of the Spirit. My spiritual senses have matured. I know what the will of God is for my life, ministry, business, family, and education. I’m not ignorant of His will on earth. I walk in His will and I obey His will.",
+
+                // "footerTitleTwo": 'QUOTES',
+
+                // "footerTextTwo": "No matter how far or fast you go in the wrong direction, you will never get to your desired destination.",
+
+                "bibleReadingPlanTitle": '1-YEAR BIBLE READING PLAN',
+
+                "bibleReadingPlanText": "GENESIS 27-28; MATTHEW 9:18-38",
+            },
+            {
+                "id": "132",
+
+                "uniqueDate": "Jan 12th 24",
+
+                "title": "UNDERSTANDING THE WILL OF GOD FOR YOUR LIFE PART 2",
+
+                "bibleVerse": "COLOSSIANS 1:9",
+
+                "memoryVerse": "For this reason we also, since the day we heard it, do not cease to pray for you, and to ask that you may be filled with the knowledge of His will in all wisdom and spiritual understanding",
+
+                "studyBible": "MATTHEW 26:36-43",
+
+                'texts': {
+                    "textOne": "In Paul’s letter to the Colossians, he made his priority clear in his prayer. His major prayer for them is that they may be filled with the knowledge of His will. This must be your prayer and your pursuit too, to know God’s will. It is impossible to please God without knowing His will. You can either follow your own will, follow the devil's will, or decide to follow God’s will. Each one comes with its own consequences. Following your own will in matters of eternity ends in death (Prov 14:12). Following Satan's will surely leads to death but following God's will surely leads to life.",
+
+                    "textTwo": "God created you as a soul being. This means you have an independent will, an independent mind, and freedom of choice. What makes you like God is the choice He gave you to choose. God does not compel a man to do His will, even Jesus had a choice not to die, but He submitted His will to God's will. The will of God may not always be comfortable or easy but it sure leads to success. The will of God is not a mystery to a believer anymore. (Eph 1:9 Having made known to us the mystery of His will, according to His good pleasure which He purposed in Himself)",
+
+                    "textThree": "The will of God has been plainly declared in Christ Jesus. You are not ignorant of what the will of God is. (Acts 22:14 Then he said, 'The God of our fathers has chosen you that you should know His will, and see the Just One, and hear the voice of His mouth.) The moment you surrender your life to Jesus, the Spirit of Christ in you clearly reveals what His will is to you. The Holy Spirit is the one that declares the will of God to you here on earth. This is why you must cultivate an intimate fellowship with the person of the Spirit.  However, are you ready to submit to His will? The true sign of brokenness as a believer is the ability to submit your will to God's will. Jesus demonstrated this and laid an example for us to follow.  Following God's will may not be comfortable but it is profitable. it may be hard but it's useful.",
+                },
+
+                "footerTitle": 'PRAYER',
+
+                "footerText": "LORD let your will be done in my entire life. Help me to always submit my will to yours especially when it’s difficult to do.",
+
+                // "footerTitleTwo": 'QUOTES',
+
+                // "footerTextTwo": "No matter how far or fast you go in the wrong direction, you will never get to your desired destination.",
+
+                "bibleReadingPlanTitle": '1-YEAR BIBLE READING PLAN',
+
+                "bibleReadingPlanText": "GENESIS 29-30; MATTHEW 10:1-23",
+            },
         ]
 
     static getAllDevotionals() {

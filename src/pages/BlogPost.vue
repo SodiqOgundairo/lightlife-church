@@ -8,6 +8,8 @@
           </p>
         </div>
       </div>
+
+      
     </section>
 
     <article class="dld">
@@ -22,37 +24,51 @@
               <small class="fs-6 fst-italic d-block fw-light">
                 
                  {{blogDate}}
-              </small>
-            </p>
-          </div>
-        </header>
-        <section class="card-body">
-          <div class="bg-none m-auto p-md-3 p-2 m-2">
-            <div class="row g-0">
-              <div v-if="dld.bibleVerse"
-                class="col-md-5 gap-3 p-3 rounded-3 bg-theme-gradient d-flex align-self-center"
-              >
+
+                </small>
+              </p>
+            </div>
+          </header>
+          <section class="">
+            <div class="bg-none m-auto p-md-3 p-2 m-2 d-flex">
+              <div class="row g-0">
+              <div class="col-md-5">
+
+                <img :src="dld.image" class="img-fluid rounded-3">
+              </div>
+              <div class="col-md-6 m-auto mt-4">
+                <!-- sta -->
+                <!-- <div class="col-md-8 m-auto"> -->
+
+                  <div v-if="dld.bibleVerse"
+                class=" p-3 rounded-3 bg-theme-gradient d-flex align-self-center"
+                >
                 <div class="card-body">
                   <p class="card-title h5 theme border-bottom text-white">
                     MEMORY VERSE
                   </p>
                   <p class="card-text text-white">
                     {{dld.memoryVerse}}
+                    {{dld.image}}
                     <span class="fst-italic text-dark">{{dld.bibleVerse}} </span>
                   </p>
                 </div>
               </div>
-              <div v-if="dld.studyBible" class="col-md-5 p-3 rounded-3 d-flex m-auto bg-accent-gradient my-3">
-                  <div class="card-body">
-                    <p class="card-title h5 accent-2 border-bottom head">
-                     STUDY BIBLE
-                    </p>
-                    <p class="card-text accent-2">
+              <div v-if="dld.studyBible" class=" p-3 rounded-3 d-flex bg-accent-gradient my-3">
+                <div class="card-body">
+                  <p class="card-title h5 accent-2 border-bottom head">
+                    STUDY BIBLE
+                  </p>
+                  <p class="card-text accent-2">
                     {{dld.studyBible}}
                     <!-- <span class="fst-italic text-dark">1 John 4:10 </span> -->
-                    </p>
-                  </div>
+                  </p>
                 </div>
+              <!-- </div> -->
+            </div>
+            </div>
+              
+                <!-- stop -->
             </div>
           </div>
           <div class="card-text p-lg-5 p-3">
@@ -78,6 +94,15 @@
           <p class="fst-italic text-black" v-if="dld.footerText"> {{dld.footerText}} </p>
           <p class="fw-bold text-black" v-if="dld.footerTitleTwo"> {{dld.footerTitleTwo}} </p>
           <p class="fst-italic text-black" v-if="dld.footerTextTwo"> {{dld.footerTextTwo}} </p>
+
+          <!-- <a href="../assets/files/DAILY_LIGHT_DEVOTIONALS.pdf" download class="my-3 d-block btn-accent text-decoration-none">
+            Download Devotional for the Month
+          </a> -->
+
+        </div>
+        <div class="card-footer bg-theme-gradient text-muted">
+          <p class="fw-bold text-white h5" v-if="dld.bibleReadingPlanTitle"> {{ dld.bibleReadingPlanTitle }}</p>
+          <p class="fst-italic text-white" v-if="dld.bibleReadingPlanText"> {{ dld.bibleReadingPlanText }} </p>
 
           <!-- <a href="../assets/files/DAILY_LIGHT_DEVOTIONALS.pdf" download class="my-3 d-block btn-accent text-decoration-none">
             Download Devotional for the Month
@@ -166,5 +191,11 @@ export default {
   .page-title {
     font-size: xx-large;
   }
+
+}
+
+.img-resi {
+  width: 400px;
+  display: block;
 }
 </style>

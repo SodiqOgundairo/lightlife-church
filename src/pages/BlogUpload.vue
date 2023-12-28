@@ -70,13 +70,14 @@
         </div>
 
         <div class="my-5" v-else>
-        <p class="h1">Hello Light 👋, 
-        </p>
-        <p >Welcome to the testimony submission page, to submit your testimony, kindly login below. If you do not have the login credentials, please proceed to the protocols office for assistance.
-        </p>
+            <p class="h1">Hello Light 👋,
+            </p>
+            <p>Welcome to the testimony submission page, to submit your testimony, kindly login below. If you do not have
+                the login credentials, please proceed to the protocols office for assistance.
+            </p>
 
 
-        <p >Thank you</p>
+            <p>Thank you</p>
             <button type="button" class="btn-theme-gradient" data-bs-toggle="modal" data-bs-target="#loginModal">
                 Login to submit testimony
             </button>

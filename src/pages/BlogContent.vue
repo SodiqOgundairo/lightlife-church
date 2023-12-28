@@ -13,8 +13,8 @@
             
             <div class="m-4">
 
-                <router-link to="/upload" class="btn btn-secondary " >
-                Submit your yestimony
+                <router-link to="/upload-testimony" class="btn btn-secondary " >
+                Submit your testimony
             </router-link>
         </div>
             
@@ -75,7 +75,7 @@ export default {
     /* width: 100%;
   margin: 0px;
   padding: 0px; */
-    background-image: url("../assets/img/about-1.jpg");
+    background-image: url("../assets/img/testimony.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
