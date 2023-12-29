@@ -3505,9 +3505,9 @@ export class DailyLight {
             {
                 "id": "121a",
 
-                "image": "https://drive.google.com/uc?export=view&id=1SGzmZUIz9peRiffOvjNztl1fWVw0QjiC",
-                
-                "uniqueDate": "Dec 28th 23",
+                "image": "https://drive.google.com/uc?export=view&id=1-gzPohjlR5L8pUqmy4yybOugQRwji8_e",
+
+                "uniqueDate": "Dec 29th 23",
 
                 "title": "TESTING FOR 2024 DLD",
 
@@ -3539,6 +3539,8 @@ export class DailyLight {
             },
             {
                 "id": "121",
+
+                "image": "https://drive.google.com/uc?export=view&id=1SGzmZUIz9peRiffOvjNztl1fWVw0QjiC",
 
                 "uniqueDate": "Jan 1st 24",
 
@@ -3573,6 +3575,8 @@ export class DailyLight {
             {
                 "id": "122",
 
+                "image": "https://drive.google.com/uc?export=view&id=1-gzPohjlR5L8pUqmy4yybOugQRwji8_e",
+
                 "uniqueDate": "Jan 2nd 24",
 
                 "title": "DO YOU HAVE A PLAN?",
@@ -3605,6 +3609,8 @@ export class DailyLight {
             },
             {
                 "id": "123",
+
+                "image": "https://drive.google.com/uc?export=view&id=1-gzPohjlR5L8pUqmy4yybOugQRwji8_e",
 
                 "uniqueDate": "Jan 3rd 24",
 
@@ -3639,6 +3645,8 @@ export class DailyLight {
             {
                 "id": "124",
 
+                "image": "https://drive.google.com/uc?export=view&id=1-gzPohjlR5L8pUqmy4yybOugQRwji8_e",
+
                 "uniqueDate": "Jan 4th 24",
 
                 "title": "ENJOYING DIVINE LEADING PART 2",
@@ -3671,6 +3679,8 @@ export class DailyLight {
             },
             {
                 "id": "125",
+
+                "image": "https://drive.google.com/uc?export=view&id=1-gzPohjlR5L8pUqmy4yybOugQRwji8_e",
 
                 "uniqueDate": "Jan 5th 24",
 
@@ -3705,6 +3715,8 @@ export class DailyLight {
             {
                 "id": "126",
 
+                "image": "https://drive.google.com/uc?export=view&id=1-gzPohjlR5L8pUqmy4yybOugQRwji8_e",
+
                 "uniqueDate": "Jan 6th 24",
 
                 "title": "WHAT’S YOUR CONSECRATION?",
@@ -3738,6 +3750,8 @@ export class DailyLight {
             {
                 "id": "127",
 
+                "image": "https://drive.google.com/uc?export=view&id=1-gzPohjlR5L8pUqmy4yybOugQRwji8_e",
+
                 "uniqueDate": "Jan 7th 24",
 
                 "title": "THE POWER OF INSTRUCTION",
@@ -3770,6 +3784,8 @@ export class DailyLight {
             },
             {
                 "id": "128",
+
+                "image": "https://drive.google.com/uc?export=view&id=1-gzPohjlR5L8pUqmy4yybOugQRwji8_e",
 
                 "uniqueDate": "Jan 8th 24",
 
@@ -3806,6 +3822,8 @@ export class DailyLight {
             {
                 "id": "129",
 
+                "image": "https://drive.google.com/uc?export=view&id=1-gzPohjlR5L8pUqmy4yybOugQRwji8_e",
+
                 "uniqueDate": "Jan 9th 24",
 
                 "title": "SECRECY; THE POWER OF SIN",
@@ -3836,6 +3854,8 @@ export class DailyLight {
             },
             {
                 "id": "130",
+
+                "image": "https://drive.google.com/uc?export=view&id=1-gzPohjlR5L8pUqmy4yybOugQRwji8_e",
 
                 "uniqueDate": "Jan 10th 24",
 
@@ -3870,6 +3890,8 @@ export class DailyLight {
             {
                 "id": "131",
 
+                "image": "https://drive.google.com/uc?export=view&id=1-gzPohjlR5L8pUqmy4yybOugQRwji8_e",
+
                 "uniqueDate": "Jan 11th 24",
 
                 "title": "UNDERSTANDING THE WILL OF GOD FOR YOUR LIFE",
@@ -3903,6 +3925,8 @@ export class DailyLight {
             {
                 "id": "132",
 
+                "image": "https://drive.google.com/uc?export=view&id=1-gzPohjlR5L8pUqmy4yybOugQRwji8_e",
+
                 "uniqueDate": "Jan 12th 24",
 
                 "title": "UNDERSTANDING THE WILL OF GOD FOR YOUR LIFE PART 2",
@@ -3933,7 +3957,677 @@ export class DailyLight {
 
                 "bibleReadingPlanText": "GENESIS 29-30; MATTHEW 10:1-23",
             },
+            {
+                "id": "133",
+
+                "image": "https://drive.google.com/uc?export=view&id=1-gzPohjlR5L8pUqmy4yybOugQRwji8_e",
+
+                "uniqueDate": "Jan 13th 24",
+
+                "title": "UNDERSTANDING THE WILL OF GOD FOR YOUR LIFE PART 3",
+
+                "bibleVerse": "ROMANS 2:18",
+
+                "memoryVerse": "and know His will, and approve the things that are excellent, being instructed out of the law.",
+
+                "studyBible": "PSALMS 119:97-104",
+
+                'texts': {
+                    "textOne": "The big questions are 'Is it possible to know the will of God for your life in every situation?' and 'How can you know the will for your life?' It is very possible to know God's will for you in every area of your life and it is not difficult. In fact, it is the will of God that you know His will for you in all things, both great and small. So, how do you know the will of God for your life? There is the general will of God and the specific will of God. The general will of God is as it concerns all believers as written in the bible. The specific is as it concerns your personal life. ",
+
+                    "textTwo": "The Scripture is the written will of God to all men, especially believers. It is the inspired will of God compiled by holy men as they were moved by the Holy Spirit. Through the Bible, you can know the general will of God for the world, this age, and your own life. No personal revelation of God’s will supersede the written will of God in the Bible. The scripture is the manual for a believer. For instance, no amount of revelation can justify a man marrying a man. It is clearly written that a mature man can only marry a mature woman. Also, it’s in the written will of God that He wants you to prosper and be in good health. You don't need to ask God if it is His will for you to stay in lack and sickness again because it is clearly written.",
+
+                    "textThree": "Also, there is the specific or revealed will of God. The bible may not tell you what course to study in the university, the name of your spouse, where to live, or what career to take. He reveals this to you by revelation either through vision, dream, audible voice, inner voice, or in some way through the word. To know some specific direction for your life, God must speak to you in specific terms. However, the revealed will doesn't contradict the written will of God. Rather they support and complement each other. Ensure that you daily understand what God wants from you and do them.",
+                },
+
+                "footerTitle": 'CONFESSION',
+
+                "footerText": "I receive the power to know and follow your will for my life. My eyes and ears are opened to receive the revealed will of God for my marriage, business, academics, career, and life.",
+
+                // "footerTitleTwo": 'QUOTES',
+
+                // "footerTextTwo": "No matter how far or fast you go in the wrong direction, you will never get to your desired destination.",
+
+                "bibleReadingPlanTitle": '1-YEAR BIBLE READING PLAN',
+
+                "bibleReadingPlanText": "GENESIS 31-32; MATTHEW 10:24-42",
+            },
+            {
+                "id": "134",
+
+                "image": "https://drive.google.com/uc?export=view&id=1-gzPohjlR5L8pUqmy4yybOugQRwji8_e",
+
+                "uniqueDate": "Jan 14th 24",
+
+                "title": "FEAR NOT",
+
+                "bibleVerse": "2 TIMOTHY 1:7",
+
+                "memoryVerse": "For God has not given us a spirit of fear, but of power and of love and of a sound mind.",
+
+                "studyBible": "ISAIAH 41:10-15",
+
+                'texts': {
+                    "textOne": "Fear is one of the terrible weapons the enemy uses against believers. Fear works like faith and it always attracts negative outcomes. While faith is the currency to receive from God, fear is the currency to receive from the devil. Fear is a spirit, an attitude, and the consequence of consuming negative suggestions. Fear comes from allowing demonic thoughts in your mind. The world is crazy, the media is full of bad news about economic depression, war, terrorism, accidents, and so many unfortunate things. Fear is also developed when the enemy makes you focus on situations, circumstances, and unpalatable events like these. Fear they say is False Evidence Appearing Real. The devil wants you to be afraid of what’s not real.",
+
+                    "textTwo": "You did not inherit the spirit of fear from God. God did not give you the spirit of fear because fear brings bondage. Fear comes when you doubt the word of God in your life. Fear cripples believers from trusting and obeying God. However, Jesus wants you to overcome your fear. One way you can overcome your fear is to focus on the word of God. When you release your faith in the Word of God, fear disappears. Whatever is going on around you is not your portion. You belong to a different country. You are under a different economy. You have a different healthcare system. So, don’t allow fear to run you down.",
+
+                    "textThree": "Don’t spend your time worrying about what God is working on. Rather engage the weapon of prayer and thanksgiving to send your fears away. Don’t allow sorrow in your heart, rather let gratitude rule your mind. Trust in God because He is committed to His word. God’s word comes with assurance. God’s promise is as good as your miracle. His word is the receipt for what you hope for. Once He said it, it’s as good as it in your hand. Lastly, walk in faith. The reason many believers are ruled by fear is because they walk with their senses instead of faith. Seeing everything through the lens of faith destroys the stronghold of fear.",
+                },
+
+                "footerTitle": 'CONFESSION',
+
+                "footerText": "I walk by faith and not by sight. I am not ruled by my senses nor by the situations and circumstances. I walk according to the dictate of the word. I remain immovable in faith.  I break free from every stronghold of fear because I have the Spirit of sound mind.",
+
+                // "footerTitleTwo": 'QUOTES',
+
+                // "footerTextTwo": "No matter how far or fast you go in the wrong direction, you will never get to your desired destination.",
+
+                "bibleReadingPlanTitle": '1-YEAR BIBLE READING PLAN',
+
+                "bibleReadingPlanText": "GENESIS 33-35; MATTHEW 11",
+            },
+            {
+                "id": "135",
+
+                "image": "https://drive.google.com/uc?export=view&id=1-gzPohjlR5L8pUqmy4yybOugQRwji8_e",
+
+                "uniqueDate": "Jan 15th 24",
+
+                "title": "THINK ABOUT THESE THINGS",
+
+                "bibleVerse": "COLOSSIANS 3:1-2",
+
+                "memoryVerse": "If then you were raised with Christ, seek those things which are above, where Christ is, sitting at the right hand of God. 2 Set your mind on things above, not on things on the earth",
+
+                "studyBible": "PHILIPPIANS 4:4-9",
+
+                'texts': {
+                    "textOne": "Your mind is the fulcrum of your life and it holds your life in balance. Therefore, what you put there is of utmost relevance to your outcome in life. What differentiates a believer from an unbeliever is not just their action but also their thoughts. As a believer what you think is important to your walk with God. The reason a lot of believers are worldly today is because their thoughts are carnal and worldly. Your actions will be wrong when your thoughts are wrong. Your actions will be evil when your thoughts are evil. God judges your thoughts as much as he judges your actions too.",
+
+                    "textTwo": "Gen 6:5 Then the Lord saw that the wickedness of man was great in the earth, and that every intent of the thoughts of his heart was only evil continually",
+
+                    "textThree": "The decision to destroy the world in the time of Noah was not just based on the actions of men but also the intent of their thoughts. Paul instructs believers on what to think about. You are not to think about anything that comes into your mind. Take charge of your mind. Think of pure things, think of holy things, think about the things that are true. Meditate on the truth of the word of God and not the things you hear from the news. Meditate on the love of God, and let your mind focus on His goodness and love in your life and this world.",
+
+                    "textFour": "We err in life because we err in our minds. You will misbehave if you do not teach your mind to meditate on things that are noble and are of good report. When your mind is full of positive things, your life begins to produce positive results and vice versa. When you focus your mind on thinking good, positive, pure, noble, and righteous thoughts, your actions begin to align with them and your life begins to move in that direction. Don’t be ignorant to think that your thoughts do not matter. Your thoughts indeed shape your life. When you think about the things above, your life begins to experience upward movement. Take charge of your mind, sanction everything that passes through your mind. Don’t allow evil thoughts to take residence in your mind.",
+                },
+
+                "footerTitle": 'PRAYER',
+
+                "footerText": "I cast out every evil, wicked, canal, and unholy thought dominating my mind. My thoughts are continually good, pure, holy, lovely, noble, and of good report.",
+
+                // "footerTitleTwo": 'QUOTES',
+
+                // "footerTextTwo": "No matter how far or fast you go in the wrong direction, you will never get to your desired destination.",
+
+                "bibleReadingPlanTitle": '1-YEAR BIBLE READING PLAN',
+
+                "bibleReadingPlanText": "GENESIS 36-37; MATTHEW 12: 1-21",
+            },
+            {
+                "id": "136",
+
+                "image": "https://drive.google.com/uc?export=view&id=1-gzPohjlR5L8pUqmy4yybOugQRwji8_e",
+
+                "uniqueDate": "Jan 16th 24",
+
+                "title": "GOD HAS A PURPOSE FOR YOU PART ONE",
+
+                "bibleVerse": "JEREMIAH 29:11",
+
+                "memoryVerse": "For I know the thoughts that I think toward you, saith the LORD, thoughts of peace, and not of evil, to give you an expected end.",
+
+                "studyBible": "EPHESIANS 1:3-6",
+
+                'texts': {
+                    "textOne": "God is a God of purpose. Everything He does or creates is with or for a purpose. Nothing exists in life without a purpose. The fact that you do not know the purpose of a thing doesn't mean it doesn't have one. The most important thing is that you must know your own purpose, the very reason your birth was necessary. The only people who truly live a meaningful life are those who walk in God’s purpose for their lives. Success may give you money but only purpose will give you meaning.",
+
+                    "textTwo": "There is a reason God created you. It doesn't matter how useless the society thinks you are, God thinks you're very useful, significant, and irreplaceable for His agenda here on earth. God wouldn't have bothered creating you if He could do without you. You are a solution carrier and a light bearer on earth. You are not a mistake but a deliberate creation of God’s supreme genius.",
+
+                    "textThree": "Your existence is evidence that there is still something you carry that the world needs. Life is proof that you are relevant and useful. However, you must discover that purpose and live it.  God has invested gifts, talents, potential, and His Spirit in you because He believes in you. Do well not to disappoint God by becoming all that He has created you to be. Do well to pursue and achieve all the dreams and visions that God has planted in your heart.",
+
+                    "textFour": "Don't allow the voice of your weaknesses to talk you out of pursuing your purpose. Always remember that it is not what you lack that stops you but what you have and don't know how to use. Whatever you lack, you don't need, and all you need is all you already have.",
+                },
+
+                "footerTitle": 'CONFESSION',
+
+                "footerText": "I walk in my purpose. I live fully and deploy all that God has placed in me. I live a meaningful and impactful life.",
+
+                // "footerTitleTwo": 'QUOTES',
+
+                // "footerTextTwo": "No matter how far or fast you go in the wrong direction, you will never get to your desired destination.",
+
+                "bibleReadingPlanTitle": '1-YEAR BIBLE READING PLAN',
+
+                "bibleReadingPlanText": "GENESIS 38-40; MATTHEW 12: 22-50",
+            },
+            {
+                "id": "137",
+
+                "image": "https://drive.google.com/uc?export=view&id=1-gzPohjlR5L8pUqmy4yybOugQRwji8_e",
+
+                "uniqueDate": "Jan 17th 24",
+
+                "title": "GOD’S PURPOSE FOR YOU PART TWO",
+
+                "bibleVerse": "JEREMIAH 1:5",
+
+                "memoryVerse": "Before I formed thee in the belly I knew thee; and before thou camest forth out of the womb I sanctified thee, and I ordained thee a prophet unto the nations",
+
+                "studyBible": "JEREMIAH 1: 4-10",
+
+                'texts': {
+                    "textOne": "There are things you must know about God’s purpose for your life if you must live to fully fulfil it. Top on the list is that the purpose of God predates your birth. (Eph 1:4-5 Just as He chose us in Him before the foundation of the world, that we should be holy and without blame before Him in love). The truth is that we do not create or choose who we become, God has chosen it for us. You didn't choose your purpose, God chose it for you. Before you were born, God already decided who you would be and what you would do. I always say that purpose is not what you design, it's what you discover.",
+
+                    "textTwo": "Second, God’s purpose for you doesn't change, but His plans may change due to your mistakes and ignorance. God didn't create you and start thinking about what he will do with your life. He does not change His mind because what He created you for wasn't working out. His purpose is constant and unchangeable. He won’t change His mind based on what you did or didn't do.",
+
+                    "textThree": "Your purpose on earth has a deadline. You are here on earth within a limited time, therefore, you do not have forever to pursue and fulfil your purpose here on earth. This is why it's important to discover your purpose on time and pursue it. People who discover their purpose early in life will definitely do more than people who discover it late. The dreams you refuse to pursue when you are young will become a nightmare when you are old. You will not always have the strength, power, relationships, resources, and time you have when you are young. Therefore, your young years are the best time to pursue your purpose. Find it and give yourself to it.",
+                },
+
+                "footerTitle": 'MEDITATION',
+
+                "footerText": "The dreams you refuse to pursue when you are young will become a nightmare when you are old.",
+
+                // "footerTitleTwo": 'QUOTES',
+
+                // "footerTextTwo": "No matter how far or fast you go in the wrong direction, you will never get to your desired destination.",
+
+                "bibleReadingPlanTitle": '1-YEAR BIBLE READING PLAN',
+
+                "bibleReadingPlanText": "GENESIS 41; MATTHEW 13: 1-32",
+            },
+            {
+                "id": "138",
+
+                "image": "https://drive.google.com/uc?export=view&id=1-gzPohjlR5L8pUqmy4yybOugQRwji8_e",
+
+                "uniqueDate": "Jan 18th 24",
+
+                "title": "THE GOSPEL OF HOPE",
+
+                "bibleVerse": "ROMANS 5:13",
+
+                "memoryVerse": "Now may the God of hope fill you with all joy and peace in believing that you may abound in hope by the power of the Holy Spirit.",
+
+                "studyBible": "EPHESIANS 1:3-19",
+
+                'texts': {
+                    "textOne": "There was research conducted on a rat I recently heard about. The rat was thrown into the water and it was discovered that the rat could only survive for fifteen minutes, anything after sixteen minutes it would die. However, when the rat was rescued by that fifteen minute and then thrown back into the water, the rat survived for about sixty hours. How was the rat able to live that long? The answer is hope. Because the rat was rescued the first time, he had hope that he would be rescued again, so he did everything to survive that long. We are like that rat, we can survive and overcome extreme situations when the hope of rescue is alive.",
+
+                    "textTwo": "Unfortunately, a lot of people, believers inclusive, are losing hope today. Citizens are losing hope in their government. Members are losing hope in their pastors. Followers are losing hope in their leaders. Children are losing hope in their parents. Friends are losing hope in their friends. Wives are losing hope in their husbands. I can only beg you not to lose your hope in God. More than ever before, we must preach the message of hope because everything is falling apart. Thank God the gospel is the message of Hope. This is the time to encourage ourselves to look unto the Lord for help. Let me assure you that in God, there is hope. In Christ, all hope is not lost You must trust the Lord to restore your hopes.  “Blessed is the man who trusts in the LORD, and whose hope is the LORD.” — Jeremiah 17:7",
+
+                    "textThree": "Our God is the God of hope according to our memory verse. In Him, your hope cannot be dashed. Prov 23:18  For surely there is an end; and thine expectation shall not be cut off. God is committed to fulfilling your expectations. In Christ, there is an assurance that your future is secured. No matter the crisis, never lose your hope. You are closer to your miracles than you think. Suicide is evidence of a lost hope. I pray that is not your portion in Jesus name. According to God’s track record, He has never started a project that He won’t finish and you are definitely not going to be the first. Stay in thanksgiving and joy unspeakable knowing that God will definitely show up.",
+                },
+
+                "footerTitle": 'MEDITATE',
+
+                "footerText": "'Being confident of this, that He who began a good work in you will carry it on to completion until the day of Christ Jesus.' — Philippians 1:6",
+
+                // "footerTitleTwo": 'QUOTES',
+
+                // "footerTextTwo": "No matter how far or fast you go in the wrong direction, you will never get to your desired destination.",
+
+                "bibleReadingPlanTitle": '1-YEAR BIBLE READING PLAN',
+
+                "bibleReadingPlanText": "GENESIS 42-43; MATTHEW 13: 33-58",
+            },
+            {
+                "id": "139",
+
+                "image": "https://drive.google.com/uc?export=view&id=1-gzPohjlR5L8pUqmy4yybOugQRwji8_e",
+
+                "uniqueDate": "Jan 19th 24",
+
+                "title": "PRAYING IN TONGUES",
+
+                "bibleVerse": "1 CORINTHIANS 14:15",
+
+                "memoryVerse": "What is the conclusion then? I will pray with the spirit, and I will also pray with the understanding. I will sing with the spirit, and I will also sing with the understanding.",
+
+                "studyBible": "MARK 16:15-18",
+
+                'texts': {
+                    "textOne": "One of the blessings reserved for the New Testament believers is the ability to pray in tongues. It was mentioned in the Old Testament but they never experienced it. However, as believers, we have the privilege of speaking this mysterious language of the kingdom. Unfortunately, a lot of believers still do not speak in tongues. Let me say this, if you're not speaking in tongues, you are missing a whole lot. You cannot experience the full benefit of the person of the Holy Spirit and you cannot truly fellowship with the holy Trinity without these unknown tongues.",
+
+                    "textTwo": "Speaking in tongues will skyrocket your prayer life to a whole new level and will add spice to your relationship with God. To pray in tongues means to speak in the dialect of heaven when you pray. This is an experience exclusive to those who have experienced the baptism of the Spirit. When you speak in other tongues, nobody understands what you are saying except God. You speak to God directly. Nothing can intercept or decipher the mysteries you are telling God. When you are in a situation where you don’t know what to do, just pray in tongues. When you do this, it is the Spirit Himself praying through you. You will say goodbye to boring prayer life the moment you begin to pray in tongues.",
+
+                    "textThree": "The secret of Apostle Paul’s exploit is praying in tongues. According to him, he speaks in tongues more than every other person (1 Cor 14:18) and that is why he had many unusual insights and revelations, and wrote more books than any other author in the bible. Praying in tongues always gives you a strange insight into life. It impacts the spirit of wisdom and understanding in your life. You are always in touch with God directly when you engage in praying in tongues. When you pray in tongues, you pray according to the will of God. So you can never pray amiss. When you are not yet baptized but you are a believer, it is your right. All you need to do is to thirst and ask for it, and you shall be filled.",
+                },
+
+                "footerTitle": 'ACTION POINT',
+
+                "footerText": "Pray always in the Spirit, then pray also in understanding.",
+
+                // "footerTitleTwo": 'QUOTES',
+
+                // "footerTextTwo": "No matter how far or fast you go in the wrong direction, you will never get to your desired destination.",
+
+                "bibleReadingPlanTitle": '1-YEAR BIBLE READING PLAN',
+
+                "bibleReadingPlanText": "GENESIS 44-45; MATTHEW 14: 1-21",
+            },
+            {
+                "id": "140",
+
+                "image": "https://drive.google.com/uc?export=view&id=1-gzPohjlR5L8pUqmy4yybOugQRwji8_e",
+
+                "uniqueDate": "Jan 20th 24",
+
+                "title": "LEAVING ALL; A CRITERION TO FOLLOW CHRIST",
+
+                "bibleVerse": "MATTHEW 19:29-30",
+
+                "memoryVerse": "And everyone who has left houses or brothers or sisters or father or mother or wife or children or lands, for My name's sake, shall receive a hundredfold, and inherit eternal life.",
+
+                "studyBible": "LUKE 18:18-30",
+
+                'texts': {
+                    "textOne": "The criteria for following Christ is all or nothing. However, this does not sound like the easy beliefs that pervades our pulpit today. Yet the standard of the call of God has not changed. A lot of people are said to be followers of Jesus today but have not said goodbye to their old lives. Following Jesus demands a lot of sacrifice. Those who must be His disciples must be willing to leave all and follow Him. A lot of people today are like that young ruler in our text, they are unwilling to leave everything to follow Jesus. They want to have one leg in the world and one leg in Christ. Unfortunately, such people cannot be disciples of Christ.",
+
+                    "textTwo": "Peter is a good example of someone who left everything to follow Him. At the brink of becoming the richest fisherman in Israel, he left everything to follow Jesus. If you want to see all of Jesus, you must be willing to give all of you. I can assure you that Jesus is worth losing everything for. Paul affirmed how he considered everything a loss to gain Christ. If you gain Christ, nothing you lose is a loss. (Phil 3:8-9 Yet indeed I also count all things loss for the excellence of the knowledge of Christ Jesus my Lord, for whom I have suffered the loss of all things, and count them as rubbish, that I may gain Christ)",
+
+                    "textThree": "Fortunately, there is nothing you give up to follow Christ that you won’t gain back in a hundredfold. God is not a wicked God. He is not against your siblings, your house, or your possessions. But whatever you are not willing to give up to gain Christ has already become your God. I believe God wants you to have everything but not to the detriment of losing him. So, you must be willing to leave all and follow Him if you must gain all. When you eventually lay hold on Christ, you have laid hold of all things for the scriptures say “All things are yours” (1 Cor 3:21). You will never regret leaving all to follow Christ. Nothing must be too big or important to sacrifice to follow your master.",
+                },
+
+                "footerTitle": 'PRAYER',
+
+                "footerText": "I receive the grace to leave all and follow Jesus without looking back.",
+
+                // "footerTitleTwo": 'QUOTES',
+
+                // "footerTextTwo": "No matter how far or fast you go in the wrong direction, you will never get to your desired destination.",
+
+                "bibleReadingPlanTitle": '1-YEAR BIBLE READING PLAN',
+
+                "bibleReadingPlanText": "GENESIS 46-48; MATTHEW 14: 22-36",
+            },
+            {
+                "id": "141",
+
+                "image": "https://drive.google.com/uc?export=view&id=1-gzPohjlR5L8pUqmy4yybOugQRwji8_e",
+
+                "uniqueDate": "Jan 21st 24",
+
+                "title": "ENLARGE YOUR CAPACITY FOR MORE",
+
+                "bibleVerse": "2 KINGS 6:1-2",
+
+                "memoryVerse": "And the sons of the prophets said to Elisha, 'See now, the place where we dwell with you is too small for us'. ",
+
+                "studyBible": "2 KINGS 4:1-7",
+
+                'texts': {
+                    "textOne": "Isaac and his friend Sola went fishing on a particular day. Every time Isaac caught a big fish, he placed it in his ice chest to keep it fresh. Whenever Sola caught a big fish, he threw it back into the river. Isaac watched this go on for a while and finally got tired of seeing the man waste good fish. 'Why do you keep throwing back all the big fish you catch into the river?' Isaac asked Sola. Sola replied, 'I don’t have a big pot to cook the fish, I only have a small frying pan too.'",
+
+                    "textTwo": "Sometimes, most believers are like Sola. We throw back the big plans, big dreams, big jobs, and big opportunities that God brings to us back into the river simply because our capacity (mind) is too small to contain them. God wanted to give you a big car but you think you don't have money to maintain it so you settle for a motorcycle. God is giving you a big idea but you said you don’t have the capital to execute it, so you opened a small store. God gave you admission to a school abroad and you complained you didn’t have funds for the fees, hence, you never pursued it. God showed you a beautiful lady as your future partner, but you refused to tell her because you were worried that she wouldn’t accept you. A lot of us have rejected God’s big plan for us and settled for something far less.",
+
+                    "textThree": "All that this fisherman needed was a bigger frying pan, not a smaller fish. You need to make more room for God to pour His limitless blessings. God always wants to give you more, but how much can you take? For the woman in 2 Kings chapter four, the oil stopped immediately there were no more empty barrels to contain more oil. For Abraham in Genesis chapter thirteen, God is willing to give him as far as he can see.  Your blessings will keep flowing as long as you make more room to accommodate them. They stop when there is no more room to prevent wastage. In this season, increase your faith, acquire more knowledge, learn more skills, expand your network, and upgrade your thinking to maximize what God is bringing your way in 2024.",
+                },
+
+                "footerTitle": 'CONFESSION',
+
+                "footerText": "I upgrade my mind, I make room for more. I enlarge my capacity for more. I heighten my vision for more. I will no longer limit God in my mind. I receive with grace all that God is giving me.",
+
+                // "footerTitleTwo": 'QUOTES',
+
+                // "footerTextTwo": "No matter how far or fast you go in the wrong direction, you will never get to your desired destination.",
+
+                "bibleReadingPlanTitle": '1-YEAR BIBLE READING PLAN',
+
+                "bibleReadingPlanText": "GENESIS 49-50; MATTHEW 15: 1-20",
+            },
+            {
+                "id": "142",
+
+                "image": "https://drive.google.com/uc?export=view&id=1-gzPohjlR5L8pUqmy4yybOugQRwji8_e",
+
+                "uniqueDate": "Jan 22nd 24",
+
+                "title": "UNDERSTANDING GOD’S MERCY",
+
+                "bibleVerse": "ROMANS 9:15",
+
+                "memoryVerse": "For he saith to Moses, I will have mercy on whom I will have mercy, and I will have compassion on whom I will have compassion.",
+
+                "studyBible": "HEBREWS 8:10-13",
+
+                'texts': {
+                    "textOne": "I have a little understanding of the subject of grace, faith, wisdom, and hard work but how the subject of mercy works still baffles me. In life, some people are better than you, more hardworking than you, more intelligent than you, and more connected than you. People who pray more than you, more gifted than you, holier than you, and more spiritual than you. Yet these people are nowhere close to where God has placed you. What do you think is responsible? MERCY. Most times mercy is what makes the whole difference between two people who put in the same effort but got different results. May you begin to enjoy God’s mercy now.",
+
+                    "textTwo": "When mercy is involved, it doesn't really matter how strong or weak your faith is, the long or short hours of prayer, or how hard you work. This is not to say that we should become lazy in faith or prayer. Faith is you seeking God’s attention, but mercy is God’s seeking your attention. Mercy is a game-changer. Mercy is to refrain from judgement even when you deserve to be punished. It doesn't matter who hates you, mercy makes you at peace with God. No enemy can defeat a man or woman who has received mercy.",
+
+                    "textThree": "The beautiful thing about mercy is that you can position yourself for it. The best way to receive God’s mercy is by showing mercy to others. Matt 5:7 Blessed are the merciful: for they shall obtain mercy. When you practice the rule of mercy, you will always obtain mercy from God. It’s not enough to pray for mercy, you must be compassionate to those who don’t deserve it. Bless those who can’t pay you back. Be kind to people you are better than. This will qualify you for God’s mercy.",
+                },
+                
+                "footerTitle": 'PRAYER',
+                
+                "footerText": "God gives me the grace to show mercy to others.",
+                
+                // "footerTitleTwo": 'QUOTES',
+                
+                // "footerTextTwo": "No matter how far or fast you go in the wrong direction, you will never get to your desired destination.",
+            },
+            {
+                "id": "143",
+
+                "image": "https://drive.google.com/uc?export=view&id=1-gzPohjlR5L8pUqmy4yybOugQRwji8_e",
+
+                "uniqueDate": "Jan 23rd 24",
+
+                "title": "FORGIVENESS IS A MUST",
+
+                "bibleVerse": "COLOSSIANS 2:13",
+
+                "memoryVerse": "And you, being dead in your trespasses and the uncircumcision of your flesh, He has made alive together with Him, having forgiven you all trespasses",
+
+                "studyBible": "GENESIS 50:15-21",
+
+                'texts': {
+                    "textOne": "The first blessing we receive when we come to Christ is the blessing of forgiveness. Yet, many Christians still struggle with this experience. Many people have lost their blessings, lost their minds, incurred diseases, and destroyed their relationships because of unforgiveness. Unforgiveness is the root of several emotional trauma and mental diseases. As a believer, forgiveness is not a choice, it is a must. One thing you need to understand is that forgiveness is not based on asking. When people offend you, don't expect them to come and ask before you forgive.",
+
+                    "textTwo": "The New Testament forgiveness is not based on asking (Matthew 6:12), but based on what Christ did (1 John 2:12). You forgive others as you have also received forgiveness from God without asking many times. When you think about how much you have been forgiven, then forgiving others will not be a problem. Many believers are quick to forget how bad they were yet God accepted them.",
+
+                    "textThree": "Offenses will come. It will be impossible to go through a day without someone offending you. But you must not allow offenses to come through you nor be affected by the offenses of others. Forgiveness or not being offendable is one of the signs of spiritual maturity. Forgiveness breeds hate, bitterness, and depression. You cannot experience true freedom and liberty in Christ until you forgive those who have offended you. “Pastor, you don’t understand how much they hurt me.” Well, it’s not because of them, it’s because of you.",
+
+                    "textFour": "The love of God in you makes it very easy to forgive others. When you allow this kind of love to penetrate and operate freely in your heart, you will find it easy to forgive people. Make a decision today to release everyone you are yet to forgive and live a life of freedom.",
+                },
+
+                "footerTitle": 'CONFESSION',
+
+                "footerText": "I am a forgiver. The love of God abides in me, the love of God in me prohibits me from unforgiveness. I release and forgive easily. Offense will not occur through me.",
+
+                // "footerTitleTwo": 'QUOTES',
+
+                // "footerTextTwo": "No matter how far or fast you go in the wrong direction, you will never get to your desired destination.",
+
+                "bibleReadingPlanTitle": '1-YEAR BIBLE READING PLAN',
+
+                "bibleReadingPlanText": "EXODUS 4-6; MATTHEW 16",
+            },
+            {
+                "id": "144",
+
+                "image": "https://drive.google.com/uc?export=view&id=1-gzPohjlR5L8pUqmy4yybOugQRwji8_e",
+
+                "uniqueDate": "Jan 24th 24",
+
+                "title": "YOU ARE NOT ALONE",
+
+                "bibleVerse": "MATTHEW 28:20",
+
+                "memoryVerse": "Teaching them to observe all things that I have commanded you; and lo, I am with you always, even to the end of the age. Amen.",
+
+                "studyBible": "MARK 4:35-41",
+
+                'texts': {
+                    "textOne": "One of the common problems of people is loneliness. It is possible to be in the midst of people and still be alone. It is also possible to be married and still be lonely. This is true especially when you are going through situations you cannot share with anybody. When you feel nobody understands your circumstances, loneliness is inevitable. If you don’t get the help you need on time, it might lead to depression and suicide.",
+
+                    "textTwo": "This is because there is a void in every man that only Christ can fill. There are situations only God can understand, no matter how you try to explain to men, they can't. However, as believers, we must know that we are never alone. No matter the situation, Jesus will never leave you. It was Jesus Himself who promised never to leave you. Even when you don't ask him, He is still with you. When you despise him, He never leaves you alone.",
+
+                    "textThree": "The strategy of the enemy is to make you think Jesus has forsaken you, but here is the word of assurance. He is with you right now, right there as you read this devotional. The presence of adversity does not equate to the absence of Christ. Even in that storm, He is there with you and will give you victory. He yearns to fellowship and help you. All you need to do is ask Him. Ask Him to step into that situation and like magic, you will see Him appear and turn your situation around. Are you in distress, do you feel alone or lonely in the midst of a crowd, Jesus is a call away, just make the call.",
+                },
+
+                "footerTitle": 'CONFESSION',
+
+                "footerText": "I am not alone in my journey in life. My Helper and Comforter is with me. Jesus never forsakes me. I enjoy the fellowship of the Holy Spirit. I am never alone.",
+
+                // "footerTitleTwo": 'QUOTES',
+
+                // "footerTextTwo": "No matter how far or fast you go in the wrong direction, you will never get to your desired destination.",
+
+                "bibleReadingPlanTitle": '1-YEAR BIBLE READING PLAN',
+
+                "bibleReadingPlanText": "EXODUS 7-8; MATTHEW 17",
+            },
+            {
+                "id": "145",
+
+                "image": "https://drive.google.com/uc?export=view&id=1-gzPohjlR5L8pUqmy4yybOugQRwji8_e",
+
+                "uniqueDate": "Jan 25th 24",
+
+                "title": "BE FAITHFUL UNTO DEATH",
+
+                "bibleVerse": "REVELATION 2:10",
+
+                "memoryVerse": "Do not be afraid of what you are about to suffer. I tell you, the devil will put some of you in prison to test you, and you will suffer persecution for ten days. Be faithful, even to the point of death, and I will give you the crown of life.",
+
+                "studyBible": "ROMANS 8:35-39",
+
+                'texts': {
+                    "textOne": "Once upon a time, there was a very rich man loved by everyone. He has a lot of friends and fans, so his house is always filled with people. He cared for a lot of people and their families. So to say the least, this rich man assumed people really cared about him. This rich man also has a dog. One day, the rich man began to lose his riches one after the other. His businesses closed down, his companies folded up, and he completely became bankrupt. He lost his house and became homeless. To his amazement, all his family, friends, acquaintances, and fans all disappeared. His wife left him and he was alone. The only one who stood by him was his dog. He became sick and eventually died but his dog will not leave his graveyard.",
+
+                    "textTwo": "Although God expects believers to be like this dog, many believers sadly cannot endure to the end. Jesus Himself forewarned us that tough times will come. A lot of Christians think that Christianity is about pleasure and comfort, but most times, you will face challenges and persecution for the faith’s sake. You must be ready to endure as long as it takes. Sometimes, I hear some believers give God a deadline for his intervention. You hear things like “If God doesn’t give me a husband when I’m thirty” “If God doesn't give me admission in two years” 'If God doesn't do this and that' You want to endure but you have a deadline for your endurance. You want to be faithful but for a time. You want to be loyal but just for a while.",
+
+                    "textThree": "As a believer, God is counting on you to endure until He shows up, and if He doesn't, endure until death. Yes, God wants you to be faithful till death. He wants you to decide to be loyal to him till death. Don't become weary in your waiting or your suffering. Be determined that nothing will separate you from the love of God. There is a reward of the crown of life for those who endure to death. Don't forget that even death for a believer is not the end. If you have laid down your life for Him, it won't be difficult to endure to the very end. Be like that Dog that was faithful and loyal to his owner until death. And you will receive an everlasting reward.",
+                },
+
+                "footerTitle": 'PRAYER',
+
+                "footerText": "Father, in the name of Jesus, I receive the grace to endure until death. Empower me to be loyal, faithful, and unwavering till the very end.",
+
+                // "footerTitleTwo": 'QUOTES',
+
+                // "footerTextTwo": "No matter how far or fast you go in the wrong direction, you will never get to your desired destination.",
+
+                "bibleReadingPlanTitle": '1-YEAR BIBLE READING PLAN',
+
+                "bibleReadingPlanText": "EXODUS 9-10; MATTHEW 18: 1-20",
+            },
+            {
+                "id": "146",
+
+                "image": "https://drive.google.com/uc?export=view&id=1-gzPohjlR5L8pUqmy4yybOugQRwji8_e",
+
+                "uniqueDate": "Jan 26th 24",
+
+                "title": "YOU ARE NOT ALONE",
+
+                "bibleVerse": "MATTHEW 28:20",
+
+                "memoryVerse": "Teaching them to observe all things that I have commanded you; and lo, I am with you always, even to the end of the age. Amen.",
+
+                "studyBible": "MARK 4:35-41",
+
+                'texts': {
+                    "textOne": "A man who just got married three weeks earlier called his friend to ask if he was around and if they could hang out. Surprised! The friend retorted, aren’t you supposed to be in honey enjoying your wife? The man responded that everything seemed to be boring and that he felt lonely. Well don’t be surprised, it is possible to be in the midst of people and still be alone, it is possible to be married and still be lonely. This is true especially when you are going through situations you cannot share with anybody. When you feel nobody understands your circumstances, loneliness is inevitable. If you don’t get the help you need on time, it might lead to depression and suicide.",
+
+                    "textTwo": "This is because there is a void in every man that only Christ can fill. No matter how close you are with your spouse, there are vacuums they can’t fill in your life.  There are situations only God can understand, no matter how you try to explain to men, they can't understand. However, as believers, we must know that we are never alone. No matter the situation, Jesus will never leave you. It was Jesus Himself who promised never to leave you. Even when you don't ask him, He is still with you. When you despise him, He never leaves you alone.",
+
+                    "textThree": "The strategy of the enemy is to make you think Jesus has forsaken you but here is the word of assurance for you. He is with you right now, right there as you read this devotional. The presence of adversity does not equate to the absence of Christ. Even in that storm, He is there with you and will give you victory. He yearns to fellowship and help you. All you need to do is ask Him to come. Ask Him to step into that situation and like magic, you will see Him appear and turn your situation around. Are you in distress, do you feel alone or lonely in the midst of a crowd, Jesus is a call away, just make the call. Maybe you feel alone in your marriage, at work, or in ministry, He is right there with you. Even when He is silent, He’s there. You are never alone.",
+                },
+
+                "footerTitle": 'CONFESSION',
+
+                "footerText": "I am not alone in my journey in life. My Helper and Comforter is with me. Jesus never forsakes me. I enjoy the fellowship of the Holy Spirit. I am never alone.",
+
+                // "footerTitleTwo": 'QUOTES',
+
+                // "footerTextTwo": "No matter how far or fast you go in the wrong direction, you will never get to your desired destination.",
+
+                "bibleReadingPlanTitle": '1-YEAR BIBLE READING PLAN',
+
+                "bibleReadingPlanText": "EXODUS 11-12; MATTHEW 18: 21-35",
+            },
+            {
+                "id": "147",
+
+                "image": "https://drive.google.com/uc?export=view&id=1-gzPohjlR5L8pUqmy4yybOugQRwji8_e",
+
+                "uniqueDate": "Jan 27th 24",
+
+                "title": "THE HOPE OF HIS CALLING",
+
+                "bibleVerse": "EPHESIANS 1:18-19",
+
+                "memoryVerse": "The eyes of your understanding being enlightened; that you may know what is the hope of His calling, what are the riches of the glory of His inheritance in the saints",
+
+                "studyBible": "EPHESIANS 1:15-23",
+
+                'texts': {
+                    "textOne": "My father in the Lord shared a story with me recently. One day, he called his younger brother who lives in another town to come see him. Immediately he left and travelled down to the city where he resides. While coming, all that was on his mind was that he was coming to do a job for a client he was going to recommend to him. When he got to him, he gave him a key and pointed to a car covered with a covering. He didn’t understand, so he removed the cover and beheld a Mercedes Benz car. He told him the car is yours, this is the reason I called you to come. He stood by the car for some minutes and tears rolled down his cheeks and he stared unbelievably at his new car.",
+
+                    "textTwo": "You see, this is the same experience we have in Christ. Sometimes, we don’t understand the purpose of the call of God for our lives. And we jettison and make light of this call because we do not understand why He is calling us. Sometimes, the hope we have in mind is the wrong one. But I want you to know that there is hope for His call in your life. And I can assure you that that hope is far greater than what you are thinking. This is why you must discover the hope of his calling in your life. This will help you to answer swiftly and appropriately. A lot of people are distracted by what the Lord is calling them from because their eyes are blinded to what the Lord is calling them into.",
+
+                    "textThree": "God is calling you into the glorious riches of His power. He is calling you into unprecedented glory and wealth such as you have never seen. He is calling you to be co-heirs with Christ. The hope of His calling is for you to sit with Him on the throne of Dominion far above all powers and principalities. He is calling you into the endless life of God. He is calling you into the greatest and highest reign. He never calls into poverty, lack, slavery, or mediocrity. Your eyes must be enlightened by the word of God so that you may know the hope of His calling for your life. But if He is calling, answer today by faith because you will never regret it.",
+                },
+
+                "footerTitle": 'DECLARATION',
+
+                "footerText": "I declare that my eyes are enlightened to know the hope of His calling for my life. I constantly yield to His call. I am filled with the knowledge of His call on my life. I experience the full manifestation of His calling in my life. Amen.",
+
+                // "footerTitleTwo": 'QUOTES',
+
+                // "footerTextTwo": "No matter how far or fast you go in the wrong direction, you will never get to your desired destination.",
+
+                "bibleReadingPlanTitle": '1-YEAR BIBLE READING PLAN',
+
+                "bibleReadingPlanText": "EXODUS 13-15; MATTHEW 19: 1-15",
+            },
+            {
+                "id": "148",
+
+                "image": "https://drive.google.com/uc?export=view&id=1-gzPohjlR5L8pUqmy4yybOugQRwji8_e",
+
+                "uniqueDate": "Jan 27th 24",
+
+                "title": "BE FREE FROM SELF-CONDEMNATION",
+
+                "bibleVerse": "ROMANS 8:1",
+
+                "memoryVerse": "There is therefore now no condemnation to them which are in Christ Jesus, who walk not after the flesh, but after the Spirit.",
+
+                "studyBible": "1 JOHN 3:19-23",
+
+                'texts': {
+                    "textOne": "Most believers today are under the burden of self-condemnation and this is impeding their walk with God. Some parents condemn themselves for the death or failure of their children. Some condemn themselves for the suicide of their friends. Fathers, condemn themselves for the mistakes of their sons. Pastors condemn themselves for the bad marriage of their members. The first common reason for self-condemnation is confidence in the flesh. You were too sure you couldn't make that mistake, so when you made it, you were so hard on yourself. You were so confident you couldn’t fall into that sin, and when you did eventually, you couldn't forgive yourself. Confidence in yourself will always lead to self-condemnation.",
+
+                    "textTwo": "Second, the ignorance of many believers. God doesn’t expect you to be perfect on your own. That is why He made provision for you through Christ Jesus and the indwelling of the Holy Ghost. Through the embrace of what Jesus did, you can stand before God blameless. Even when you fall, God isn’t mad at you. If He was not mad at you before you knew Him, how much more after you know Him? Stop allowing your heart to condemn you. Immediately embrace the love and forgiveness of your Father. God does not hate sin because He can't stand it but because of what it does to you. It alienates you from Him. But God loves you, and Christ already paid the price for sin.",
+
+                    "textThree": "The longer we accept condemnation in our hearts, the easier we slip into sin, frustration, depression, isolation, and eventually death. There is no justification for self-condemnation. Condemning yourself does not take the error or mistake away nor does it make you feel any better. If Jesus who died for you did not condemn you, who are you to condemn yourself? You have no right to condemn yourself because Christ already justified you. All you need to do is to accept that justification and be conscious of who you are in Christ. Even when you take the wrong step, immediately rise and change your direction. You are already justified!",
+                },
+
+                "footerTitle": 'MEDITATION',
+
+                "footerText": "Constantly assure your heart through the scripture on the finished work of Christ.",
+
+                // "footerTitleTwo": 'QUOTES',
+
+                // "footerTextTwo": "No matter how far or fast you go in the wrong direction, you will never get to your desired destination.",
+
+                "bibleReadingPlanTitle": '1-YEAR BIBLE READING PLAN',
+
+                "bibleReadingPlanText": "EXODUS 16-18, MATTHEW 19: 16-30",
+            },
+            {
+                "id": "149",
+
+                "image": "https://drive.google.com/uc?export=view&id=1-gzPohjlR5L8pUqmy4yybOugQRwji8_e",
+
+                "uniqueDate": "Jan 29th 24",
+
+                "title": "TOUGH TIMES PRODUCES TOUGH PEOPLE",
+
+                "bibleVerse": "ACTS 5:41",
+
+                "memoryVerse": "The apostles left the Sanhedrin, rejoicing because they had been counted worthy of suffering disgrace for the Name.",
+
+                "studyBible": "JAMES 1:1-4",
+
+                'texts': {
+                    "textOne": "Two thousand years ago, God sent His only Son to Jerusalem to announce the arrival of God’s kingdom on earth. He went through all the suffering that has been prophesied hundreds of years before Him. Eventually, He was crucified, He died, rose again, and ascended on high. However, before He ascended, he gave his disciples, turned friends and brothers, His amazing power to heal the sick and perform miracles. As soon as they began to perform miracles, they became celebrities. The ministry was booming but they were not fulfilling the mandate of Jesus, which was to go out into all nations. So, a season of turbulence was introduced into the church. Suddenly, the government began to kill them and imprison them. It was these tough times that produced the spread of the gospel into the world as we know it today.",
+
+                    "textTwo": "Good times produce weak people, weak people then produce worse times. Meanwhile, worst times produce strong people and strong people produce good times. This is how life works. The greatest invention always comes after a great economic depression. Even though God is not responsible for your bad days, He has a way of using your bad days to prepare you for the great days. The rejection, the wilderness, the loneliness, and the practices are what prepared David for the throne. Never think that God has forgotten you in that situation. He is preparing you. There are no failures in life, only lessons.",
+
+                    "textThree": "While I was writing my degree thesis, I lost the document after finishing it because I borrowed a friend my laptop. This happened again and again. During this period, I was frustrated. I almost did not graduate. I was forced to sit down for several hours to study and rewrite my project. Eventually, I graduated as the best student and the only student with distinction in the whole College. My greatest blessing was not my certificate but the doggedness and determination I developed in those trying seasons. Today, I have used that same discipline to write books for myself and grow our ministry and business. The comfort zone is the burial ground where many champions have been buried. You may not know you can survive a situation until survival is your only choice.",
+                },
+
+                "footerTitle": 'MEDITATION',
+
+                "footerText": "Good times produce weak people, weak people then produce worse times. Meanwhile, worst times produce strong people and strong people produce good times.",
+
+                // "footerTitleTwo": 'QUOTES',
+
+                // "footerTextTwo": "No matter how far or fast you go in the wrong direction, you will never get to your desired destination.",
+
+                "bibleReadingPlanTitle": '1-YEAR BIBLE READING PLAN',
+
+                "bibleReadingPlanText": "EXODUS 19-21; MATTHEW 20: 1-16",
+            },
+            {
+                "id": "150",
+
+                "image": "https://drive.google.com/uc?export=view&id=1-gzPohjlR5L8pUqmy4yybOugQRwji8_e",
+
+                "uniqueDate": "Jan 30th 24",
+
+                "title": "OVERCOMING  REGRETS OF YOUR PAST",
+
+                "bibleVerse": "REVELATION 21:5",
+
+                "memoryVerse": "He who was seated on the throne said, 'I am making everything new!' Then he said, 'Write this down, for these words are trustworthy and true.'",
+
+                "studyBible": "ISAIAH 43:15-21",
+
+                'texts': {
+                    "textOne": "When you can’t see beyond the past, you will be tormented by regrets. Our past is full of realistic dreams, untaken actions, ideas that were never executed, books not written, songs never sung, or gifts and potentials untapped. They are full of mistakes made, money not wisely spent, investments that failed, or relationships or marriages that failed. These failures hunt many for the rest of their lives and steal the joy of the present. It keeps them from becoming what they could become.",
+
+                    "textTwo": "There is nothing you can do about the past but there is something you can do about your future. Instead of seeing mistakes in your past, you can decide to see the lessons. Every mistake you make can lead you to the right place in life. Your mind effortlessly focuses on the bad memories and ignores the good ones. You must realize that mistakes and failures are part of life. You are likely to make more before you leave this world.",
+
+                    "textThree": "To deal with regrets, you must learn to be grateful for them. All things work together for your good. Moreover, nothing happened to you that caught God unaware. God has a way of turning your mess into a message. He has a way of using your problems for your profits. Learn to learn from your mistakes and move on. What lies before you is far greater than what lies behind you. Always picture your desired future whenever the regrets come into your heart. The best of God for you is in your future not in your past.  Don’t allow the mistakes of the past to ruin the glories of today and tomorrow. As long as you keep rehearsing the past chapter of your life, you will not know what’s in the next chapter. Whatever God has done in the past is nothing compared to what He wants to do in the future.",
+                },
+
+                "footerTitle": 'MEDITATION',
+
+                "footerText": "Focusing on the loss of your last opportunity will make you miss the profit of your next opportunity.",
+
+                // "footerTitleTwo": 'QUOTES',
+
+                // "footerTextTwo": "No matter how far or fast you go in the wrong direction, you will never get to your desired destination.",
+
+                "bibleReadingPlanTitle": '1-YEAR BIBLE READING PLAN',
+
+                "bibleReadingPlanText": "EXODUS 22-24; MATTHEW 20: 17-34",
+            },
+            {
+                "id": "151",
+
+                "image": "https://drive.google.com/uc?export=view&id=1-gzPohjlR5L8pUqmy4yybOugQRwji8_e",
+
+                "uniqueDate": "Jan 31st 24",
+
+                "title": "HEIRS OF GOD",
+
+                "bibleVerse": "ROMANS 8:17",
+
+                "memoryVerse": "And if children, then heirs; heirs of God, and joint-heirs with Christ; if so be that we suffer with him, that we may be also glorified together.",
+
+                "studyBible": "1 CORINTHIANS 3:20-23",
+
+                'texts': {
+                    "textOne": "I was pastoring a small church in the Ikata village area of Ahoada, Rivers State, Nigeria. On this particular day, I was very depressed and frustrated for many reasons I will mention some other times. Amid my frustration and dejection that day, God spoke to me. May you hear the voice of God in the midst of frustration in Jesus name. God asked me why I was so depressed, I told him some, but then I remembered He knew the reasons already. So He said, if Bill Gates decided to adopt you as his son today, how would you feel? My face lightened up and I said I would be excited. He asked why and I answered, “Because it means I will be an heir to His empire”. Immediately, the Lord led me to Romans chapter eight and verses sixteen and seventeen.",
+
+                    "textTwo": "The Lord told me if you will be excited when the richest man on earth adopts you, how much more when the Lord says I’m your Father. Immediately, my depression and frustration disappeared. I became excited by this revelation. This is a revelation that all believers need to catch. The Lord went ahead to tell me that the best any man can give their children is their wealth, they cannot give them their nature. To be heirs of God means that you don't just inherit things like cars, houses, and businesses but you inherit God the creator of all these things. This means that you also inherit the nature and abilities of God who created all things.",
+
+                    "textThree": "This is mind-blowing. David had this revelation, no wonder he was different. (Ps 16:5 O Lord, You are the portion of my inheritance and my cup; You maintain my lot.) While others are inheriting lands, David claimed that the portion of his inheritance was God Himself. No wonder Paul also said “All things are yours” 1 Cor 3:21-23. Therefore let no one boast in men. For all things are yours…. How I pray that all believers come into this truth. It will change your mindset about possessions. You already have it. You are not trying to get anything. Your poverty and lack mentality will disappear when you know this. You won’t be so sad you don’t have land, a house, or a car. We are co-heirs with Christ yet He never owns a plot of land or a house. All things are your brothers and sisters. REJOICE.",
+                },
+
+                "footerTitle": 'CONFESSION',
+
+                "footerText": "I am an heir of God, a co-heir with Christ. I inherit God Himself. The Lord is the portion of my inheritance. I inherit His nature, abilities, and things. All things are mine. I own all things.",
+
+                // "footerTitleTwo": 'QUOTES',
+
+                // "footerTextTwo": "No matter how far or fast you go in the wrong direction, you will never get to your desired destination.",
+
+                "bibleReadingPlanTitle": '1-YEAR BIBLE READING PLAN',
+
+                "bibleReadingPlanText": "EXODUS 25-26; MATTHEW 21: 1-22",
+            },
         ]
+
+        // DEFAULT DLD IMAGE 
+        // https://drive.google.com/file/d/1-gzPohjlR5L8pUqmy4yybOugQRwji8_e/view?usp=drive_link
 
     static getAllDevotionals() {
         return this.dld

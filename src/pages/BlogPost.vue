@@ -1,4 +1,6 @@
 <template>
+   <meta property="og:image" :content="dld.image">
+
   <main class="pt-5">
     <section>
       <div class="text-center bgg">
@@ -143,12 +145,13 @@ export default {
 
     dld = devotionals().find((test) => (
        test.uniqueDate == momentDate
+      //  test.image = ogImage
       //  test.uniqueDate == '1/1/2023'
       //  test.uniqueDate == todaysDate 
       //  || test.uniqueDateOne === todaysDate
        ))
-
-
+       
+       
 
 
     // console.log(devotionals().find(test => test.id ==  1 ))
