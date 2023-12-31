@@ -3539,8 +3539,8 @@ export class DailyLight {
             },
             {
                 "id": "121",
-
-                "image": "https://drive.google.com/uc?export=view&id=1SGzmZUIz9peRiffOvjNztl1fWVw0QjiC",
+                
+                "image": "https://drive.google.com/uc?export=view&id=1-gzPohjlR5L8pUqmy4yybOugQRwji8_e",
 
                 "uniqueDate": "Jan 1st 24",
 
@@ -4623,6 +4623,1035 @@ export class DailyLight {
                 "bibleReadingPlanTitle": '1-YEAR BIBLE READING PLAN',
 
                 "bibleReadingPlanText": "EXODUS 25-26; MATTHEW 21: 1-22",
+            },
+            {
+                "id": "152",
+
+                "image": "https://drive.google.com/uc?export=view&id=1-gzPohjlR5L8pUqmy4yybOugQRwji8_e",
+
+                "uniqueDate": "Feb 1st 24",
+
+                "title": "DEALING WITH  REGRETS",
+
+                "bibleVerse": "REVELATION 21:5",
+
+                "memoryVerse": "He who was seated on the throne said, 'I am making everything new!' Then he said, 'Write this down, for these words are trustworthy and true.'",
+
+                "studyBible": "ISAIAH 43:15-21",
+
+                'texts': {
+                    "textOne": "I once asked a great man I respected so much what his regrets in life are. He said, “I have no regrets, only lessons.” When you can’t see beyond the past, you will be tormented by regrets. Our past is full of dreams unrealized, actions untaken, ideas that were never executed, books unwritten, songs never sung, untapped gifts and potential, and businesses that never started. They are full of mistakes made, money not wisely spent, failed investments, or relationships and marriages that collapsed. These failures hunt many for the rest of their lives and steal their joy of the present and the fulfillment of their future. It keeps them from becoming what they could become.",
+
+                    "textTwo": "There is nothing you can do about the past, but there is something you can do about your future. Instead of seeing mistakes in your past, you can decide to see the lessons. Every mistake you make can lead you to the right place in life. Your mind effortlessly focuses on the bad memories and ignores the good ones. You must realize that mistakes and failures are parts of life. You are likely to make more before you leave this world. Therefore, focusing on regrets only drains your energy and robs you of the opportunities ahead.",
+
+                    "textThree": "To deal with regrets, you must learn to be grateful for them. Believe that all things work together for your good. Moreover, nothing happened to you that caught God unaware. God has a way of turning your mess into a message. He has a way of using your problems for your profits. Learn to learn from your mistakes and move on. What lies before you is far greater than what lies behind you. Always picture your desired future whenever the regrets come into your heart. The best of God for you is in your future, not in your past.  Don’t allow the mistakes of the past to ruin the glories of today and tomorrow. As long as you keep rehearsing the past chapter of your life, you will not know what’s in the next chapter. Whatever God has done in the past is nothing compared to what He wants to do in the future.",
+                },
+
+                "footerTitle": 'MEDITATION',
+
+                "footerText": "Focusing on the loss of your last opportunity will make you miss the profit of your next opportunity.",
+
+                // "footerTitleTwo": 'QUOTES',
+
+                // "footerTextTwo": "No matter how far or fast you go in the wrong direction, you will never get to your desired destination.",
+
+                "bibleReadingPlanTitle": '1-YEAR BIBLE READING PLAN',
+
+                "bibleReadingPlanText": "EXODUS 27-28; MATTHEW 21: 23-46",
+            },
+            {
+                "id": "153",
+
+                "image": "https://drive.google.com/uc?export=view&id=1-gzPohjlR5L8pUqmy4yybOugQRwji8_e",
+
+                "uniqueDate": "Feb 2nd 24",
+
+                "title": "BOUNDLESS WEALTH  1 (Poverty is Alien To The Kingdom)",
+
+                "bibleVerse": "3 JOHN 2",
+
+                "memoryVerse": "Beloved, I pray that you may prosper in all things and be in health, just as your soul prospers.",
+
+                "studyBible": "PSALMS 2:1-9",
+
+                'texts': {
+                    "textOne": "Poverty is real, but more real is your prosperity in Christ. Many believers have come to accept poverty and lack as part of the possibilities available in Christ. They glory in their poverty as if it’s a trophy in Christ. They are proud of being poor as if it’s a reward in Christ. That is a lie of the devil from the pit of hell. A lie you must vehemently reject. If poverty is of God, some of it should be found in heaven. Fortunately, all heaven represents is glory, wealth, and splendor unspeakable and inconceivable to the human mind. No child of God should experience anything less than this on earth.",
+
+                    "textTwo": "God made the whole earth with all the resources in it and gave it to man as an inheritance. Adam was born into wealth, and so was every man born in Christ. He made everything you will ever need for life and spirituality available to you when He died. Indeed, God cares so much about your spirituality, but He equally cares and caters to your material well-being as well. The package of salvation contains wealth and riches, not lack or poverty. 2 Cor 8:9 For you know the grace of our Lord Jesus Christ, that though He was rich, yet for your sakes He became poor, that you through His poverty might become rich.",
+
+                    "textThree": "God doesn’t just want you to have just enough to eat or live on, He wants you to live in the realm of too much. This is why He promised to do exceedingly abundantly above all you can ask or think. Also, this is why He doesn't stop when your cup is full. He wants your cup to overflow. He didn't just feed the five thousand but left behind twelve baskets as proof of a superabundant God who wants His children to live a superabundant life. Therefore, your journey to boundless wealth starts with getting rid of your lack, poverty, and not enough mentality as you begin to think in terms of superabundance. This is the journey I will be taking you throughout this month. Sit tight and let’s get a prosperous ride into boundless wealth.",
+                },
+
+                "footerTitle": 'CONFESSION',
+
+                "footerText": "I refuse and reject poverty and lack in my life. I reject a life of struggle and survival. I’m not made for just enough. My inheritance in Christ is wealth and abundance. I inherit the earth and its resources. I own a portion of the resources of the earth. I experience a superabundant material and financial life. I am not poor. I cannot be poor. I can never be poor.",
+
+                // "footerTitleTwo": 'QUOTES',
+
+                // "footerTextTwo": "No matter how far or fast you go in the wrong direction, you will never get to your desired destination.",
+
+                "bibleReadingPlanTitle": '1-YEAR BIBLE READING PLAN',
+
+                "bibleReadingPlanText": "EXODUS 29-30; MATTHEW 22: 1-22",
+            },
+            {
+                "id": "154",
+
+                "image": "https://drive.google.com/uc?export=view&id=1-gzPohjlR5L8pUqmy4yybOugQRwji8_e",
+
+                "uniqueDate": "Feb 3rd 24",
+
+                "title": "BOUNDLESS WEALTH 2 (The Bane of Poverty)",
+
+                "bibleVerse": "PROVERBS 10:15",
+
+                "memoryVerse": "The rich man’s wealth is his strong city; The destruction of the poor is their poverty.",
+
+                "studyBible": "PROVERBS 22:7",
+
+                'texts': {
+                    "textOne": "Vanity upon Vanity, all is vanity. Have you heard believers quoting this verse? This was written by the richest man who ever lived, King Solomon. If you are not rich, you aren't qualified to quote it. Taste it before saying it is vanity. God created the earth for His children to dominate and enjoy. It will be an absolute abnormality if devil's children are the ones in control of God’s resources on earth. You can’t break free from poverty until you see that it's satan's weapon against you and God’s kingdom. Poverty is bad, evil, demonic, and has nothing good in it. Until you see it like this and start to fight it, you can never taste wealth.",
+
+                    "textTwo": "After Pastoring for over ten years now, I have discovered that 90% of the problems people bring to me are money-related. Problems like rent, food, and school fees. As the church is growing, the problems are also expanding.  For some of those years, I also had similar problems. Not until I got angry and God started helping me. I know some people think wealth can distract you from serving God but I am sure poverty will stop you from following God.",
+
+                    "textThree": "I know the rich also cry, and money does not guarantee a successful marriage. After all, the richest men in the world had recently divorced. But let me shock you, lack of money is a sure recipe for a failed marriage. There are more divorces caused by poverty than the ones caused by riches. Think of how better your home will be if you have all you need. Let me open your eyes a little bit more. Do you think your wife will be happier if she's driving the latest BMW in town? Do you think your children will be smarter if they go to the best school in the city? Do you think they will look nicer if they change the under-size clothes they’ve been using for five years? Will you be more fulfilled and peaceful if you make as much money as you desire in addition to your salvation, good health, and peace of mind that you have now?",
+
+                    "textFour": "Definitely yes! Wealth is always good. Poverty is always evil. Don’t let anyone deceive you that wealth (money) can't make you happy. With Jesus in your life, money following you will make you happy. You can't buy a new car and be sad, you can't build a new house and be sad. Wealth is God’s will for your life.",
+                },
+
+                "footerTitle": 'CONFESSION',
+
+                "footerText": "Poverty is not my portion. I do not have money problems. I hate poverty and the lack of everything within me. I fight poverty mindsets and every belief system that still upholds poverty in my mind. I renounce it and I attract boundless wealth. I am a wealthy man/woman.",
+
+                // "footerTitleTwo": 'QUOTES',
+
+                // "footerTextTwo": "No matter how far or fast you go in the wrong direction, you will never get to your desired destination.",
+
+                "bibleReadingPlanTitle": '1-YEAR BIBLE READING PLAN',
+
+                "bibleReadingPlanText": "EXODUS 31-33; MATTHEW 22: 23-46",
+            },
+            {
+                "id": "155",
+
+                "image": "https://drive.google.com/uc?export=view&id=1-gzPohjlR5L8pUqmy4yybOugQRwji8_e",
+
+                "uniqueDate": "Feb 4th 24",
+
+                "title": "BOUNDLESS WEALTH 3 (The Bane of Poverty 2)",
+
+                "bibleVerse": "PROVERBS 10:15",
+
+                "memoryVerse": "The rich man's wealth is his strong city; The destruction of the poor is their poverty.",
+
+                "studyBible": "ECCLESIASTES 9:13-16",
+
+                'texts': {
+                    "textOne": "Some of the trauma I experienced as a child was being sent out of the examination hall while my mates were writing. This happened several times while I was in primary school and it’s one of the most embarrassing things to me as a child. Poverty is not amoral, that is, it is not neutral. I wouldn't have had any issue with poverty if there were no negative effects of it. The depressing, acute, and devastating result of poverty is terrible. As we discussed yesterday, poverty makes people mock your God. A singular proof of a God-forsaken life is poverty and lack. This is why no child of God should ever be poor. ",
+
+                    "textTwo": "Poverty causes sickness, death, war, and destruction. Nine million people die yearly from malnutrition. More Millions die of diarrhoea, cholera, dysentery, typhoid, and polio, which are all the result of drinking contaminated water. Millions of people die yearly because they can't afford a good healthcare system. I have heard of people who died because they couldn't afford to pay a ten thousand naira hospital bill. This is not demons killing them, it is poverty killing them. May you never be poor in life in Jesus name. Prov 10:15: The rich man's wealth is his strong city; The destruction of the poor is their poverty.",
+
+                    "textThree": "The root cause of corruption, war, and destruction in our world today is greed, which is a product of poverty. The reason there are armed robberies, bandits, kidnappings, and ritual killing in our society today is because of poverty. Internet fraud is a quest to conquer lack and poverty. Nations where wealth is evenly distributed have little or no corruption and criminality to deal with. We can’t combat the menace of insecurity if we don't fight the monster called poverty. Poverty kills dreams. We can't possibly account for how many dreams, ideas, businesses, and ministries that lack of money have killed and buried. Brilliant students have dropped out of school because they could not afford the fees. Several projects have been halted because of lack of funds. Poverty is the burial ground for most unrealized dreams.",
+                },
+
+                "footerTitle": 'CONFESSION',
+
+                "footerText": "I reject lack and poverty. I have all it takes to sponsor my dreams. My dreams cannot be aborted. I have a supply of resources for my projects. I am connected to an endless supply. Lack of Resources cannot stop my progress.",
+
+                // "footerTitleTwo": 'QUOTES',
+
+                // "footerTextTwo": "No matter how far or fast you go in the wrong direction, you will never get to your desired destination.",
+
+                "bibleReadingPlanTitle": '1-YEAR BIBLE READING PLAN',
+
+                "bibleReadingPlanText": "EXODUS 34-36; MATTHEW 23: 1-22",
+            },
+            {
+                "id": "156",
+
+                "image": "https://drive.google.com/uc?export=view&id=1-gzPohjlR5L8pUqmy4yybOugQRwji8_e",
+
+                "uniqueDate": "Feb 5th 24",
+
+                "title": "BOUNDLESS WEALTH 4 (Made To Prosper)",
+
+                "bibleVerse": "GENESIS 1:28",
+
+                "memoryVerse": "Then God blessed them, and God said to them, “Be fruitful and multiply; fill the earth and subdue it; have dominion over the fish of the sea, over the birds of the air, and over every living thing that moves on the earth.”",
+
+                "studyBible": "PSALMS 1:1-3",
+
+                'texts': {
+                    "textOne": "It is a waste of time to ask God if it is His will for you to prosper. Of course, it is clearly written in the scripture that He wants you to not just be rich but to flourish and have more than enough. So, what exactly is prosperity?",
+
+                    "textTwo": "According to Wikipedia, prosperity is flourishing, thriving, good fortune, and successful social status. Prosperity often produces profuse wealth, including other factors. such as peace, security, happiness, and health. Also, we can say prosperity is total freedom from lack and poverty and all its negative effects. Lastly, prosperity is a state of being prosperous and having the capacity to access the resources needed for productivity, success, and fulfilment in life. This is the will of God for you.",
+
+                    "textThree": "Ps 92:12-14 The righteous shall flourish like a palm tree, He shall grow like a cedar in Lebanon. Those who are planted in the house of the Lord shall flourish in the courts of our God. They shall still bear fruit in old age; They shall be fresh and flourishing",
+
+                    "textFour": "Prosperity has to do more with the condition of your spirit and your mind. More than amassing material things and money, prosperity, and wealth is absolutely spiritual. God activated this wealth and prosperous nature in Adam in Genesis chapter one verse twenty eight when He blessed him. That pronouncement of blessing on Adam was what launched him to wealth and riches. The day you were born again, that dead part of you came back to life.",
+
+                    "textFive": "A man with physical cash without connection with the spiritual source will soon part with his money. This is because money is a tool used to spread and sponsor spiritual kingdoms, whether God’s kingdom or satanic kingdom. Without the tool of wealth, we can't establish and spread God’s kingdom here on earth.",
+                },
+
+                "footerTitle": 'PRAYER',
+
+                "footerText": "I activate the wealth and power in my spirit in Jesus name.",
+
+                // "footerTitleTwo": 'QUOTES',
+
+                // "footerTextTwo": "No matter how far or fast you go in the wrong direction, you will never get to your desired destination.",
+
+                "bibleReadingPlanTitle": '1-YEAR BIBLE READING PLAN',
+
+                "bibleReadingPlanText": "EXODUS 37-38; MATTHEW 23: 23-39",
+            },
+            {
+                "id": "157",
+
+                "image": "https://drive.google.com/uc?export=view&id=1-gzPohjlR5L8pUqmy4yybOugQRwji8_e",
+
+                "uniqueDate": "Feb 6th 24",
+
+                "title": "BOUNDLESS WEALTH 5 (Your Mind and Money)",
+
+                "bibleVerse": "PROVERBS 23:7",
+
+                "memoryVerse": "For as he thinketh in his heart, so is he: Eat and drink, saith he to thee; but his heart is not with thee.",
+
+                "studyBible": "MATTHEW 7:17-20",
+
+                'texts': {
+                    "textOne": "Many cry about being broke and not having cash, but the greatest tragedy of a man is not an empty pocket but an empty mind. Worse still, a mind filled with the wrong information about money. There are no poor people, there are only poor minds. A rich mind must produce a wealthy life and a poor mind must produce a wretched life. The information in your heart is what determines the outcome of your life. Whatever you can’t conceive in your heart, you can’t experience in life. Whatever you can’t incubate in your mind, you can't birth in your life.",
+
+                    "textTwo": "Financial prosperity is a journey from the inside out. You are a millionaire in your mind before you hold your first hundred dollars in your hand. You will always lose the money that comes into your hands before your heart. This is a principle you must never forget. You can only retain the money that comes to your heart before your hand. Your beliefs and value systems about money will make you either have a lot of it or lack all of it.",
+
+                    "textThree": "So, the difference between the rich and the poor is not their bank account, it is their heart account. You can’t receive an account balance you haven’t believed in your heart. Therefore, before you can fix your account balance, you must first fix your heart. Until your mind is upgraded you cannot change your financial status. When you are poor in your mind, no amount of business plan, capital, sales strategy, products, resources, relationships, or seminars can make you rich. The mind is the control system of your life. Whatever is there must find expression outside. ",
+                },
+
+                "footerTitle": 'CONFESSION',
+
+                "footerText": "I submit my mind to radical transformation. I am not poor in my mind. I fill my mind with great information. My mind is a wealthy place.",
+
+                // "footerTitleTwo": 'QUOTES',
+
+                // "footerTextTwo": "No matter how far or fast you go in the wrong direction, you will never get to your desired destination.",
+
+                "bibleReadingPlanTitle": '1-YEAR BIBLE READING PLAN',
+
+                "bibleReadingPlanText": "EXODUS 39-40; MATTHEW 24: 1-22",
+            },
+            {
+                "id": "158",
+
+                "image": "https://drive.google.com/uc?export=view&id=1-gzPohjlR5L8pUqmy4yybOugQRwji8_e",
+
+                "uniqueDate": "Feb 7th 24",
+
+                "title": "BOUNDLESS WEALTH 6 (YOUR MIND AND MONEY 2)",
+
+                "bibleVerse": "ROMANS 12:2",
+
+                "memoryVerse": "Do not conform to the pattern of this world, but be transformed by the renewing of your mind. Then you will be able to test and approve what God’s will is—his good, pleasing and perfect will.",
+
+                "studyBible": "ROMANS 12:1-2",
+
+                'texts': {
+                    "textOne": "Your heart/mind controls your life. This makes the mind the most important part of you. True change starts from the mind. It was Tony Robins who said that the greatest miracle in life is that we can change our lives just by changing our minds. When your mind hasn't changed, your status can hardly change. Your life rotates around the possibilities in your heart. Though your spirit is as wealthy as God, nothing will change in your finances until you can transfer the riches in your spirit to your mind. Guard your heart above all else, for it determines the course of your life.-Prov 4:23",
+
+                    "textTwo": "The information in your mind forms your life. The knowledge you keep in your mind shapes your life. Before you look for a better-paying job to upgrade your life, look for better-paying information and acquire it. This is why multinationals spend millions of dollars to train and retrain their staff. You cannot produce better when you don't know better. Productivity and excellence are premised on the content and the exposure of your mind. It’s not the witches and wizards, but ignorance that keeps people in perpetual lack.",
+
+                    "textThree": "The journey to financial freedom starts with financial literacy. Reading financial books, anointed kingdoms prosperity books, listening to tapes, and every financial wisdom you can get. It is mind transformation that leads to life transformation. Today, it is easier to waste hours on Facebook, Snapchat, TikTok, Instagram, WhatsApp, and reading gists from the entertainment news than reading books that will bless your finances. The junk you are consuming is more than the knowledge you are consuming. In case you choose to be wealthy, then you must commit to continuous learning for mind transformation. Constantly dispose of the poverty mindset and replace it with wealthy thoughts. Your life will take the form of your predominant thoughts. ",
+                },
+
+                "footerTitle": 'ACTION',
+
+                "footerText": "Commit to books, takes, and seminars that can help you become financially free.",
+
+                // "footerTitleTwo": 'QUOTES',
+
+                // "footerTextTwo": "No matter how far or fast you go in the wrong direction, you will never get to your desired destination.",
+
+                "bibleReadingPlanTitle": '1-YEAR BIBLE READING PLAN',
+
+                "bibleReadingPlanText": "LEVITICUS 1-3; MATTHEW 24: 23-51",
+            },
+            {
+                "id": "159",
+
+                "image": "https://drive.google.com/uc?export=view&id=1-gzPohjlR5L8pUqmy4yybOugQRwji8_e",
+
+                "uniqueDate": "Feb 8th 24",
+
+                "title": "BOUNDLESS WEALTH 7  (YOUR MIND AND MONEY 3)",
+
+                "bibleVerse": "PROVERBS 23:7",
+
+                "memoryVerse": "For as he thinketh in his heart, so is he.",
+
+                "studyBible": "MATTHEW 7:17-18",
+
+                'texts': {
+                    "textOne": "Good morning, trust your night was great. Let's continue on the power of your mind in correspondence to how wealthy you can become. I mentioned previously that your perspective about money will either make you have lots of it or lack all of it. Poor mindsets and perspectives about money, wealth, and prosperity are responsible for  90% of poverty in our world today. Your mind is more responsible for why you are either rich or poor than the devil or God is responsible. What are the mindsets that make a man poor? What are the mindsets that make a man rich?",
+
+                    "textTwo": "The first mindset that separates the rich from the poor is that the rich believe in creating their own financial outcome, while the poor believe in destiny. I grew up hearing many poor people say they were poor because they didn't choose wealth while coming to this earth. This is an absolute fallacy. You have the power to create your destination here on earth. God didn't create anyone to be poor. If anything, He created you wealthy.",
+
+                    "textThree": "However, the rich take responsibility for their outcome in life. They do not blame anyone for where they are, they rather learn from their mistakes and go ahead to make a great life, while the poor blame God for making him/her so. The poor expect miracles. They wouldn't see what they could do to be wealthy. They leave everything to time and chance. These are the categories of people that sing 'Que sera, sera. Whatever will be, will be, the future's not ours to see, Que sera, sera What will be, will be'. ",
+
+                    "textFour": "If you want to be rich in life, you must believe that you have a role to play in creating your own wealth and you are responsible for your outcomes. If you turn out rich or poor, there is only one person to blame-You. The truth you must realize is that God has done His part. He has given you everything you will ever need to prosper. It is therefore now left to you to do your part.",
+                },
+
+                "footerTitle": 'PRAYER',
+
+                "footerText": "Lord help me to discover my role and play it well. Help me to use that which you have placed in me. ",
+
+                // "footerTitleTwo": 'QUOTES',
+
+                // "footerTextTwo": "No matter how far or fast you go in the wrong direction, you will never get to your desired destination.",
+
+                "bibleReadingPlanTitle": '1-YEAR BIBLE READING PLAN',
+
+                "bibleReadingPlanText": "LEVITICUS 4-6; MATTHEW 25: 1-30",
+            },
+            {
+                "id": "160",
+
+                "image": "https://drive.google.com/uc?export=view&id=1-gzPohjlR5L8pUqmy4yybOugQRwji8_e",
+
+                "uniqueDate": "Feb 9th 24",
+
+                "title": "BOUNDLESS WEALTH  8 (YOUR MIND AND MONEY 4)",
+
+                "bibleVerse": "ECCLESIASTES  9:10",
+
+                "memoryVerse": "Whatever your hand finds to do, do it with your might; for there is no work or device or knowledge or wisdom in the grave where you are going.",
+
+                "studyBible": "GENESIS 28-15",
+
+                'texts': {
+                    "textOne": "Today, we will continue in the mindset of the poor versus that of the rich. Another striking difference between the rich and the poor is that the rich believe in work, while the poor believe in luck. The reason the poor always engage in betting and lotto platforms is that they believe wealth is a result of luck. They believe that they can stumble on wealth and suddenly become a billionaire. The poor always look for shortcuts to wealth. They see wealthy people as lucky people or people who are favoured by divinity. The same reason many poor Christians love the prayer of favour is that they believe God can give them the wealth they do not deserve or work for. This is far from the truth. Prov 10:4 He who has a slack hand becomes poor, But the hand of the diligent makes rich.",
+
+                    "textTwo": "When God created Adam, He placed him in Eden and told him to cultivate the ground. God gave Adam a tree, not a furniture. He gave him a seed, not a fruit. He gave him cotton, not clothes. He gave him oil, not fuel, petrol, or rubber. The rich understand that wealth is obtained through hard work and smart work. Favour is God’s response to your diligence. Don’t expect favour when you haven't cultivated your land. Most poor people are lazy but I am yet to see a lazy wealthy man or woman.",
+
+                    "textThree": "God doesn't always give people money, rather He gives the power to get wealth. Material wealth is a result of what you can do with what God has done. It is a result of what you can do with the resources that God has placed on earth, in you, and others. What you can do with your brain, the soil, the oil, the principles, the energy, the sea, or the space. That is what determines how much of the material portion of wealth gets to you. What can you do with the gifts of God in you? How well can you use your voice, hands, brain, legs, and mind? This is what creates your wealth, not God.",
+                },
+
+                "footerTitle": 'PRAYER',
+
+                "footerText": "I will not be lazy. I am hard-working, diligent, smart, effective, and productive.",
+
+                // "footerTitleTwo": 'QUOTES',
+
+                // "footerTextTwo": "No matter how far or fast you go in the wrong direction, you will never get to your desired destination.",
+
+                "bibleReadingPlanTitle": '1-YEAR BIBLE READING PLAN',
+
+                "bibleReadingPlanText": "LEVITICUS 7-9: MATTHEW 25: 31-46",
+            },
+            {
+                "id": "161",
+
+                "image": "https://drive.google.com/uc?export=view&id=1-gzPohjlR5L8pUqmy4yybOugQRwji8_e",
+
+                "uniqueDate": "Feb 10th 24",
+
+                "title": "BOUNDLESS WEALTH 9 (YOUR MIND AND MONEY 5)",
+
+                "bibleVerse": "DEUTERONOMY 8:18",
+
+                "memoryVerse": "And you shall remember the LORD your God, for it is He who gives you power to get wealth, that He may establish His covenant which He swore to your fathers, as it is this day.",
+
+                "studyBible": "LUKE 16:19-31",
+
+                'texts': {
+                    "textOne": "It is a pity that there are Christians who are anti-prosperity. Some believers deliberately want to be poor because they believe that it makes them closer to God. This is a wrong doctrine. Many poor innocent Christians believe that wealth is a distraction to their journey to heaven. They think that their wealth is only in heaven. Many hold this belief that the rich man went to hell because of his riches and Lazarus  man went to Abraham’s bosom because of his poverty (Luke 16:19-31)",
+
+                    "textTwo": "The poor believe that it is spiritual to be poor, while the rich believe that money helps one to serve God better. Wealth is a tool for advancing any kingdom business. I have been in full-time ministry for ten years now and I can tell you that one of the greatest challenges in ministry is money. The gospel is free but it is not cheap. The poor are more tempted to compromise than the rich. Many believers think “money is the root of all evil.” Meanwhile what the scripture says is that “the love of money is the root of all evil” Some poor believers do not only hate riches, they also hate the rich.",
+
+                    "textThree": "Whatever you hate, you cannot attract. If you hate the rich, you can never be one. Poverty doesn't help your walk with God in any way. Abraham, Isaac, Jacob, Job, Daniel, and many of the Patriarchs of our faith were wealthy people yet they were spiritual people. Poverty is a shame and a curse. God never gives you the power to be poor, rather, He has given you power to make wealth. You are not totally free until you are financially free. Poverty will always make you a slave and wealth will always make you a master. Prov 22:7 The rich rules over the poor, And the borrower is servant to the lender. You cannot truly serve God when you are still a slave to poverty. There is nothing spiritual about poverty. Wake up and stop falling for the lies of satan.",
+                },
+
+                "footerTitle": 'ACTION POINT',
+
+                "footerText": "My God is not poor. Therefore, I cannot be poor.",
+
+                // "footerTitleTwo": 'QUOTES',
+
+                // "footerTextTwo": "No matter how far or fast you go in the wrong direction, you will never get to your desired destination.",
+
+                "bibleReadingPlanTitle": '1-YEAR BIBLE READING PLAN',
+
+                "bibleReadingPlanText": "LEVITICUS 10-12; MATTHEW 26: 1-19",
+            },
+            {
+                "id": "162",
+
+                "image": "https://drive.google.com/uc?export=view&id=1-gzPohjlR5L8pUqmy4yybOugQRwji8_e",
+
+                "uniqueDate": "Feb 11th 24",
+
+                "title": "BOUNDLESS WEALTH 10 (YOUR MIND AND MONEY 6)",
+
+                "bibleVerse": "GENESIS 13:15",
+
+                "memoryVerse": "I am giving all this land, as far as you can see, to you and your descendants as a permanent possession.",
+
+                "studyBible": "GENESIS 37:5-11",
+
+                'texts': {
+                    "textOne": "The reason most people who were made rich through inheritance or lottery lost most or all their riches is because they never had it in their minds. To give a poor mind millions is a waste of resources. The best thing you can give a poor mind is valuable financial information. This leads us to another major difference in the way the rich and the poor think.",
+
+                    "textTwo": "The rich think big, while the poor think small. How does this mindset determine how wealthy you can become? You can never be bigger than your thoughts. A poor man never dares to think he can ever make millions. So the thought of becoming a millionaire is too mighty for him/her let alone the thought of being a billionaire. The poor never dare to dream. He never considers being influential or significant. This is why most of them have low self-esteem. When God gives a poor man a big vision, his mind reduces it to his level.",
+
+                    "textThree": "However, a rich person is a dreamer. They have high and lofty dreams. They believe in themselves and their dreams. They are not afraid of big things because they believe nothing is impossible. Even when they don't have a dollar in their pockets, they talk about their big dreams and plans. They call themselves billionaires even when their account is empty. If you are too afraid to dream big, you will end up small. No matter the opportunity you come across, you will always feel you do not deserve to be wealthy. Successful people are great dreamers. Those who don’t have any dreams always end up serving people with dreams. Don't be afraid to dream.",
+                },
+
+                "footerTitle": 'ACTION',
+
+                "footerText": "DARE TO DREAM, AND DREAM BIG",
+
+                // "footerTitleTwo": 'QUOTES',
+
+                // "footerTextTwo": "No matter how far or fast you go in the wrong direction, you will never get to your desired destination.",
+
+                "bibleReadingPlanTitle": '1-YEAR BIBLE READING PLAN',
+
+                "bibleReadingPlanText": "LLEVITICUS 13; MATTHEW 26: 20-54",
+            },
+            {
+                "id": "163",
+
+                "image": "https://drive.google.com/uc?export=view&id=1-gzPohjlR5L8pUqmy4yybOugQRwji8_e",
+
+                "uniqueDate": "Feb 12th 24",
+
+                "title": "BOUNDLESS WEALTH 11 (YOUR MIND AND MONEY 7)",
+
+                "bibleVerse": "PROVERBS 24:16",
+
+                "memoryVerse": "For the righteous falls seven times and rises again, but the wicked stumble in times of calamity",
+
+                "studyBible": "JOSHUA 1:1-8",
+
+                'texts': {
+                    "textOne": "The best way to prosper is to learn the mindset of prosperity. The reason a man is poor is because his mind is focused on lack and poverty, and the reason a man is rich is because his mind is set on abundance and wealth. You hit whatever your mind is set on. Sam Adeyemi shared that when he started learning to play golf, it was difficult. His trainer asked him to hit a target, but between the target was a small tree. When he hit the ball, it went straight to hit the tree. The trainer taught him a life lesson when he told him that he hit the tree because that was what he focused on. Exactly, if you focus on the obstacles, you will hit it and if you focus on the opportunities, you will hit it.",
+
+                    "textTwo": "Another difference between the rich and the poor is that the rich love to take risks, while the poor always run away from them. The reason many poor people prefer to go to school, come out with first class, and secure a job is that they love to avoid risk. They prefer to play it safe, work for thirty years, retire with a good pension in view, and then die a few years later. Salary is the bribe given to you to keep you from pursuing your dreams. They prefer to get secured employment than to risk their lives on ventures that aren't sure.",
+
+                    "textThree": "The rich know how to take calculated risks, they are not afraid to fail because they understand that failure is part of the lesson of success. Failures are the school fees you pay in the school of success. Nothing is certain in life. Not even your 9-5 job. Your employee can decide to kick you out of his work. Your young days are the best time to take all the risks you can take. Try out several things. Fail several times and stand up. Know what works and what doesn't. Make mistakes and receive wisdom. However, with the guidance of the Holy Spirit, you can minimize your failures and mistakes.",
+                },
+
+                "footerTitle": 'MEDITATION',
+
+                "footerText": "If you have never failed before, it's because you never try something new.",
+
+                // "footerTitleTwo": 'QUOTES',
+
+                // "footerTextTwo": "No matter how far or fast you go in the wrong direction, you will never get to your desired destination.",
+
+                "bibleReadingPlanTitle": '1-YEAR BIBLE READING PLAN',
+
+                "bibleReadingPlanText": "LEVITICUS 14; MATTHEW 26: 55-75",
+            },
+            {
+                "id": "164",
+
+                "image": "https://drive.google.com/uc?export=view&id=1-gzPohjlR5L8pUqmy4yybOugQRwji8_e",
+
+                "uniqueDate": "Feb 13th 24",
+
+                "title": "BOUNDLESS WEALTH 12 (YOUR MIND AND MONEY 8)",
+
+                "bibleVerse": "PROVERBS 26:13",
+
+                "memoryVerse": "The lazy man says, “There is a lion in the road! A fierce lion is in the streets!”",
+
+                "studyBible": "1 SAMUEL 17:26-30",
+
+                'texts': {
+                    "textOne": "As we continue to learn about the mindset of the poor and the rich, one of the most important differences is their perspective on crises and problems. The way the poor perceive crisis is far different from the way the rich perceive it. This, in turn, informs the way both of them respond to it. While crisis is inevitable in life, how we respond to it will determine our result at the end of the day.",
+
+                    "textTwo": "The rich are excited about problems. They do not run away from problems rather they run towards them. They know that the seasons of crisis provide the opportunity to grow, expand, become creative, and make them stronger. Like the text above, while Saul and the rest of the armies of Israel were afraid and could not confront the problem (Goliath), David on the other hand was very excited to confront Goliath. He had never backed down from problems, even when they were lions and bears, he always ran towards them.",
+
+                    "textThree": "The poor are not so. The poor are “problemophobic”. The poor on the other side respond to crises with fear, anxiety, and frustration. They complain, murmur, and find who to blame for the crisis. They do not have the sight to see opportunities in crisis and they lack the power to see solutions to problems. Therefore, instead of facing the crisis, they flee. If you must be rich, you must learn to see solutions in problems. You must know that challenges are opportunities in disguise. Test only comes when promotion is around the corner. After every trial is a testimony. It is said that the acronym for POOR is Passing Over Opportunities Repeatedly. You only do that because opportunities most times don't show up as opportunities but rather as challenges. When you avoid crises, you avoid wealth.",
+                },
+
+                "footerTitle": 'MEDITATION',
+
+                "footerText": "Look for problems, you will find money.",
+
+                // "footerTitleTwo": 'QUOTES',
+
+                // "footerTextTwo": "No matter how far or fast you go in the wrong direction, you will never get to your desired destination.",
+
+                "bibleReadingPlanTitle": '1-YEAR BIBLE READING PLAN',
+
+                "bibleReadingPlanText": "LEVITICUS 15-17; MATTHEW 27: 1-31",
+            },
+            {
+                "id": "165",
+
+                "image": "https://drive.google.com/uc?export=view&id=1-gzPohjlR5L8pUqmy4yybOugQRwji8_e",
+
+                "uniqueDate": "Feb 14th 24",
+
+                "title": "BOUNDLESS WEALTH 13 (YOUR MIND AND MONEY 9)",
+
+                "bibleVerse": "PROVERBS 13:4",
+
+                "memoryVerse": "The soul of a lazy man desires, and has nothing; But the soul of the diligent shall be made rich.",
+
+                "studyBible": "LUKE 19:28-30",
+
+                'texts': {
+                    "textOne": "It takes deliberate effort to reposition your mind and replace your usual casual thought patterns that have shaped your life for years. However, you must be consistently committed if you want to transition from poverty to wealth. You must cease to see yourself through the lens of your present situation and learn how to picture the future you desire in your mind.",
+
+                    "textTwo": "Another major difference in the mindset of the poor and the rich is that the poor wish to be rich but the rich make plans and goals to be rich. Have you ever thought of seeing five million dollars on the roadside while walking home before? That's how the poor think. They wish that one day they will have a lot of money, they wish to drive a good car one day, build a good mansion one day, but they never make any plans or goals to achieve those desires. I grew up hearing my father say “If wishes were horses, beggars will ride” but I never understood it until I became an adult.",
+
+                    "textThree": "On the other hand, the rich also desire to be rich but they follow it up with a goal and step-by-step plans to achieve that goal. The rich will have ten years, twenty years, or forty years goals of what they want to achieve and how they can achieve it. They save and invest wisely for their goals to be realized. They make both short-term and long-term goals to create the life they desire. What are your financial goals? How much do you want to make in the next few years? How much are you going to save to achieve it? How much must you earn to smash that goal? Write them down and follow them.",
+                },
+
+                "footerTitle": 'MEDITATION',
+
+                "footerText": "Don't just wish to be wealthy, plan to be wealthy.",
+
+                // "footerTitleTwo": 'QUOTES',
+
+                // "footerTextTwo": "No matter how far or fast you go in the wrong direction, you will never get to your desired destination.",
+
+                "bibleReadingPlanTitle": '1-YEAR BIBLE READING PLAN',
+
+                "bibleReadingPlanText": "LEVITICUS 18-19; MATTHEW 27: 32-66",
+            },
+            {
+                "id": "166",
+
+                "image": "https://drive.google.com/uc?export=view&id=1-gzPohjlR5L8pUqmy4yybOugQRwji8_e",
+
+                "uniqueDate": "Feb 15th 24",
+
+                "title": "BOUNDLESS WEALTH 13 (YOUR MIND AND MONEY 10)",
+
+                "bibleVerse": "PROVERBS 21:20",
+
+                "memoryVerse": "There is treasure to be desired and oil in the dwelling of the wise; but a foolish man spendeth it up.",
+
+                "studyBible": "GENESIS 25:29-34",
+
+                'texts': {
+                    "textOne": "One of the striking differences between the rich and the poor is what they do with their resources. This is one of the attitudes that distinguishes the poor from the rich. The poor see every resource that comes into their hands as bread to be eaten. Like Esau, they haunt, kill, and eat, and that's all they do. When a poor man receives a salary, he sets aside money for the unnecessary. Let’s say the salary is $10,000, the budget of the poor look like this: House rent- $2000 || Food-$1800 || Cars-$1000 || Clothes and jewelries-$2500 || Television-$200 || Food -$1000 || Dates-$500 || Savings & Tithes-the Rest",
+
+                    "textTwo": "When a poor man receives a raise, let's say from $10,000 to $12,000, what they immediately think about is changing their phone, getting another car, or buying a new gadget. The poor do not have the capacity to delay their gratification. They spend today and suffer tomorrow. The poor always prefer to eat outside in fancy and expensive restaurants, with nice tips to the waiters because they like to act rich. They buy three cars when they do not need more than one car. As their income increases, so do their expenses.",
+
+                    "textThree": "However, the rich understand that every resource that comes into their hand has a seed in them. They are able to discern resources that are bread to be eaten and the ones that are “seeds” to be sown. Like Jacob, they are cultivators and not hunters. They do not pursue to kill they pursue to nurture and tend. They focus on how they can reproduce their little resources. They, therefore, are committed to investing their money not spending. The budget of the rich is like this: Tithe- $1000 || Investment- $2000 || Savings- $500 || House-$2000 || Education -$1000 || Cars-$1000 || Food-$1200 || Wardrobe and Emergencies- $Rest ",
+
+                    "textFour": "The rich do not mind looking poor but rich in their account. They have no business impressing anyone. They prefer to cook or go to a normal restaurant to save costs and when the income of the rich increases, their investment increases too. They have the capacity to suspend the hunger of today and invest.",
+                },
+
+                "footerTitle": 'MEDITATION',
+
+                "footerText": "Don't eat your seed.",
+
+                // "footerTitleTwo": 'QUOTES',
+
+                // "footerTextTwo": "No matter how far or fast you go in the wrong direction, you will never get to your desired destination.",
+
+                "bibleReadingPlanTitle": '1-YEAR BIBLE READING PLAN',
+
+                "bibleReadingPlanText": "LEVITICUS 20-21; MATTHEW 28",
+            },
+            {
+                "id": "167",
+
+                "image": "https://drive.google.com/uc?export=view&id=1-gzPohjlR5L8pUqmy4yybOugQRwji8_e",
+
+                "uniqueDate": "Feb 16th 24",
+
+                "title": "BOUNDLESS WEALTH 13 (YOUR MIND AND MONEY 11)",
+
+                "bibleVerse": "PROVERBS 13:20",
+
+                "memoryVerse": "He who walks with the wise grows wise, but a companion of fools suffers harm.",
+
+                "studyBible": "GENESIS 39:1-5",
+
+                'texts': {
+                    "textOne": "Have you noticed that the poor hate the rich? If you are poor, have you noticed that you don't celebrate the rich people around you? Rather you criticize them and speak evil about them. This is why you are still poor. One of the negative side effects of poverty is hatred, resentment, and bitterness against the rich. The poor believe that the rich are just lucky and that they would do better if they were in their shoes. But the rich celebrate the rich. God had to deal with this mindset in you. This is because you can't attract what you repel. Only the things and people you celebrate will come to you. The poor think the rich are the reason they are poor.",
+
+                    "textTwo": "Rich people are surrounded by rich friends. Meanwhile, poor people surround themselves with poor friends. The poor are uncomfortable around the rich. You are a product of your cycle. One poor man can never lift another poor man. You are a reflection of your association. You can never be rich following poor people. You will become poor following a poor association or you become rich following a rich association. If you are rich and you have poor friends, you are the next poor person. If you are poor and you have a rich circle, you are the next rich person.",
+
+                    "textThree": "There was a time when I couldn't get five thousand naira emergency money from my friends because all of us were poor. I had to consciously begin to change the people in my cycle replacing them with successful people. That doesn't mean my old friends stopped being my friends. Today, I am sure if I need five million for something urgent I have friends that can give me and I know that includes you. Take note of the five closest people to you. If you are “richer” than them, or they are all poor, then it’s time to change them. Most poor people are more proud than rich people. Be humble, and make friends with the rich around you.",
+                },
+
+                "footerTitle": 'ACTION',
+
+                "footerText": "Do an audit of your association. Love is a command but association is a choice.",
+
+                // "footerTitleTwo": 'QUOTES',
+
+                // "footerTextTwo": "No matter how far or fast you go in the wrong direction, you will never get to your desired destination.",
+
+                "bibleReadingPlanTitle": '1-YEAR BIBLE READING PLAN',
+
+                "bibleReadingPlanText": "LEVITICUS 22-23; MARK 1: 1-22",
+            },
+            {
+                "id": "168",
+
+                "image": "https://drive.google.com/uc?export=view&id=1-gzPohjlR5L8pUqmy4yybOugQRwji8_e",
+
+                "uniqueDate": "Feb 17th 24",
+
+                "title": "BOUNDLESS WEALTH 13 (YOUR MIND AND MONEY 12)",
+
+                "bibleVerse": "ECCLESIASTES 3:1",
+
+                "memoryVerse": "To everything, there is a season and a time to every purpose under heaven.",
+
+                "studyBible": "ECCLESIASTES 3:1-11",
+
+                'texts': {
+                    "textOne": "Good morning my fellow billionaire, I trust you’ve been making a mindshift through the information in this devotional. Today, let’s conclude with the mindset of the poor and that of the rich. If you were given one hundred thousand to travel for a meeting in Abuja, would you go by road to save money or would you travel by air to save time? Your decision reveals whether you will be rich or poor.",
+
+                    "textTwo": "One of the things the rich value most is time. The rich value time more than they value money, houses, cars, or even their business. They understand that the only resource that can not be preserved, replaced, or reproduced is time. They hate anything that will waste that resource. They would rather spend money to save time instead of saving money to waste time. You won't see the rich wasting their time on gist, gossip, or any activity that does not profit them. They protect themselves from time wasters.",
+
+                    "textThree": "The poor are the opposite. The poor save money to waste time. There is no sense of urgency with the poor. They have a lot of time on their hands that they can afford gossip, gist, social media, visit friends, and on things that do not make them productive. Let’s go to the decision you would have made in our first paragraphs. A poor person would prefer to travel by road, which would take him an extra 16 hours but save him a few thousand naira. Meanwhile, a rich man would prefer to travel by air, which would cost him some more thousands of naira but save him 16 hours. You can never be wealthy by wasting time. You must discover the urgency of life and avoid distraction. Plan your time and prioritize productivity. Run away from time wasters if you want to be wealthy in life.",
+                },
+
+                "footerTitle": 'ACTION',
+
+                "footerText": "Identify and avoid time wasters.",
+
+                // "footerTitleTwo": 'QUOTES',
+
+                // "footerTextTwo": "No matter how far or fast you go in the wrong direction, you will never get to your desired destination.",
+
+                "bibleReadingPlanTitle": '1-YEAR BIBLE READING PLAN',
+
+                "bibleReadingPlanText": "LEVITICUS 24-25; MARK 1: 23-45",
+            },
+            {
+                "id": "169",
+
+                "image": "https://drive.google.com/uc?export=view&id=1-gzPohjlR5L8pUqmy4yybOugQRwji8_e",
+
+                "uniqueDate": "Feb 18th 24",
+
+                "title": "BOUNDLESS WEALTH 17 (SPIRITUAL PROSPERITY 1)",
+
+                "bibleVerse": "MATTHEW 16:26",
+
+                "memoryVerse": "For what profit is it to a man if he gains the whole world, and loses his own soul? Or what will a man give in exchange for his soul.",
+
+                "studyBible": "LUKE 12:13-21",
+
+                'texts': {
+                    "textOne": "I often say that wealth and prosperity are spiritual. Everything we see today has its source from the spirit realm. The world, the mountains, the sea, gold, diamond, crude oil, and every resource we call wealth today all have their source from God and God is spirit. Therefore, it's logical to say they all have their source from the spirit realm. Heb 11:3 By faith we understand that the universe was formed at God's command, so that what is seen was not made out of what was visible.",
+
+                    "textTwo": "Spiritual prosperity is the foundation of all other sources of wealth. It is the foundation for material, financial, marital, and mental prosperity.  It will not matter how many billions you have in your account. If you are spiritually poor, you are indeed poor. This means that nothing exists outside its source. No matter how fruitful a branch of a tree is, it stops producing fruits the minute it is cut from the tree. So, what guarantees the existence of that fruit is not the branch but the connection to the root.",
+
+                    "textThree": "Spiritual prosperity is having divine access to the Spirit of God by your status of new birth in Christ Jesus through faith. It is the sum total of everything that grace has made available for you in Christ Jesus. A man who has experienced the washing of the blood and the reviving of the spirit within is a prosperous man. However, anyone who is dead spiritually is forever bankrupt. The richest man on earth is not the man whose account is stashed with hard currency, it is the man who has been saved by grace through faith. All the wealth of the world does not equate to the value of your soul. A soul saved is worth more than all the money in circulation in the world today. This is why true wealth starts from the soul.",
+                },
+
+                "footerTitle": 'CONFESSION',
+
+                "footerText": "I am spiritually blessed. I am connected to the greatest source of all wealth. I am wealthy in Christ Jesus because I am connected to the source of all riches. ",
+
+                // "footerTitleTwo": 'QUOTES',
+
+                // "footerTextTwo": "No matter how far or fast you go in the wrong direction, you will never get to your desired destination.",
+
+                "bibleReadingPlanTitle": '1-YEAR BIBLE READING PLAN',
+
+                "bibleReadingPlanText": "LEVITICUS 26-27; MARK 2",
+            },
+            {
+                "id": "170",
+
+                "image": "https://drive.google.com/uc?export=view&id=1-gzPohjlR5L8pUqmy4yybOugQRwji8_e",
+
+                "uniqueDate": "Feb 19th 24",
+
+                "title": "BOUNDLESS WEALTH 17 (SPIRITUAL PROSPERITY 2)",
+
+                "bibleVerse": "LUKE 12:15",
+
+                "memoryVerse": "And He said to them, “Take heed and beware of covetousness, for one’s life does not consist in the abundance of the things he possesses.”",
+
+                "studyBible": "GENESIS 39:1-6",
+
+                'texts': {
+                    "textOne": "The first stronghold a believer must destroy is the mindset that “money is everything.” As a believer, your wealth on earth nothing is nothing compared to whatever you can imagine in Christ in the heavenlies. Until your spirit prospers, your soul cannot prosper and until your soul prospers, your finances cannot truly prosper. Today, let's discuss the example of Joseph in terms of spiritual prosperity.",
+
+                    "textTwo": "Joseph was a slave in Potiphars’s house, yet the scriptures say that he prospered. A slave was experiencing prosperity in slavery. Though he was a slave, yet he was made the leader of the entire company and house of his master. In fact, because of him, his boss prospered. But why was he prosperous even though he was a slave? It was because the Lord was with him. It is the presence of God in a man’s life that brings prosperity. He is in a covenant of prosperity with God. If God’s presence is with you and you don’t have a cent in your account, don’t be worried, you are rich.",
+
+                    "textThree": "Don’t ever leave the presence of God in search of physical money. Many have left the church for the world in search of money, fame, and influence. Even while Joseph was in prison, he was still a prosperous man as long as the presence of God was with him. As long as God is indwelling in you, you are prosperous. Prosperity is a consciousness more than a possession.",
+
+                    "textFour": "A believer does not need an expensive dress to look rich. You do not need a luxurious car to feel wealthy. You do not need a big mansion to tell everyone you are rich. The presence of the Holy Spirit in you confirms your wealth. This is why the confidence of a believer is not in his possessions but in Christ. When you seek this spiritual prosperity, then all other forms of prosperity shall follow you.",
+                },
+
+                "footerTitle": 'CONFESSION',
+
+                "footerText": "I am rich in Christ. My prosperity surpasses that of any earthly wealth.",
+
+                // "footerTitleTwo": 'QUOTES',
+
+                // "footerTextTwo": "No matter how far or fast you go in the wrong direction, you will never get to your desired destination.",
+
+                "bibleReadingPlanTitle": '1-YEAR BIBLE READING PLAN',
+
+                "bibleReadingPlanText": "NUMBERS 1-2; MARK 3: 1-21",
+            },
+            {
+                "id": "171",
+
+                "image": "https://drive.google.com/uc?export=view&id=1-gzPohjlR5L8pUqmy4yybOugQRwji8_e",
+
+                "uniqueDate": "Feb 20th 24",
+
+                "title": "BOUNDLESS WEALTH 19 (THE PURPOSE OF WEALTH 1)",
+
+                "bibleVerse": "EZEKIEL 39:25",
+
+                "memoryVerse": "Therefore thus says the Lord God, “Now I will restore the fortunes of Jacob and have mercy on the whole house of Israel; and I will be jealous for My holy name",
+
+                "studyBible": "PSALMS 23",
+
+                'texts': {
+                    "textOne": "Good morning family, having dealt exhaustively with the mindset that is fit for wealth and what true prosperity is. We will be moving to the purpose of wealth. Why does God want you to prosper? We must now know why as a believer. Poverty is not an option and wealth is not a choice. When the purpose of a thing is not known, abuse is inevitable according to Myles Munroe. Let's get into it;",
+
+                    "textTwo": "The number one reason God wants you to be wealthy is because you carry His name. As a believer, you are known after Christ, you are born of, and by God. Therefore, anything that does not represent God must not be identified with you. It will be a shame to the name and reputation of the Almighty God who owns and created the whole universe when His children cannot even afford a good life for themselves. God blessing you is a way of protecting His own image and integrity. It doesn't make sense that God who has all things has children who have nothing.",
+
+                    "textThree": "That you are born again qualifies you for this wealth I'm talking about. In fact, Jesus became poor so that you might become the rich one. Poverty is not connected to God in any form. Everything about God speaks of wealth, royalty, and affluence. If only for His name’s sake, He will give you the power to make wealth. Being wealthy is not about terrorizing your neighbors, it's not about proving a point. It's all for His name's sake. The purpose of God for wealth must be the same as yours if you want to experience true riches.",
+                },
+
+                "footerTitle": 'PRAYER',
+
+                "footerText": "Father, in the name of Jesus, give me the power to make wealth for your name's sake.",
+
+                // "footerTitleTwo": 'QUOTES',
+
+                // "footerTextTwo": "No matter how far or fast you go in the wrong direction, you will never get to your desired destination.",
+
+                "bibleReadingPlanTitle": '1-YEAR BIBLE READING PLAN',
+
+                "bibleReadingPlanText": "NUMBERS 3-4; MARK 3: 22-35",
+            },
+            {
+                "id": "172",
+
+                "image": "https://drive.google.com/uc?export=view&id=1-gzPohjlR5L8pUqmy4yybOugQRwji8_e",
+
+                "uniqueDate": "Feb 21st 24",
+
+                "title": "BOUNDLESS WEALTH 19 (THE PURPOSE OF WEALTH 2)",
+
+                "bibleVerse": "ZECHARIAH 1:17",
+
+                "memoryVerse": "Again proclaim, saying, ‘Thus says the LORD of hosts: “My cities shall again spread out through prosperity; The LORD will again comfort Zion, And will again choose Jerusalem.",
+
+                "studyBible": "2 CHRONICLES 5:1",
+
+                'texts': {
+                    "textOne": "The second reason God wants to make His children wealthy is for kingdom expansion. According to our memory verse, God says that His cities shall expand to the nations of the earth, not through faith, love, or fruit of the spirit but through prosperity. We often say that the gospel is free but it isn't cheap. The kingdom that controls the resources controls the world. This is why God wants to put prosperity into the hands of His children so that they can spread his kingdom.",
+
+                    "textTwo": "Spreading the gospel to the nations of the earth costs a fortune. When a preacher preaches in his church, hundreds or maybe thousands are blessed. But when that same message is aired on television, millions of souls are saved and blessed. However, putting your message on television costs thousands of dollars. Putting the message in print or CD costs a fortune. The kingdom of darkness will continue to win if more people are sponsoring their agenda than that of God's kingdom. Today, there is an attack on Christians who are giving in the church. The media is discouraging people from giving to the church. This is a direct attack from hell because Satan doesn't want the kingdom to expand.",
+
+                    "textThree": "May I tell you that your money is not yours, it's for God. God has given you resources to sponsor the kingdom's message. The kingdom must become a priority in your budget. It is your responsibility to build churches, sponsor kingdom messages, sponsor missions, crusade, bless pastors, and support the work they do. This is our calling. We are not truly committed to God until our money is committed. This is one sure way to keep our treasure in heaven. You can never out-spend for God, never. The more you spend for the kingdom, the more He can trust you with bigger resources.",
+                },
+
+                "footerTitle": 'ACTION',
+
+                "footerText": "You can spread the Kingdom assignment through your seeds, offerings, tithes, and first fruits.",
+
+                // "footerTitleTwo": 'QUOTES',
+
+                // "footerTextTwo": "No matter how far or fast you go in the wrong direction, you will never get to your desired destination.",
+
+                "bibleReadingPlanTitle": '1-YEAR BIBLE READING PLAN',
+
+                "bibleReadingPlanText": "NUMBERS 5-6; MARK 4: 1-20",
+            },
+            {
+                "id": "173",
+
+                "image": "https://drive.google.com/uc?export=view&id=1-gzPohjlR5L8pUqmy4yybOugQRwji8_e",
+
+                "uniqueDate": "Feb 22nd 24",
+
+                "title": "BOUNDLESS WEALTH 19 (THE PURPOSE OF WEALTH 3)",
+
+                "bibleVerse": "PSALM 41:1",
+
+                "memoryVerse": "Blessed is the one who considers the poor! In the day of trouble, the Lord delivers him",
+
+                "studyBible": "DEUTERONOMY  15:7-11",
+
+                'texts': {
+                    "textOne": "People who don't know the purpose of wealth abuse it by using it to oppress the poor and the helpless. Though God doesn't create anyone to be poor, He defends the cause of the poor vehemently. (Psalm 34:6 This poor man cried, and the Lord heard him and saved him out of all his troubles.) He knows they are vulnerable, so He becomes their defender. This is why you must never use your resources to oppress the poor. If you are not the poor, then be grateful enough to help the poor.",
+
+                    "textTwo": "It is great to sponsor the gospel but at the same time, you must not forget the poor around you. You might not be responsible for their poverty, but as far as God has placed you in a position to help, you must help. Let it be part of your vision to raise men from poverty to wealth. You can partner with your church to reach out to the poor in your neighborhood. Don't deafen your ears to the cry of the poor.",
+
+                    "textThree": "Some time ago, I was blessed with some money and the Holy Spirit ministered to me to give some to someone. I also needed the money, so I refused. I received a sharp rebuke from God immediately when He told me I was only a channel. There I felt Jesus was asking me “Can I trust you to give people what I intend to give them through you?” As believers, God expects us to be a channel, not a container. He wants to bless the poor but can he do it through you? Will you be faithful to spend it the way He wants you to?",
+                },
+
+                "footerTitle": 'ACTION',
+
+                "footerText": "Locate the poor in your immediate environment and bless them with material things.",
+
+                // "footerTitleTwo": 'QUOTES',
+
+                // "footerTextTwo": "No matter how far or fast you go in the wrong direction, you will never get to your desired destination.",
+
+                "bibleReadingPlanTitle": '1-YEAR BIBLE READING PLAN',
+
+                "bibleReadingPlanText": "NUMBERS 7; MARK 4: 21-41",
+            },
+            {
+                "id": "174",
+
+                "image": "https://drive.google.com/uc?export=view&id=1-gzPohjlR5L8pUqmy4yybOugQRwji8_e",
+
+                "uniqueDate": "Feb 23rd 24",
+
+                "title": "BOUNDLESS WEALTH 19 (THE PURPOSE OF WEALTH 4)",
+
+                "bibleVerse": "1 TIMOTHY 6:17",
+
+                "memoryVerse": "Command those who are rich in this present age not to be haughty, nor to trust in uncertain riches but in the living God, who gives us richly all things to enjoy.",
+
+                "studyBible": "2 CHRONICLES 9:13-29",
+
+                'texts': {
+                    "textOne": "This is one of my favorite purposes of wealth and I am sure it will be yours too. Did God ever give us wealth to enjoy ourselves? Or does everything have to be for others? I was excited to find the scripture for our memory verse. Though the purpose of wealth is not to be proud, haughty, or trust in your riches, God has given you wealth to also enjoy your life.",
+
+                    "textTwo": "Many believers feel guilty driving expensive cars, living in luxurious mansions, and living a wealthy life. Many children of God, especially pastors are criticized and crucified for having private jets, wearing expensive clothes, or driving expensive cars. Is there anything wrong with these things? Is it a sin to be rich and use the riches to acquire material things that make life comfortable and more productive for you? In fact, is it a sin to have some material things for the fun of having them? My answer is absolutely not.",
+
+                    "textThree": "God has blessed you so that you can enjoy it. As long as we do not sin with our material wealth, it is okay to enjoy the goodness of God. God has created the best of things for His children to enjoy. You cannot please everyone, and not every man will like or approve of you. Stop being afraid of enemies and start enjoying your riches. He prepares a table before you in the presence of your enemy. It is God’s desire not only to have your needs met but to also have your wants met. May God bless you to the extent that you can have your needs met and your wants acquired.",
+                },
+
+                "footerTitle": 'ACTION',
+
+                "footerText": "Set some part of your money to enjoy yourself and family.",
+
+                // "footerTitleTwo": 'QUOTES',
+
+                // "footerTextTwo": "No matter how far or fast you go in the wrong direction, you will never get to your desired destination.",
+
+                "bibleReadingPlanTitle": '1-YEAR BIBLE READING PLAN',
+
+                "bibleReadingPlanText": "NUMBERS 8-10; MARK 5: 21-43",
+            },
+            {
+                "id": "175",
+
+                "image": "https://drive.google.com/uc?export=view&id=1-gzPohjlR5L8pUqmy4yybOugQRwji8_e",
+
+                "uniqueDate": "Feb 24th 24",
+
+                "title": "BOUNDLESS WEALTH 22 (KINGDOM KEYS TO FINANCIAL WEALTH 1)",
+
+                "bibleVerse": "PROVERBS 3:9",
+
+                "memoryVerse": "Honor the LORD with your possessions, And with the firstfruits of all your increase",
+
+                "studyBible": "PROVERBS 3:5-10",
+
+                'texts': {
+                    "textOne": "The world of wealth and prosperity answers to keys, not cries. It is these kingdom keys that guarantee your access to kingdom wealth. Unfortunately, believers often underestimate the power of these keys because of their simplicity. But keys usually don’t look like the doors they open. Some kingdom keys or principles guarantee financial breakthroughs. If you have these keys and use them effectively, your life will definitely open up to unlimited financial blessings.",
+
+                    "textTwo": "The first kingdom key is tithing. I know there have been many debates and arguments about whether you should pay tithe or not. Well, I have discovered that giving a tenth of your income should never become a debate when God gave us all that we have today. (For who makes you different from anyone else? What do you have that you did not receive? And if you did receive it, why do you boast as though you did not? 1 Cor 4:7). Tithe is not from the law, it came before the law. Abraham operated under grace through faith yet he showed us by paying tithe. Tithing is a kingdom economic strategy for financial empowerment.",
+
+                    "textThree": "Have you forgotten that it is in this same New Testament that people sold their land, houses, and all they had and brought the money to the apostles' feet? Don’t be deceived, God still demands your tithe and your first fruit. This, however, is a demonstration of your faith in Christ and not as a law. Jesus did not condemn the Pharisees for paying tithe rather he wanted them to do the other necessary things alongside their tithe (Matthew 23:23).",
+
+                    "textFour": "As believers, we are not under any curse. Giving either, tithes, offerings, and prophet offerings is an act of honor and obedience. We obey him not because of a curse but because we love and understand Him. Believe me, it opens you up to special miracles and financial breakthroughs. I have never seen a river stranded. People who are too stingy to give to God are too small to handle His blessings. If the little you have is too big to give to God, then what God has is too big for you to receive.",
+                },
+
+                "footerTitle": 'ACTION',
+
+                "footerText": "Don't be part of the fool, be wise and become a faithful tither in your local assembly today.",
+
+                // "footerTitleTwo": 'QUOTES',
+
+                // "footerTextTwo": "No matter how far or fast you go in the wrong direction, you will never get to your desired destination.",
+
+                "bibleReadingPlanTitle": '1-YEAR BIBLE READING PLAN',
+
+                "bibleReadingPlanText": "NUMBERS 11-13; MARK 5: 21-43",
+            },
+            {
+                "id": "176",
+
+                "image": "https://drive.google.com/uc?export=view&id=1-gzPohjlR5L8pUqmy4yybOugQRwji8_e",
+
+                "uniqueDate": "Feb 25th 24",
+
+                "title": "BOUNDLESS WEALTH 23 (KINGDOM KEY OF FAITHFULNESS)",
+
+                "bibleVerse": "PROVERBS 28:20",
+
+                "memoryVerse": "A faithful man shall abound with blessings: but he that maketh haste to be rich shall not be innocent.",
+
+                "studyBible": "MATTHEW 25:14-29",
+
+                'texts': {
+                    "textOne": "Faithfulness is a parameter God uses in giving you financial blessings. God is looking for faithful people and loyal servants. He is seeking people He can trust with wealth. Believe me, God doesn't have a problem with blessing you. His only question is, can I trust you? Several believers are praying to God for financial breakthroughs, and sincerely God is more willing to bless them. But after God checked their track record of faithfulness, they were found wanting. Have you been faithful to the little resources in your hand?",
+
+                    "textTwo": "I traveled to Ghana last year for a church conference. I didn't have much with me except the funds for my food and what I planned to use to buy some things on my way back. By the second day, I had used all the money on me for seed. On the third day, the man of God called for another seed. I didn't have anything except a new phone I just bought. I came out, removed my SIM card, and dropped the phone as a seed. Many believers complain of having nothing and they use that as an excuse not to give. Well, maybe the little that you have is a seed and not a bread. If you are not faithful in your little income, you cannot be faithful when you earn more. When God asked you to give your last meal to your hungry neighbor, did you give it? When God asked you to give your first salary of the year, did you comply? Do you have a track record of faithfulness with God?",
+
+                    "textThree": "Faithfulness in the little material responsibility that God gives you is a testimony to your financial destiny. God cannot give you His all if you are not willing to surrender your all. If you are faithful with the little you have, you will be given more. If you have more and you are not faithful, it will be taken from you.",
+                },
+
+                "footerTitle": 'ACTION',
+
+                "footerText": "BE FAITHFUL",
+
+                // "footerTitleTwo": 'QUOTES',
+
+                // "footerTextTwo": "No matter how far or fast you go in the wrong direction, you will never get to your desired destination.",
+
+                "bibleReadingPlanTitle": '1-YEAR BIBLE READING PLAN',
+
+                "bibleReadingPlanText": "NUMBERS 14-15; MARK 6: 1-32",
+            },
+            {
+                "id": "177",
+
+                "image": "https://drive.google.com/uc?export=view&id=1-gzPohjlR5L8pUqmy4yybOugQRwji8_e",
+
+                "uniqueDate": "Feb 26th 24",
+
+                "title": "BOUNDLESS WEALTH 24 (KINGDOM KEY OF  MANAGEMENT)",
+
+                "bibleVerse": "GENESIS 2:15",
+
+                "memoryVerse": "The LORD God took the man and placed him in the orchard in Eden to care for it and to maintain it.",
+
+                "studyBible": "GENESIS 13:14-17",
+
+                'texts': {
+                    "textOne": "God doesn't give you what you ask, He gives you what you can manage. This is the reason many of us asked for big things and we haven't received them yet. We ask for power, money, and anointing but we haven't received them. This is not because He cannot give us but because He knows we aren't ready for it. Though God loves to do much more than we ask, He hates waste, so He gives us what we can manage.",
+
+                    "textTwo": "If you must receive the kind of wealth that you want God to give you, you must be willing to increase your capacity. Your capacity to receive must be enlarged. You must have proved that you are ready for what is coming. You must have room for what you are expecting. This is why God told Abraham that He was going to give him see as far as his own eyes can see. What you can see is what you can manage. Whatever you can’t conceive, you can't manage. The first capacity you need to build is the mindset to see big things and receive big things.",
+
+                    "textThree": "If money controls you, then you can't manage it. If you are willing to do anything dubious to get rich, then you can't manage prosperity. If you can’t reproduce what you have and stay productive, you can't manage money. If you lack the skills and capacity to multiply money, then you can't manage it. You must have the energy, knowledge, skill, and wisdom to manage wealth. One good way to enlarge your capacity is to enlarge your library. Go to seminars, and conferences, read books, and acquire money skills. Your preparation for what is coming is what determines if it will come or not. Commit to daily capacity enlargement.",
+                },
+
+                "footerTitle": 'MEDITATION',
+
+                "footerText": "You are asking for a house, how do you clean your rented apartment now? You’re asking for a business, but how do you handle your job now?",
+
+                // "footerTitleTwo": 'QUOTES',
+
+                // "footerTextTwo": "No matter how far or fast you go in the wrong direction, you will never get to your desired destination.",
+
+                "bibleReadingPlanTitle": '1-YEAR BIBLE READING PLAN',
+
+                "bibleReadingPlanText": "NUMBERS 16-17; MARK 6: 33-56",
+            },
+            {
+                "id": "178",
+
+                "image": "https://drive.google.com/uc?export=view&id=1-gzPohjlR5L8pUqmy4yybOugQRwji8_e",
+
+                "uniqueDate": "Feb 27th 24",
+
+                "title": "BOUNDLESS WEALTH 25 (KINGDOM KEY OF  DILIGENCE)",
+
+                "bibleVerse": "PROVERBS 22:29",
+
+                "memoryVerse": "Seest thou a man diligent in his business? he shall stand before kings; he shall not stand before mean [men]",
+
+                "studyBible": "PROVERBS 10:3-5",
+
+                'texts': {
+                    "textOne": "Diligence is the only legal way to financial dominion and fulfillment. Being diligent is not a curse. A lot of believers think that labouring is a result of the curse in Eden. Alas, before the fall occurred, God commanded man to work. A lazy man can never prosper. It does not matter how many times he prays, neither will it matter if he/she fasts the whole year. You must be committed to doing something worthwhile and be diligent before prosperity can find its way to you. Confession is great, it's good for hands to be laid on you, and it's great to be anointed. But without hard work, all these will go to waste.",
+
+                    "textTwo": "Many believers believe that God’s blessing is not through hard words but rather through favour. I totally disagree with this philosophy. What I believe is that God doesn't want us to struggle but he does command us to work hard (not necessarily with our physical energy). I believe that God’s favour is the response to our labour. If you are diligent in your business, God will surely crown your effort. If there is no effort, there will be nothing for God to bless. Be determined to put your best in your assignment and you will see God’s blessing on it.",
+
+                    "textThree": "There are not many shortcuts to prosperity but I know one sure shortcut to poverty, and that is laziness. If you want to be poor and miserable in life, just sit down and do nothing (Proverbs 10:4  Lazy hands make for poverty, but diligent hands bring wealth. Proverbs 12:11 Those who work their land will have abundant food, but those who chase fantasies have no sense). Laziness is a sure shortcut to poverty. The secret to your wealth is in putting the work into the assignment God gave you. Rise today and do the needful, stop waiting for some help, the miracle is in the work. The more work you put in, the luckier you become",
+                },
+
+                "footerTitle": 'MEDITATE',
+
+                "footerText": "Proverbs 14:23 All hard work brings a profit, but mere talk leads only to poverty.",
+
+                // "footerTitleTwo": 'QUOTES',
+
+                // "footerTextTwo": "No matter how far or fast you go in the wrong direction, you will never get to your desired destination.",
+
+                "bibleReadingPlanTitle": '1-YEAR BIBLE READING PLAN',
+
+                "bibleReadingPlanText": "NUMBERS 18-20; MARK 7: 1-13",
+            },
+            {
+                "id": "179",
+
+                "image": "https://drive.google.com/uc?export=view&id=1-gzPohjlR5L8pUqmy4yybOugQRwji8_e",
+
+                "uniqueDate": "Feb 28th 24",
+
+                "title": "BOUNDLESS WEALTH 26 (KINGDOM KEY OF  SAVINGS)",
+
+                "bibleVerse": "PROVERBS 21:20",
+
+                "memoryVerse": "The wise store up choice food and olive oil, but fools gulp theirs down.",
+
+                "studyBible": "GENESIS 41:25-36",
+
+                'texts': {
+                    "textOne": "Saving is another system of the kingdom. Sadly, most believers think that saving for the future is an act of unbelief. Nothing is farther from the truth than this. Saving is an act of planning and obviously, God wants us to plan for our future. (Proverbs 16:9 The heart of man plans his way, but the Lord establishes his steps). Planning for the future means you believe you have a future. It is your responsibility to plan for your future, not God’s. This is why God gives you fruits and seeds. The fruit is for today and the seed is supposed to help you plan for the future.",
+
+                    "textTwo": "If there are no plans in your heart, then there is nothing for God to establish. Saving is planning for your financial freedom. You must understand that there will always be seasons of abundance and seasons of scarcity. No season is permanent. Therefore, you must learn to save in the season of plenty so that you can have something to live on in the season of famine. Most people are deceived to think the season of abundance will last forever, so they do not count it wise to save. The best time to save is in your season of abundance.",
+
+                    "textThree": "Joseph through God’s wisdom saved the world in the 7 years of famine because he saved twenty percent of everything during the 7 years of plenty. You can start learning the art of saving by saving five, seven, ten, or twenty percent of your income. You can save towards starting a business, buying a house, land, or anything you desire to acquire in the future. I learnt from my mother that the little changes here and there could make a lot of difference. Don’t disregard the one naira or 2 cents that comes into your hand. Save as little as you can in every season. That is the foundation for your wealth journey.",
+                },
+
+                "footerTitle": 'MEDITATION',
+
+                "footerText": "The journey of a thousand miles starts with a step.",
+
+                // "footerTitleTwo": 'QUOTES',
+
+                // "footerTextTwo": "No matter how far or fast you go in the wrong direction, you will never get to your desired destination.",
+
+                "bibleReadingPlanTitle": '1-YEAR BIBLE READING PLAN',
+
+                "bibleReadingPlanText": "NUMBERS 21-25; MARK 7: 14-37; MARK 8: 1-21",
+            },
+            {
+                "id": "180",
+
+                "image": "https://drive.google.com/uc?export=view&id=1-gzPohjlR5L8pUqmy4yybOugQRwji8_e",
+
+                "uniqueDate": "Feb 29th 24",
+
+                "title": "BOUNDLESS WEALTH 27 (KINGDOM KEY OF  INVESTMENT)",
+
+                "bibleVerse": "ECCLESIASTES 11:1",
+
+                "memoryVerse": "Invest your money in foreign trade, and one of these days you will make a profit.",
+
+                "studyBible": "GENESIS 8:20-22",
+
+                'texts': {
+                    "textOne": "Recently, we discussed the mindset of the rich versus that of the poor. We discussed that while the rich focus on investing, the poor focus on spending. The law of investment was first originated by God Himself. It is called the law of sowing and reaping. John 12:24, CSB: 'Truly I tell you, unless a grain of wheat falls to the ground and dies, it remains by itself. But if it dies, it produces a lot of fruit.' Saving is great but it can’t create wealth. To create wealth, you need something that can multiply your savings.",
+
+                    "textTwo": "The principle of investment (sowing and reaping) states that if you want more of something you have, you have to sow (invest) it in the ground (Business, stocks, bonds, lands, equity), and leave it there for a certain period until it grows and becomes mature. If you want to be financially free and prosperous, you must learn to invest not only your money but also your time, resources, gifts, and potential wisely. You must learn to differentiate between bread to be eaten and a seed to be planted. The law of investment helps you to multiply your seeds over a while. I’m not talking about some “get rich quick scheme” that promises you one thousand percent return in one month. No, you must be patient with your investment to yield a good reward. It takes time for a seed to germinate, grow, and mature before it brings fruit.",
+
+                    "textThree": "Not all the money that comes into your hand is to be spent. A portion of your income must be separated for investment purposes. Saving is great and you should save for the rainy day but investment helps you to multiply your money. Meanwhile, note that investment is not a Ponzi scheme, like I mentioned, it's not a get-rich-quick platform. Be wary of platforms that promise too much returns. A lot of people lost their money to MMM and many other such platforms. True riches that endure take time to build. A lot of people who won millions of dollars in betting or gambling became poorer after five years because they did not have the roots to hold the money that came into their hands.",
+                },
+
+                "footerTitle": 'MEDITATION',
+
+                "footerText": "Wealth is like a tree, it takes time to grow.",
+
+                // "footerTitleTwo": 'QUOTES',
+
+                // "footerTextTwo": "No matter how far or fast you go in the wrong direction, you will never get to your desired destination.",
+
+                "bibleReadingPlanTitle": '1-YEAR BIBLE READING PLAN',
+
+                "bibleReadingPlanText": "NUMBERS 26-27; MARK 8: 22-38",
             },
         ]
 
