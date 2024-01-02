@@ -23,7 +23,7 @@
                   </p>
                   
                 </div>
-                  <router-link to="/post" class="my-3 d-block btn-theme"
+                  <router-link to="/daily-light-devotional" class="my-3 d-block btn-theme"
                   > Read Today's Devotional
                   </router-link>
                   

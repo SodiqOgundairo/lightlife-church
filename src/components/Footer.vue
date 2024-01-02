@@ -30,7 +30,7 @@
                   </li>
                   <li class="list-unstyled">
                     <router-link
-                      to="/post"
+                      to="/daily-light-devotional"
                       class="nav-link text-white fw-light"
                       >DLD
                     </router-link>
