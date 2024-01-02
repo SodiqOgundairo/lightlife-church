@@ -51,7 +51,7 @@
                   </p>
                   <p class="card-text text-white">
                     {{dld.memoryVerse}}
-                    {{dld.image}}
+                    
                     <span class="fst-italic text-dark">{{dld.bibleVerse}} </span>
                   </p>
                 </div>
