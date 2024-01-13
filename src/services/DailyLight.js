@@ -3960,8 +3960,8 @@ export class DailyLight {
             {
                 "id": "133",
 
-                "image": "https://drive.google.com/uc?export=view&id=1-gzPohjlR5L8pUqmy4yybOugQRwji8_e",
-
+                "image": 'https://res.cloudinary.com/dmxfjy079/image/upload/v1705141789/DLD/Jan_24/f5jmlfa3yxxjpwv2sey6.jpg',
+                
                 "uniqueDate": "Jan 13th 24",
 
                 "title": "UNDERSTANDING THE WILL OF GOD FOR YOUR LIFE PART 3",
@@ -3995,8 +3995,8 @@ export class DailyLight {
             {
                 "id": "134",
 
-                "image": "https://drive.google.com/uc?export=view&id=1-gzPohjlR5L8pUqmy4yybOugQRwji8_e",
-
+                "image": "https://res.cloudinary.com/dmxfjy079/image/upload/v1705141789/DLD/Jan_24/r60wm2bukp85i00niaci.jpg",
+                
                 "uniqueDate": "Jan 14th 24",
 
                 "title": "FEAR NOT",
@@ -4030,7 +4030,7 @@ export class DailyLight {
             {
                 "id": "135",
 
-                "image": "https://drive.google.com/uc?export=view&id=1-gzPohjlR5L8pUqmy4yybOugQRwji8_e",
+                "image": "https://res.cloudinary.com/dmxfjy079/image/upload/v1705141789/DLD/Jan_24/qgjgyh3ebnlw2ud1bfge.jpg",
 
                 "uniqueDate": "Jan 15th 24",
 
@@ -4067,7 +4067,7 @@ export class DailyLight {
             {
                 "id": "136",
 
-                "image": "https://drive.google.com/uc?export=view&id=1-gzPohjlR5L8pUqmy4yybOugQRwji8_e",
+                "image": "https://res.cloudinary.com/dmxfjy079/image/upload/v1705141789/DLD/Jan_24/hsuaxvvz3wrfbaneplu7.jpg",
 
                 "uniqueDate": "Jan 16th 24",
 
@@ -4104,7 +4104,7 @@ export class DailyLight {
             {
                 "id": "137",
 
-                "image": "https://drive.google.com/uc?export=view&id=1-gzPohjlR5L8pUqmy4yybOugQRwji8_e",
+                "image": "https://res.cloudinary.com/dmxfjy079/image/upload/v1705141789/DLD/Jan_24/hmy41huvvlstgsbrxkfr.jpg",
 
                 "uniqueDate": "Jan 17th 24",
 
@@ -4139,7 +4139,7 @@ export class DailyLight {
             {
                 "id": "138",
 
-                "image": "https://drive.google.com/uc?export=view&id=1-gzPohjlR5L8pUqmy4yybOugQRwji8_e",
+                "image": "https://res.cloudinary.com/dmxfjy079/image/upload/v1705141789/DLD/Jan_24/lzpt6thpggsggujolyyg.jpg",
 
                 "uniqueDate": "Jan 18th 24",
 
@@ -4174,7 +4174,7 @@ export class DailyLight {
             {
                 "id": "139",
 
-                "image": "https://drive.google.com/uc?export=view&id=1-gzPohjlR5L8pUqmy4yybOugQRwji8_e",
+                "image": "https://res.cloudinary.com/dmxfjy079/image/upload/v1705141789/DLD/Jan_24/yy5mcljx9cb75ssfg7xo.jpg",
 
                 "uniqueDate": "Jan 19th 24",
 
@@ -4209,7 +4209,7 @@ export class DailyLight {
             {
                 "id": "140",
 
-                "image": "https://drive.google.com/uc?export=view&id=1-gzPohjlR5L8pUqmy4yybOugQRwji8_e",
+                "image": "https://res.cloudinary.com/dmxfjy079/image/upload/v1705141789/DLD/Jan_24/jjmme4h0wa6lbmtpl3jj.jpg",
 
                 "uniqueDate": "Jan 20th 24",
 
@@ -4244,7 +4244,7 @@ export class DailyLight {
             {
                 "id": "141",
 
-                "image": "https://drive.google.com/uc?export=view&id=1-gzPohjlR5L8pUqmy4yybOugQRwji8_e",
+                "image": "https://res.cloudinary.com/dmxfjy079/image/upload/v1705141789/DLD/Jan_24/vdxghto1z0y9afw20sjt.jpg",
 
                 "uniqueDate": "Jan 21st 24",
 
@@ -4279,7 +4279,7 @@ export class DailyLight {
             {
                 "id": "142",
 
-                "image": "https://drive.google.com/uc?export=view&id=1-gzPohjlR5L8pUqmy4yybOugQRwji8_e",
+                "image": "https://res.cloudinary.com/dmxfjy079/image/upload/v1705141789/DLD/Jan_24/dbvaq3qavr1jvshqzhrb.jpg",
 
                 "uniqueDate": "Jan 22nd 24",
 
@@ -4310,7 +4310,7 @@ export class DailyLight {
             {
                 "id": "143",
 
-                "image": "https://drive.google.com/uc?export=view&id=1-gzPohjlR5L8pUqmy4yybOugQRwji8_e",
+                "image": "https://res.cloudinary.com/dmxfjy079/image/upload/v1705141789/DLD/Jan_24/dhpeeg2iubghf1mdowce.jpg",
 
                 "uniqueDate": "Jan 23rd 24",
 
@@ -4347,7 +4347,7 @@ export class DailyLight {
             {
                 "id": "144",
 
-                "image": "https://drive.google.com/uc?export=view&id=1-gzPohjlR5L8pUqmy4yybOugQRwji8_e",
+                "image": "https://res.cloudinary.com/dmxfjy079/image/upload/v1705141789/DLD/Jan_24/okaedfozhowkvg7hxpj9.jpg",
 
                 "uniqueDate": "Jan 24th 24",
 
@@ -4382,7 +4382,7 @@ export class DailyLight {
             {
                 "id": "145",
 
-                "image": "https://drive.google.com/uc?export=view&id=1-gzPohjlR5L8pUqmy4yybOugQRwji8_e",
+                "image": "https://res.cloudinary.com/dmxfjy079/image/upload/v1705141789/DLD/Jan_24/dp2gldjnnv9ugammapgx.jpg",
 
                 "uniqueDate": "Jan 25th 24",
 
@@ -4417,7 +4417,7 @@ export class DailyLight {
             {
                 "id": "146",
 
-                "image": "https://drive.google.com/uc?export=view&id=1-gzPohjlR5L8pUqmy4yybOugQRwji8_e",
+                "image": "https://res.cloudinary.com/dmxfjy079/image/upload/v1705141789/DLD/Jan_24/itwdhtirmyqcpzmkqnvv.jpg",
 
                 "uniqueDate": "Jan 26th 24",
 
@@ -4452,7 +4452,7 @@ export class DailyLight {
             {
                 "id": "147",
 
-                "image": "https://drive.google.com/uc?export=view&id=1-gzPohjlR5L8pUqmy4yybOugQRwji8_e",
+                "image": "https://res.cloudinary.com/dmxfjy079/image/upload/v1705141789/DLD/Jan_24/eg9etqsyk0n4aaljjg7f.jpg",
 
                 "uniqueDate": "Jan 27th 24",
 
@@ -4487,9 +4487,9 @@ export class DailyLight {
             {
                 "id": "148",
 
-                "image": "https://drive.google.com/uc?export=view&id=1-gzPohjlR5L8pUqmy4yybOugQRwji8_e",
+                "image": "https://res.cloudinary.com/dmxfjy079/image/upload/v1705141789/DLD/Jan_24/uc5bmlh7p64ccrqwcefn.jpg",
 
-                "uniqueDate": "Jan 27th 24",
+                "uniqueDate": "Jan 28th 24",
 
                 "title": "BE FREE FROM SELF-CONDEMNATION",
 
@@ -4522,7 +4522,7 @@ export class DailyLight {
             {
                 "id": "149",
 
-                "image": "https://drive.google.com/uc?export=view&id=1-gzPohjlR5L8pUqmy4yybOugQRwji8_e",
+                "image": "https://res.cloudinary.com/dmxfjy079/image/upload/v1705141789/DLD/Jan_24/gdkgslreidualf14cv5f.jpg",
 
                 "uniqueDate": "Jan 29th 24",
 
@@ -4557,7 +4557,7 @@ export class DailyLight {
             {
                 "id": "150",
 
-                "image": "https://drive.google.com/uc?export=view&id=1-gzPohjlR5L8pUqmy4yybOugQRwji8_e",
+                "image": "https://res.cloudinary.com/dmxfjy079/image/upload/v1705141789/DLD/Jan_24/xrb0fmazjurv3byamz1c.jpg",
 
                 "uniqueDate": "Jan 30th 24",
 
@@ -4592,7 +4592,7 @@ export class DailyLight {
             {
                 "id": "151",
 
-                "image": "https://drive.google.com/uc?export=view&id=1-gzPohjlR5L8pUqmy4yybOugQRwji8_e",
+                "image": "https://res.cloudinary.com/dmxfjy079/image/upload/v1705141789/DLD/Jan_24/lpn5hhtcx0qgqgdzdzrd.jpg",
 
                 "uniqueDate": "Jan 31st 24",
 
@@ -4627,7 +4627,7 @@ export class DailyLight {
             {
                 "id": "152",
 
-                "image": "https://drive.google.com/uc?export=view&id=1-gzPohjlR5L8pUqmy4yybOugQRwji8_e",
+                "image": "https://res.cloudinary.com/dmxfjy079/image/upload/v1705143662/DLD/ta4huorpy94dxyoswmzy.jpg",
 
                 "uniqueDate": "Feb 1st 24",
 
@@ -4662,7 +4662,7 @@ export class DailyLight {
             {
                 "id": "153",
 
-                "image": "https://drive.google.com/uc?export=view&id=1-gzPohjlR5L8pUqmy4yybOugQRwji8_e",
+                "image": "https://res.cloudinary.com/dmxfjy079/image/upload/v1705143662/DLD/ta4huorpy94dxyoswmzy.jpg",
 
                 "uniqueDate": "Feb 2nd 24",
 
@@ -4697,7 +4697,7 @@ export class DailyLight {
             {
                 "id": "154",
 
-                "image": "https://drive.google.com/uc?export=view&id=1-gzPohjlR5L8pUqmy4yybOugQRwji8_e",
+                "image": "https://res.cloudinary.com/dmxfjy079/image/upload/v1705143662/DLD/ta4huorpy94dxyoswmzy.jpg",
 
                 "uniqueDate": "Feb 3rd 24",
 
@@ -4734,7 +4734,7 @@ export class DailyLight {
             {
                 "id": "155",
 
-                "image": "https://drive.google.com/uc?export=view&id=1-gzPohjlR5L8pUqmy4yybOugQRwji8_e",
+                "image": "https://res.cloudinary.com/dmxfjy079/image/upload/v1705143662/DLD/ta4huorpy94dxyoswmzy.jpg",
 
                 "uniqueDate": "Feb 4th 24",
 
@@ -4769,7 +4769,7 @@ export class DailyLight {
             {
                 "id": "156",
 
-                "image": "https://drive.google.com/uc?export=view&id=1-gzPohjlR5L8pUqmy4yybOugQRwji8_e",
+                "image": "https://res.cloudinary.com/dmxfjy079/image/upload/v1705143662/DLD/ta4huorpy94dxyoswmzy.jpg",
 
                 "uniqueDate": "Feb 5th 24",
 
@@ -4808,7 +4808,7 @@ export class DailyLight {
             {
                 "id": "157",
 
-                "image": "https://drive.google.com/uc?export=view&id=1-gzPohjlR5L8pUqmy4yybOugQRwji8_e",
+                "image": "https://res.cloudinary.com/dmxfjy079/image/upload/v1705143662/DLD/ta4huorpy94dxyoswmzy.jpg",
 
                 "uniqueDate": "Feb 6th 24",
 
@@ -4843,7 +4843,7 @@ export class DailyLight {
             {
                 "id": "158",
 
-                "image": "https://drive.google.com/uc?export=view&id=1-gzPohjlR5L8pUqmy4yybOugQRwji8_e",
+                "image": "https://res.cloudinary.com/dmxfjy079/image/upload/v1705143662/DLD/ta4huorpy94dxyoswmzy.jpg",
 
                 "uniqueDate": "Feb 7th 24",
 
@@ -4878,7 +4878,7 @@ export class DailyLight {
             {
                 "id": "159",
 
-                "image": "https://drive.google.com/uc?export=view&id=1-gzPohjlR5L8pUqmy4yybOugQRwji8_e",
+                "image": "https://res.cloudinary.com/dmxfjy079/image/upload/v1705143662/DLD/ta4huorpy94dxyoswmzy.jpg",
 
                 "uniqueDate": "Feb 8th 24",
 
@@ -4915,7 +4915,7 @@ export class DailyLight {
             {
                 "id": "160",
 
-                "image": "https://drive.google.com/uc?export=view&id=1-gzPohjlR5L8pUqmy4yybOugQRwji8_e",
+                "image": "https://res.cloudinary.com/dmxfjy079/image/upload/v1705143662/DLD/ta4huorpy94dxyoswmzy.jpg",
 
                 "uniqueDate": "Feb 9th 24",
 
@@ -4950,7 +4950,7 @@ export class DailyLight {
             {
                 "id": "161",
 
-                "image": "https://drive.google.com/uc?export=view&id=1-gzPohjlR5L8pUqmy4yybOugQRwji8_e",
+                "image": "https://res.cloudinary.com/dmxfjy079/image/upload/v1705143662/DLD/ta4huorpy94dxyoswmzy.jpg",
 
                 "uniqueDate": "Feb 10th 24",
 
@@ -4985,7 +4985,7 @@ export class DailyLight {
             {
                 "id": "162",
 
-                "image": "https://drive.google.com/uc?export=view&id=1-gzPohjlR5L8pUqmy4yybOugQRwji8_e",
+                "image": "https://res.cloudinary.com/dmxfjy079/image/upload/v1705143662/DLD/ta4huorpy94dxyoswmzy.jpg",
 
                 "uniqueDate": "Feb 11th 24",
 
@@ -5020,7 +5020,7 @@ export class DailyLight {
             {
                 "id": "163",
 
-                "image": "https://drive.google.com/uc?export=view&id=1-gzPohjlR5L8pUqmy4yybOugQRwji8_e",
+                "image": "https://res.cloudinary.com/dmxfjy079/image/upload/v1705143662/DLD/ta4huorpy94dxyoswmzy.jpg",
 
                 "uniqueDate": "Feb 12th 24",
 
@@ -5055,7 +5055,7 @@ export class DailyLight {
             {
                 "id": "164",
 
-                "image": "https://drive.google.com/uc?export=view&id=1-gzPohjlR5L8pUqmy4yybOugQRwji8_e",
+                "image": "https://res.cloudinary.com/dmxfjy079/image/upload/v1705143662/DLD/ta4huorpy94dxyoswmzy.jpg",
 
                 "uniqueDate": "Feb 13th 24",
 
@@ -5090,7 +5090,7 @@ export class DailyLight {
             {
                 "id": "165",
 
-                "image": "https://drive.google.com/uc?export=view&id=1-gzPohjlR5L8pUqmy4yybOugQRwji8_e",
+                "image": "https://res.cloudinary.com/dmxfjy079/image/upload/v1705143662/DLD/ta4huorpy94dxyoswmzy.jpg",
 
                 "uniqueDate": "Feb 14th 24",
 
@@ -5125,7 +5125,7 @@ export class DailyLight {
             {
                 "id": "166",
 
-                "image": "https://drive.google.com/uc?export=view&id=1-gzPohjlR5L8pUqmy4yybOugQRwji8_e",
+                "image": "https://res.cloudinary.com/dmxfjy079/image/upload/v1705143662/DLD/ta4huorpy94dxyoswmzy.jpg",
 
                 "uniqueDate": "Feb 15th 24",
 
@@ -5162,7 +5162,7 @@ export class DailyLight {
             {
                 "id": "167",
 
-                "image": "https://drive.google.com/uc?export=view&id=1-gzPohjlR5L8pUqmy4yybOugQRwji8_e",
+                "image": "https://res.cloudinary.com/dmxfjy079/image/upload/v1705143662/DLD/ta4huorpy94dxyoswmzy.jpg",
 
                 "uniqueDate": "Feb 16th 24",
 
@@ -5197,7 +5197,7 @@ export class DailyLight {
             {
                 "id": "168",
 
-                "image": "https://drive.google.com/uc?export=view&id=1-gzPohjlR5L8pUqmy4yybOugQRwji8_e",
+                "image": "https://res.cloudinary.com/dmxfjy079/image/upload/v1705143662/DLD/ta4huorpy94dxyoswmzy.jpg",
 
                 "uniqueDate": "Feb 17th 24",
 
@@ -5232,7 +5232,7 @@ export class DailyLight {
             {
                 "id": "169",
 
-                "image": "https://drive.google.com/uc?export=view&id=1-gzPohjlR5L8pUqmy4yybOugQRwji8_e",
+                "image": "https://res.cloudinary.com/dmxfjy079/image/upload/v1705143662/DLD/ta4huorpy94dxyoswmzy.jpg",
 
                 "uniqueDate": "Feb 18th 24",
 
@@ -5267,7 +5267,7 @@ export class DailyLight {
             {
                 "id": "170",
 
-                "image": "https://drive.google.com/uc?export=view&id=1-gzPohjlR5L8pUqmy4yybOugQRwji8_e",
+                "image": "https://res.cloudinary.com/dmxfjy079/image/upload/v1705143662/DLD/ta4huorpy94dxyoswmzy.jpg",
 
                 "uniqueDate": "Feb 19th 24",
 
@@ -5304,7 +5304,7 @@ export class DailyLight {
             {
                 "id": "171",
 
-                "image": "https://drive.google.com/uc?export=view&id=1-gzPohjlR5L8pUqmy4yybOugQRwji8_e",
+                "image": "https://res.cloudinary.com/dmxfjy079/image/upload/v1705143662/DLD/ta4huorpy94dxyoswmzy.jpg",
 
                 "uniqueDate": "Feb 20th 24",
 
@@ -5339,7 +5339,7 @@ export class DailyLight {
             {
                 "id": "172",
 
-                "image": "https://drive.google.com/uc?export=view&id=1-gzPohjlR5L8pUqmy4yybOugQRwji8_e",
+                "image": "https://res.cloudinary.com/dmxfjy079/image/upload/v1705143662/DLD/ta4huorpy94dxyoswmzy.jpg",
 
                 "uniqueDate": "Feb 21st 24",
 
@@ -5374,7 +5374,7 @@ export class DailyLight {
             {
                 "id": "173",
 
-                "image": "https://drive.google.com/uc?export=view&id=1-gzPohjlR5L8pUqmy4yybOugQRwji8_e",
+                "image": "https://res.cloudinary.com/dmxfjy079/image/upload/v1705143662/DLD/ta4huorpy94dxyoswmzy.jpg",
 
                 "uniqueDate": "Feb 22nd 24",
 
@@ -5409,7 +5409,7 @@ export class DailyLight {
             {
                 "id": "174",
 
-                "image": "https://drive.google.com/uc?export=view&id=1-gzPohjlR5L8pUqmy4yybOugQRwji8_e",
+                "image": "https://res.cloudinary.com/dmxfjy079/image/upload/v1705143662/DLD/ta4huorpy94dxyoswmzy.jpg",
 
                 "uniqueDate": "Feb 23rd 24",
 
@@ -5444,7 +5444,7 @@ export class DailyLight {
             {
                 "id": "175",
 
-                "image": "https://drive.google.com/uc?export=view&id=1-gzPohjlR5L8pUqmy4yybOugQRwji8_e",
+                "image": "https://res.cloudinary.com/dmxfjy079/image/upload/v1705143662/DLD/ta4huorpy94dxyoswmzy.jpg",
 
                 "uniqueDate": "Feb 24th 24",
 
@@ -5481,7 +5481,7 @@ export class DailyLight {
             {
                 "id": "176",
 
-                "image": "https://drive.google.com/uc?export=view&id=1-gzPohjlR5L8pUqmy4yybOugQRwji8_e",
+                "image": "https://res.cloudinary.com/dmxfjy079/image/upload/v1705143662/DLD/ta4huorpy94dxyoswmzy.jpg",
 
                 "uniqueDate": "Feb 25th 24",
 
@@ -5516,7 +5516,7 @@ export class DailyLight {
             {
                 "id": "177",
 
-                "image": "https://drive.google.com/uc?export=view&id=1-gzPohjlR5L8pUqmy4yybOugQRwji8_e",
+                "image": "https://res.cloudinary.com/dmxfjy079/image/upload/v1705143662/DLD/ta4huorpy94dxyoswmzy.jpg",
 
                 "uniqueDate": "Feb 26th 24",
 
@@ -5551,7 +5551,7 @@ export class DailyLight {
             {
                 "id": "178",
 
-                "image": "https://drive.google.com/uc?export=view&id=1-gzPohjlR5L8pUqmy4yybOugQRwji8_e",
+                "image": "https://res.cloudinary.com/dmxfjy079/image/upload/v1705143662/DLD/ta4huorpy94dxyoswmzy.jpg",
 
                 "uniqueDate": "Feb 27th 24",
 
@@ -5586,7 +5586,7 @@ export class DailyLight {
             {
                 "id": "179",
 
-                "image": "https://drive.google.com/uc?export=view&id=1-gzPohjlR5L8pUqmy4yybOugQRwji8_e",
+                "image": "https://res.cloudinary.com/dmxfjy079/image/upload/v1705143662/DLD/ta4huorpy94dxyoswmzy.jpg",
 
                 "uniqueDate": "Feb 28th 24",
 
@@ -5621,7 +5621,7 @@ export class DailyLight {
             {
                 "id": "180",
 
-                "image": "https://drive.google.com/uc?export=view&id=1-gzPohjlR5L8pUqmy4yybOugQRwji8_e",
+                "image": "https://res.cloudinary.com/dmxfjy079/image/upload/v1705143662/DLD/ta4huorpy94dxyoswmzy.jpg",
 
                 "uniqueDate": "Feb 29th 24",
 
@@ -5657,6 +5657,8 @@ export class DailyLight {
 
         // DEFAULT DLD IMAGE 
         // https://drive.google.com/file/d/1-gzPohjlR5L8pUqmy4yybOugQRwji8_e/view?usp=drive_link
+        
+        // "image": "https://res.cloudinary.com/dmxfjy079/image/upload/v1705143662/DLD/ta4huorpy94dxyoswmzy.jpg",
 
     static getAllDevotionals() {
         return this.dld
