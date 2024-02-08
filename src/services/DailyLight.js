@@ -5653,6 +5653,183 @@ export class DailyLight {
 
                 "bibleReadingPlanText": "NUMBERS 26-27; MARK 8: 22-38",
             },
+            {
+                "id": "181",
+
+                "image": "https://res.cloudinary.com/dmxfjy079/image/upload/v1705143662/DLD/MAR_24/default.jpg",
+
+                "uniqueDate": "Mar 1st 24",
+
+                "title": "BOUNDLESS WEALTH 28 (KEY OF PROPHET OFFERING)",
+
+                "bibleVerse": "2 CHRONICLES 20:20",
+
+                "memoryVerse": "…'Hear me, O Judah and you inhabitants of Jerusalem: Believe in the Lord your God, and you shall be established; believe His prophets, and you shall prosper.'",
+
+                "studyBible": "1 KINGS 17:7-16",
+
+                'texts': {
+                    "textOne": "One of the keys to kingdom prosperity is honouring God’s prophet. The secret to your prosperity is in honouring your prophet. Faith in God brings establishment but faith in your prophet brings prosperity. Pastor, are you saying our faith should not be in God alone? Well, I didn't write that scripture. God has placed the prophetic word for your prosperity in the mouth of your prophet and when you dishonour him, you disconnect from that anointing.",
+
+                    "textTwo": "Can you imagine a national prophet with a big pot belly pulling up at a widow's home and asking the widow to feed him with her last meal? That seems cruel and wicked. If that gets to social media today, I’m sure it will trend and everyone will abuse him. However, the blessing of this widow is in the honour of giving to this prophet. One way you show that you believe in and honour your prophet is through prophet offerings. It is the food that opens the door to the supernatural provision in your finances. Cultivate the habit of giving to your prophet. The problem with most believers is that they do not see their pastors as their prophets. The shepherd over your soul is your prophet. Honour him consistently by separating something either weekly, monthly, or yearly for him. When you do this, financial power and favour come upon you. ",
+
+                    "textThree": "When you honour your prophet, you honour God. A lot of believers dishonour their prophets with their words. This is foolishness. Don’t be too arrogant to think he is not just a man like me. If that widow was arrogant, she would have missed her blessing. That boy in John 6:1-14 honoured Jesus with his bread and fish, and I am sure that he went home with some if not all of the twelve baskets remaining. This is what happens when you believe that sowing what is not enough to your prophet will open the door to abundance. ",
+                },
+
+                "footerTitle": 'ACTION',
+
+                "footerText": "Create a system of honouring your prophets with your words, character, and material things. ",
+
+                // "footerTitleTwo": 'QUOTES',
+
+                // "footerTextTwo": "No matter how far or fast you go in the wrong direction, you will never get to your desired destination.",
+
+                "bibleReadingPlanTitle": '1-YEAR BIBLE READING PLAN',
+
+                "bibleReadingPlanText": "NUMBERS 28-29; MARK 9: 1-29",
+            },
+            {
+                "id": "182",
+
+                "image": "https://res.cloudinary.com/dmxfjy079/image/upload/v1705143662/DLD/MAR_24/default.jpg",
+
+                "uniqueDate": "Mar 2nd 24",
+
+                "title": "THE POWER OF DIVINE INSTRUCTIONS",
+
+                "bibleVerse": "PROVERBS 8:33",
+
+                "memoryVerse": "…Hear instruction and be wise, And do not disdain it. ",
+
+                "studyBible": "2KINGS 4:1-7",
+
+                'texts': {
+                    "textOne": "Many times we pray very hard, but when God gives us instructions, we ignore it because we are ignorant of the fact that our answered prayer is in that instruction. This is because of the wrong mindset many Christians have towards prayers and answered prayers. We put all the responsibility on God and we expect to do nothing ourselves. If you don’t understand how God answers your prayer, you will miss the answer when it comes. The woman in our text could have walked away from the prophet easily.",
+
+                    "textTwo": "The wife of one of the sons of the prophet prayed to God for a miracle. But Elisha asked her two questions. “What can I do for you? And What do you have? The first question puts the responsibility of the solution on Elisha (God) and the other on the woman (you). Most believers will answer the first but the woman answered the latter. You must know that you are part of God’s miracle process. Your miracles do not rest on God only. If it were so, everyone would have their miracles. You also have a role to play.",
+
+                    "textThree": "This was followed by a series of instructions that the woman must adhere to for her to get her miracle. Her answer came in the form of instructions. Also, your miracles are hidden in your obedience to certain instructions because God has done everything He needs to do already. So when you pray, He only needs to open your eyes to what He has done and what you need to do to get what you prayed for. The woman already had the oil, that little boy already had the five bread and 2 fish, and Moses already had the rod. All God gave them was instructions on how to use these items.",
+                },
+
+                "footerTitle": 'PRAYER ',
+
+                "footerText": "Father open my eyes and my ears to see and hear your instructions. Give me the grace to obey them and help me to receive the reward accordingly.",
+
+                // "footerTitleTwo": 'QUOTES',
+
+                // "footerTextTwo": "No matter how far or fast you go in the wrong direction, you will never get to your desired destination.",
+
+                "bibleReadingPlanTitle": '1-YEAR BIBLE READING PLAN',
+
+                "bibleReadingPlanText": "NUMBERS 30-31; MARK 9: 30-50",
+            },
+            {
+                "id": "183",
+
+                "image": "https://res.cloudinary.com/dmxfjy079/image/upload/v1705143662/DLD/MAR_24/default.jpg",
+
+                "uniqueDate": "Mar 3rd 24",
+
+                "title": "UNDERSTANDING GOD’S LOVE (PART 1)",
+
+                "bibleVerse": "1 JOHN 4:9",
+
+                "memoryVerse": "This is how God showed his love among us: He sent his one and only Son into the world that we might live through him.",
+
+                "studyBible": "1 JOHN 4:7-13",
+
+                'texts': {
+                    "textOne": "The New Testament Greek Bible talks about four kinds of love, namely Agape (God’s Love), Phileo (Friendship Love), Storge (Empathy Love), and Eros (Romantic Love). We will be focusing on the first one in this devotional for the next few days. Believers today understand the fear of God more than they understand the love of God. This is why our relationship with God is not going on smoothly. God wants us to relate with Him according to our understanding of His love, not fear. There is an expression of fear (reverence) in love but what we know is being afraid. The Old Testament pattern of relating with God was based on how much you feared (afraid) God but in the New Testament, we were introduced to the love of God (John 14:15)",
+
+                    "textTwo": "The foundation of our relationship with God now is based on how much we love Him, which is dependent on the revelation of how much He loved us. Some of us think that when we do something wrong, God is immediately mad at us and that He is coming to punish us. However, the truth is, that the love of God surpasses your faults. There is nothing you can do that can make God hate you. It will only be possible for God to hate you if it is possible for Him to hate Jesus. The same way the Father loves Jesus is also the same way the Father loves you. So, if it’s impossible for the Father to hate Jesus, then it is impossible for the Father to hate you. In fact, we’re the love of God and the revelation of God’s love.",
+
+                    "textThree": "Another important thing you need to understand about the love of God is that you didn’t do anything to deserve it. So, it means that you cannot do anything to keep deserving that love. God does not love you because of what you do. He loves you because of what Christ did for you. The love of God is not something you can buy or do something to qualify for. You cannot bribe God to love you. In fact, He loved you while you were still a sinner, while you were still being rebellious against Him, while you were still living in disobedience. While you still hate Him and don’t know that you need him. God loves you. You can imagine if God loves you while you were still in sin, what makes you think that you can do anything for Him when you have become a child?",
+                },
+
+                "footerTitle": 'CONFESSION',
+
+                "footerText": "I am loved by God. I am the beloved of God, not because of what I have done but because of what Christ did. I am loved unconditionally. I am eternally loved by God. I am the love of God.",
+
+                // "footerTitleTwo": 'QUOTES',
+
+                // "footerTextTwo": "No matter how far or fast you go in the wrong direction, you will never get to your desired destination.",
+
+                "bibleReadingPlanTitle": '1-YEAR BIBLE READING PLAN',
+
+                "bibleReadingPlanText": "NUMBERS 32-33; MARK 10: 1-31",
+            },
+            {
+                "id": "184",
+
+                "image": "https://res.cloudinary.com/dmxfjy079/image/upload/v1705143662/DLD/MAR_24/default.jpg",
+
+                "uniqueDate": "Mar 4th 24",
+
+                "title": "UNDERSTANDING GOD’S LOVE (PART 2)",
+
+                "bibleVerse": "JEREMIAH 31:3",
+
+                "memoryVerse": "The LORD appeared to us in the past, saying: “I have loved you with an everlasting love; I have drawn you with unfailing kindness.",
+
+                "studyBible": "1 JOHN 4:7-13",
+
+                'texts': {
+                    "textOne": "Christians are the most persecuted sect in the world since their inception. Christians face a lot of troubles in life for obvious reasons. For this reason, many believers doubt God’s love for them when they are in crisis. Now, how can I be sure that God loves me? How can I be sure that His love for me is everlasting and unconditional? How can I be sure that His love for me is irreversible? All these questions are in our minds as believers.",
+
+                    "textTwo": "The first thing you need to know about the love of God (agape) is that it forgives your past.  Most times, the reason why we still think that God is angry at us is that we see our old selves and we still think of our past. However, the truth is that immediately you come to Christ, and you embrace the love of God through Christ, God has forgiven your sins and forgotten about your past. Now, He doesn’t remember anything you did wrong in the past. We often think God is punishing us for our past wrongs when we are in crisis. This is far from the truth.",
+
+                    "textThree": "To God, you are a man without a past, a man without sin. To God, you are a brand new creature. You might see yourself as a liar, a murderer, a drunkard, or a fornicator, but God does not see you that way. The only thing that God can see in you is Christ. God does not see you according to the flesh, He doesn’t know you according to the flesh, but according to Christ. Immediately you come to Christ and give your heart to Jesus, God does not remember that you once did anything wrong.",
+
+                    "textFour": "One day in church, I was sharing with the people of God about my terrible past, how I was a liar, a drunkard, and all the bad things I did in the past. After the service, God literally came to me and we were discussing and He said: “You said you used to be a liar, fornicator, and all that”. I said “Yes.” Then God said “Eehhenn, I don’t know”  Immediately, I was led to 2 Corinthians 5:17. God never remembers your past. Most times, we are the ones that remind Him. He never has a record of how bad you were. The blood of Jesus cleansed all those things. So, there is no basis for God to hate you. There’s no basis for God not to like you. Why? This is because, in you, He sees Christ and Christ alone. He loves you as He loves Jesus.",
+                },
+
+                "footerTitle": 'CONFESSION',
+
+                "footerText": "I am the seal of God’s love. I understand His love, I walk in His love and His love is shed abroad in my heart. I’m accepted and perfect before him because of His love. I am forgiven for His love’s sake. I’m engraved in God’s heart because I'm the apple of His eyes. ",
+
+                // "footerTitleTwo": 'QUOTES',
+
+                // "footerTextTwo": "No matter how far or fast you go in the wrong direction, you will never get to your desired destination.",
+
+                "bibleReadingPlanTitle": '1-YEAR BIBLE READING PLAN',
+
+                "bibleReadingPlanText": "NUMBERS 34-36; MARK 10: 32-52",
+            },
+            {
+                "id": "185",
+
+                "image": "https://res.cloudinary.com/dmxfjy079/image/upload/v1705143662/DLD/MAR_24/default.jpg",
+
+                "uniqueDate": "Mar 5th 24",
+
+                "title": "UNDERSTANDING GOD’S LOVE (PART 3)",
+
+                "bibleVerse": "1 JOHN 3:1",
+
+                "memoryVerse": "See what kind of love the Father has given to us in that we should be called God’s children, and that is what we are! Because the world didn’t recognize him, it doesn’t recognize us. – Common English Bible _CEB",
+
+                "studyBible": "EPHESIANS 3:14-21",
+
+                'texts': {
+                    "textOne": "The Father’s love is best understood through the New Testament lens. The Old Testament might show you a cruel God, that destroys the earth with flood, kills children, and causes war. But the father didn’t do all that. Our sins did all that. It is in the New Testament that we can walk in the fullness of God’s love and power. If we must understand the love of God in the New Covenant, then we must also understand the fatherhood of God. Unlike our earthly fathers, the best they can give to their children is their inheritance. As a father, you can give them houses, cars, and mansions, but you cannot transfer your certificate, nature, or intelligence to them.",
+
+                    "textTwo": "However, God’s kind of love is different; it is much deeper than that of our earthly fathers. God is willing to give us everything that He has. In fact, He has given us everything that He has. God also has given us His nature, the very thing that makes Him God (2 Peter 1:3). Therefore, this gives us the ability to act in the place of God, it gives us the potential to do the things that God can do. God shared everything He has and He is with us. This is amazing. This means that we have the attitude of God, the attribute of God, and the character of God.",
+
+                    "textThree": "If we are children of God, it means that we are of God. According to the Scripture, this is one truth that the children of Israel cannot take because they cannot see themselves in the place of God. So, they do not relate to God as children, but as slaves. You are not God’s slave, you are His child. Your place is not at His feet, you are seated with Him on the throne. What a privilege. This is why the greatest revelation of God in the New Testament is God as our Father. Jesus referred to God as His father and He wants us to also relate to Him as children of God and not slaves. Ps 82:6 'I said, 'You are 'gods'; you are all sons of the Most High.' Religion makes you see God, Christ makes you see a loving Father.",
+                },
+
+                "footerTitle": 'MEDITATION',
+
+                "footerText": "I am a child of God, begotten of the Father. I am an offspring of His bosom. I carry His DNA. I look like Him and I took after Him. He lives in me and I in Him. He is my inheritance and my portion. I own all He has and He is.",
+
+                // "footerTitleTwo": 'QUOTES',
+
+                // "footerTextTwo": "No matter how far or fast you go in the wrong direction, you will never get to your desired destination.",
+
+                "bibleReadingPlanTitle": '1-YEAR BIBLE READING PLAN',
+
+                "bibleReadingPlanText": "DEUT 1-2; MARK 11: 1-19",
+            },
         ]
 
         // DEFAULT DLD IMAGE 
