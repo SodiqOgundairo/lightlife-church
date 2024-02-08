@@ -5656,7 +5656,7 @@ export class DailyLight {
             {
                 "id": "181",
 
-                "image": "https://res.cloudinary.com/dmxfjy079/image/upload/v1705143662/DLD/MAR_24/default.jpg",
+                "image": "https://res.cloudinary.com/dmxfjy079/image/upload/v1705143662/DLD/MAR_24/iayrorjl2g3eggn2hrno.jpg",
 
                 "uniqueDate": "Mar 1st 24",
 
@@ -5691,7 +5691,7 @@ export class DailyLight {
             {
                 "id": "182",
 
-                "image": "https://res.cloudinary.com/dmxfjy079/image/upload/v1705143662/DLD/MAR_24/default.jpg",
+                "image": "https://res.cloudinary.com/dmxfjy079/image/upload/v1705143662/DLD/MAR_24/v4uwehhqrf3ajifr2sug.jpg",
 
                 "uniqueDate": "Mar 2nd 24",
 
@@ -5726,7 +5726,7 @@ export class DailyLight {
             {
                 "id": "183",
 
-                "image": "https://res.cloudinary.com/dmxfjy079/image/upload/v1705143662/DLD/MAR_24/default.jpg",
+                "image": "https://res.cloudinary.com/dmxfjy079/image/upload/v1705143662/DLD/MAR_24/izrocr4i8yxxwcz8ru3k.jpg",
 
                 "uniqueDate": "Mar 3rd 24",
 
@@ -5761,7 +5761,7 @@ export class DailyLight {
             {
                 "id": "184",
 
-                "image": "https://res.cloudinary.com/dmxfjy079/image/upload/v1705143662/DLD/MAR_24/default.jpg",
+                "image": "https://res.cloudinary.com/dmxfjy079/image/upload/v1705143662/DLD/MAR_24/cfo4gfjvr6zrcxms8iue.jpg",
 
                 "uniqueDate": "Mar 4th 24",
 
@@ -5798,7 +5798,7 @@ export class DailyLight {
             {
                 "id": "185",
 
-                "image": "https://res.cloudinary.com/dmxfjy079/image/upload/v1705143662/DLD/MAR_24/default.jpg",
+                "image": "https://res.cloudinary.com/dmxfjy079/image/upload/v1705143662/DLD/MAR_24/ze7vdbhaegrjl9ureoyt.jpg",
 
                 "uniqueDate": "Mar 5th 24",
 
@@ -5829,6 +5829,934 @@ export class DailyLight {
                 "bibleReadingPlanTitle": '1-YEAR BIBLE READING PLAN',
 
                 "bibleReadingPlanText": "DEUT 1-2; MARK 11: 1-19",
+            },
+            {
+                "id": "186",
+
+                "image": "https://res.cloudinary.com/dmxfjy079/image/upload/v1705143662/DLD/MAR_24/kaawgit6xeletokmd2wd.jpg",
+
+                "uniqueDate": "Mar 6th 24",
+
+                "title": "UNDERSTANDING GOD’S LOVE  (PART 4)",
+
+                "bibleVerse": "EPHESIANS 3:18",
+
+                "memoryVerse": "May be able to comprehend with all the saints what is the width and length and depth and height; To know the love of Christ which passes knowledge; that you may be filled with all the fullness of God.",
+
+                "studyBible": "2 PETER 1:1-11",
+
+                'texts': {
+                    "textOne": "Understanding the love of God is very important to our walk with God. This is because our manifestation as believers is hinged on our knowledge of God’s love. In fact, Paul in several letters and several scriptures prayed that we may have the revelation of God’s love so that we can be all that God wants us to be. Being filled with the fullness of God is based on our revelation of God’s love. You can’t do much for God if you don’t understand His love. You can’t trust God if you don't understand His love. You can’t do signs and wonders without knowing His love. The key of God’s love is what unlocks the realms of God.",
+
+                    "textTwo": "Understanding God’s love is supreme to hope, faith, knowledge, and prosperity. All these spiritual principles work by love (1 Corinthians 13:13). How much of God you will have in you is also dependent on how much of His love you know. Being full of love equates to being full of God (Ephesians 3:19). A love-full believer is a God-full Christian. Even though this love is shed abroad already in our hearts, we must come to the consciousness and understanding of it. Not just comprehending some parts of it but all dimensions of it.",
+
+                    "textThree": "Understanding the love of God is what makes us rooted and grounded in faith. It is difficult to access His grace when you lack the understanding of His love. Spend time studying the Love of Christ, meditate on the scriptures that talk about His love, not His anger, and soon enough, you will know who your God truly is and you will start doing exploits. Struggling with unforgiveness, sin, disobedience, and lack of passion for God’s service are all indications that you lack an understanding of God’s love. The moment we come to a comprehension of His love, we forgive easily, we serve Him with our lives, and obedience becomes easy.",
+                },
+
+                "footerTitle": 'PRAYER',
+
+                "footerText": "I have the understanding of Christ’s love. I’m not ignorant of the dimensions and expressions of God’s love. I have a perfect knowledge of His love towards me and the Word. I’m empowered and inspired by His love.",
+
+                // "footerTitleTwo": 'QUOTES',
+
+                // "footerTextTwo": "No matter how far or fast you go in the wrong direction, you will never get to your desired destination.",
+
+                "bibleReadingPlanTitle": '1-YEAR BIBLE READING PLAN',
+
+                "bibleReadingPlanText": "DEUT 3-4; MARK 11: 20-33",
+            },
+            {
+                "id": "187",
+
+                "image": "https://res.cloudinary.com/dmxfjy079/image/upload/v1705143662/DLD/MAR_24/gsezbcbw1dxbzntnm0yr.jpg",
+
+                "uniqueDate": "Mar 7th 24",
+
+                "title": "UNDERSTANDING GOD’S LOVE  (PART 5)",
+
+                "bibleVerse": "JOHN 3:16",
+
+                "memoryVerse": "For God so loved the world that He gave His only begotten Son, that whoever believes in Him should not perish but have everlasting life.",
+
+                "studyBible": "1CORINTHIANS 13:2-8",
+
+                'texts': {
+                    "textOne": "Today, let’s talk about the character of God’s love. We must know the nature of God’s love since He defined Himself by this character. God best defined Himself as love. As we discussed earlier, one of the reasons we do not have assurance and confidence in the love of our heavenly Father is that we do not know the character of His love.",
+
+                    "textTwo": "First, God’s love is sacrificial. God gave His only begotten Son for the world to be delivered from bondage. Jesus also was willing to leave all His glory above, to be humiliated by the works of His hand, this is a huge sacrifice. This shows that God will do anything to reach you, including giving up Himself. Some believers still doubt if God wanted them to have good health, prosperity, peace, and joy. But you can be sure He won’t hold back anything from you. If He could give up Himself to die for you. God is willing to give you the best at the highest cost and it is free of charge for you.",
+
+                    "textThree": "Second, the love of God never gives up on you. Nothing absolutely can separate you from the love of God. Not your problems, weaknesses, sins, satan, enemies, swords, or anything. The love of God already provided an antidote for any possible problem that can ever attempt to separate you from Him. Once His love sticks to you, nothing is strong enough to separate Him from you. The love of God will tolerate you, it will endure for you, it will wait for you, and it will empower you until you become exactly like Him. If God never gives up on you, then don’t ever give up on God.",
+                },
+
+                "footerTitle": 'PRAYER',
+
+                "footerText": "Father, thank you for this amazing and unconditional love you have towards me. Thank you for tolerating my inadequacies. Thank you for never giving up on me. Thank you for your love Jesus.",
+
+                // "footerTitleTwo": 'QUOTES',
+
+                // "footerTextTwo": "No matter how far or fast you go in the wrong direction, you will never get to your desired destination.",
+
+                "bibleReadingPlanTitle": '1-YEAR BIBLE READING PLAN',
+
+                "bibleReadingPlanText": "DEUT 5-7; MARK 12: 1-7",
+            },
+            {
+                "id": "188",
+
+                "image": "https://res.cloudinary.com/dmxfjy079/image/upload/v1705143662/DLD/MAR_24/kr3ipnvfwywedzgiv6mi.jpg",
+
+                "uniqueDate": "Mar 8th 24",
+
+                "title": "UNDERSTANDING GOD’S LOVE  (PART 6)",
+
+                "bibleVerse": "JEREMIAH 31:3",
+
+                "memoryVerse": "Met God out looking for them!” God told them, “I’ve never quit loving you and never will. Expect love, love, and more love! – MSG",
+
+                "studyBible": "EPHESIANS 3:14-21",
+
+                'texts': {
+                    "textOne": "One of the amazing characteristics of God’s Love is that it is everlasting. God is never going to run out of love. He’s never going to quit loving you because love is who He is and loving you is what He loves to do. According to our memory verse, God never stops loving you, and never will a day arrive when He will stop loving you. The only thing that you can expect from Him is love and more love. His anger is but for a moment but His love is everlasting. There may be times when circumstances make you feel that God has quit loving you, let this devotion assure your heart that God will never quit loving you.",
+
+                    "textTwo": "FThe love of God is good. Some believers believe that when evil happens to them, it is still an act of God’s love. Nothing can be farther from the truth than this. No evil comes from God. He is love, pure love. All evil comes from the devil and Him alone. God will not allow any evil to come near you but when they do, it is usually because of our ignorance and sin. He can turn what the enemy meant for evil into good. God though corrects us and chastises us when we go wrong, but He never abandons us. Don’t let the devil lie to you that God is punishing you because of your past sins. Jesus was punished already. Why wander away like the prodigal son, He is always waiting for us with open arms to receive us.",
+
+                    "textThree": "The last thing I will discuss today is that God’s love is amazing. When I was deep in sin, I was not afraid of hell. I had made up my mind that I would end up in hell but on a fateful day, I experienced the wondrous love and warmth of God’s love. It was so amazing that I could not resist it. I came to Jesus not because I was afraid of hell but because I couldn’t resist the love of Christ. The love of God is awe-mazing.",
+                },
+
+                "footerTitle": 'CONFESSION',
+
+                "footerText": "My mind is ready and open to experience the amazing love of Christ. I am the love of my father. I am the seal of His love. I am loved forever and I love Him forever too.",
+
+                // "footerTitleTwo": 'QUOTES',
+
+                // "footerTextTwo": "No matter how far or fast you go in the wrong direction, you will never get to your desired destination.",
+
+                "bibleReadingPlanTitle": '1-YEAR BIBLE READING PLAN',
+
+                "bibleReadingPlanText": "DEUT 8-10; MARK 12: 28-44",
+            },
+            {
+                "id": "189",
+
+                "image": "https://res.cloudinary.com/dmxfjy079/image/upload/v1705143662/DLD/MAR_24/fa4gghyrdixmvtwaiwd7.jpg",
+
+                "uniqueDate": "Mar 9th 24",
+
+                "title": "DOES GOD CONDEMN?",
+
+                "bibleVerse": "ROMANS 8:1-2",
+
+                "memoryVerse": "There is therefore now no condemnation to those who are in Christ Jesus, who do not walk according to the flesh, but according to the Spirit.",
+
+                "studyBible": "JOHN 8:3-11",
+
+                'texts': {
+                    "textOne": "God commends, He does not condemn His children. I tell you that no matter how perfect you think you are, the devil will always find some faults in you. When God looked at Job, He saw a perfect man, but when the devil looked at him, he found a fault. This is because when God looks at you, He isn't looking for your fault, He is looking at Christ in you. If He is looking for your fault, He will definitely find some (Ps 130:3). This is why God doesn't condemn. What about when I sin as a believer? Well, God still does not condemn. He simply forgives you. So, why do I feel bad and condemned when I sin? Well, let’s discuss further. Read 1 John 3:19-21",
+
+                    "textTwo": "The number one person that condemns you is the devil. The devil takes pleasure in condemning believers. The Bible calls Him the accuser of the brethren Rev 12:10. He is the one that takes records of your sins, not God. He can go as far as lying against you before God. Glory to God that we now have an advocate with the Father, unlike Job who has no one to speak for him. Jesus speaks for us anytime the devil comes to accuse us before the Father.",
+
+                    "textThree": "Another thing that condemns us is our heart. I think this is the most dangerous accuser of all. 1 John 3:19-21 says that it is our hearts that condemn us when we sin. So, are you saying it is okay not to feel bad and guilty when we sin? My answer is, does feeling bad and guilty about your sins take them away? You see, when you sin, and you are disappointed in yourself, sometimes, you curse yourself, some even go to the extent of hurting themselves. You do this because you have put confidence in your flesh initially. Don’t hide when you sin. That was the mistake of Adam. Just come confidently to the throne of grace and obtain mercy for forgiveness and grace for empowerment. The condemnation of your heart most times does not lead to repentance. It makes you run away from God. When you have trained yourself not to condemn you, that’s when you have confidence in the righteousness of God.",
+                },
+
+                "footerTitle": 'PRAYER',
+
+                "footerText": "Lord Jesus, set me free from every kind of condemnation. Give me confidence in you. ",
+
+                // "footerTitleTwo": 'QUOTES',
+
+                // "footerTextTwo": "No matter how far or fast you go in the wrong direction, you will never get to your desired destination.",
+
+                "bibleReadingPlanTitle": '1-YEAR BIBLE READING PLAN',
+
+                "bibleReadingPlanText": "DEUT 11-13; MARK 13: 1-13",
+            },
+            {
+                "id": "190",
+
+                "image": "https://res.cloudinary.com/dmxfjy079/image/upload/v1705143662/DLD/MAR_24/lpnnqmtqlmqvvuu8j99i.jpg",
+
+                "uniqueDate": "Mar 10th 24",
+
+                "title": "THEY BUILD AND PROSPER",
+
+                "bibleVerse": "EZRA 6:14-15",
+
+                "memoryVerse": "So the elders of the Jews built, and they prospered through the prophesying of Haggai the prophet, and Zechariah the son of Iddo. And they built and finished it, according to the commandment of the God of Israel, and according to the command of Cyrus, Darius, and Artaxerxes, king of Persia.",
+
+                "studyBible": "EXODUS 36:1-7",
+
+                'texts': {
+                    "textOne": "In one of our meetings last year (2023) as we were in a time of intense prayer, the Spirit of the Lord began to speak to us through prophecy. The Lord said that it is His will to transfer the wealth into the church and one major way He is doing this is by giving churches lots of land and properties. In fact, the Lord said that more Christian camps and cities would begin to emerge. Of course, we keyed into it as a church too.",
+
+                    "textTwo": "I told you about this incident because Jesus wants me to encourage you to build. If you are a pastor reading this devotional, God wants you to build a big cathedral on several hectares of land for Him. It’s not His pleasure that you continue to rent a place of worship. If you are a church leader, worker, or member, God wants you to support your pastor to build. God is a builder and He loves to build. For the first thirty years of Jesus’s life, He worked as a carpenter. A carpenter is a builder. He used the same principles to build the church. As a church, we must focus on building people and families first. We must take the posture of a builder and begin to rebuild destinies and families in ruins.",
+
+                    "textThree": "A lot of believers focus on building their own houses while the church of God is in ruins. If you love God, you will prioritize building His house first. There are lots of landowners in the church, but the church doesn't have a plot of land. Your prosperity is in the building of God’s house. Building brings establishment and allows the church to reach out to more souls. God raised even an unbeliever to build His house Ezra 1:2-3. David loves God so much that he provided everything to build God’s house. In the time of Moses, the people gave so much that Moses had to tell them to stop. It is time to build for the Lord. It is time for you to proper. Find a kingdom project and sow into it. This is how the kingdom of God prospers and is established.",
+                },
+
+                "footerTitle": 'ACTION',
+
+                "footerText": "BUILD FOR THE LORD",
+
+                // "footerTitleTwo": 'QUOTES',
+
+                // "footerTextTwo": "No matter how far or fast you go in the wrong direction, you will never get to your desired destination.",
+
+                "bibleReadingPlanTitle": '1-YEAR BIBLE READING PLAN',
+
+                "bibleReadingPlanText": "DEUT 14-16; MARK 13: 14-37",
+            },
+            {
+                "id": "191",
+
+                "image": "https://res.cloudinary.com/dmxfjy079/image/upload/v1705143662/DLD/MAR_24/kqwy75fntodxoyxowftu.jpg",
+
+                "uniqueDate": "Mar 11th 24",
+
+                "title": "DON’T DESPISE YOUR CALLING",
+
+                "bibleVerse": "1 CORINTHIANS 1:26",
+
+                "memoryVerse": "For you see your calling, brethren, that not many wise according to the flesh, not many mighty, not many noble, are called.",
+
+                "studyBible": "LUKE 2:36-38",
+
+                'texts': {
+                    "textOne": "The worst thing you can do to yourself is to despise yourself. There are many people, especially youths, who admire others but despise themselves. They see the greatness in other people, ministries, or organizations and instead of being inspired by it, they look down on themselves. Can I tell you this, sometimes the light you see in others is dim compared to what you carry. But you have despised yourself too long. You’ve looked down on yourself for too long, and that's why you are not seeing it. There are three aspects of your life you must never despise.",
+
+                    "textTwo": "First is your calling. I don’t mean a call into ministry alone. Your assignment is your call. The fact that God called you in the secret doesn’t mean the assignment will be forever obscure. Whatever greatness you see in people today started from the secret place. Don’t allow popular opinion to destroy your secret call. Sometimes, God will call you to birth something that hasn’t existed before or something different from what already exists. Like Mary who is a nobody, God might call you to carry a global phenomenon. God already knows your weaknesses, limitations, education, exposure, and background before choosing you. So, don’t try to talk yourself out of it.",
+
+                    "textThree": "Whatever God has called you to be or do, don’t ever despise it. It may look small, shameful, unpopular, or foolish, but therein lies your greatness and relevance. Your call is what qualifies you for eternal relevance. God called Simeon and Anna just to intercede for the coming of Jesus and that’s all they did to secure their eternal relevance. Don’t confuse fame with your call. Not all of us will be famous but all of us can make an impact and fulfill our purpose. Discover your call, devote your life to it, never despise it, and you will shine like a star.",
+                },
+
+                "footerTitle": 'MEDITATION',
+
+                "footerText": "Your call is a privilege, Value it.",
+
+                // "footerTitleTwo": 'QUOTES',
+
+                // "footerTextTwo": "No matter how far or fast you go in the wrong direction, you will never get to your desired destination.",
+
+                "bibleReadingPlanTitle": '1-YEAR BIBLE READING PLAN',
+
+                "bibleReadingPlanText": "DEUT 17-19; MARK 14: 1-25",
+            },
+            {
+                "id": "192",
+
+                "image": "https://res.cloudinary.com/dmxfjy079/image/upload/v1705143662/DLD/MAR_24/oqovwbsdmp2vgrjkyjab.jpg",
+
+                "uniqueDate": "Mar 12th 24",
+
+                "title": "DON’T DESPISE YOUR YOUTH",
+
+                "bibleVerse": "1 TIMOTHY 4:12",
+
+                "memoryVerse": "Let no one despise your youth, but be an example to the believers in word, in conduct, in love, in spirit, in faith, in purity.",
+
+                "studyBible": "1 SAMUEL 17:26-37",
+
+                'texts': {
+                    "textOne": "We live in a society that looks down on the youth today. The governments and even religious organizations undervalue the value of the youth. As a pastor of a congregation, where 95% of my members are young people (mostly students), I am often ridiculed by other pastors who pastor more mature people. To them, these young people are nothing but a liability. Society talks them down and doesn't give them the opportunities they need to shine. The old, especially in the political and religious space are competing with the young. You will hardly find a young senator or minister in the political sphere. This is ignorance I must say.",
+
+                    "textTwo": "We live in a society that looks down on the youth today. The governments and even religious organizations undervalue the value of the youth. As a pastor of a congregation, where 95% of my members are young people (mostly students), I am often ridiculed by other pastors who pastor more mature people. To them, these young people are nothing but a liability. Society talks them down and doesn't give them the opportunities they need to shine. The old, especially in the political and religious space are competing with the young. You will hardly find a young senator or minister in the political sphere. This is ignorance I must say.",
+
+                    "textThree": "The time of your youth is when to make all the mistakes. So, don't be afraid to try new things. God is always giving new visions only to the young. The fresh moves of God and invention in technology are always powered by the youth. This is because they can believe and have the capacity to take steps. God will bypass some older people and come to you as a youth to pioneer something huge. The devil might use some older people to discourage you just because they don't understand it. But some will also encourage you. Focus on the ones who speak words of encouragement to you.",
+                },
+
+                "footerTitle": 'MEDITATION',
+
+                "footerText": "Don’t be rude, but never allow anyone to despise what God is doing in and through you. Politely tell them to keep shut like David.",
+
+                // "footerTitleTwo": 'QUOTES',
+
+                // "footerTextTwo": "No matter how far or fast you go in the wrong direction, you will never get to your desired destination.",
+
+                "bibleReadingPlanTitle": '1-YEAR BIBLE READING PLAN',
+
+                "bibleReadingPlanText": "DEUT 20-22; MARK 14: 26-50",
+            },
+            {
+                "id": "193",
+
+                "image": "https://res.cloudinary.com/dmxfjy079/image/upload/v1705143662/DLD/MAR_24/dh39r0bcr9u768bed0km.jpg",
+
+                "uniqueDate": "Mar 13th 24",
+
+                "title": "DON’T DESPISE YOUR SMALL BEGINNINGS",
+
+                "bibleVerse": "ZECHARIAH 4:10",
+
+                "memoryVerse": "Do not despise these small beginnings, for the Lord rejoices to see the work begin, to see the plumb line in Zerubbabel's hand.(NLT)",
+
+                "studyBible": "PHILIPPIANS 1:6",
+
+                'texts': {
+                    "textOne": "The reason many people die small is because their small is always intimidated by other people's BIG. Don’t ever forget that every big person, company, conglomerate, and church you see today started small. Whatever is born must be born small. You never give birth to an adult. This is why in every small is the seed and capacity for growth. Therefore, don’t ever despise your days of small beginnings. Also, don’t despise people’s small beginnings. Apple started in a garage, the Redeemed Christian Church of God started in a room with eight people. Our church Lightlife church started with four people. What started small can be very great.",
+
+                    "textTwo": "One of the tactics of the enemies is to despise your days of little beginnings. He will make you think what you are doing is useless. He will give you evidence that what you are doing is not making any impact in people’s lives and society. Then, he will advise you to quit. It is easy for the devil to fight small beginnings. A tree cannot be easily uprooted but a seed can. The same way I preached just when it was me, my wife, and our little baby Zoe, is the same way I preach when there are four hundred people in church now. Was I discouraged? Of course yes. Was I frustrated? Yes. Did I think of giving up? Yes. Did I give up? Never.",
+
+                    "textThree": "In the days of small beginnings, nobody believes in you. It’s okay, believe in yourself. Nobody will support you. It’s okay, support yourself. People will speak against you. It’s okay to say positive things to yourself. Nobody wants to join you, so you will be lonely. It’s okay, get along with yourself. Never despise your days of little beginnings. In little beginnings are great endings. Everything that will end great will start small. God will show you the big vision but He will start small with you so that you can grow and gain the stature and wisdom you need to sustain your greatness.",
+                },
+
+                "footerTitle": 'MEDITATION',
+
+                "footerText": "Instead of grumbling and complaining about your little beginnings, praise and thank God for them.",
+
+                // "footerTitleTwo": 'QUOTES',
+
+                // "footerTextTwo": "No matter how far or fast you go in the wrong direction, you will never get to your desired destination.",
+
+                "bibleReadingPlanTitle": '1-YEAR BIBLE READING PLAN',
+
+                "bibleReadingPlanText": "DEUT 23-25; MARK 14: 15-72",
+            },
+            {
+                "id": "194",
+
+                "image": "https://res.cloudinary.com/dmxfjy079/image/upload/v1705143662/DLD/MAR_24/enaorniczylrzihspbuy.jpg",
+
+                "uniqueDate": "Mar 14th 24",
+
+                "title": "YOU HAVE VICTORY OVER SIN",
+
+                "bibleVerse": "1 Cor 15:56-57",
+
+                "memoryVerse": "The sting of death is sin, and the power of sin is the law. But thanks be to God! He gives us the victory through our Lord Jesus Christ.",
+
+                "studyBible": "1 JOHN 5:1-10",
+
+                'texts': {
+                    "textOne": "The main purpose of Jesus’s birth, death, and resurrection is to deliver man from their sins and bring man back into that fellowship with the Father. Did Jesus accomplish that assignment or did He fail? Most times, believers live today as if Jesus failed at this mission to redeem them from their sins. Believers today still complain about some addictions and sinful practices. This is largely because these categories of believers lack the revelation of their victory over sin. They are trying to do in the flesh what Jesus accomplished in the spirit.",
+
+                    "textTwo": "Jesus did not only have victory over sin and death, He gave us the victory He had. This is it, it was Jesus who fought and won the battle but He gave you the victory trophy. If Jesus gave you the victory according to our memory verse, then you have the victory and all you have to do is to use the victory He gave you. Many believers are not exercising their victory in Christ. You already have victory over sin and death. You have the power to dominate sin, consequently we have victory over death. Do you know what that means? You cannot be afraid of death. You cannot die anyhow. This is not just about spiritual death alone, physical death is inclusive.",
+
+                    "textThree": "We saw Paul exercise this victory when he was negotiating his exit. This is because he exercised his victory over sin. Paul in Phillippians chapter two was confused in his choice between going to be with the Lord and staying here on earth. You don’t have to struggle with any addiction or sin. All you need is to rest on the finished work of Christ. In case you are struggling with one, stop struggling. Declare and establish who you are in Christ. No matter how disappointed you are in yourself, stand your ground. Refuse to believe anything less than God’s word. Soon you will begin to live your beliefs. Your faith will dominate your fears as you progress.",
+                },
+
+                "footerTitle": 'STUDY',
+
+                "footerText": "Study the book of Romans Chapters Five and Six",
+
+                // "footerTitleTwo": 'QUOTES',
+
+                // "footerTextTwo": "No matter how far or fast you go in the wrong direction, you will never get to your desired destination.",
+
+                "bibleReadingPlanTitle": '1-YEAR BIBLE READING PLAN',
+
+                "bibleReadingPlanText": "DEUT 26-27; MARK 15: 1-26",
+            },
+            {
+                "id": "195",
+
+                "image": "https://res.cloudinary.com/dmxfjy079/image/upload/v1705143662/DLD/MAR_24/pyaugv63liqlgnyc5y2t.jpg",
+
+                "uniqueDate": "Mar 15th 24",
+
+                "title": "THE POWER OF WORDS",
+
+                "bibleVerse": "HEBREWS  11:3",
+
+                "memoryVerse": "By faith, we understand that the worlds were framed by the word of God so that the things which are seen were not made of things which are visible.",
+
+                "studyBible": "GENESIS 1:3-9",
+
+                'texts': {
+                    "textOne": "Words are used to communicate but they are not primarily a communicative tool, they are a creative tool. Your Word is your creative tool, with it, you create the reality of your life. Do you know that God built this entire universe through His word? From the same view, God gave you the power to build your own world through your words. The problem is that most times we do not understand the power in our words. Instead of using it to create and build, we use it to destroy.",
+
+                    "textTwo": "Your words are the first capital you need to build anything in life. In the beginning, there was no bank, no dollar, no gold, nothing. The only capital with God was His word. Through it, everything you see today was built. What words have not built, money can not build. Stop looking for money when you have words. Words can tear down what money builds. When the purpose of a thing is not known, abuse they say is inevitable. Your words are more important and powerful than money",
+
+                    "textThree": "Everything is built thrice. First in your thoughts, in your words, and then physically. When you say you don’t have, you are erecting a building of lack and poverty in your life. But when you declare that you are rich, you are building wealth. When you are feeling sick and you say “I am sick,” you are validating and establishing that sickness in your body. But Pastor is that not lying? Here is what the scripture says Joel 3:10 Beat your plowshares into swords and your pruning hooks into spears; Let the weak say, 'I am strong.' It is your words that validate your feelings and your feelings validate your beliefs. Your beliefs then validate your experience.",
+
+                    "textFour": "Each time you speak, you create, alter, or recreate things. Emotions are created through words, wars are stirred through words, love is built through words, marriages are destroyed through words, and destinies are built through words. Be bold to speak greatness into your reality even when you can’t see it. Don’t just speak what you see or feel, speak what you hope to see and what the scripture says.",
+                },
+
+                "footerTitle": 'MEDITATION',
+
+                "footerText": "Prov 18:21 'Death and life are in the power of the tongue: and they that love it shall eat the fruit thereof'",
+
+                // "footerTitleTwo": 'QUOTES',
+
+                // "footerTextTwo": "No matter how far or fast you go in the wrong direction, you will never get to your desired destination.",
+
+                "bibleReadingPlanTitle": '1-YEAR BIBLE READING PLAN',
+
+                "bibleReadingPlanText": "DEUT 28; MARK 15: 27-47",
+            },
+            {
+                "id": "196",
+
+                "image": "https://res.cloudinary.com/dmxfjy079/image/upload/v1705143662/DLD/MAR_24/zxfz2jyil8casmtg75br.jpg",
+
+                "uniqueDate": "Mar 16th 24",
+
+                "title": "THE POWER OF WORDS PART 2",
+
+                "bibleVerse": "Num 13:32",
+
+                "memoryVerse": "And they gave the children of Israel a bad report of the land which they had spied out, saying, 'The land through which we have gone as spies is a land that devours its inhabitants, and all the people whom we saw in it are men of great stature.",
+
+                "studyBible": "JAMES 3:1-12",
+
+                'texts': {
+                    "textOne": "Every time you speak, you either utter life or death. (Prov 18:21 Words kill, words give life; they're either poison or fruit — you choose). It’s your choice which one you speak. Not just the words you speak but words spoken to you can make or mar you. I’m amazed at how people play carelessly with words. Your words can create your life but much more, other people’s words can also shape your destiny. Be careful of what you hear and who you listen to. Other people’s words can build your faith or dampen your spirit.",
+
+                    "textTwo": "An example is the words of the ten spies who gave a bad report (Num 13:27-33, 14:1-4). The news brought fear to the hearts of the Israelites. Fear is a bondage and another kind of slavery. Eventually, none of them made it to the promised land. There will always be voices of opposition and negativity around you. You might not be able to eliminate all the voices of critics and failures around you but the voice of God within you must be louder.",
+
+                    "textThree": "This is why you must allow the word of God to saturate your heart. Deut 6:6-9 says you must always talk about the word of God. If your heart is empty of God’s word, it will be filled with devil’s and men’s words. Your ears are a gate into your spirit. Be selective about the things you hear, or the music you listen to. The word of God must dwell richly in your heart and mouth. They can shape your reality. Also, we can tell what you have been listening to by the way you talk. And you can tell a man who is going to be great by the way they talk.",
+                },
+
+                "footerTitle": 'MEDITATION',
+
+                "footerText": "Prov 13:3 'He who guards his mouth preserves his life, But he who opens wide his lips shall have destruction.'",
+
+                // "footerTitleTwo": 'QUOTES',
+
+                // "footerTextTwo": "No matter how far or fast you go in the wrong direction, you will never get to your desired destination.",
+
+                "bibleReadingPlanTitle": '1-YEAR BIBLE READING PLAN',
+
+                "bibleReadingPlanText": "DEUT 29-30; MARK 16",
+            },
+            {
+                "id": "197",
+
+                "image": "https://res.cloudinary.com/dmxfjy079/image/upload/v1705143662/DLD/MAR_24/bwrbijspfhbyfzhaigic.jpg",
+
+                "uniqueDate": "Mar 17th 24",
+
+                "title": "THE POWER OF WORDS PART 3",
+
+                "bibleVerse": "COLOSSIANS 4:6",
+
+                "memoryVerse": "Let your speech always be with grace, seasoned with salt, that you may know how you ought to answer each one.",
+
+                "studyBible": "PROVERBS 29:20",
+
+                'texts': {
+                    "textOne": "The world doesn't know who you are until you open your mouth. Your words speak a lot about who you are. Your words validate or invalidate your appearance. This is why you need to learn how to speak. As a believer, there is a manner Christ expects you to speak. Let me share a few with you in today’s devotional.",
+
+                    "textTwo": "First, speak scripturally. By this, I do not mean you should use words like “thou, thy, verily verily, or wentest.” Let your communication be guided by the principles of the word. Talk faith, not unbelief. Speak boldly not cowardly. Let your word be seasoned with the word. Don't talk like a mere man. Let it show that you are a disciple of Christ in the way you speak.",
+
+                    "textThree": "Second, think before you talk. A lot of people reveal their foolishness because they don’t think before they speak. You must not utter most of your words only until you have thought about them. Always remember that you can't take back your words once they jump out of your mouth. This means you should speak intelligently, more than you speak emotionally. There are times when you speak with empathy when you need to show love or compassion. However, many people speak at the peak of their outbursts of emotions like anger, insecurities, disappointments, and many more.",
+
+                    "textFour": "Third, speak respectfully to everyone. Most leaders and Men of God are guilty of this. The fact that people follow you and submit to you doesn't give you any right to talk to them disrespectfully. Even when you correct, do it in love. Let your words show respect, not arrogance.",
+
+                    "textFive": "Also, say what you mean and mean what you say. Be clear when you communicate. Don't speak ambiguously. Furthermore, always bless and not curse. Again many parents, bosses, and religious leaders are guilty of this. Let blessings always flow out of your mouth even when people act wickedly against you.",
+                },
+
+                "footerTitle": 'MEDITATION',
+
+                "footerText": "Silence is also a language, learn to use it well.",
+
+                // "footerTitleTwo": 'QUOTES',
+
+                // "footerTextTwo": "No matter how far or fast you go in the wrong direction, you will never get to your desired destination.",
+
+                "bibleReadingPlanTitle": '1-YEAR BIBLE READING PLAN',
+
+                "bibleReadingPlanText": "DEUT 31-32; LUKE 1: 1-23",
+            },
+            {
+                "id": "198",
+
+                "image": "https://res.cloudinary.com/dmxfjy079/image/upload/v1705143662/DLD/MAR_24/dpay5j3nvs1afbek4gfe.jpg",
+
+                "uniqueDate": "Mar 18th 24",
+
+                "title": "IN MY WEAKNESS, HE’S MADE STRONG",
+
+                "bibleVerse": "2 CORINTHIANS 12:9",
+
+                "memoryVerse": "And he said unto me, My grace is sufficient for thee: for my strength is made perfect in weakness. Most gladly therefore will I rather glory in my infirmities, that the power of Christ may rest upon me.",
+
+                "studyBible": "1 CORINTHIANS 1:26-31",
+
+                'texts': {
+                    "textOne": "The ways of God definitely are not the ways of man. His ways are far away from ours and so are His thoughts too. His criteria for choosing people He will use is not like man. For instance, if a town is going to elect a king or president, there are qualities they will look for in that man. He must be of noble birth, well-read (probably a Ph.D. holder), must be associated with the high and mighty, and have many high-profile qualities. However, when God was about to choose a king in Israel, He went to the backside of the bush and picked a nobody. When He was going to choose a chief apostle, He went for Peter, a failed and frustrated fisherman. When He needed a deliverer, He raised a murderer Moses as the greatest prophet of Israel.",
+
+                    "textTwo": "Sometimes, we feel disqualified because of our weaknesses, past mistakes, background, or lack of education. You feel that God cannot use you because of your disadvantages and human rejections. But may I announce to you that your weaknesses are what qualifies you for God’s use. What qualifies you to be used by God sometimes is not what you have but what you lack. God is not looking for the perfect, the rich, or the noble, rather He is looking for the weak, the broken, miserable, hopeless, and helpless to use for His glory.",
+
+                    "textThree": "Paul said that he would rather glory in his weakness so that the power of Christ may come upon him. Don’t pretend to be what you are not. Just own your weakness and allow God to use it for His own glory. Don’t run from God because of your infirmities, rather run to Hm. Don’t hide from him, open up to Him. He is looking for people like you to use to manifest His glory. God doesn't want anyone to share His praise, this is why He wants to use a nobody so that it will be obvious to the world that it can only be God. By the time your testimony shows up, nobody can mistake it for a man’s work. It will be evident that God is at work in you.",
+                },
+
+                "footerTitle": 'STUDY',
+
+                "footerText": "Exodus 3:11-12, 4:10-15",
+
+                // "footerTitleTwo": 'QUOTES',
+
+                // "footerTextTwo": "No matter how far or fast you go in the wrong direction, you will never get to your desired destination.",
+
+                "bibleReadingPlanTitle": '1-YEAR BIBLE READING PLAN',
+
+                "bibleReadingPlanText": "DEUT 33-34; LUKE 1: 24-56",
+            },
+            {
+                "id": "199",
+
+                "image": "https://res.cloudinary.com/dmxfjy079/image/upload/v1705143662/DLD/MAR_24/ngugnm0c4mapwoicowca.jpg",
+
+                "uniqueDate": "Mar 19th 24",
+
+                "title": "PRUNING IS NOT PUNISHMENT",
+
+                "bibleVerse": "JOHN 15:2",
+
+                "memoryVerse": "He cuts off every branch in me that bears no fruit, while every branch that does bear fruit he prunes so that it will be even more fruitful.",
+
+                "studyBible": "JOHN  15:1-16",
+
+                'texts': {
+                    "textOne": "Some months ago, I told my teenage daughter to do some facing the wall and squatting as a form of punishment for something she did wrong. By the way, I believe in disciplining my children. The difference between pruning and punishment is mindset. And that mindset is what determines how you approach it and what you get from it. The same push-up that someone sees as a punishment, someone else sees as training. Sometimes, a lot of believers go through pruning from God thinking they are going through punishment. For most of them, this is why they are not patient with the process God is taking them through.",
+
+                    "textTwo": "What is pruning? Pruning is the act of cutting away dead or overgrown branches or stems especially to encourage growth. When God is cutting off something in your life, it might even be a success or some relationships, He is not trying to punish you, He is pruning you. There are times when you are spreading and acquiring some things and it looks like growth. But not every growth is a healthy growth. Cancer, lumps, and other forms of diseases are unhealthy growths in the body that were not pruned early. So God will cut some things off your life. It might be some material things that God will ask you to give away so that you can grow. But if you don’t understand, you will think God is punishing you. When you bear fruits, you must be pruned.",
+
+                    "textThree": "God only prunes a tree that’s bearing fruit. When a tree becomes unfruitful, they are cut down. Allow the pruning of God in you. It might not be comfortable but it’s for your growth. Allow him to cut some relationships off you. A lot of branches have left their spiritual tree just because they couldn't endure the pruning. When you remain in the vine and allow his pruning you bear much more fruit. Allow Christ pruning so that you don’t begin to have cancerous growth. Remember, go through your pruning with patience, whatever He cuts away is for you to grow and become more productive and fruitful. Remember, He is not punishing you.",
+                },
+
+                "footerTitle": 'MEDITATE',
+
+                "footerText": "Every plant that refuses to be pruned ends up getting cut off and thrown into fire.",
+
+                // "footerTitleTwo": 'QUOTES',
+
+                // "footerTextTwo": "No matter how far or fast you go in the wrong direction, you will never get to your desired destination.",
+
+                "bibleReadingPlanTitle": '1-YEAR BIBLE READING PLAN',
+
+                "bibleReadingPlanText": "JOSHUA 1-3; LUKE 1: 57-80",
+            },
+            {
+                "id": "200",
+
+                "image": "https://res.cloudinary.com/dmxfjy079/image/upload/v1705143662/DLD/MAR_24/fakqlf3gi4nb0phuijx1.jpg",
+
+                "uniqueDate": "Mar 20th 24",
+
+                "title": "WHAT TO DO WHEN YOUR EXPECTATIONS ARE UNMET",
+
+                "bibleVerse": "JOHN 15:2",
+
+                "memoryVerse": "Thus says the Lord, “Cursed is the man who trusts in mankind And makes flesh his strength, And whose heart turns away from the Lord.",
+
+                "studyBible": "ISAIAH 31:3",
+
+                'texts': {
+                    "textOne": "We wake up every day with expectations. We have expectations from parents, families, school, friends, government, and from God. At times these expectations are valid and normal. For instance, you expect your parents to love and support you in school and everything. You expect the government to protect you and provide social amenities. You expect your friends to support you when you need them. You expect your spouse to be there for you in difficult times. We also have expectations from ourselves. We expect something from ourselves.",
+
+                    "textTwo": "However, every day many of these expectations are dashed. Our hearts have been broken by disappointment, especially from those we call our loved ones. But top on the list is the disappointment from the expectation from yourself. As much as we get disappointed by people, one of the worst is the inability to meet our own expectations. A goal you couldn't smash, a project you couldn't finish, a relationship you couldn't keep, and the list goes on. How then do we deal with unmet expectations?",
+
+                    "textThree": "First, don’t put your trust in men. Psalms 146:3; Do not trust in princes, in mortal man, in whom there is no salvation, NASB. God commanded you never to trust in man no matter how convincing they might sound. Jesus Himself did not trust in man. Men are not reliable because they are human, they are limited in every way. Never see men as your source. God can use a man to help you, He can use your family to meet your needs but always remember that God remains the source. Don’t always focus or rely on people that God has used for you, not even your parents. Men can disappoint because sometimes, they don’t have what it takes to help you. Trust God enough to choose who to use.",
+
+                    "textFour": "Lastly, when unmet expectations are your fault, and it’s you who is disappointed in yourself. In this case, note that you’re also a work in progress. Even your failures are helping you make progress. Always trust in God and not in your abilities. Every other thing can fail but God can’t. Trust and rely on him.",
+                },
+
+                "footerTitle": 'MEDITATION',
+
+                "footerText": "Humans disappoint but God can’t",
+
+                // "footerTitleTwo": 'QUOTES',
+
+                // "footerTextTwo": "No matter how far or fast you go in the wrong direction, you will never get to your desired destination.",
+
+                "bibleReadingPlanTitle": '1-YEAR BIBLE READING PLAN',
+
+                "bibleReadingPlanText": "JOSHUA 4-6; LUKE 2: 1-24",
+            },
+            {
+                "id": "201",
+
+                "image": "https://res.cloudinary.com/dmxfjy079/image/upload/v1705143662/DLD/MAR_24/ke9o59xmlzw70bkk8kk7.jpg",
+
+                "uniqueDate": "Mar 21st 24",
+
+                "title": "THE BLESSING",
+
+                "bibleVerse": "NUMBERS 6:23",
+
+                "memoryVerse": "Speak unto Aaron and unto his sons, saying, On this wise ye shall bless the children of Israel, saying unto them",
+
+                "studyBible": "GENESIS 32:14-28",
+
+                'texts': {
+                    "textOne": "Recently, I was meditating on the text above when the Spirit of God opened my eyes to some mysteries there. While Jacob was leaving the house of Laban, we could have concluded that he left a blessed man. He was leaving with four wives, over twelve children, tens or hundreds of servants, thousands of sheep, cows, camels, goats, and many others that were not even mentioned. You will say God has blessed him, right? Many believers will use Jacob as a point of contact for blessing.",
+
+                    "textTwo": "However, I was surprised to see Jacob fighting an angel and begging to be blessed. How can a man who has all these riches still beg for a blessing? Then it occurred to me that blessing is not something you have but who you are. That shocked me. The Spirit of God further explained to me that the presence of riches does not equate the presence of the blessing and the absence of material riches does not equate the absence of God’s blessing. The fact that you don’t have one million in your account doesn't mean you are not blessed. A lot of believers who compare themselves with the rich of this world need to know this.",
+
+                    "textThree": "Then Jesus took me to Genesis chapter four to explain this better. Where God told Cain that he was cursed in verse eleven, but in verse seventeen, the cursed Cain got married, had children, and built a city (not a mansion). A cursed man built a city. The fact that a man could amass material wealth doesn't mean they are blessed.",
+
+                    "textFour": "God’s blessing surpassed the riches of the earth. Even though His blessing can produce material riches, yet, it is not material riches. It will be a huge tragedy to limit the blessing of God towards us to cars, houses, lands, money, and other material things. Though Jacob had all the riches, deep within him, he knew the blessing of God was still missing. The blessing is God’s pronouncement of favour and mercy towards a man. You are blessed by God today.",
+                },
+
+                "footerTitle": 'MEDITATION',
+
+                "footerText": "Don’t just rely on the material riches you have today, reach out to God for the true blessing.",
+
+                // "footerTitleTwo": 'QUOTES',
+
+                // "footerTextTwo": "No matter how far or fast you go in the wrong direction, you will never get to your desired destination.",
+
+                "bibleReadingPlanTitle": '1-YEAR BIBLE READING PLAN',
+
+                "bibleReadingPlanText": "JOSHUA 7-8; LUKE 2: 25-52",
+            },
+            {
+                "id": "202",
+
+                "image": "https://res.cloudinary.com/dmxfjy079/image/upload/v1705143662/DLD/MAR_24/vjxwlvyslebh6kdbgupi.jpg",
+
+                "uniqueDate": "Mar 22nd 24",
+
+                "title": "MOVE YOUR MOUNTAINS",
+
+                "bibleVerse": "ZECHARIAHS 4:7",
+
+                "memoryVerse": "Who are you, O Great Mountain? Before Zerubbabel, you shall become a plain! And he shall bring forth the capstone with shouts of “Grace, grace to it!",
+
+                "studyBible": "MATTHEW 21:18-22",
+
+                'texts': {
+                    "textOne": "There are mountains in life, and they represent obstruction to your future but the good news is that they can be moved. Different things can represent a mountain. It could be sickness, bondage, poverty, ignorance, darkness, comfort, or the devil. A Mountain is anything that stands against you on your journey to success. They are circumstances and situations that pose a threat to God’s plan for your life. Every mountain in your life shall become plain in Jesus name. How can the mountains in your life be moved?",
+
+                    "textTwo": "The first way is through faith, Jesus in Matthew 17:20 affirms that with your small faith, you can move mountains. Nothing is impossible for them that believe. Faith puts you in charge of life. In Mark 9:23, Jesus confirms again that all things are possible for him who believes. Unbelief and doubt can make your mountain immovable. Faith has the power to overcome all forms of obstruction in your life. No matter how big your mountains are, you must have faith that they can be moved. Faith moves mountains. Through faith, men of old conquered all the obstacles on their way. You too can, if only you believe.",
+
+                    "textThree": "Also, the power of prayer can move mountains. In Mark 11:23, Jesus established that if you can open your mouth and SAY…this talks about prayer. When you refuse to pray, your mountain refuses to move. Set some time to pray against any situation that represents mountains in your life and you will see them move. A closed mouth is a closed mountain. Your words carry power, when you speak by faith, mountains will hear you and they will obey you. The devil aims to keep you quiet in the face of your mountain or say the wrong things. Only those who speak will see what they say (Numbers 14:28)",
+                },
+
+                "footerTitle": 'PRAYER',
+
+                "footerText": "Every mountain in my life becomes plain in Jesus name. I command every obstruction to my success to move in the name of Jesus.",
+
+                // "footerTitleTwo": 'QUOTES',
+
+                // "footerTextTwo": "No matter how far or fast you go in the wrong direction, you will never get to your desired destination.",
+
+                "bibleReadingPlanTitle": '1-YEAR BIBLE READING PLAN',
+
+                "bibleReadingPlanText": "JOSHUA 9-10; LUKE 3",
+            },
+            {
+                "id": "203",
+
+                "image": "https://res.cloudinary.com/dmxfjy079/image/upload/v1705143662/DLD/MAR_24/rpfuwkgji6bj1l6hwnex.jpg",
+
+                "uniqueDate": "Mar 23rd 24",
+
+                "title": "HEALING IS YOUR RIGHT",
+
+                "bibleVerse": "1 PETER 2:24",
+
+                "memoryVerse": "He himself bore our sins 'in his body on the cross, so that we might die to sins and live for righteousness; 'by his wounds you have been healed.'",
+
+                "studyBible": "MARK 6: 53-56",
+
+                'texts': {
+                    "textOne": "I recently received a call to pray for a sick person in one of the federal hospitals in the city where I reside. One of the complaints I heard is that many sick people were rejected because they had no space in the hospital. In this world of troubles, one of the most devastating experiences is the loss of one’s health. There are thousands of diseases today and hundreds are being discovered daily. While some are mild, some are life-threatening. While medical science has been able to find solutions to some, several deadly ones are yet to be medically resolved.",
+
+                    "textTwo": "But for a child of God, it is God’s pleasure and will for us to live without sickness, so He made a provision for divine healing. As a child of God, you must know that God healed you over two thousand years ago. On the cross, Jesus secured your healing. It does not matter how long you have been sick or how serious your sickness is, God can heal you and He has healed you. Healing is children’s bread. It is your right in the kingdom. Divine healing is the supernatural healing from sickness or disease without the application of medication. It is a divine deliverance from bodily affliction.",
+
+                    "textThree": "How do you position yourself for divine healing? First, you must have faith in the finished work of Christ. Doubt has robbed many believers of their right to healing (Matthew 13:58). Even Jesus couldn’t do many miracles because of the people’s lack of faith. Second, through the word of God (Psalms 107:20). We must confess the word of God despite our feelings. Continue to speak the word until you begin to see it work in your body. Third, by laying of hands, praying, and anointing. (James 5:14). You don’t need to bear your sickness any longer. Jesus has healed you. If you are however sick, you can call for the brethren or your pastor to pray and lay hands on you believing that you will receive your healing. I, therefore, pray for anyone going through any form of sickness, be healed in Jesus name.",
+                },
+
+                "footerTitle": 'ACTION',
+
+                "footerText": "If you are going through any sickness as you read this devotional, just lay your hands on the place and decree healing, I believe God with you for instant healing in Jesus name. Amen",
+
+                // "footerTitleTwo": 'QUOTES',
+
+                // "footerTextTwo": "No matter how far or fast you go in the wrong direction, you will never get to your desired destination.",
+
+                "bibleReadingPlanTitle": '1-YEAR BIBLE READING PLAN',
+
+                "bibleReadingPlanText": "JOSHUA 11-13; LUKE 4: 1-32",
+            },
+            {
+                "id": "204",
+
+                "image": "https://res.cloudinary.com/dmxfjy079/image/upload/v1705143662/DLD/MAR_24/xmrqdnqsxbthm4lhjysx.jpg",
+
+                "uniqueDate": "Mar 24th 24",
+
+                "title": "OBEYING GOD",
+
+                "bibleVerse": "1 SAMUEL 15:21",
+
+                "memoryVerse": "So Samuel said: “Has the Lord as great delight in burnt offerings and sacrifices, As in obeying the voice of the Lord? Behold, to obey is better than sacrifice, And to heed than the fat of rams.",
+
+                "studyBible": "1 SAMUEL 15:1-24",
+
+                'texts': {
+                    "textOne": "One of the toughest responsibilities of a believer is the prompt response and obedience to God’s assignment or instructions. It is our duty to obey Him, but obedience can be tough if I must admit (Jn 2:5). Because His ways are not our ways, His instructions sometimes may be tough. Even though His laws are not burdensome and His yoke is easy, we are often shortsighted and weak.",
+
+                    "textTwo": "I have come to realize that we do not find the strength and grace we need until we obey (1Jn 5:3). One of the reasons we find it difficult to obey God’s instructions is that He often asks us to do things beyond our present capacity, strength, wisdom, grace, anointing, or vision.  He asks us to do practically impossible things. At times, they are things that make no sense. There is no way the widow in 2 Kings four could have thought her huge debt could be paid through a bottle of oil in her house (2 Kings 4:1-7).",
+
+                    "textThree": "Most times, when we receive God’s instructions, we look at our capacity to carry it out. We quickly check our account balance, certificates, and CV, but you know you don’t always qualify. The truth is that God does not expect us to carry out His assignments on our own credit, strength, or resources. When God gives you an assignment, He already funded it, but you won’t receive the fund until you obey (1 Cor 9:7). When He gives you a vision, He supplies the resources. When He asks you to do something, He supplies the grace.",
+
+                    "textFour": "In 2011, God gave me a book idea. I did nothing about it, but God kept reminding me. I kept thinking I didn’t have what was required to do it. In 2014, one of the youths who served under me invited me to her book launch. As I held the book, it was the title God told me, as I flipped through the pages, many of its messages were things God was telling me to share. Since then, I learnt a big lesson. When God gives an assignment, He gives strength, grace, resources, and support. So, delay is dangerous. We must trust God enough to step out in the dark. We must trust Him to help our frailty. It’s not just enough to admit our weakness, we must accept His strength.",
+                },
+
+                "footerTitle": 'CONFESSION',
+
+                "footerText": "Father, I trust you for grace to obey you always even when it is tough. I do not consider my own weaknesses and inadequacies. I connect myself to your life support system. I rely on your UNDESERVED grace, infinite resources, limitless capacity, unfathomable wisdom, and your indomitable strength to always do your will. I trust you absolutely.",
+
+                // "footerTitleTwo": 'QUOTES',
+
+                // "footerTextTwo": "No matter how far or fast you go in the wrong direction, you will never get to your desired destination.",
+
+                "bibleReadingPlanTitle": '1-YEAR BIBLE READING PLAN',
+
+                "bibleReadingPlanText": "JOSHUA 14-15; LUKE 4: 33-44",
+            },
+            {
+                "id": "205",
+
+                "image": "https://res.cloudinary.com/dmxfjy079/image/upload/v1705143662/DLD/MAR_24/iaqrf0ojdbi4ip2dc5m1.jpg",
+
+                "uniqueDate": "Mar 25th 24",
+
+                "title": "HOW TO STUDY THE BIBLE",
+
+                "bibleVerse": "2 TIMOTHY 2:15",
+
+                "memoryVerse": "Study to shew thyself approved unto God, a workman that needeth not to be ashamed, rightly dividing the word of truth.",
+
+                "studyBible": "2 TIMOTHY 3:14-17",
+
+                'texts': {
+                    "textOne": "Studying the Bible is not an advice to believers, it is a command. There is so much attached to your study that it will be dangerous not to do so. No study, no showing. Many of us want a word from God but we discard the word of God. Behind the laziness to study the bible for many Christians is not just the devil but ignorance of what the scripture is. Many believers just see the bible as one ancient script, written originally with some weird language that’s out of fashion. Some see it just as a religious manual. Some see it as a mysterious book that cannot be understood. The greatest way the devil fights us is by influencing how we get to see the bible.",
+
+                    "textTwo": "The Bible is the greatest book ever written. It's more than a book, it's a person on paper. There is not one book written about the maker of the universe that explains Him and unveils Him the way the Bible does. It’s more than that, it's a manual for life. You will malfunction when your bible is closed. It is the word of God. It’s written for you and about you. Without it, you can’t find yourself. Many think the scripture is about Christ, it is correct but not very correct. The scripture is about you. Jesus doesn’t need the word to function, but you do. Your source, your power, your assignment, your mission, your gifts, your blueprint, your solutions, and your destination are all scripted in the bible. It is the voice of God speaking to the heart of men.",
+
+                    "textThree": "A closed bible is a closed destiny. I have personally discovered from experience that the only times I was frustrated in life were the times I was far from the word of God. When I study the bible, I always know what to do. I am always productive, I am always full of joy. The key to the glory of your destiny is when you study the Bible, not casually. So, is there a way to effectively study the Bible? Are there steps or principles I can employ for a better understanding of the Bible? Yes, stay with me till tomorrow.",
+                },
+
+                "footerTitle": 'MEDITATION',
+
+                "footerText": "Your success in life is dependent on the discoveries you made from this book (Bible)",
+
+                // "footerTitleTwo": 'QUOTES',
+
+                // "footerTextTwo": "No matter how far or fast you go in the wrong direction, you will never get to your desired destination.",
+
+                "bibleReadingPlanTitle": '1-YEAR BIBLE READING PLAN',
+
+                "bibleReadingPlanText": "JOSHUA 16-18; LUKE 5: 1-16",
+            },
+            {
+                "id": "206",
+
+                "image": "https://res.cloudinary.com/dmxfjy079/image/upload/v1705143662/DLD/MAR_24/esgcj1zummunjmvih0ou.jpg",
+
+                "uniqueDate": "Mar 26th 24",
+
+                "title": "HOW TO STUDY THE BIBLE PART 2",
+
+                "bibleVerse": "JOSHUA 1:8",
+
+                "memoryVerse": "This book of the law shall not depart out of thy mouth; but thou shalt meditate therein day and night, that thou mayest observe to do according to all that is written therein: for then thou shalt make thy way prosperous, and then thou shalt have good success.",
+
+                "studyBible": "DEUTERONOMY 6:6-9",
+
+                'texts': {
+                    "textOne": "Good morning Lights. I trust your night was restful. Before we discuss the methods and principles of studying the Bible, it is important to build structures around it for effectiveness. While it is true that you can read the Bible anytime, anywhere, and anywhere, you must know that you can't grow or build a successful life on this kind of structure. You might get something but you won’t get the best. Therefore, you must become more intentional in putting a structure around your study life.",
+
+                    "textTwo": "First, choose a place of study. Locate and prepare a corner in your room or a room in your house where you dedicate to the study of the word and prayer. Find a place where you are free from distraction. Get a table and a chair, and make it face the wall if you wish. This creates some level of devotion and commitment to the word. Ensure the place is kept clean and simple.",
+
+                    "textThree": "Second, choose the time for your study. How often do you want to study? Daily or weekly? I won't advise you to do it monthly or yearly. Joshua recommended twice daily. Also, decide how long you want to study. I will recommend a minimum of an hour. Studying the bible is not the same as reading. In that one hour, you will just be scratching the surface. You will need discipline to start that way. It may look like you are not getting anything, just stay focused and continue.",
+
+                    "textFour": "Third, when do you want to start studying? Pick a time you will be most chanced and undisturbed. Is it 6 am, 12 noon, 3 pm, 9 pm, or 12 am? I will suggest a time when people are out of the house or sleeping. It depends on when you are less busy. Note that you will always be busy. So, you must create time for the study of the word no matter how busy you are. Remember, it's the foundation for all other aspects of your life.",
+                },
+
+                "footerTitle": 'MEDITATION',
+
+                "footerText": "Study is not a gift of the spirit, it is gotten by the discipline of your body.",
+
+                // "footerTitleTwo": 'QUOTES',
+
+                // "footerTextTwo": "No matter how far or fast you go in the wrong direction, you will never get to your desired destination.",
+
+                "bibleReadingPlanTitle": '1-YEAR BIBLE READING PLAN',
+
+                "bibleReadingPlanText": "JOSHUA 19-20; LUKE 5: 17-39",
+            },
+            {
+                "id": "207",
+
+                "image": "https://res.cloudinary.com/dmxfjy079/image/upload/v1705143662/DLD/MAR_24/a4kkaxylhfkasduymomw.jpg",
+
+                "uniqueDate": "Mar 27th 24",
+
+                "title": "HOW TO STUDY THE BIBLE PART 3",
+
+                "bibleVerse": "JOSHUA 1:8",
+
+                "memoryVerse": "This Book of the Law shall not depart from your mouth, but you shall meditate in it day and night, that you may observe to do according to all that is written in it. For then you will make your way prosperous, and then you will have good success.",
+
+                "studyBible": "DEUTERONOMY 6: 4-9",
+
+                'texts': {
+                    "textOne": "Today, let’s discuss some effective ways to study the Bible. How do you get the best out of reading your bible? The first way to go about this is to read the Bible thoughtfully. There are some texts in the bible that their understanding is not on the surface. Many times, we read the bible with an absent mind. When you come to study the bible, put your thinking cap on. Be ready to engage your mind in the study. Use the same intensity you would use to study your anatomy text if you were a doctor to study the Bible, the same way you study your charts if you were a trader.",
+
+                    "textTwo": "Second, read the Bible repeatedly. Unlike other texts, the Bible can stand up to repeated exposure. If you read your physics text one to three times, you get it and that's all. The Bible, however, gives you a fresh understanding every time you read the same passage. You can read it one thousand times and it’s still fresh. Read the Bible over and over again. Sometimes, I try to read an entire book at a time. However, don't get familiar with reading a text repeatedly. Approach the same text with a fresh hunger and expectation to get something new from it.",
+
+                    "textThree": "You can listen to the audio recording of the scripture. When driving or doing other things, take time to listen to it. It brings the scripture alive. Similarly, read the scripture aloud. The best voice to hear the bible read is your voice. Remember, faith comes by hearing and hearing the word of God. Also, you can have a bible reading date with a friend to whom you read some portions of the bible loudly to one another. Lastly, you can write out and paste some bible verses on your walls and walkways. Seeing these scriptures every day will minister to you daily.",
+                },
+
+                "footerTitle": 'MEDITATION',
+
+                "footerText": "Read thoughtfully. Take some time to meditate on the word of God.",
+
+                // "footerTitleTwo": 'QUOTES',
+
+                // "footerTextTwo": "No matter how far or fast you go in the wrong direction, you will never get to your desired destination.",
+
+                "bibleReadingPlanTitle": '1-YEAR BIBLE READING PLAN',
+
+                "bibleReadingPlanText": "JOSHUA 21-22; LUKE 6: 1-26",
+            },
+            {
+                "id": "208",
+
+                "image": "https://res.cloudinary.com/dmxfjy079/image/upload/v1705143662/DLD/MAR_24/rwpeyd5bxynk5p0arzdx.jpg",
+
+                "uniqueDate": "Mar 28th 24",
+
+                "title": "HOW TO STUDY THE BIBLE PART 4",
+
+                "bibleVerse": "PSALMS 119:97",
+
+                "memoryVerse": "Oh, how I love your law! I meditate on it all day long.",
+
+                "studyBible": "ACTS 8:26-39",
+
+                'texts': {
+                    "textOne": "Another way to study the Bible is prayerfully. The Bible is a spiritual book, and it cannot be approached with a logical mind only. Prayer and studying the Bible are not two separate activities. They actually go together. To study effectively, it must go with prayer. To pray effectively, you must pray scripturally. To study effectively, pray before you start studying and pray as you study. Studying the bible is not just an intellectual chore, it's a spiritual venture. Pray that the Lord will open your eyes and give you understanding of what you are reading. The Ethiopian Eunuch was reading the bible yet he couldn’t understand it. This is why the Spirit must open your mind to see the treasures there.",
+
+                    "textTwo": "Furthermore, you must pray imaginatively. This means you should engage your imagination when you read the scripture. To engage your imagination, you can read the bible in different translations like the Amplified version, NLT, RSV, ASV, and some other recent translations. Create pictures and images in your head while you read the bible. Many believers see the Bible more like fiction than an actual history of real events. Everything in the Bible happened in real life. Your imagination will help you see and relate to it as a real-life event.",
+
+                    "textThree": "Also, read the bible meditatively. Take time to reflect on what you have read. A lot of us just move on after reading the Bible. To study effectively, learn to stay on it. Ruminate on the text you read. Lastly, read purposefully. Find a purpose for studying the scripture and this will keep you committed to it. Why do you want to study a text in the Bible? For spiritual growth? Personal or career improvement? Character building? Marital wisdom? This helps to focus on your study and monitor your progress.",
+                },
+
+                "footerTitle": 'MEDITATION',
+
+                "footerText": "Pray before you read the word of God and also pray after you read it.",
+
+                // "footerTitleTwo": 'QUOTES',
+
+                // "footerTextTwo": "No matter how far or fast you go in the wrong direction, you will never get to your desired destination.",
+
+                "bibleReadingPlanTitle": '1-YEAR BIBLE READING PLAN',
+
+                "bibleReadingPlanText": "JOSHUA 23-24; LUKE 6: 27-49",
+            },
+            {
+                "id": "209",
+
+                "image": "https://res.cloudinary.com/dmxfjy079/image/upload/v1705143662/DLD/MAR_24/yckn89j5zn7vhohlhsod.jpg",
+
+                "uniqueDate": "Mar 29th 24",
+
+                "title": "PLANNING FOR SUCCESSFUL MARRIAGE",
+
+                "bibleVerse": "GENESIS 2:24",
+
+                "memoryVerse": "'Therefore a man shall leave his father and his mother and hold fast to his wife, and they shall become one flesh.'",
+
+                "studyBible": "ECCLESIASTES 4:9-12",
+
+                'texts': {
+                    "textOne": "The reason evil often prevails against good is because they are more strategic about their plans. The people Satan relied on to perpetuate his evil agenda are often committed to their plans while we believers barely have a plan. Devil and his agents are futuristic thinkers, while most believers only think of the short term and often use fire brigade methods to solve problems. It is no news that divorce in marriages is on an upsurge and this is because the enemy has carefully mastered a plan for destroying homes. Will you allow your marriage to also end the way others ended? The key is in planning.",
+
+                    "textTwo": "This is the strategy of Satan in attacking marriages and homes. Most of the problems in our marriages today do start in marriage. Most of them started when their partners were still single. All that the devil needs to destroy a marriage that will happen in ten years is to make a disoriented, frustrated, and misdirected young man or woman. He introduces hurt, heartbreaks, confusion, hate, bitterness, and depression into the lives of young people who are supposed to be a husband or a wife long before they even start thinking about marriage.",
+
+                    "textThree": "He introduces pornography, drug addictions, and wrong friends into the life of a man who is supposed to be a father in ten years. Most of the habits and behaviours that break the home today are things they have struggled with as singles. The devil destroys homes ten or fifteen years before the marriage even takes place. Ignorantly, we only start preparing and praying for marriage when we are six months away from the wedding. What a mistake. Most times, we already lost the battle before we even started and that is why domestic violence, separation, and divorce is on the increase in our society. The best time to start preparing for your marriage is when you are not ready to marry. Your single season is the best time to become the best husband and father, not when you are married. Start preparing now.",
+                },
+
+                "footerTitle": 'MEDITATE',
+
+                "footerText": "Marriage doesn't cover your weaknesses as singles, rather it is what exposes and amplifies your flaws.",
+
+                // "footerTitleTwo": 'QUOTES',
+
+                // "footerTextTwo": "No matter how far or fast you go in the wrong direction, you will never get to your desired destination.",
+
+                "bibleReadingPlanTitle": '1-YEAR BIBLE READING PLAN',
+
+                "bibleReadingPlanText": "JUDGES 1-2; LUKE 7: 1-30",
+            },
+            {
+                "id": "210",
+
+                "image": "https://res.cloudinary.com/dmxfjy079/image/upload/v1705143662/DLD/MAR_24/beah0yzjf0ae0pk0htmw.jpg",
+
+                "uniqueDate": "Mar 30th 24",
+
+                "title": "PLANNING FOR SUCCESSFUL MARRIAGE 2",
+
+                "bibleVerse": "GENESIS 2:18",
+
+                "memoryVerse": "The Lord God said, it is not good for the man to be alone. I will make him a helper suitable for him.",
+
+                "studyBible": "PSALMS 119:9-10",
+
+                'texts': {
+                    "textOne": "The journey to a happy marriage is an intentional one, so it starts from the day we are born. A failed marriage can be a mistake but you can never succeed in marriage. Everything you do, what you are exposed to, the school you attend, the friends you keep, the career you choose, your belief systems, value systems, and philosophy, all have an impact on the kind of marriage you will have. If you ever plan to be married one day, you must prepare for it all the days of your single life.",
+
+                    "textTwo": "You can't live carelessly as a single person and expect to live happily in marriage. Many single ladies today live anyhow thinking they will be serious when they are ready to settle down. Several single guys sleep with everything in skirts thinking they will find a wife material when they are ready to marry and they will be faithful. It doesn’t work that way. You must protect and keep yourself for your man or woman.",
+
+                    "textThree": "The battles that conquer you in marriage are the weaknesses you refuse to defeat while you are single. People have trust issues in marriage today because their previous relationships were a mess. Some cannot truly love their spouse because they did not totally heal from the hurt in previous relationships. Many marriages are defeated today not because of the defect of their spouse but because of attachment to their ex. Some marriages are broken because of addictions to porn, masturbation, or sex.",
+
+                    "textFour": "As a single lady or man, you must protect your heart. Watch and pray carefully before going into a relationship. Overcome your personal challenges that could impede your success in marriage. Don’t expect your weaknesses to suddenly disappear in marriage. Start by allowing the Spirit to lead you into any relationship. I pray that you will have the best of marriage on earth.",
+                },
+
+                "footerTitle": 'MEDITATION',
+
+                "footerText": "The battles that conquer us in marriage are the weaknesses we refuse to defeat while we are single.",
+
+                // "footerTitleTwo": 'QUOTES',
+
+                // "footerTextTwo": "No matter how far or fast you go in the wrong direction, you will never get to your desired destination.",
+
+                "bibleReadingPlanTitle": '1-YEAR BIBLE READING PLAN',
+
+                "bibleReadingPlanText": "JUDGES 3-5; LUKE 7: 31-50",
+            },
+            {
+                "id": "211",
+
+                "image": "https://res.cloudinary.com/dmxfjy079/image/upload/v1705143662/DLD/MAR_24/k4esmhlc7yk98yylrcab.jpg",
+
+                "uniqueDate": "Mar 31st 24",
+
+                "title": "PLANNING FOR SUCCESSFUL MARRIAGE 3",
+
+                "bibleVerse": "GENESIS 2:18",
+
+                "memoryVerse": "The Lord God said, it is not good for the man to be alone. I will make him a helper suitable for him.",
+
+                "studyBible": "GENESIS 24:11-27",
+
+                'texts': {
+                    "textOne": "Today, let us consider signs that show that you are ready for marriage. Once again let me state that marriage is for men, not boys and it's for women not girls. You do not get married because you are biologically endowed with protruded mammary glands or because you now have six pack. You do not get married because all your mates are married, or because you are getting old, or because your parents want you married. Some signs will show you that you are ready for it.",
+
+                    "textTwo": "Top of the list is spiritual maturity. Marriage is spiritual and I will advise you not to get married as a babe in the spirit. This does not have anything to do with how long you have been in church. As a growing believer ready to marry, you must be able to know how God speaks to you. God must lead you to the person you will marry. Many believers today want their pastor to choose for them because they can't hear God for themselves. If you can't hear God for yourself concerning marriage, then you are not ready.",
+
+                    "textThree": "You are ready to marry when you have discovered your purpose and assignment in life. It is dangerous to marry a man or woman who doesn't know why he or she is living. When I asked my wife to marry me, the question she asked me was what my purpose was and I was ready to reply because I knew it. If you don't know your purpose in life, I bet you won’t know the purpose of marriage. This is why many people abuse the marriage institution.",
+
+                    "textFour": "If you can't handle complex situations in your everyday life, you are not ready for marriage. Marriage is about solving problems, not once in a while but every time. If you are always overwhelmed by little tasks or you get angry at little things, marriage is not for you yet. In a nutshell, I will say that you must be manifesting the fruits of the spirit before you get into marriage because you will need it. Emotional maturity is a must.",
+                },
+
+                "footerTitle": 'MEDITATION',
+
+                "footerText": "If you can't handle complex situations in your everyday life, you are not ready for marriage.",
+
+                // "footerTitleTwo": 'QUOTES',
+
+                // "footerTextTwo": "No matter how far or fast you go in the wrong direction, you will never get to your desired destination.",
+
+                "bibleReadingPlanTitle": '1-YEAR BIBLE READING PLAN',
+
+                "bibleReadingPlanText": "JUDGES 6-7; LUKE 8: 1-21",
             },
         ]
 
