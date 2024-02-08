@@ -31,7 +31,7 @@
             
             <div class=" col-md-4 bg-accent-gradient shadow rounded-3 m-auto text-black">
               <div class=" p-3 text-center ">
-                <p class="h2 fw-bold"> PROJECTS</p>
+                <p class="h2 fw-bold"> PROJECTS ACCOUNT</p>
               </div>
               <div class="card-body p-3">
 
@@ -42,7 +42,7 @@
             </div>
 
             <div class=" col-md-4 bg-accent shadow rounded-3 m-auto text-white">
-              <div class=" p-3 text-center ">
+              <div class=" p-3 text-center "> 
                 <p class="h1 fw-bold"> DOLLAR ACCOUNT </p>
               </div>
               <div class="card-body p-3">

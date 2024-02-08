@@ -4878,7 +4878,7 @@ export class DailyLight {
             {
                 "id": "159",
 
-                "image": "https://res.cloudinary.com/dmxfjy079/image/upload/v1705143662/DLD/ta4huorpy94dxyoswmzy.jpg",
+                "image": "https://res.cloudinary.com/dmxfjy079/image/upload/v1705143662/DLD/FEB_24/mlk8lfi0fhft7ntgb5gy.jpg",
 
                 "uniqueDate": "Feb 8th 24",
 
@@ -4915,7 +4915,7 @@ export class DailyLight {
             {
                 "id": "160",
 
-                "image": "https://res.cloudinary.com/dmxfjy079/image/upload/v1705143662/DLD/ta4huorpy94dxyoswmzy.jpg",
+                "image": "https://res.cloudinary.com/dmxfjy079/image/upload/v1705143662/DLD/FEB_24/phuxorfupwwinzjz6gct.jpg",
 
                 "uniqueDate": "Feb 9th 24",
 
@@ -4950,7 +4950,7 @@ export class DailyLight {
             {
                 "id": "161",
 
-                "image": "https://res.cloudinary.com/dmxfjy079/image/upload/v1705143662/DLD/ta4huorpy94dxyoswmzy.jpg",
+                "image": "https://res.cloudinary.com/dmxfjy079/image/upload/v1705143662/DLD/FEB_24/aj8jitgzglyt3gfjiilr.jpg",
 
                 "uniqueDate": "Feb 10th 24",
 
@@ -4985,7 +4985,7 @@ export class DailyLight {
             {
                 "id": "162",
 
-                "image": "https://res.cloudinary.com/dmxfjy079/image/upload/v1705143662/DLD/ta4huorpy94dxyoswmzy.jpg",
+                "image": "https://res.cloudinary.com/dmxfjy079/image/upload/v1705143662/DLD/FEB_24/nkqu6o4v8eacfmzrgdn9.jpg",
 
                 "uniqueDate": "Feb 11th 24",
 
@@ -5020,7 +5020,7 @@ export class DailyLight {
             {
                 "id": "163",
 
-                "image": "https://res.cloudinary.com/dmxfjy079/image/upload/v1705143662/DLD/ta4huorpy94dxyoswmzy.jpg",
+                "image": "https://res.cloudinary.com/dmxfjy079/image/upload/v1705143662/DLD/FEB_24/fnv3cuedco8xtpib58di.jpg",
 
                 "uniqueDate": "Feb 12th 24",
 
@@ -5055,7 +5055,7 @@ export class DailyLight {
             {
                 "id": "164",
 
-                "image": "https://res.cloudinary.com/dmxfjy079/image/upload/v1705143662/DLD/ta4huorpy94dxyoswmzy.jpg",
+                "image": "https://res.cloudinary.com/dmxfjy079/image/upload/v1705143662/DLD/FEB_24/warynmljn0m9pdpkurtp.jpg",
 
                 "uniqueDate": "Feb 13th 24",
 
@@ -5090,7 +5090,7 @@ export class DailyLight {
             {
                 "id": "165",
 
-                "image": "https://res.cloudinary.com/dmxfjy079/image/upload/v1705143662/DLD/ta4huorpy94dxyoswmzy.jpg",
+                "image": "https://res.cloudinary.com/dmxfjy079/image/upload/v1705143662/DLD/FEB_24/expcxsyv0hzb7cexun7l.jpg",
 
                 "uniqueDate": "Feb 14th 24",
 
@@ -5125,7 +5125,7 @@ export class DailyLight {
             {
                 "id": "166",
 
-                "image": "https://res.cloudinary.com/dmxfjy079/image/upload/v1705143662/DLD/ta4huorpy94dxyoswmzy.jpg",
+                "image": "https://res.cloudinary.com/dmxfjy079/image/upload/v1705143662/DLD/FEB_24/shs0mlpuz0pxpwayg1a0.jpg",
 
                 "uniqueDate": "Feb 15th 24",
 
@@ -5162,7 +5162,7 @@ export class DailyLight {
             {
                 "id": "167",
 
-                "image": "https://res.cloudinary.com/dmxfjy079/image/upload/v1705143662/DLD/ta4huorpy94dxyoswmzy.jpg",
+                "image": "https://res.cloudinary.com/dmxfjy079/image/upload/v1705143662/DLD/FEB_24/c5q8ljqjvftxu0ju40do.jpg",
 
                 "uniqueDate": "Feb 16th 24",
 
@@ -5197,7 +5197,7 @@ export class DailyLight {
             {
                 "id": "168",
 
-                "image": "https://res.cloudinary.com/dmxfjy079/image/upload/v1705143662/DLD/ta4huorpy94dxyoswmzy.jpg",
+                "image": "https://res.cloudinary.com/dmxfjy079/image/upload/v1705143662/DLD/FEB_24/v5r5z9fyy17wfmh5dulo.jpg",
 
                 "uniqueDate": "Feb 17th 24",
 
@@ -5232,7 +5232,7 @@ export class DailyLight {
             {
                 "id": "169",
 
-                "image": "https://res.cloudinary.com/dmxfjy079/image/upload/v1705143662/DLD/ta4huorpy94dxyoswmzy.jpg",
+                "image": "https://res.cloudinary.com/dmxfjy079/image/upload/v1705143662/DLD/FEB_24/tkxlargsgdys1hq8vn7t.jpg",
 
                 "uniqueDate": "Feb 18th 24",
 
@@ -5267,7 +5267,7 @@ export class DailyLight {
             {
                 "id": "170",
 
-                "image": "https://res.cloudinary.com/dmxfjy079/image/upload/v1705143662/DLD/ta4huorpy94dxyoswmzy.jpg",
+                "image": "https://res.cloudinary.com/dmxfjy079/image/upload/v1705143662/DLD/FEB_24/wlthkiunvtpfsip63rky.jpg",
 
                 "uniqueDate": "Feb 19th 24",
 
@@ -5304,7 +5304,7 @@ export class DailyLight {
             {
                 "id": "171",
 
-                "image": "https://res.cloudinary.com/dmxfjy079/image/upload/v1705143662/DLD/ta4huorpy94dxyoswmzy.jpg",
+                "image": "https://res.cloudinary.com/dmxfjy079/image/upload/v1705143662/DLD/FEB_24/npbze2zi7lvxqixz6o1z.jpg",
 
                 "uniqueDate": "Feb 20th 24",
 
@@ -5339,7 +5339,7 @@ export class DailyLight {
             {
                 "id": "172",
 
-                "image": "https://res.cloudinary.com/dmxfjy079/image/upload/v1705143662/DLD/ta4huorpy94dxyoswmzy.jpg",
+                "image": "https://res.cloudinary.com/dmxfjy079/image/upload/v1705143662/DLD/FEB_24/bqcwpntduidf8avlvw5f.jpg",
 
                 "uniqueDate": "Feb 21st 24",
 
@@ -5374,7 +5374,7 @@ export class DailyLight {
             {
                 "id": "173",
 
-                "image": "https://res.cloudinary.com/dmxfjy079/image/upload/v1705143662/DLD/ta4huorpy94dxyoswmzy.jpg",
+                "image": "https://res.cloudinary.com/dmxfjy079/image/upload/v1705143662/DLD/FEB_24/p0xsexwr7cdawn9tnxbo.jpg",
 
                 "uniqueDate": "Feb 22nd 24",
 
@@ -5409,7 +5409,7 @@ export class DailyLight {
             {
                 "id": "174",
 
-                "image": "https://res.cloudinary.com/dmxfjy079/image/upload/v1705143662/DLD/ta4huorpy94dxyoswmzy.jpg",
+                "image": "https://res.cloudinary.com/dmxfjy079/image/upload/v1705143662/DLD/FEB_24/ferewx00nidrqqoqg8nd.jpg",
 
                 "uniqueDate": "Feb 23rd 24",
 
@@ -5444,7 +5444,7 @@ export class DailyLight {
             {
                 "id": "175",
 
-                "image": "https://res.cloudinary.com/dmxfjy079/image/upload/v1705143662/DLD/ta4huorpy94dxyoswmzy.jpg",
+                "image": "https://res.cloudinary.com/dmxfjy079/image/upload/v1705143662/DLD/FEB_24/xovp9n8eo2wc9mdkn3cl.jpg",
 
                 "uniqueDate": "Feb 24th 24",
 
@@ -5481,7 +5481,7 @@ export class DailyLight {
             {
                 "id": "176",
 
-                "image": "https://res.cloudinary.com/dmxfjy079/image/upload/v1705143662/DLD/ta4huorpy94dxyoswmzy.jpg",
+                "image": "https://res.cloudinary.com/dmxfjy079/image/upload/v1705143662/DLD/FEB_24/kes4z4sbcqsa5thse2te.jpg",
 
                 "uniqueDate": "Feb 25th 24",
 
@@ -5516,7 +5516,7 @@ export class DailyLight {
             {
                 "id": "177",
 
-                "image": "https://res.cloudinary.com/dmxfjy079/image/upload/v1705143662/DLD/ta4huorpy94dxyoswmzy.jpg",
+                "image": "https://res.cloudinary.com/dmxfjy079/image/upload/v1705143662/DLD/FEB_24/vkmgpsxgul16sdkvz2ib.jpg",
 
                 "uniqueDate": "Feb 26th 24",
 
@@ -5551,7 +5551,7 @@ export class DailyLight {
             {
                 "id": "178",
 
-                "image": "https://res.cloudinary.com/dmxfjy079/image/upload/v1705143662/DLD/ta4huorpy94dxyoswmzy.jpg",
+                "image": "https://res.cloudinary.com/dmxfjy079/image/upload/v1705143662/DLD/FEB_24/ph38yc6j7fqswag4bley.jpg",
 
                 "uniqueDate": "Feb 27th 24",
 
@@ -5586,7 +5586,7 @@ export class DailyLight {
             {
                 "id": "179",
 
-                "image": "https://res.cloudinary.com/dmxfjy079/image/upload/v1705143662/DLD/ta4huorpy94dxyoswmzy.jpg",
+                "image": "https://res.cloudinary.com/dmxfjy079/image/upload/v1705143662/DLD/FEB_24/mle6sexg9zndw09sis5i.jpg",
 
                 "uniqueDate": "Feb 28th 24",
 
@@ -5621,7 +5621,7 @@ export class DailyLight {
             {
                 "id": "180",
 
-                "image": "https://res.cloudinary.com/dmxfjy079/image/upload/v1705143662/DLD/ta4huorpy94dxyoswmzy.jpg",
+                "image": "https://res.cloudinary.com/dmxfjy079/image/upload/v1705143662/DLD/FEB_24/v5vvupuw5guuvf0fz7hv.jpg",
 
                 "uniqueDate": "Feb 29th 24",
 
