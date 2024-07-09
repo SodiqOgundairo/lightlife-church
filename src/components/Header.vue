@@ -47,7 +47,7 @@
               </li>
             </ul>
           </div>
-          <a :href="'/files/LLC150DaysFastingAndPrayerBook.pdf'" download class="btn-theme-gradient">Download Prayer Book</a>
+          <a :href="'/files/LLC150DaysFastingAndPrayerBook.pdf'" download class="btn-theme-gradient">Download Prayer Bulletin</a>
         <!-- </div> -->
       </div>
     </nav>

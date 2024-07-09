@@ -8,7 +8,7 @@
       <div class="modal-dialog mx-auto max-w-md px-4 py-8 rounded-lg bg-white shadow-lg">
         <div class="modal-content border-0">
           <div class="modal-header border-0 flex justify-between items-center">
-            <p class="h4 modal-title accent fw-bold">150 DAYS FASTING AND PRAYER PRAYER BOOK</p>
+            <p class="h4 modal-title accent fw-bold">150 DAYS FASTING AND PRAYER BULLETIN</p>
 
             <button type="button" @click="showModal = false" class="close" aria-label="Close modal">
               <span aria-hidden="true">&times;</span>
