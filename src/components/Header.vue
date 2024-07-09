@@ -47,6 +47,7 @@
               </li>
             </ul>
           </div>
+          <a :href="'/files/LLC150DaysFastingAndPrayerBook.pdf'" download class="btn-theme-gradient">Download Prayer Book</a>
         <!-- </div> -->
       </div>
     </nav>
@@ -55,10 +56,11 @@
 
 <script>
 export default {
+
   name: "RandomFacts-vue",
 
   setup() {
-    return {};
+     return {}
   },
 };
 </script>

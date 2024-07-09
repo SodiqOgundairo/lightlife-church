@@ -13,6 +13,7 @@
       </div>
     </div>
 
+    
     <section>
       <div class="row bg-light py-5">
         <div class="col-md-10 py-5 m-auto">
@@ -23,7 +24,7 @@
               </div>
 
               <div class="col-md-6 gap-3 p-5 d-flex align-self-center px-4">
-                <div>
+           
                   
                   <div class="card-body ">
                     <p class="h1 card-title accent fw-bold">LIGHTLIFE CHURCH</p>
@@ -37,18 +38,19 @@
                     salvation, love, hope joy, purpose, peace, acceptance and
                     guidance.
                   </p>
-                </div>
-                  
-                  <router-link to="/about" class="mt-3 btn-theme-gradient"
+                  <router-link to="/about" class="m-0 btn-mg btn-theme-gradient"
                     >Read More
                   </router-link>
                 </div>
+                  
+                
               </div>
             </div>
           </div>
         </div>
       </div>
     </section>
+
   </div>
 </template>
 
