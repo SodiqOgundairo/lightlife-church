@@ -3874,6 +3874,179 @@ export class DailyLight {
 
         // "bibleReadingPlanText": "1 KINGS 1-2; LUKE 22: 54-71",
       },
+      {
+        id: "332",
+
+        image:
+          " https://res.cloudinary.com/dmxfjy079/image/upload/v1705143662/DLD/ta4huorpy94dxyoswmzy.jpg",
+
+        uniqueDate: "Sep 4th 24",
+
+        title: "IT’S URGENT PART 2",
+
+        bibleVerse: " REVELATIONS 12:9",
+
+        memoryVerse:
+          "Therefore rejoice, you heavens and you who dwell in them! But woe to the earth and the sea, because the devil has gone down to you He is filled with fury, because he knows that his time is short.",
+
+        studyBible: "LUKE 16:19-31",
+
+        texts: {
+          textOne:
+            "Why is soul-winning so urgent and important to the Trinity? God is trusting every one of us to rescue the influx of millions of souls heading to hell daily. Without your consistent preaching, sinners cannot hear the gospel and be converted. The reality and pain of hell are too much for anyone to bear. Jesus does not one any to perish (2 Peter 3:9). No matter how long anyone lived and enjoyed this earth, it’s too short compared to the pain of eternal separation from God.",
+
+          textTwo:
+            "Also, the alarming upsurge in ungodliness and sin is of great concern. More than before, this generation has experienced more idolatry and godlessness than any other generation. 2Tim 4:1-4. It is the will of God that the whole earth is filled with the knowledge of God, not the wickedness of Satan. It is only through the gospel that righteousness can fill our societies. ",
+
+          textThree:
+            "Furthermore, the Lord's second coming is at hand and we must therefore strive to save more souls before the RAPTURE takes place. The coming of the Lord is delayed because the church has become weary of soul-winning. Until the gospel is preached everywhere to every soul, the rapture can’t happen. The rapture is imminent, it can happen anytime from now, so we must intensify our soul-winning so that Jesus can meet more prepared souls at His coming. To bring many sons to glory when He comes, we must wake up and win souls. ",
+
+          // footerTitle: "MEDITATION",
+
+          // footerText:
+          //   "You must change the disposition of your heart if you must be useful to God.",
+        },
+
+        "footerTitleTwo": 'PRAYER',
+
+        "footerTextTwo": "●	Father in the name of Jesus, Pour a fresh grace of salvation upon this generation. Let souls begin to come into repentance in their millions. ●	Father in the name of Jesus. Break the power of satan and sin in this generation. Let the stronghold of Satan be destroyed ●	Father let there be fresh hunger in the hearts of men to know God and come to Jesus.",
+
+        // "bibleReadingPlanTitle": '1-YEAR BIBLE READING PLAN',
+
+        // "bibleReadingPlanText": "1 KINGS 1-2; LUKE 22: 54-71",
+      },
+      {
+        id: "333",
+
+        image:
+          " https://res.cloudinary.com/dmxfjy079/image/upload/v1705143662/DLD/ta4huorpy94dxyoswmzy.jpg",
+
+        uniqueDate: "Sep 5th 24",
+
+        title: "ARE YOU ASHAMED?",
+
+        bibleVerse: "PSALMS 40:9",
+
+        memoryVerse:
+          "I do not hide your righteousness in my heart;I speak of your faithfulness and salvation. I do not conceal your love and your truth from the great assembly.",
+
+        studyBible: "ROMANS 1:14-20",
+
+        texts: {
+          textOne:
+            "Can I ask you a question? When was the last time someone stopped you to preach to you on the road? When was the last time you heard a morning cry? When was the last time you saw a group of people preaching the gospel? These were common sights some years ago, but today it’s no longer popular. Are you ashamed to preach the gospel? Are you ashamed to invite your unbelieving friends and family to your church? Do you think telling your girl or boyfriend about eternity will make you lose your steeze and composure?",
+
+          textTwo:
+            "Ps 119:46 - 'I will speak of your statutes before kings and will not be put to shame.' I know it does not look fashionable or popular to share the gospel of Jesus with your world but sadly Jesus expects you to. Nothing is going to save their lost souls except the blood of Jesus. Don’t be ashamed to share the gospel with your friends who are richer than you, or doing better than you. Don’t be ashamed to tell your older friends, family, or even parents about the gospel. It is not respect to keep the gospel away from those who need it, it is wickedness. I know it’s difficult but there is available grace for you. Jesus is not a stigma, it’s the solution to their stigma. An unbeliever with a good job, lots of money, and great status is still in need of Jesus.",
+
+          textThree:
+            "2 Tim 1:8 - 'So do not be ashamed to testify about our Lord, or ashamed of me his prisoner. But join with me in suffering for the gospel, by the power of God.' Sharing the gospel is not about you, so don’t be shy. Ask yourself, who will go to heaven because of your selflessness, and who will go to hell because of your selfishness or shyness? Break from your shell and reach out to everyone possible. They will abuse you, mock you, snub you, and ridicule you but don’t focus on the shame, focus on the glory ahead. If you can’t suffer the shame of the gospel, you can’t share in the glory",
+
+          textFour:
+            "Mark 8:38 - 'If anyone is ashamed of me and my words in this adulterous and sinful generation, the Son of Man will be ashamed of him when he comes in his Father's glory with the holy angels.'",
+
+          // footerTitle: "MEDITATION",
+
+          // footerText:
+          //   "You must change the disposition of your heart if you must be useful to God.",
+        },
+
+        "footerTitleTwo": 'PRAYER',
+
+        "footerTextTwo": "●	Father in the name of Jesus, I receive boldness and courage to overcome the spirit of fear stopping me from winning souls. ●	Father in the name of Jesus, I overcome the shame and stigma of sharing the gospel. From today I am not ashamed of sharing the gospel. I have the spirit of power and boldness. ",
+
+        // "bibleReadingPlanTitle": '1-YEAR BIBLE READING PLAN',
+
+        // "bibleReadingPlanText": "1 KINGS 1-2; LUKE 22: 54-71",
+      },
+      {
+        id: "334",
+
+        image:
+          " https://res.cloudinary.com/dmxfjy079/image/upload/v1705143662/DLD/ta4huorpy94dxyoswmzy.jpg",
+
+        uniqueDate: "Sep 5th 24",
+
+        title: "ARE YOU ASHAMED?",
+
+        bibleVerse: "PSALMS 40:9",
+
+        memoryVerse:
+          "I do not hide your righteousness in my heart;I speak of your faithfulness and salvation. I do not conceal your love and your truth from the great assembly.",
+
+        studyBible: "ROMANS 1:14-20",
+
+        texts: {
+          textOne:
+            "Can I ask you a question? When was the last time someone stopped you to preach to you on the road? When was the last time you heard a morning cry? When was the last time you saw a group of people preaching the gospel? These were common sights some years ago, but today it’s no longer popular. Are you ashamed to preach the gospel? Are you ashamed to invite your unbelieving friends and family to your church? Do you think telling your girl or boyfriend about eternity will make you lose your steeze and composure?",
+
+          textTwo:
+            "Ps 119:46 - 'I will speak of your statutes before kings and will not be put to shame.' I know it does not look fashionable or popular to share the gospel of Jesus with your world but sadly Jesus expects you to. Nothing is going to save their lost souls except the blood of Jesus. Don’t be ashamed to share the gospel with your friends who are richer than you, or doing better than you. Don’t be ashamed to tell your older friends, family, or even parents about the gospel. It is not respect to keep the gospel away from those who need it, it is wickedness. I know it’s difficult but there is available grace for you. Jesus is not a stigma, it’s the solution to their stigma. An unbeliever with a good job, lots of money, and great status is still in need of Jesus.",
+
+          textThree:
+            "2 Tim 1:8 - 'So do not be ashamed to testify about our Lord, or ashamed of me his prisoner. But join with me in suffering for the gospel, by the power of God.' Sharing the gospel is not about you, so don’t be shy. Ask yourself, who will go to heaven because of your selflessness, and who will go to hell because of your selfishness or shyness? Break from your shell and reach out to everyone possible. They will abuse you, mock you, snub you, and ridicule you but don’t focus on the shame, focus on the glory ahead. If you can’t suffer the shame of the gospel, you can’t share in the glory",
+
+          textFour:
+            "Mark 8:38 - 'If anyone is ashamed of me and my words in this adulterous and sinful generation, the Son of Man will be ashamed of him when he comes in his Father's glory with the holy angels.'",
+
+          // footerTitle: "MEDITATION",
+
+          // footerText:
+          //   "You must change the disposition of your heart if you must be useful to God.",
+        },
+
+        "footerTitleTwo": 'PRAYER',
+
+        "footerTextTwo": "●	Father in the name of Jesus, I receive boldness and courage to overcome the spirit of fear stopping me from winning souls. ●	Father in the name of Jesus, I overcome the shame and stigma of sharing the gospel. From today I am not ashamed of sharing the gospel. I have the spirit of power and boldness. ",
+
+        // "bibleReadingPlanTitle": '1-YEAR BIBLE READING PLAN',
+
+        // "bibleReadingPlanText": "1 KINGS 1-2; LUKE 22: 54-71",
+      },
+      {
+        id: "335",
+
+        image:
+          " https://res.cloudinary.com/dmxfjy079/image/upload/v1705143662/DLD/ta4huorpy94dxyoswmzy.jpg",
+
+        uniqueDate: "Sep 6th 24",
+
+        title: "INTERCEDING FOR SOULS TO BE SAVED",
+
+        bibleVerse: "JOHN 12:40",
+
+        memoryVerse:
+          "He has blinded their eyes and deadened their hearts, so they can neither see with their eyes, nor understand with their hearts, nor turn — and I would heal them.",
+
+        studyBible: "2 CORINTHIANS 4:3-10",
+
+        texts: {
+          textOne:
+            "A lot of believers today take their salvation for granted because they do not know its worth. This is the same reason we are not winning souls. The salvation of one soul is worth more than 100 trillion dollars. Also, believers think it’s natural and alright not to have salvation. It’s the power of Satan that prevents people from not receiving the gospel. Unbelievers are under the stronghold of darkness and Satan will do everything to keep them in there. This is why people make a mockery of the gospel. This is why people don’t take you seriously when you share the gospel with them. ",
+
+          textTwo:
+            "Please don’t blame them, they are under a powerful spell that has caused blindness upon their faces. it’s not the argument that will break that power, it is prayer. It takes serious intercession to remove the veil upon sinners. Soul winning must be done riding on the power of heartfelt prayer. It is our responsibility to pray for lost souls. If you don’t pray, the Holy Spirit is incapable to convicting their sins. it’s a sin of omission if as a believer you do not constantly intercede for souls to be saved. Failure to pray for the salvation of souls is a sin. Don’t just complain that the world is getting corrupt, your friends are sinning. Are you standing in the gap?",
+
+          textThree:
+            "1 Sam 12:23-24 'As for me, far be it from me that I should sin against the Lord by failing to pray for you. And I will teach you the way that is good and right.",
+
+          textFour:
+            "Rescuing a soul from sin is like rescuing a lamb from the lion. An unbeliever has been made to think that the gospel is all a lie and a scam. They think churches and pastors are scams. They believe that after death it is nothing. They are oblivion of the judgment that awaits them and Satan is responsible for this indoctrination. It will take serious prayer to break his hold. Don’t stop praying for your sons, daughters, cousins, parents, and friends who are presently lost. No matter how long keep interceding for the salvation of their soul. Don’t let Satan weary you. It takes a gospel powered by prayer to save a soul. after winning a soul, don’t stop praying, pray that they are established and that they grow. ",
+
+          // footerTitle: "MEDITATION",
+
+          // footerText:
+          //   "You must change the disposition of your heart if you must be useful to God.",
+        },
+
+        "footerTitleTwo": 'PRAYER',
+
+        "footerTextTwo": "●	Father in the name of Jesus, Pour a fresh grace of salvation upon this generation. Let souls begin to come into repentance in their millions. ●	Father in the name of Jesus, break the power of satan and sin in this generation. Let the stronghold of Satan be destroyed. ●	Gather in the name of Jesus, We command the light of Christ to shine upon everyone blinded by the devil. ●	father in the name of Jesus, we declare that the truth of the gospel begins to set the sinner free from the lies of the devil.●	Pray for your family and friends who are yet to come into the gospel. ",
+
+        // "bibleReadingPlanTitle": '1-YEAR BIBLE READING PLAN',
+
+        // "bibleReadingPlanText": "1 KINGS 1-2; LUKE 22: 54-71",
+      },
     ];
 
   // DEFAULT DLD IMAGE
