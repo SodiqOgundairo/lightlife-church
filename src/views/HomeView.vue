@@ -7,7 +7,7 @@
     <div v-if="showModal" class="modal fixed inset-0 z-50 overflow-auto bg-gray-800 bg-opacity-75 transition-all duration-300 ease-in-out">
       <div class="modal-dialog mx-auto max-w-md px-4 py-8 rounded-lg bg-white shadow-lg">
         <div class="modal-content border-0">
-          <div class="modal-header border-0 flex justify-between items-center">
+          <div class=" modal-header border-0 flex justify-between items-center">
             <p class="h4 modal-title accent fw-bold">150 DAYS FASTING AND PRAYER BULLETIN</p>
 
             <button type="button" @click="showModal = false" class="close" aria-label="Close modal">
@@ -44,7 +44,8 @@ export default {
 
   mounted() {
     setTimeout(() => {
-      this.showModal = true;
+      this.showModal = false; //uncomment below to make modal active again
+      // this.showModal = true;
     }, 500); // 5 seconds delay
   },
 
