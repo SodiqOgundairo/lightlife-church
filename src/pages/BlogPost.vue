@@ -89,7 +89,7 @@
             <p class="" v-if="dld.texts.textFive">
               {{dld.texts.textFive}}
             </p>
-          </div>
+          </div> 
         </section>
         <div class="card-footer text-muted">
           <p class="fw-bold text-black" v-if="dld.footerTitle"> {{dld.footerTitle}} </p>

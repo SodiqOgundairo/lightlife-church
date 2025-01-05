@@ -35,11 +35,11 @@ export class DailyLight {
           textFive:
             "Lastly, prayer is the cornerstone of our relationship with God. Prayer keeps us aligned with His will, strengthens us in our weaknesses, and invites His power into every area of our lives. In 2025, let prayer be your daily rhythm, your breath, and your foundation. (Philippians 4:6-7). Prayer isn’t just about asking; it’s about listening, connecting, and aligning our hearts with God’s purposes.",
 
+          },
           footerTitle: "A Prayer for the New Year",
 
           footerText:
             "Heavenly Father, as we step into this new year, we thank You for Your unfailing love and faithfulness. We ask for Your grace and strength to help us stay focused on You, to be resilient in the face of challenges, to work diligently in all that we do, to live with purity, to stay rooted in prayer and be victorious in all battles of life. May this year be one of spiritual growth, unwavering faith, and deep connection with You. We trust that You are with us every step of the way, guiding us into the future You have prepared for us. In Jesus' name, Amen.",
-        },
 
         "footerTitleTwo": 'HAPPY NEW YEAR',
 
@@ -79,11 +79,11 @@ export class DailyLight {
           textFour:
             "A man that is born of God is a victor. Christ won the victory and gave you the victory medal. You have overcome Satan, sin and the world. As you go to battles in 2024, go with this understanding. You are going to pick your victories, not to fight. Jesus won all the battles over two thousands years ago already. There’s no battle that’s too strong for you to conquer. There is no mountain that’s too high for you to climb, all because you are born of God. The Greatest and the Mightiest one lives in you.",
 
+          },
           footerTitle: "CONFESSION",
 
           footerText:
             "I am born of God, and therefore, I am a child of the Almighty, created in His image, with His divine nature within me. The same Spirit that raised Jesus from the dead lives in me, empowering me to live victoriously, to walk in love, and to reflect His glory in all I do. My life is not my own; it is a vessel for His glory, a living testimony of His grace. I am secure in His love. I am His beloved, and He is mine. Nothing can separate me from His love, and in this truth, I find my peace, my strength, and my joy.",
-        },
 
         // "footerTitleTwo": 'HAPPY NEW YEAR',
 
@@ -123,11 +123,11 @@ export class DailyLight {
           textFour:
             "At first, it was awkward. The kids were restless, and I often felt distracted. But we persisted, and slowly, we began to see changes. Our children, once indifferent to spiritual things, started asking questions about the Bible. They began to pray with more sincerity, even outside of our altar time. My husband and I found ourselves bonding over Scripture in a way we hadn’t in years. Over time, our family altar became a place not just of prayer, but of healing and growth. It became a refuge where we could bring our burdens before God and trust Him to work in the challenges we were facing. It was a space where we could laugh together, cry together, and encourage one another.”",
 
+          },
           footerTitle: "Call to Action",
 
           footerText:
             "If you have never started a family altar, or if you’ve fallen out of the habit, I encourage you today to take that first step. Start small, perhaps just ten minutes of Bible reading and prayer, or even just a few moments of gratitude together before bed. Make it a priority and a daily practice. Trust that God will honor your efforts and bless your family.",
-        },
 
         // "footerTitleTwo": 'HAPPY NEW YEAR',
 
@@ -164,11 +164,11 @@ export class DailyLight {
           textThree:
             "One of the most important roles we have as parents is to guide our children in the ways of the Lord. I remembered how my parents used to force us to attend devotion but today, I'm grateful. It’s an intentional way to teach our children about God’s Word and help them form a personal relationship with Him. The atmosphere in our home is shaped by what we prioritize. When we invite God into our family altar, we invite peace, joy, and guidance. No matter the chaos in our lives, God’s presence can calm our hearts and bring clarity in the midst of confusion",
 
+          },
           footerTitle: "PRAYER",
 
           footerText:
             "Lord, help us to prioritize You above everything else in our homes. May our family altar be a place where we encounter Your presence, grow in Your Word, and experience transformation. Draw our hearts closer to You and to one another, In Jesus’ name, Amen.",
-        },
 
         // "footerTitleTwo": 'HAPPY NEW YEAR',
 
@@ -205,11 +205,11 @@ export class DailyLight {
           textThree:
             "Suicide is on the increase in the world because people lose hope. This is more reason you should share the gospel of Hope with the world. Unlike worldly hope, biblical hope is not based on your effort or desires, it is received. The God of hope pours hope into you through the Holy Spirit. Hope is not just some words to deceive you into believing what does not exist. No, the Greek word for hope is elpo which means ‘the expectations of what is certain” The scriptures call God, “God of hope.” Hope is birth through the word of God which of course is certain. Whatever you are going through now, there is a hope for it. Don’t lose it. ",
 
+          },
           footerTitle: "CONFESSION",
 
           footerText:
             "I declare today that I will never lose hope in God. No matter the challenges, the setbacks, or the uncertainties that life may bring, my hope remains firmly anchored in Him, the Creator of the heavens and the earth. I choose to hold on to hope, even when the road is difficult and the journey is long. My hope is not in what I see, but in the faithfulness of the One who holds my future. I trust that He will never leave me nor forsake me. I will rise from every setback, knowing that He has greater things in store for me.I refuse to lose hope in God, for He is the God of restoration. What was lost, He can restore. What was broken, He can heal. His power is limitless, and His love is all-encompassing. I will wait on Him with expectancy, knowing that He will bring beauty from the ashes and turn my mourning into joy.",
-        },
 
         // "footerTitleTwo": 'HAPPY NEW YEAR',
 
@@ -246,11 +246,11 @@ export class DailyLight {
           textThree:
             "The root problem of many believers is that they want to execute God’s purpose with their own plans. No! You’ve got to find out how He plans to execute His purpose. It’s your responsibility to find out the plans of God for you this year. He is committed to His own plan, not yours. (Ps 33:11 But the plans of the Lord stand firm forever, the purposes of his heart through all generations). There is a strategy for your vision. Don’t just copy your friend's plan. What works for him may not work for you. Pay the price, tarry in His presence so that you can carry His plans for you. When it is God’s plan, it cannot fail. Don’t attempt to execute a divine mandate with a natural strategy. A masterpiece vision requires a master plan execution.",
 
+          },
           footerTitle: "CONFESSION",
 
           footerText:
             "Father, thank you for your purpose and plans for my life. Today, I download your blueprint for my life. I come to the comprehension of your strategy and divine agenda for my life. I know what to do to get to where you’ve destined for me. I’m not ignorant and I'm not confused.",
-        },
 
         // "footerTitleTwo": 'HAPPY NEW YEAR',
 
@@ -287,11 +287,11 @@ export class DailyLight {
           textThree:
             "God leads us through the Holy Spirit, indicating that your spiritual senses must be mature enough to know His leadings. An average believer is being led by their senses and emotions. Who led you into that relationship or marriage, God or emotions? Who led you into that business or career, God or your intelligence? Who led you into that ministry, God or your belly? Until you make a U-turn, God can’t lead you. David acknowledged how God led him and where God led him to. God led him into green pastures, beside the still water, and on the path of righteousness. The moment David tried to lead himself, he found himself walking the valley of the shadow of death. That wasn’t God leading him. However, God did not forsake him. His hand can only protect where He leads.",
 
+          },
           footerTitle: "CONFESSION",
 
           footerText:
             "Father, thank you for the blessing of divine leading. I declare that I am led by the Spirit. I do not follow my emotions, intelligence, or society. I submit to the Leadership of the Spirit in all my ways. I receive wisdom for direction. ",
-        },
 
         // "footerTitleTwo": 'HAPPY NEW YEAR',
 
@@ -328,11 +328,11 @@ export class DailyLight {
           textThree:
             "A good example of someone that God led into provision was prophet Elijah. After Elijah declares no rain, which means there will be famine in the Land, God leads him to Brook-Cherith. And there, the Lord sent provision of food to him daily. God led again to a widow in Zarephath who will make provision for his needs again. Elijah was feeding fat while others were dying in famine because he was led by God. God knows where your provisions lie and if you allow him to lead, you will never lack. David says “The Lord is my shepherd, I shall not want” As long as God is leading you, your green pasture is guaranteed. Trust his voice to lead you to your promised land. Wherever His voice leads, His hands always provide.",
 
+          },
           footerTitle: "CONFESSION",
 
           footerText:
             "Read Psalms 23",
-        },
 
         // "footerTitleTwo": 'HAPPY NEW YEAR',
 
@@ -369,11 +369,11 @@ export class DailyLight {
           textThree:
             "Divine direction is the key to victorious living in life. Many of us go into battles we are not supposed to go into. When Herod was looking for Jesus, God didn’t send an angel to kill Herod, He simply instructed Joseph to flee with the baby. When God leads you He either fights for you or with you. But when you lead yourself, you will have to fight alone. Start enjoying cheap victory through God’s leading.",
 
+          },
           footerTitle: "CONFESSION",
 
           footerText:
             "I declare that I enjoy consistent victory in all battles of life. I enjoy God’s leading as I engage in both known and unknown battles in life. I engage in the right strategies for the right battles. Henceforth, I know no defeat in Jesus' name.",
-        },
 
         // "footerTitleTwo": 'HAPPY NEW YEAR',
 
@@ -410,11 +410,11 @@ export class DailyLight {
           textThree:
             "A lot of people have made a doctrine out of personal consecration. This is the wrong thing to do. Specific consecration most time is personal to a person or a people. They are God’s personal dealing with your heart. For instance, God can tell you not to wear earrings, not to wear trousers, not to eat a particular food, or maybe to leave your beard uncut. Imposing this on everyone is not right. However, the point is that you must identify the particular instruction that is your own consecration. It may be to wake up and pray at a particular time or fast on certain days. Your consecration is what protects your grace and life. Keep it for it is your life.",
 
+          },
           footerTitle: "PRAYER",
 
           footerText:
             "Father open my understanding to my consecration and give me the grace to keep it in Jesus name.",
-        },
 
         // "footerTitleTwo": 'HAPPY NEW YEAR',
 
@@ -451,11 +451,11 @@ export class DailyLight {
           textThree:
             "The widow in 2 Kings chapter 4 followed the instruction of the prophet and she got her miracles. The Bible says only fools despise instruction (Prov 1:7). According to Proverbs 18:13, many people are in poverty because they hate instruction. Sometimes, believers despise the instruction of the Lord because it doesn’t make sense. Sometimes, it may seem that there is no connection between your problem and the instruction God is giving you. However, don’t be so wise to ignore it, rather be foolish enough to follow it. God instructed Elijah to go to a poor suicidal widow to be fed. He obeyed and it all ended in wonders. Learn how to hear and follow instructions, and you will live long and be successful.",
 
+          },
           footerTitle: "PRAYER",
 
           footerText:
             "Father, in the name of Jesus, open my ears to your instructions. Give me the grace to follow and obey your instructions. I receive daily instructions for my marriage, career, business, and ministry. Amen.",
-        },
 
         // "footerTitleTwo": 'HAPPY NEW YEAR',
 
@@ -492,11 +492,11 @@ export class DailyLight {
           textThree:
             "A man or woman of generational impact is very bad at the blame game. They take responsibility and contribute their best. They are committed to the consistent growth and development of the people around them. Are you committed to the growth of your community or nation no matter how small? Are you ready to pay the price of breaking free from the culture of mediocrity into excellence? Only excellence has the power to make a transgenerational impact. You can start in small ways by thinking about others before yourself and teaching others the little you know. Encouraging others to be a better version of themselves. With consistent growth and a compelling vision, the song of your impact will be sung for generations to come.",
 
+          },
           footerTitle: "CONFESSION",
 
           footerText:
             "I’m a generational impact maker. I cause transformations beyond the borders of my Nation and generation. I become an agent of change. I am a voice and image of hope and excellence to my prosperity. I go beyond and above as a positive symbol of greatness and possibilities.",
-        },
 
         // "footerTitleTwo": 'HAPPY NEW YEAR',
 
@@ -533,11 +533,11 @@ export class DailyLight {
           textThree:
             "Many of us are like this son. A lot of believers care more about their reputation than their character. They care more about what people say about them than what God says about them. Your reputation is who people think you are but your character is who you are. Many believers today are seemingly holy on the outside but are dying inside because of secret sin. Confession of sin is no more a practice among Christians because everybody wants to be seen as fine. Meanwhile, your so-called holiness is hypocrisy. A lot of believers struggling with different sins are getting buried in these sins because they kept it a secret. The power of sin is secrecy. However, there is no secret before God. Even the ones you commit in your heart are known to God. This is why James encouraged us to confess our sins to one another. Sometimes, confession is all you need to break the power of that sin.",
 
+          },
           footerTitle: "MEDITATION",
 
           footerText:
             "Go ahead and deliver yourself from secret strongholds by sharing that burden of sin with a trusted believer or pastor",
-        },
 
         // "footerTitleTwo": 'HAPPY NEW YEAR',
 
@@ -574,11 +574,11 @@ export class DailyLight {
           textThree:
             "Becoming significant in life requires inspiring others consistently. Note that to be successful isn't the same as being significant. This is more than success. Your significance is measured by how much you have contributed to people's lives, your society, and the world at large. Prophet Samuel, Elijah, King David, Paul, and the rest of the great people are significant not because of what they did for themselves but what they did for God and humanity. The journey of significance is often traveled on the road of sacrifice and meaningful contribution. To be significant you must do something significant.",
 
+          },
           footerTitle: "CONFESSION",
 
           footerText:
             "I stand out with Christ. I do not roam in confusion and mediocrity. I am made for significance. I’m empowered by Christ to positively inspire the nations of the world. I will not leave this earth a nonentity. I become a force to reckon with.",
-        },
 
         // "footerTitleTwo": 'HAPPY NEW YEAR',
 
@@ -615,11 +615,11 @@ export class DailyLight {
           textThree:
             "Our memory verse affirmed that it is foolish not to know the will of God for your life. Understanding His will simply means knowing his plan and purpose for your life. Understanding what He wants for you and what He doesn't. There are things you might think are good for you but are not part of His will for you. That lady might be beautiful but is she the will of God for you? The job might have great pay but is it the will of God for you? A mature believer knows that because it is good doesn't mean that God is in it. Whatever is not part of God’s will for you is a waste of your time and much more, it is disobedience",
 
+          },
           footerTitle: "CONFESSION",
 
           footerText:
             "I grow in the things of the Spirit. My spiritual senses have matured. I know what the will of God is for my life, ministry, business, family, and education. I’m not ignorant of His will on earth. I walk in His will and I obey His will.",
-        },
 
         // "footerTitleTwo": 'HAPPY NEW YEAR',
 
@@ -656,11 +656,11 @@ export class DailyLight {
           textThree:
             "The will of God has been plainly declared in Christ Jesus. You are not ignorant of what the will of God is. (Acts 22:14 Then he said, 'The God of our fathers has chosen you that you should know His will, and see the Just One, and hear the voice of His mouth.) The moment you surrender your life to Jesus, the Spirit of Christ in you clearly reveals what His will is to you. The Holy Spirit is the one that declares the will of God to you here on earth. This is why you must cultivate an intimate fellowship with the person of the Spirit.  However, are you ready to submit to His will? The true sign of brokenness as a believer is the ability to submit your will to God's will. Jesus demonstrated this and laid an example for us to follow.  Following God's will may not be comfortable but it is profitable. it may be hard but it's useful.",
 
+          },
           footerTitle: "PRAYER",
 
           footerText:
             "LORD let your will be done in my entire life. Help me to always submit my will to yours especially when it’s difficult to do.",
-        },
 
         // "footerTitleTwo": 'HAPPY NEW YEAR',
 
@@ -697,11 +697,11 @@ export class DailyLight {
           textThree:
             "Also, there is the specific or revealed will of God. The bible may not tell you what course to study in the university, the name of your spouse, where to live, or what career to take. He reveals this to you by revelation either through vision, dream, audible voice, inner voice, or in some way through the word. To know some specific direction for your life, God must speak to you in specific terms. However, the revealed will doesn't contradict the written will of God. Rather they support and complement each other. Ensure that you daily understand what God wants from you and do them.",
 
+          },
           footerTitle: "CONFESSION",
 
           footerText:
             "I receive the power to know and follow your will for my life. My eyes and ears are opened to receive the revealed will of God for my marriage, business, academics, career, and life.",
-        },
 
         // "footerTitleTwo": 'HAPPY NEW YEAR',
 
@@ -738,11 +738,11 @@ export class DailyLight {
           textThree:
             "Don’t spend your time worrying about what God is working on. Rather engage the weapon of prayer and thanksgiving to send your fears away. Don’t allow sorrow in your heart, rather let gratitude rule your mind. Trust in God because He is committed to His word. God’s word comes with assurance. God’s promise is as good as your miracle. His word is the receipt for what you hope for. Once He said it, it’s as good as it in your hand. Lastly, walk in faith. The reason many believers are ruled by fear is because they walk with their senses instead of faith. Seeing everything through the lens of faith destroys the stronghold of fear.",
 
+          },
           footerTitle: "CONFESSION",
 
           footerText:
             "I walk by faith and not by sight. I am not ruled by my senses nor by the situations and circumstances. I walk according to the dictate of the word. I remain immovable in faith.  I break free from every stronghold of fear because I have the Spirit of sound mind.",
-        },
 
         // "footerTitleTwo": 'HAPPY NEW YEAR',
 
@@ -782,11 +782,11 @@ export class DailyLight {
           textFour:
             "We err in life because we err in our minds. You will misbehave if you do not teach your mind to meditate on things that are noble and are of good report. When your mind is full of positive things, your life begins to produce positive results and vice versa. When you focus your mind on thinking good, positive, pure, noble, and righteous thoughts, your actions begin to align with them and your life begins to move in that direction. Don’t be ignorant to think that your thoughts do not matter. Your thoughts indeed shape your life. When you think about the things above, your life begins to experience upward movement. Take charge of your mind, sanction everything that passes through your mind. Don’t allow evil thoughts to take residence in your mind.",
 
+          },
           footerTitle: "PRAYER",
 
           footerText:
             "I cast out every evil, wicked, canal, and unholy thought dominating my mind. My thoughts are continually good, pure, holy, lovely, noble, and of good report.",
-        },
 
         // "footerTitleTwo": 'HAPPY NEW YEAR',
 
@@ -826,11 +826,11 @@ export class DailyLight {
           textFour:
             "Don't allow the voice of your weaknesses to talk you out of pursuing your purpose. Always remember that it is not what you lack that stops you but what you have and don't know how to use. Whatever you lack, you don't need, and all you need is all you already have.",
 
+          },
           footerTitle: "CONFESSION",
 
           footerText:
             "I walk in my purpose. I live fully and deploy all that God has placed in me. I live a meaningful and impactful life.",
-        },
 
         // "footerTitleTwo": 'HAPPY NEW YEAR',
 
@@ -867,11 +867,11 @@ export class DailyLight {
           textThree:
             "Your purpose on earth has a deadline. You are here on earth within a limited time, therefore, you do not have forever to pursue and fulfil your purpose here on earth. This is why it's important to discover your purpose on time and pursue it. People who discover their purpose early in life will definitely do more than people who discover it late. The dreams you refuse to pursue when you are young will become a nightmare when you are old. You will not always have the strength, power, relationships, resources, and time you have when you are young. Therefore, your young years are the best time to pursue your purpose. Find it and give yourself to it.",
 
+          },
           footerTitle: "MEDITATION",
 
           footerText:
             "The dreams you refuse to pursue when you are young will become a nightmare when you are old.",
-        },
 
         // "footerTitleTwo": 'HAPPY NEW YEAR',
 
@@ -908,11 +908,11 @@ export class DailyLight {
           textThree:
             "Our God is the God of hope according to our memory verse. In Him, your hope cannot be dashed. Prov 23:18  For surely there is an end; and thine expectation shall not be cut off. God is committed to fulfilling your expectations. In Christ, there is an assurance that your future is secured. No matter the crisis, never lose your hope. You are closer to your miracles than you think. Suicide is evidence of a lost hope. I pray that is not your portion in Jesus name. According to God’s track record, He has never started a project that He won’t finish and you are definitely not going to be the first. Stay in thanksgiving and joy unspeakable knowing that God will definitely show up.",
 
+          },
           footerTitle: "MEDITATE",
 
           footerText:
             "'Being confident of this, that He who began a good work in you will carry it on to completion until the day of Christ Jesus.' — Philippians 1:6",
-        },
 
         // "footerTitleTwo": 'HAPPY NEW YEAR',
 
@@ -949,11 +949,11 @@ export class DailyLight {
           textThree:
             "The secret of Apostle Paul’s exploit is praying in tongues. According to him, he speaks in tongues more than every other person (1 Cor 14:18) and that is why he had many unusual insights and revelations, and wrote more books than any other author in the bible. Praying in tongues always gives you a strange insight into life. It impacts the spirit of wisdom and understanding in your life. You are always in touch with God directly when you engage in praying in tongues. When you pray in tongues, you pray according to the will of God. So you can never pray amiss. When you are not yet baptized but you are a believer, it is your right. All you need to do is to thirst and ask for it, and you shall be filled.",
 
+          },
           footerTitle: "ACTION POINT",
 
           footerText:
             "Pray always in the Spirit, then pray also in understanding.",
-        },
 
         // "footerTitleTwo": 'HAPPY NEW YEAR',
 
@@ -990,11 +990,11 @@ export class DailyLight {
           textThree:
             "Fortunately, there is nothing you give up to follow Christ that you won’t gain back in a hundredfold. God is not a wicked God. He is not against your siblings, your house, or your possessions. But whatever you are not willing to give up to gain Christ has already become your God. I believe God wants you to have everything but not to the detriment of losing him. So, you must be willing to leave all and follow Him if you must gain all. When you eventually lay hold on Christ, you have laid hold of all things for the scriptures say “All things are yours” (1 Cor 3:21). You will never regret leaving all to follow Christ. Nothing must be too big or important to sacrifice to follow your master.",
 
+          },
           footerTitle: "PRAYER",
 
           footerText:
             "I receive the grace to leave all and follow Jesus without looking back.",
-        },
 
         // "footerTitleTwo": 'HAPPY NEW YEAR',
 
@@ -1031,11 +1031,11 @@ export class DailyLight {
           textThree:
             "All that this fisherman needed was a bigger frying pan, not a smaller fish. You need to make more room for God to pour His limitless blessings. God always wants to give you more, but how much can you take? For the woman in 2 Kings chapter four, the oil stopped immediately there were no more empty barrels to contain more oil. For Abraham in Genesis chapter thirteen, God is willing to give him as far as he can see.  Your blessings will keep flowing as long as you make more room to accommodate them. They stop when there is no more room to prevent wastage. In this season, increase your faith, acquire more knowledge, learn more skills, expand your network, and upgrade your thinking to maximize what God is bringing your way in 2024.",
 
+          },
           footerTitle: "CONFESSION",
 
           footerText:
             "I upgrade my mind, I make room for more. I enlarge my capacity for more. I heighten my vision for more. I will no longer limit God in my mind. I receive with grace all that God is giving me.",
-        },
 
         // "footerTitleTwo": 'HAPPY NEW YEAR',
 
@@ -1072,11 +1072,11 @@ export class DailyLight {
           textThree:
             "The beautiful thing about mercy is that you can position yourself for it. The best way to receive God’s mercy is by showing mercy to others. Matt 5:7 Blessed are the merciful: for they shall obtain mercy. When you practice the rule of mercy, you will always obtain mercy from God. It’s not enough to pray for mercy, you must be compassionate to those who don’t deserve it. Bless those who can’t pay you back. Be kind to people you are better than. This will qualify you for God’s mercy.",
 
+          },
           footerTitle: "PRAYER",
 
           footerText:
             "God gives me the grace to show mercy to others.",
-        },
 
         // "footerTitleTwo": 'HAPPY NEW YEAR',
 
@@ -1116,11 +1116,11 @@ export class DailyLight {
           textFour:
             "The love of God in you makes it very easy to forgive others. When you allow this kind of love to penetrate and operate freely in your heart, you will find it easy to forgive people. Make a decision today to release everyone you are yet to forgive and live a life of freedom.",
 
+          },
           footerTitle: "CONFESSION",
 
           footerText:
             "I am a forgiver. The love of God abides in me, the love of God in me prohibits me from unforgiveness. I release and forgive easily. Offense will not occur through me.",
-        },
 
         // "footerTitleTwo": 'HAPPY NEW YEAR',
 
@@ -1157,11 +1157,11 @@ export class DailyLight {
           textThree:
             "The strategy of the enemy is to make you think Jesus has forsaken you, but here is the word of assurance. He is with you right now, right there as you read this devotional. The presence of adversity does not equate to the absence of Christ. Even in that storm, He is there with you and will give you victory. He yearns to fellowship and help you. All you need to do is ask Him. Ask Him to step into that situation and like magic, you will see Him appear and turn your situation around. Are you in distress, do you feel alone or lonely in the midst of a crowd, Jesus is a call away, just make the call.",
 
+          },
           footerTitle: "CONFESSION",
 
           footerText:
             "I am not alone in my journey in life. My Helper and Comforter is with me. Jesus never forsakes me. I enjoy the fellowship of the Holy Spirit. I am never alone. ",
-        },
 
         // "footerTitleTwo": 'HAPPY NEW YEAR',
 
@@ -1198,11 +1198,11 @@ export class DailyLight {
           textThree:
             "The strategy of the enemy is to make you think Jesus has forsaken you but here is the word of assurance for you. He is with you right now, right there as you read this devotional. The presence of adversity does not equate to the absence of Christ. Even in that storm, He is there with you and will give you victory. He yearns to fellowship and help you. All you need to do is ask Him to come. Ask Him to step into that situation and like magic, you will see Him appear and turn your situation around. Are you in distress, do you feel alone or lonely in the midst of a crowd, Jesus is a call away, just make the call. Maybe you feel alone in your marriage, at work, or in ministry, He is right there with you. Even when He is silent, He’s there. You are never alone.",
 
+          },
           footerTitle: "CONFESSION",
 
           footerText:
             "I am not alone in my journey in life. My Helper and Comforter is with me. Jesus never forsakes me. I enjoy the fellowship of the Holy Spirit. I am never alone. ",
-        },
 
         // "footerTitleTwo": 'HAPPY NEW YEAR',
 
@@ -1239,11 +1239,11 @@ export class DailyLight {
           textThree:
             "God is calling you into the glorious riches of His power. He is calling you into unprecedented glory and wealth such as you have never seen. He is calling you to be co-heirs with Christ. The hope of His calling is for you to sit with Him on the throne of Dominion far above all powers and principalities. He is calling you into the endless life of God. He is calling you into the greatest and highest reign. He never calls into poverty, lack, slavery, or mediocrity. Your eyes must be enlightened by the word of God so that you may know the hope of His calling for your life. But if He is calling, answer today by faith because you will never regret it.",
 
+          },
           footerTitle: "DECLARATION",
 
           footerText:
             "I declare that my eyes are enlightened to know the hope of His calling for my life. I constantly yield to His call. I am filled with the knowledge of His call on my life. I experience the full manifestation of His calling in my life. Amen. ",
-        },
 
         // "footerTitleTwo": 'HAPPY NEW YEAR',
 
@@ -1280,11 +1280,11 @@ export class DailyLight {
           textThree:
             "The longer we accept condemnation in our hearts, the easier we slip into sin, frustration, depression, isolation, and eventually death. There is no justification for self-condemnation. Condemning yourself does not take the error or mistake away nor does it make you feel any better. If Jesus who died for you did not condemn you, who are you to condemn yourself? You have no right to condemn yourself because Christ already justified you. All you need to do is to accept that justification and be conscious of who you are in Christ. Even when you take the wrong step, immediately rise and change your direction. You are already justified!",
 
+          },
           footerTitle: "MEDITATION",
 
           footerText:
             "Constantly assure your heart through the scripture on the finished work of Christ.",
-        },
 
         // "footerTitleTwo": 'HAPPY NEW YEAR',
 
