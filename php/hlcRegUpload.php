@@ -1,4 +1,10 @@
 <?php
+
+// Enable error reporting
+ini_set('display_errors', 1);
+ini_set('display_startup_errors', 1);
+error_reporting(E_ALL);
+
 // Database configuration
 $servername = "lightlifechurch.com"; // Change this to your database server
 $username = "lightlif_lightlif"; // Change this to your database username
@@ -14,36 +20,36 @@ if ($conn->connect_error) {
 }
 
 // Check if hlc_registrations table exists
-$sql = "SHOW TABLES LIKE 'hlc_registrations'";
-$result = $conn->query($sql);
+// $sql = "SHOW TABLES LIKE 'hlc_registrations'";
+// $result = $conn->query($sql);
 
-if ($result->num_rows == 0) {
-    // Create hlc_registrations table
-    $createTableSql = "CREATE TABLE hlc_registrations (
-        id INT(11) UNSIGNED AUTO_INCREMENT PRIMARY KEY,
-        fullName VARCHAR(255) NOT NULL,
-        gender VARCHAR(10) NOT NULL,
-        phoneNumber VARCHAR(20) NOT NULL,
-        email VARCHAR(255) NOT NULL,
-        isMember TINYINT(1) NOT NULL,
-        otherChurch VARCHAR(255),
-        role VARCHAR(255),
-        heardFrom VARCHAR(255),
-        attendedBefore TINYINT(1) NOT NULL,
-        expectations TEXT,
-        hasSpecialNeeds TINYINT(1) NOT NULL,
-        specialNeeds TEXT,
-        isVolunteer TINYINT(1) NOT NULL,
-        volunteerCapacity TEXT,
-        accommodation TEXT
-    )";
+// if ($result->num_rows == 0) {
+//     // Create hlc_registrations table
+//     $createTableSql = "CREATE TABLE hlc_registrations (
+//         id INT(11) UNSIGNED AUTO_INCREMENT PRIMARY KEY,
+//         fullName VARCHAR(255) NOT NULL,
+//         gender VARCHAR(10) NOT NULL,
+//         phoneNumber VARCHAR(20) NOT NULL,
+//         email VARCHAR(255) NOT NULL,
+//         isMember TINYINT(1) NOT NULL,
+//         otherChurch VARCHAR(255),
+//         role VARCHAR(255),
+//         heardFrom VARCHAR(255),
+//         attendedBefore TINYINT(1) NOT NULL,
+//         expectations TEXT,
+//         hasSpecialNeeds TINYINT(1) NOT NULL,
+//         specialNeeds TEXT,
+//         isVolunteer TINYINT(1) NOT NULL,
+//         volunteerCapacity TEXT,
+//         accommodation TEXT
+//     )";
 
-    if ($conn->query($createTableSql) === TRUE) {
-        echo "Table hlc_registrations created successfully";
-    } else {
-        echo "Error creating table: " . $conn->error;
-    }
-}
+//     if ($conn->query($createTableSql) === TRUE) {
+//         echo "Table hlc_registrations created successfully";
+//     } else {
+//         echo "Error creating table: " . $conn->error;
+//     }
+// }
 
 // Prepare and bind
 $stmt = $conn->prepare("INSERT INTO hlc_registrations (fullName, gender, phoneNumber, email, isMember, otherChurch, role, heardFrom, attendedBefore, expectations, hasSpecialNeeds, specialNeeds, isVolunteer, volunteerCapacity, accommodation) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)");

@@ -43,7 +43,7 @@
             </li>
           </ul>
         </div>
-        <router-link to="/hlc-2025-registration" class="btn-theme-gradient">Register for HLC 2025</router-link>
+        <!-- <router-link to="/hlc-2025-registration" class="btn-theme-gradient">Register for HLC 2025</router-link> -->
       </div>
     </nav>   
   </header>

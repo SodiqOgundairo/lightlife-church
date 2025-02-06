@@ -220,6 +220,26 @@ export default {
       
       alert('Form submitted successfully!');
       
+      // Reset form fields after submission
+      this.form = {
+        fullName: '',
+        gender: '',
+        phoneNumber: '',
+        email: '',
+        isMember: '',
+        otherChurch: '',
+        role: '',
+        heardFrom: '',
+        attendedBefore: '',
+        expectations: '',
+        hasSpecialNeeds: '',
+        specialNeeds: '',
+        isVolunteer: '',
+        volunteerCapacity: '',
+        accommodation: ''
+      };
+
+      
       console.log(this.form);
       // You can send this data to your backend or perform any other necessary actions
     }
