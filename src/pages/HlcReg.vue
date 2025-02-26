@@ -218,8 +218,21 @@ export default {
 
       await axios.post("https://lightlifechurch.com/php/hlcRegUpload.php", formData);
       
-      alert('Form submitted successfully!');
       
+      
+      //Send email to registered users
+      // const emailData = {
+      //   fullName: this.form.fullName,
+      //   email: this.form.email,
+      //   // subject: 'Lightlife Church Registration Confirmation',
+      //   // message: `Thank you for registering for the Lightlife Church Annual Conference. Your registration details are as follows:\n\nFull Name: ${this.form.fullName}\nEmail: ${this.form.email}`
+      // }
+      // await axios.post("https://lightlifechurch.com/php/sendEmail.php", emailData)
+      
+      alert('Form submitted successfully!');
+
+      //Redirect to thank you page
+      this.$router.push('/thank-you');
       // Reset form fields after submission
       this.form = {
         fullName: '',

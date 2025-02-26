@@ -1,4 +1,5 @@
 <?php
+header('Access-Control-Allow-Origin: *');
 
 // Enable error reporting
 ini_set('display_errors', 1);

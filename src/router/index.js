@@ -19,6 +19,8 @@ const Teachings = () => import ('../pages/Teachings.vue')
 const Support = () => import ('../pages/Support.vue')
 const Programme = () => import ('../pages/Programme.vue')
 const HlcReg = () => import ('../pages/HlcReg.vue')
+const HlcRegThankYou = () => import ('../pages/HlcRegThankYou.vue')
+const HlcRegAttendance = () => import ('../pages/HlcRegAttendance.vue')
 // const BlogPage = () => import ('../pages/BlogPage.vue')
 
 // import store from '@/store'
@@ -87,8 +89,18 @@ const routes = [
 },
   {
     name: 'hlcreg',
-    path: '/hlc-2025-registration',
+    path: '/hlc-2025',
     component: HlcReg
+},
+  {
+    name: 'HlcRegThankYou',
+    path: '/thank-you',
+    component: HlcRegThankYou
+},
+  {
+    name: 'HlcRegAttendance',
+    path: '/hlc-attendance',
+    component: HlcRegAttendance
 },
 //   {
 //     name: 'blogpage',
