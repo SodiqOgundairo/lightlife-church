@@ -20,7 +20,7 @@ const Support = () => import ('../pages/Support.vue')
 const Programme = () => import ('../pages/Programme.vue')
 const HlcReg = () => import ('../pages/HlcReg.vue')
 const HlcRegThankYou = () => import ('../pages/HlcRegThankYou.vue')
-const HlcRegAttendance = () => import ('../pages/HlcRegAttendance.vue')
+// const HlcRegAttendance = () => import ('../pages/HlcRegAttendance.vue')
 // const BlogPage = () => import ('../pages/BlogPage.vue')
 
 // import store from '@/store'
@@ -97,11 +97,11 @@ const routes = [
     path: '/thank-you',
     component: HlcRegThankYou
 },
-  {
-    name: 'HlcRegAttendance',
-    path: '/hlc-attendance',
-    component: HlcRegAttendance
-},
+//   {
+//     name: 'HlcRegAttendance',
+//     path: '/hlc-attendance',
+//     component: HlcRegAttendance
+// },
 //   {
 //     name: 'blogpage',
 //     path: '/blogpage',

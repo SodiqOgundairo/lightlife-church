@@ -3093,7 +3093,7 @@ export class DailyLight {
         memoryVerse:
           "Thus says the Lord, “Cursed is the man who trusts in mankind And makes flesh his strength, And whose heart turns away from the Lord.",
 
-        studyBible: "Jeremiah 17:5",
+        studyBible: "ISAIAH 31:3",
 
         texts: {
           textOne:
@@ -3701,7 +3701,7 @@ export class DailyLight {
             "Building your spirit is not a solo journey. Fellowship with other believers is an essential part of spiritual growth (Heb 10:25). In community, we find encouragement, accountability, and mutual growth. The Bible teaches us that iron sharpens iron (Proverbs 27:17), and being part of a Christian community helps refine and strengthen our spirit. Through regular fellowship, whether in church services, small groups, or even in informal gatherings, we encourage each other to grow in Christ, share our struggles, and celebrate God’s victories. The presence of fellow believers strengthens your resolve and fuels your faith.",
 
           textFive:
-            "BFather, thank You for the gift of the Holy Spirit, who strengthens and equips us for the journey of faith. Help me to feed my spirit with Your Word, to pray without ceasing, to worship in spirit and truth, and to walk in obedience to Your will. Strengthen my inner man, that I might be a vessel of Your power and love in this world. In Jesus' name, Amen.",
+            "Father, thank You for the gift of the Holy Spirit, who strengthens and equips us for the journey of faith. Help me to feed my spirit with Your Word, to pray without ceasing, to worship in spirit and truth, and to walk in obedience to Your will. Strengthen my inner man, that I might be a vessel of Your power and love in this world. In Jesus' name, Amen.",
 
           },
           footerTitle: "REFLECTION",
@@ -3760,6 +3760,2560 @@ export class DailyLight {
         "bibleReadingPlanTitle": '1-YEAR BIBLE READING PLAN',
 
         "bibleReadingPlanText": "Judges 3-5; Luke 7:31-50",
+      },
+      {
+        id: "425",
+
+        image:
+          " https://res.cloudinary.com/dmxfjy079/image/upload/v1705143662/DLD/ta4huorpy94dxyoswmzy.jpg",
+
+        uniqueDate: "Apr 1st 25",
+
+        title: "THE DYNAMITE POWER OF PRAYER",
+
+        bibleVerse: "JEREMIAH 33:3",
+
+        memoryVerse:
+          "Call to Me, and I will answer you, and show you great and mighty things, which you do not know.",
+
+        studyBible: "JAMES 5:13-18",
+
+        texts: {
+          textOne:
+            "Prayer is one of the greatest privileges and powerful tools available to a believer. It is our direct line to God, where we can communicate with our Creator, share our hearts, seek guidance, and find comfort. Just imagine having the direct phone number of the president. But often, we underestimate the full power and potential of prayer. We might think of it only as a ritual, a list of requests, or a way to pass the time in hard situations. Yet prayer is much more than that. It is the key to unlocking heaven’s resources and tapping into God's transformative power.",
+
+          textTwo:
+            "At its core, prayer is about relationship. It’s not just a transactional activity; it’s an intimate conversation between you and God. When we pray, we draw near to the heart of the Father, who is eager to listen to us. Through prayer, we begin to understand His will, His ways, and His heart for us and others. Prayer is an invitation into a deeper relationship with the Creator of the universe. Through prayer, God reveals Himself to us, guides our steps, and opens our eyes to new truths. Prayer is where we find peace, direction, and clarity, because it’s not just about us talking to God, but about listening to Him as well.",
+
+          textThree:
+            "The power of prayer is not based on the strength of our words, but on the power of the One to whom we are praying. Jesus speaks in Mark 11:23 about the power of faith-filled prayer. When we pray with faith, we partner with God in bringing about change—whether it’s a change in our hearts, circumstances, or the world around us. Prayer moves mountains. It can shift atmospheres, heal brokenness, and open doors that seem closed. While we may not always understand how or why God answers prayers in the way He does, we can trust that He is at work, doing more than we can ask or imagine (Ephesians 3:20). The more we pray, the more we will see the incredible power of God unleashed in our lives. Prayer is not a passive activity; it is active participation in God's kingdom work.",
+
+          textFour:
+            "Prayer does more than change our circumstances; it changes us. As we spend time in God’s presence, we are transformed from the inside out. The Holy Spirit works in us, renewing our minds, refining our desires, and shaping our hearts to reflect God’s will.",
+
+          },
+          footerTitle: "PRAYER",
+
+          footerText:
+            "Father, thank You for the gift of prayer. Thank You that through prayer, we can draw near to Your heart, experience Your peace, and tap into Your limitless power. Help us to pray boldly and faithfully, trusting that You hear us and will act according to Your will. May our hearts be transformed as we seek Your presence and Your purposes. In Jesus’ name, Amen.",
+
+        // "footerTitleTwo": 'HAPPY NEW YEAR',
+
+        // "footerTextTwo": "●	Father in the name of Jesus, Pour a fresh grace of salvation upon this generation. Let souls begin to come into repentance in their millions. ●	Father in the name of Jesus, break the power of satan and sin in this generation. Let the stronghold of Satan be destroyed. ●	Gather in the name of Jesus, We command the light of Christ to shine upon everyone blinded by the devil. ●	father in the name of Jesus, we declare that the truth of the gospel begins to set the sinner free from the lies of the devil.●	Pray for your family and friends who are yet to come into the gospel. ",
+
+        "bibleReadingPlanTitle": '1-YEAR BIBLE READING PLAN',
+
+        "bibleReadingPlanText": "Judges 6-7; Luke 8:1-21",
+      },
+      {
+        id: "426",
+
+        image:
+          " https://res.cloudinary.com/dmxfjy079/image/upload/v1705143662/DLD/ta4huorpy94dxyoswmzy.jpg",
+
+        uniqueDate: "Apr 2nd 25",
+
+        title: "WHAT TO DO WHEN YOU ARE ANGRY",
+
+        bibleVerse: "ECCLESIASTES 7:9",
+
+        memoryVerse:
+          "Do not hasten in your spirit to be angry, For anger rests in the bosom of fools.",
+
+        studyBible: "EPHESIANS 4:26-27",
+
+        texts: {
+          textOne:
+            "Anger is a powerful emotion that everyone experiences. Sometimes it's a sudden flare-up over an injustice, frustration over a relationship, or anger at a situation we can’t control, the feeling can quickly overwhelm us. Anger, in and of itself, is not necessarily sinful—Jesus Himself was angry at times (see Mark 3:5, when He was angry at the hardness of people's hearts). However, how we handle anger can make all the difference. When anger is not dealt with properly, it can lead to bitterness, resentment, and even damage to our relationships and our spiritual health. The Bible doesn't tell us to suppress our anger, but it does offer guidance on how to deal with it.",
+
+          textTwo:
+            "The first step in handling anger is to acknowledge it (Ps 4:4 ESV). When we feel anger rising inside us, it’s easy to suppress it or deny it. But pretending that we’re not angry often leads to greater frustration and emotional outbursts later. Instead, God invites us to recognize our anger and bring it before Him. David gives us a picture of how to handle anger. He suggests that we take time to reflect quietly and consider the cause of our anger.  Anger, when unchecked, can easily take control of us. We may find ourselves saying things we regret or acting impulsively in the heat of the moment. The Bible warns against being “quickly provoked” (Ecclesiastes 7:9), because this kind of anger is destructive. Anger can cloud our judgment and lead us to act in ways that don’t reflect God’s character.",
+
+          textThree:
+            "The first step in handling anger is to acknowledge it (Ps 4:4 ESV). When we feel anger rising inside us, it’s easy to suppress it or deny it. But pretending that we’re not angry often leads to greater frustration and emotional outbursts later. Instead, God invites us to recognize our anger and bring it before Him. David gives us a picture of how to handle anger. He suggests that we take time to reflect quietly and consider the cause of our anger.  Anger, when unchecked, can easily take control of us. We may find ourselves saying things we regret or acting impulsively in the heat of the moment. The Bible warns against being “quickly provoked” (Ecclesiastes 7:9), because this kind of anger is destructive. Anger can cloud our judgment and lead us to act in ways that don’t reflect God’s character.",
+          },
+          footerTitle: "PRAYER",
+
+          footerText:
+            "Father, I bring my anger before You today. I confess that sometimes I let it control me, and I struggle with how to respond. Help me to acknowledge my feelings without sinning, to resolve conflict quickly, and to respond with grace and love. Teach me to forgive as You have forgiven me, and help me to trust You with my emotions. Fill me with Your peace, and let Your Spirit guide me in every situation. In Jesus’ name, Amen.",
+
+        // "footerTitleTwo": 'HAPPY NEW YEAR',
+
+        // "footerTextTwo": "●	Father in the name of Jesus, Pour a fresh grace of salvation upon this generation. Let souls begin to come into repentance in their millions. ●	Father in the name of Jesus, break the power of satan and sin in this generation. Let the stronghold of Satan be destroyed. ●	Gather in the name of Jesus, We command the light of Christ to shine upon everyone blinded by the devil. ●	father in the name of Jesus, we declare that the truth of the gospel begins to set the sinner free from the lies of the devil.●	Pray for your family and friends who are yet to come into the gospel. ",
+
+        "bibleReadingPlanTitle": '1-YEAR BIBLE READING PLAN',
+
+        "bibleReadingPlanText": "Judges 8-9; Luke 8:22-56",
+      },
+      {
+        id: "427",
+
+        image:
+          " https://res.cloudinary.com/dmxfjy079/image/upload/v1705143662/DLD/ta4huorpy94dxyoswmzy.jpg",
+
+        uniqueDate: "Apr 3rd 25",
+
+        title: "HEAVEN IS REAL",
+
+        bibleVerse: "PHILIPPIANS 3:20",
+
+        memoryVerse:
+          "But our citizenship is in heaven. And we eagerly await a Savior from there, the Lord Jesus Christ.",
+
+        studyBible: "JOHN 14:1-3",
+
+        texts: {
+          textOne:
+            "For many, the idea of heaven can seem abstract, and at times, even too distant to truly comprehend. Yet, Scripture paints a vivid picture of what awaits us—an eternal, glorious, and peaceful home where we will dwell in the presence of God. The promise of heaven is not only something we look forward to in the afterlife; it is meant to shape our lives here and now, giving us hope, purpose, and perspective in our daily struggles. However, I must say that the promise of heaven is not the ultimate goal of a believer. The believer’s ultimate goal is God Himself.",
+
+          textTwo:
+            "The Apostle Paul tells us in 1 Corinthians 2:9 that heaven is beyond anything we can imagine. Even the most beautiful, breathtaking things on earth cannot compare to the glory that awaits us. Our finite minds cannot fully comprehend the splendor of heaven. Its beauty, peace, and majesty are beyond words. Also, In Revelation 21, John attempts to describe heaven using symbols and images, golden streets, gates of pearl, and foundations adorned with precious stones. But these descriptions only scratch the surface. Heaven is not merely a beautiful place; it is the very presence of God, where we will experience His love, glory, and holiness in perfect fullness.",
+
+          textThree:
+            "The most important aspect of heaven is not its streets of gold or the absence of pain, it is the presence of Jesus. Heaven is where we will be in perfect communion with God, and the only way to enter this eternal home is through Jesus Christ. Heaven is real, and it is the  promise for every believer. It is a place where we will be in the presence of God, experiencing the fullness of joy, peace, and love. As we live our lives on earth, let the reality of heaven shape our hearts, strengthen our faith, and inspire our actions. Heaven is not a distant dream, it is a certain reality that gives us hope in the midst of life’s trials.",
+
+          textFour:
+            "Let the hope of heaven encourage you today. Whatever you are facing, whether it's pain, loss, disappointment, or frustration, remember that your true home is in heaven. You are a citizen of the kingdom of God, and the best is yet to come.",
+          },
+          footerTitle: "PRAYER",
+
+          footerText:
+            "Heavenly Father, thank You for the promise of heaven. Thank You for preparing a place for us where we will experience Your presence in fullness. Help us to live with an eternal perspective, remembering that this world is not our home. Strengthen our faith and help us to share the hope of heaven with others. Thank You for the gift of eternal life through Jesus. In His name, Amen.",
+
+        // "footerTitleTwo": 'HAPPY NEW YEAR',
+
+        // "footerTextTwo": "●	Father in the name of Jesus, Pour a fresh grace of salvation upon this generation. Let souls begin to come into repentance in their millions. ●	Father in the name of Jesus, break the power of satan and sin in this generation. Let the stronghold of Satan be destroyed. ●	Gather in the name of Jesus, We command the light of Christ to shine upon everyone blinded by the devil. ●	father in the name of Jesus, we declare that the truth of the gospel begins to set the sinner free from the lies of the devil.●	Pray for your family and friends who are yet to come into the gospel. ",
+
+        "bibleReadingPlanTitle": '1-YEAR BIBLE READING PLAN',
+
+        "bibleReadingPlanText": "Judges 10-11; Luke 9:1-36",
+      },
+      {
+        id: "428",
+
+        image:
+          " https://res.cloudinary.com/dmxfjy079/image/upload/v1705143662/DLD/ta4huorpy94dxyoswmzy.jpg",
+
+        uniqueDate: "Apr 4th 25",
+
+        title: "NURTURING GODLY RELATIONSHIP",
+
+        bibleVerse: "1 CORINTHIANS 16:14 (ESV)",
+
+        memoryVerse:
+          "Let all that you do be done in love.",
+
+        studyBible: "COLOSIANS 3:12-15",
+
+        texts: {
+          textOne:
+            "One of the greatest gifts God has given us is the blessing of relationships. Whether it's our marriage, family, friendships, or our connection with the church community, these relationships shape our lives and can be a source of joy, growth, and support. I believe that the greatest investment of God is not in land, it's in humans. However, sustaining godly relationships takes effort. It's not always easy, but it’s worth it. The Bible offers timeless wisdom on how we can nurture relationships that reflect God’s love, grace, and truth. But the process isn’t passive, it's an intentional, daily choice.",
+
+          textTwo:
+            "I’ll be honest, when I first got married, I thought our love would carry us through every challenge. But soon, I discovered that love is not just a feeling; it’s a choice. And choosing love in the midst of disagreements, stress, or hurt can be difficult. There was one season in our marriage, early on, when my wife and I struggled with communication. Small misunderstandings turned into arguments. We were so caught up in the whirlwind of life that we had no time to listen to each other, let alone understand one another’s needs.",
+
+          textThree:
+            "That’s when I remembered the verse from Ephesians 4:2: “Be completely humble and gentle; be patient, bearing with one another in love.” (NIV). That night, I prayed, asking God to help me approach my wife with patience and humility, to choose love even when I was frustrated. The foundation of any godly relationship is love. In 1 Corinthians 13, we are reminded of what love looks like. True love is selfless, patient, and forgiving. Whether it’s a spouse, a family member, or a friend, love means giving them the grace to fail, the space to grow, and the patience to see them through tough times.",
+
+          textFour:
+            "Patience is key in every relationship. People, including ourselves, make mistakes. We fail, we falter, and we sometimes get on each other’s nerves. But God calls us to be patient with one another, just as He is patient with us (In Romans 15:5). Forgiveness is also essential in sustaining godly relationships. It’s easy to hold onto offenses, but unforgiveness only builds walls between us and others. In my own life, I’ve learned that when I choose to forgive—whether in marriage, friendships, or family—I’m not excusing the wrong, but I’m choosing to release the burden of bitterness (Colossians 3:13)",
+          },
+          footerTitle: "PRAYER",
+
+          footerText:
+            "Father, we thank You for the relationships You’ve placed in our lives. Help us to love as You love, to be patient with one another, and to forgive as You have forgiven us. We know that sustaining godly relationships requires intentional effort, but with Your help, we can do it. Teach us to reflect Your love in everything we do, so that others may see You in us. In Jesus’ name, Amen.",
+
+        // "footerTitleTwo": 'HAPPY NEW YEAR',
+
+        // "footerTextTwo": "●	Father in the name of Jesus, Pour a fresh grace of salvation upon this generation. Let souls begin to come into repentance in their millions. ●	Father in the name of Jesus, break the power of satan and sin in this generation. Let the stronghold of Satan be destroyed. ●	Gather in the name of Jesus, We command the light of Christ to shine upon everyone blinded by the devil. ●	father in the name of Jesus, we declare that the truth of the gospel begins to set the sinner free from the lies of the devil.●	Pray for your family and friends who are yet to come into the gospel. ",
+
+        "bibleReadingPlanTitle": '1-YEAR BIBLE READING PLAN',
+
+        "bibleReadingPlanText": "Judges 12-14; Luke 9:37-62",
+      },
+      {
+        id: "429",
+
+        image:
+          " https://res.cloudinary.com/dmxfjy079/image/upload/v1705143662/DLD/ta4huorpy94dxyoswmzy.jpg",
+
+        uniqueDate: "Apr 5th 25",
+
+        title: "NURTURING GODLY RELATIONSHIP (PART 2)",
+
+        bibleVerse: "1 CORINTHIANS 16:14 (ESV)",
+
+        memoryVerse:
+          "Let all that you do be done in love.",
+
+        studyBible: "1 SAMUEL 18:1-4",
+
+        texts: {
+          textOne:
+            "I had a close friend who, over the years, became more distant. We used to share everything—life, dreams, struggles. But after some misunderstandings and unmet expectations, our friendship started to fall apart. I was hurt, and so was he. I could have walked away, but I felt God prompting me to reach out after a while, to be the first to initiate reconciliation. It wasn’t easy. I was scared of rejection, and I wasn’t sure he would be open to healing our relationship.",
+
+          textTwo:
+            "I remember praying, asking God for the courage to humble myself and the wisdom to approach the situation with love, not anger. When I did reach out, I was surprised by how receptive she was. We both apologized, acknowledged our shortcomings, and worked through our pain. That reconciliation wasn’t instantaneous—it took time, effort, and the willingness to forgive each other. But I learned that sometimes, sustaining a godly relationship means doing the hard work of repairing broken trust, even when it’s uncomfortable. I discovered that Pride is the greatest enemy of relationship",
+
+          textThree:
+            "Also, communication is the lifeblood of any relationship. Set aside intentional time to talk and listen. Whether it’s a regular date night with your spouse, a weekly phone call with a friend, or a daily moment of connection with your children, keep the lines open.Praying together as a couple, family, or with close friends is a powerful way to keep God at the center of your relationships. It deepens your connection and invites God’s wisdom and peace into your interactions",
+
+          textFour:
+            "True love is sacrificial. Look for ways to serve the people in your life, whether it’s helping a friend in need, taking time to encourage your spouse, or just being there for your children. Serving others builds deeper, more resilient relationships.",
+          },
+          footerTitle: "PRAYER",
+
+          footerText:
+            "Father, we thank You for the relationships You’ve placed in our lives. Help us to love as You love, to be patient with one another, and to forgive as You have forgiven us. We know that sustaining godly relationships requires intentional effort, but with Your help, we can do it. Teach us to reflect Your love in everything we do, so that others may see You in us. In Jesus’ name, Amen.",
+
+        // "footerTitleTwo": 'HAPPY NEW YEAR',
+
+        // "footerTextTwo": "●	Father in the name of Jesus, Pour a fresh grace of salvation upon this generation. Let souls begin to come into repentance in their millions. ●	Father in the name of Jesus, break the power of satan and sin in this generation. Let the stronghold of Satan be destroyed. ●	Gather in the name of Jesus, We command the light of Christ to shine upon everyone blinded by the devil. ●	father in the name of Jesus, we declare that the truth of the gospel begins to set the sinner free from the lies of the devil.●	Pray for your family and friends who are yet to come into the gospel. ",
+
+        "bibleReadingPlanTitle": '1-YEAR BIBLE READING PLAN',
+
+        "bibleReadingPlanText": "Judges 15-17; Luke 10:1-24",
+      },
+      {
+        id: "430",
+
+        image:
+          " https://res.cloudinary.com/dmxfjy079/image/upload/v1705143662/DLD/ta4huorpy94dxyoswmzy.jpg",
+
+        uniqueDate: "Apr 6th 25",
+
+        title: "HEALING IS YOUR RIGHT",
+
+        bibleVerse: "1 PETER 2:24",
+
+        memoryVerse:
+          "He himself bore our sins 'in his body on the cross, so that we might die to sins and live for righteousness; 'by his wounds you have been healed.'",
+
+        studyBible: "MARK 6: 53-56",
+
+        texts: {
+          textOne:
+            "I recently received a call to pray for a sick person in one of the federal hospitals in the city where I reside. One of the complaints I heard is that many sick people were rejected because they had no space in the hospital. In this world of troubles, one of the most devastating experiences is the loss of one’s health. There are thousands of diseases today and hundreds are being discovered daily. While some are mild, some are life-threatening. While medical science has been able to find solutions to some, several deadly ones are yet to be medically resolved.",
+
+          textTwo:
+            "But for a child of God, it is God’s pleasure and will for us to live without sickness, so He made a provision for divine healing. As a child of God, you must know that God healed you over two thousand years ago. On the cross, Jesus secured your healing. It does not matter how long you have been sick or how serious your sickness is, God can heal you and He has healed you. Healing is children’s bread. It is your right in the kingdom. Divine healing is the supernatural healing from sickness or disease without the application of medication. It is a divine deliverance from bodily affliction.",
+
+          textThree:
+            "How do you position yourself for divine healing? First, you must have faith in the finished work of Christ. Doubt has robbed many believers of their right to healing (Matthew 13:58). Even Jesus couldn’t do many miracles because of the people’s lack of faith. Second, through the word of God (Psalms 107:20). We must confess the word of God despite our feelings. Continue to speak the word until you begin to see it work in your body. Third, by laying of hands, praying, and anointing. (James 5:14). You don’t need to bear your sickness any longer. Jesus has healed you. If you are however sick, you can call for the brethren or your pastor to pray and lay hands on you believing that you will receive your healing. I, therefore, pray for anyone going through any form of sickness, be healed in Jesus name.",
+          },
+          footerTitle: "ACTION",
+
+          footerText:
+            "If you are going through any sickness as you read this devotional, just lay your hands on the place and decree healing, I believe God with you for instant healing in Jesus name. Amen",
+
+        // "footerTitleTwo": 'HAPPY NEW YEAR',
+
+        // "footerTextTwo": "●	Father in the name of Jesus, Pour a fresh grace of salvation upon this generation. Let souls begin to come into repentance in their millions. ●	Father in the name of Jesus, break the power of satan and sin in this generation. Let the stronghold of Satan be destroyed. ●	Gather in the name of Jesus, We command the light of Christ to shine upon everyone blinded by the devil. ●	father in the name of Jesus, we declare that the truth of the gospel begins to set the sinner free from the lies of the devil.●	Pray for your family and friends who are yet to come into the gospel. ",
+
+        "bibleReadingPlanTitle": '1-YEAR BIBLE READING PLAN',
+
+        "bibleReadingPlanText": "Judges 18-19; Luke 10:25-42",
+      },
+      {
+        id: "431",
+
+        image:
+          " https://res.cloudinary.com/dmxfjy079/image/upload/v1705143662/DLD/ta4huorpy94dxyoswmzy.jpg",
+
+        uniqueDate: "Apr 7th 25",
+
+        title: "OBEYING GOD",
+
+        bibleVerse: "1 SAMUEL 15:21",
+
+        memoryVerse:
+          "So Samuel said: “Has the Lord as great delight in burnt offerings and sacrifices, As in obeying the voice of the Lord? Behold, to obey is better than sacrifice, And to heed than the fat of rams.",
+
+        studyBible: "1 SAMUEL 15:1-24",
+
+        texts: {
+          textOne:
+            "One of the toughest responsibilities of a believer is the prompt response and obedience to God’s assignment or instructions. It is our duty to obey Him, but obedience can be tough if I must admit (Jn 2:5). Because His ways are not our ways, His instructions sometimes may be tough. Even though His laws are not burdensome and His yoke is easy, we are often shortsighted and weak.",
+
+          textTwo:
+            "I have come to realize that we do not find the strength and grace we need until we obey (1Jn 5:3). One of the reasons we find it difficult to obey God’s instructions is that He often asks us to do things beyond our present capacity, strength, wisdom, grace, anointing, or vision.  He asks us to do practically impossible things. At times, they are things that make no sense. There is no way the widow in 2 Kings four could have thought her huge debt could be paid through a bottle of oil in her house (2 Kings 4:1-7).",
+
+          textThree:
+            "Most times, when we receive God’s instructions, we look at our capacity to carry it out. We quickly check our account balance, certificates, and CV, but you know you don’t always qualify. The truth is that God does not expect us to carry out His assignments on our own credit, strength, or resources. When God gives you an assignment, He already funded it, but you won’t receive the fund until you obey (1 Cor 9:7). When He gives you a vision, He supplies the resources. When He asks you to do something, He supplies the grace",
+
+          textFour:
+            "In 2011, God gave me a book idea. I did nothing about it, but God kept reminding me. I kept thinking I didn’t have what was required to do it. In 2014, one of the youths who served under me invited me to her book launch. As I held the book, it was the title God told me, as I flipped through the pages, many of its messages were things God was telling me to share. Since then, I learnt a big lesson. When God gives an assignment, He gives strength, grace, resources, and support. So, delay is dangerous. We must trust God enough to step out in the dark. We must trust Him to help our frailty. It’s not just enough to admit our weakness, we must accept His strength.",
+          },
+          footerTitle: "CONFESSION",
+
+          footerText:
+            "Father, I trust you for grace to obey you always even when it is tough. I do not consider my own weaknesses and inadequacies. I connect myself to your life support system. I rely on your UNDESERVED grace, infinite resources, limitless capacity, unfathomable wisdom, and your indomitable strength to always do your will. I trust you absolutely.",
+
+        // "footerTitleTwo": 'HAPPY NEW YEAR',
+
+        // "footerTextTwo": "●	Father in the name of Jesus, Pour a fresh grace of salvation upon this generation. Let souls begin to come into repentance in their millions. ●	Father in the name of Jesus, break the power of satan and sin in this generation. Let the stronghold of Satan be destroyed. ●	Gather in the name of Jesus, We command the light of Christ to shine upon everyone blinded by the devil. ●	father in the name of Jesus, we declare that the truth of the gospel begins to set the sinner free from the lies of the devil.●	Pray for your family and friends who are yet to come into the gospel. ",
+
+        "bibleReadingPlanTitle": '1-YEAR BIBLE READING PLAN',
+
+        "bibleReadingPlanText": "Judges 20-21; Luke 11:1-28",
+      },
+      {
+        id: "432",
+
+        image:
+          " https://res.cloudinary.com/dmxfjy079/image/upload/v1705143662/DLD/ta4huorpy94dxyoswmzy.jpg",
+
+        uniqueDate: "Apr 8th 25",
+
+        title: "USE YOUR TONGUES WISELY",
+
+        bibleVerse: "MARK 11:23",
+
+        memoryVerse:
+          "For assuredly, I say to you, whoever says to this mountain, 'Be removed and be cast into the sea,' and does not doubt in his heart, but believes that those things he says will be done, he will have whatever he says.",
+
+        studyBible: "MARK 11:20-24",
+
+        texts: {
+          textOne:
+            "One of the reasons many believers do not have an effective prayer life is that they do not understand the role of their words in it. We believe that words casually spoken are not prayers. But let me tell you that your words (even casual) communicate to the spiritual realm. (Matt 12:36-37 But I tell you that men will have to give account on the day of judgment for every careless word they have spoken). There is no distinction between when you pray and when you talk.",
+
+          textTwo:
+            "Angels are committed to bringing your words to fulfilment. You must know that words are spiritual in nature, they don’t die. They have the power to become flesh and manifest. Words carry in them creative power. If you speak sickness, lack, sorrow, and death, somehow they will find their way into your life. If you speak healing, abundance, joy, and life into your life, somehow they will find their way to you.",
+
+          textThree:
+            "It is not only the things you speak in the place of prayer that come to pass, the things you speak in your workplace, beer parlour, clubs, toilets, and every other place, will also come to pass. This is why you must beware of jesting and unholy jokes. Don’t say what you don’t mean and mean what you say. Ephesians 5:4. Neither filthiness, nor foolish talking, nor coarse jesting, which are not fitting, but rather giving of thanks.",
+
+          textFour:
+            "I often warn people against the kinds of comedy they make, especially those who tag themselves Christian comedians because you will account for every word you say including your comedies. Use your tongues wisely.",
+          },
+          footerTitle: "CONFESSION",
+
+          footerText:
+            "I am in control of my speech. I use my mouth to advance my life. I refuse and reject every temptation for jesting and unholy speech. I create my world by my word.",
+
+        // "footerTitleTwo": 'HAPPY NEW YEAR',
+
+        // "footerTextTwo": "●	Father in the name of Jesus, Pour a fresh grace of salvation upon this generation. Let souls begin to come into repentance in their millions. ●	Father in the name of Jesus, break the power of satan and sin in this generation. Let the stronghold of Satan be destroyed. ●	Gather in the name of Jesus, We command the light of Christ to shine upon everyone blinded by the devil. ●	father in the name of Jesus, we declare that the truth of the gospel begins to set the sinner free from the lies of the devil.●	Pray for your family and friends who are yet to come into the gospel. ",
+
+        "bibleReadingPlanTitle": '1-YEAR BIBLE READING PLAN',
+
+        "bibleReadingPlanText": " Ruth 1-4; Luke 11:29-54",
+      },
+      {
+        id: "433",
+
+        image:
+          " https://res.cloudinary.com/dmxfjy079/image/upload/v1705143662/DLD/ta4huorpy94dxyoswmzy.jpg",
+
+        uniqueDate: "Apr 9th 25",
+
+        title: "CHECK YOUR MOTIVE",
+
+        bibleVerse: "PROVERBS 21:2",
+
+        memoryVerse:
+          "We justify our actions by appearances; God examines our motives. (THE MESSAGE)",
+
+        studyBible: "1 CORINTHIANS 4:1-5",
+
+        texts: {
+          textOne:
+            "Looking through the scriptures, we can come to conclude that God doesn't just judge our actions, He’s much more interested in our motives. The motive is the reason behind the actions. Some years ago, when I eventually agreed to start the Lightlife Ministry, God decided to check why I agreed. I had a discussion with my fiance who happens to be my wife now. Knowing that it’s not a smooth ride, I decided to paint a great picture of ministry to her. I told her we will travel the world preaching the gospel. How we will run a big ministry, drive good cars and so many beautiful things.",
+
+          textTwo:
+            "On a fateful day, the Spirit of God came to me and asked me a series of questions. What if you never travelled out of this country to preach the gospel? What if you never have a big ministry? What if you are never known? What if you never buy a car? These among many other disturbing questions were asked? I knew God wasn’t trying to pull my legs. After thinking about it, I sadly answered that I will still give my all to God. I asked my wife the same questions and she also said she will still go ahead and marry me. More than two years after starting the ministry we can not boast of ten committed members. I was as poor as a church rat. Nothing seems to be working. Thank God things are getting better. God was trying to test our motive all this while.",
+
+          textThree:
+            "The reason you take an action is more important than the action. He weighs your motive. Your action can be right but if your motive is wrong, God will mark that action wrong. Prov 21:2 We justify our actions by appearances; God examines our motives. Why did you give that seed to the pastor? Why are you in that relationship? Why do you want to start your ministry? Why do you want to help that person? Your why is more important than your what. A right action suddenly becomes wrong once the motive is wrong. The reason many start well but do not end well is because of a wrong motive.",
+
+          textFour:
+            "Check your heart. Ensure that your mind is pure. Let your actions be backed up with good intentions so that you do not lose your rewards. Men may not discern your motive but God will.",
+          },
+          footerTitle: "PRAYER",
+
+          footerText:
+            "Father, purify my heart. Help me get rid of every evil motive. Help me to do all things in the spirit of faith, love, and truth.",
+
+        // "footerTitleTwo": 'HAPPY NEW YEAR',
+
+        // "footerTextTwo": "●	Father in the name of Jesus, Pour a fresh grace of salvation upon this generation. Let souls begin to come into repentance in their millions. ●	Father in the name of Jesus, break the power of satan and sin in this generation. Let the stronghold of Satan be destroyed. ●	Gather in the name of Jesus, We command the light of Christ to shine upon everyone blinded by the devil. ●	father in the name of Jesus, we declare that the truth of the gospel begins to set the sinner free from the lies of the devil.●	Pray for your family and friends who are yet to come into the gospel. ",
+
+        "bibleReadingPlanTitle": '1-YEAR BIBLE READING PLAN',
+
+        "bibleReadingPlanText": " 1 Samuel 1-3; Luke 12:1-34",
+      },
+      {
+        id: "434",
+
+        image:
+          " https://res.cloudinary.com/dmxfjy079/image/upload/v1705143662/DLD/ta4huorpy94dxyoswmzy.jpg",
+
+        uniqueDate: "Apr 10th 25",
+
+        title: "DELAYED FOR A PURPOSE",
+
+        bibleVerse: "ROMANS 8:21",
+
+        memoryVerse:
+          "And we know that in all things God works for the good of those who love him, who have been called according to his purpose",
+
+        studyBible: "1 SAMUEL 1:1-20",
+
+        texts: {
+          textOne:
+            "A friend who pastors a church in the United Kingdom flew into the country for his wedding happening in two weeks. He had discussed with his fiancee to pick him up from the airport. Both of them were looking forward to seeing each other after years apart. The fiancee had the flight details and was supposed to be waiting to pick him up. The pastor arrived on time and was excited to meet his wife-to-be. To his amazement, the lady was not there. After waiting for two hours, he became so angry that the lady was not there and there was no communication. After four hours of waiting, he was about to take a taxi when a distant mentor walked passed and saw him. They exchanged pleasantries and the man told him “I heard you are getting married”. He said yes and apologized for not telling him because they lost contact. The man drew out his chequebook and wrote an amount that covered almost half of the budget for the wedding. Immediately the man left, his fiancee arrived.",
+
+          textTwo:
+            "He discovered that his delay was orchestrated by God. God delays us sometimes because we are moving too fast and our miracles need to catch up. In fact, in God’s dictionary, there is nothing like delay because He never arrives late. God always arrives at the time He plans to arrive. That time may not be your time, and that is why it is late for you but for God, He’s always on time. Before you place a time and date for something, please find out God’s timetable first. If God is delaying your marriage it's because the best is on the way. If your admission is delayed, it’s for the best.",
+
+          textThree:
+            "Note that things are beautiful when they happen at the appointed time. It’s not all delay that is caused by satan. Some are orchestrated by God. But that doesn't also mean God is behind all delays. You need to be discerning to know what the source of the delay is. If it’s not from God, get to battle and pray them out of your life. Finally, know that all things work together for your good, including your delays. Hannah’s delay finally produced a national prophet. Abraham’s delay gave him the position of a patriarch.",
+          },
+          footerTitle: "MEDITATION",
+
+          footerText:
+            " Know that all things work together for your good including your delays",
+
+        // "footerTitleTwo": 'HAPPY NEW YEAR',
+
+        // "footerTextTwo": "●	Father in the name of Jesus, Pour a fresh grace of salvation upon this generation. Let souls begin to come into repentance in their millions. ●	Father in the name of Jesus, break the power of satan and sin in this generation. Let the stronghold of Satan be destroyed. ●	Gather in the name of Jesus, We command the light of Christ to shine upon everyone blinded by the devil. ●	father in the name of Jesus, we declare that the truth of the gospel begins to set the sinner free from the lies of the devil.●	Pray for your family and friends who are yet to come into the gospel. ",
+
+        "bibleReadingPlanTitle": '1-YEAR BIBLE READING PLAN',
+
+        "bibleReadingPlanText": "1 Samuel 4-6; Luke 12:35-59",
+      },
+      {
+        id: "435",
+
+        image:
+          " https://res.cloudinary.com/dmxfjy079/image/upload/v1705143662/DLD/ta4huorpy94dxyoswmzy.jpg",
+
+        uniqueDate: "Apr 11th 25",
+
+        title: "VESSELS UNTO HONOUR",
+
+        bibleVerse: "ACTS 9:15",
+
+        memoryVerse:
+          "But the Lord said to him, 'Go, for he is a chosen vessel of Mine to bear My name before Gentiles, kings, and the children of Israel.'",
+
+        studyBible: "2 TIMOTHY 2:20-26",
+
+        texts: {
+          textOne:
+            "There are two kinds of vessels, vessels unto honour and dishonour. God uses vessels of honour and the devil uses vessels of dishonour. What does it take to be a vessel unto dishonour? All you need to do is to keep practising sin. Get involved with lust, lies, disputes, adultery, drunkenness, malice, and many other works of the flesh. These works of the flesh automatically recruit you as an agent of darkness.",
+
+          textTwo:
+            "What does it take to be a vessel unto honour? Anyone who cleanses himself/herself from the works of the flesh becomes a vessel unto honour. Therefore, to be a vessel unto honour means to be clean, then to be usable. There are different vessels in a palace, but what qualifies you is that you are usable. There are many vessels today that are not usable because they do not make themself usable. Can God use your pocket, your brain, your hand, leg, car, or house? A dirty cup is not usable. A broken keyboard is not usable. Get yourself a valuable skill that God can use. Don’t just be in the church, be usable. Develop skills that make you valuable and relevant.",
+
+          textThree:
+            "A vessel unto honour is also available. There are many skillful accountants, cinematographers, media personnel, teachers, pastors, ushers, and cleaners who are not available in the great house. They are there on Sundays but they are too busy to serve. Christians are the best hands in corporate organizations but these same people are absent for kingdom use. What will profit you if you are useful in the world and useless in the church?  They are leaders in their disciplines but hiding in the church. Vessels of honour must be available for the kingdom use.",
+
+          textFour:
+            "Know that vessels of honour are only for the kings’ use. Therefore, consider it a privilege to be used by the King of kings. Deploy your knowledge, expertise, skill, and resources to serve God, and you’ll never regret it.",
+          },
+          footerTitle: "MEDITATION",
+
+          footerText:
+            "Be clean, be usable, be skillful, and be available. ",
+
+        // "footerTitleTwo": 'HAPPY NEW YEAR',
+
+        // "footerTextTwo": "●	Father in the name of Jesus, Pour a fresh grace of salvation upon this generation. Let souls begin to come into repentance in their millions. ●	Father in the name of Jesus, break the power of satan and sin in this generation. Let the stronghold of Satan be destroyed. ●	Gather in the name of Jesus, We command the light of Christ to shine upon everyone blinded by the devil. ●	father in the name of Jesus, we declare that the truth of the gospel begins to set the sinner free from the lies of the devil.●	Pray for your family and friends who are yet to come into the gospel. ",
+
+        "bibleReadingPlanTitle": '1-YEAR BIBLE READING PLAN',
+
+        "bibleReadingPlanText": "1 Samuel 7-9; Luke 13:1-21",
+      },
+      {
+        id: "436",
+
+        image:
+          " https://res.cloudinary.com/dmxfjy079/image/upload/v1705143662/DLD/ta4huorpy94dxyoswmzy.jpg",
+
+        uniqueDate: "Apr 12th 25",
+
+        title: "COME THE WAY YOU ARE",
+
+        bibleVerse: "HEBREWS 5:12",
+
+        memoryVerse:
+          "For when for the time ye ought to be teachers, ye have need that one teach you again which be the first principles of the oracles of God; and are become such as have need of milk, and not of strong meat.",
+
+        studyBible: "MATTHEW 22:1-14",
+
+        texts: {
+          textOne:
+            "We went out to preach on a Sunday morning and we preached to a man on our way. We invited the man to church immediately. He said, “I can’t come like this” (Because he wasn’t well dressed). We encouraged him to come just the way he was. He entered the car and came with us. When we got to church, I gave him one of my clothes and shoes to wear. The parable in our text today did justice to this discussion. When the feast was ready, the great people who were invited came up with some excuses. So he sent his servant to go and invited the nobodies, the poor, maimed, foolish, and all sorts. However, in verse eleven, the master was angry to see a man who came the way he was when he was called from the slum. He decreed that the man be thrown out of the party.",
+
+          textTwo:
+            "When Pharaoh called for prisoner Joseph, even though the call met him as a prisoner, he had to change his garment and appearance before he appeared before the king. God doesn't expect you to change before He calls you. But He definitely expects some progressive change. You must change the disposition of your heart if you must be useful to God. You must use the tool of God’s gifts, potential, grace, and favour that He gave you at salvation to change yourself if you must party with God. It is dangerous to remain in the same place God picked you from.",
+
+          textThree:
+            "Paul in the memory verse stated that in God’s timeline, there is a season when you should have become a teacher, yet you still remain a student. Don't be deceived, there is no partiality in God. If it is true that you have encountered God’s grace, then it must take you out of that addiction, laziness, confusion, mess, sin, and your old life. It is an abuse of grace to remain in the things, life, and environment that God saved you from. (Romans 6:1-2 What shall we say, then? Shall we go on sinning so that grace may increase? By no means! We are those who have died to sin; how can we live in it any longer?). Many believers have been saved for years, yet they have nothing to do in their local church. This has nothing to do with full-time ministry. All believers should be able to preach to others and teach others the scripture. You don’t have to be an apostle to be able to teach. As a husband, you must be able to lead the family devotion. ",
+          },
+          footerTitle: "MEDITATION",
+
+          footerText:
+            "You must change the disposition of your heart if you must be useful to God",
+
+        // "footerTitleTwo": 'HAPPY NEW YEAR',
+
+        // "footerTextTwo": "●	Father in the name of Jesus, Pour a fresh grace of salvation upon this generation. Let souls begin to come into repentance in their millions. ●	Father in the name of Jesus, break the power of satan and sin in this generation. Let the stronghold of Satan be destroyed. ●	Gather in the name of Jesus, We command the light of Christ to shine upon everyone blinded by the devil. ●	father in the name of Jesus, we declare that the truth of the gospel begins to set the sinner free from the lies of the devil.●	Pray for your family and friends who are yet to come into the gospel. ",
+
+        "bibleReadingPlanTitle": '1-YEAR BIBLE READING PLAN',
+
+        "bibleReadingPlanText": "1 Samuel 10-12; Luke 13:22-35",
+      },
+      {
+        id: "437",
+
+        image:
+          " https://res.cloudinary.com/dmxfjy079/image/upload/v1705143662/DLD/ta4huorpy94dxyoswmzy.jpg",
+
+        uniqueDate: "Apr 13th 25",
+
+        title: "THE POWER OF DILIGENCE",
+
+        bibleVerse: "ROMANS 12:11",
+
+        memoryVerse:
+          "Never be lazy, but work hard and serve the Lord enthusiastically",
+
+        studyBible: "1 CORINTHIANS 15:9-10",
+
+        texts: {
+          textOne:
+            "The number one reason why the devil afflicts many young people with the spirit of depression is to hinder their productivity. This is done by keeping them from being diligent. Once you are depressed, you can't work, once you can't work, you can't be productive, once you are not productive, you end up as an ordinary man. The reason many end up as ordinary people is that they choose to pray for favour instead of work to be favoured.  Favour is not just a prayer point, it’s a work point. To hate hard work is to hate greatness.",
+
+          textTwo:
+            "There is a popular quote by the richest man on earth, Elon Musk. He said “Working 16 hours a day, 7 days a week, 52 weeks a year, and people still calling me lucky”  Many great people I know and I've read about are very hard working. I know some will say work smart not work hard. Truth be told, even smart work requires hard work. Diligence is commitment to work whether you feel like it or not. Work is more than making money. There are many ways to make money without necessarily working hard. You can be born into money, you can marry into it, and many are stealing it. However, you can never make a good life without diligence.",
+
+          textThree:
+            "Diligence is not about making a profit, it's about making a life. It’s not about making money, it's about making meaning. This is why money never satisfies. Diligence is working on becoming what God created you to be. It's about values, ideas, sacrifice, and commitment to God’s assignment in your hand. It's not about the result you see, it’s about the yearnings on the inside that are yet to find expression. While many believers today are praying against labour, Paul the greatest apostle said he laboured more than all other apostles. The glory of diligence is not in the reward, it’s in who you become. Never forget this.",
+          },
+          footerTitle: "MEDITATION",
+
+          footerText:
+            "The glory of diligence is not in the reward, it’s in who you become. The reason many end up as ordinary people is that they choose to pray for favour instead of work to be favoured.",
+
+        // "footerTitleTwo": 'HAPPY NEW YEAR',
+
+        // "footerTextTwo": "●	Father in the name of Jesus, Pour a fresh grace of salvation upon this generation. Let souls begin to come into repentance in their millions. ●	Father in the name of Jesus, break the power of satan and sin in this generation. Let the stronghold of Satan be destroyed. ●	Gather in the name of Jesus, We command the light of Christ to shine upon everyone blinded by the devil. ●	father in the name of Jesus, we declare that the truth of the gospel begins to set the sinner free from the lies of the devil.●	Pray for your family and friends who are yet to come into the gospel. ",
+
+        "bibleReadingPlanTitle": '1-YEAR BIBLE READING PLAN',
+
+        "bibleReadingPlanText": "1 Samuel 13-14; Luke 14:1-24",
+      },
+      {
+        id: "438",
+
+        image:
+          " https://res.cloudinary.com/dmxfjy079/image/upload/v1705143662/DLD/ta4huorpy94dxyoswmzy.jpg",
+
+        uniqueDate: "Apr 14th 25",
+
+        title: "SHORTCUT, SHORT LIFE",
+
+        bibleVerse: "PROVERBS 21:5",
+
+        memoryVerse:
+          "Good planning and hard work lead to prosperity, but hasty shortcuts lead to poverty. (NLT)",
+
+        studyBible: "MATTHEW 7:13 (MSG)",
+
+        texts: {
+          textOne:
+            "Shortcut cuts life short. Life is like a ladder, there are no shortcuts to climbing it. I know a lot of youths in this generation are looking for a shortcut to financial, material, career, and marital success. But you’ve got to go the long route. Whenever you try to use a shortcut, you lose something more important in life. Will you allow a doctor who did an accelerated course to become a surgeon? Instead of the normal seven years of study, he did six months and graduated as a brain surgeon. I’m sure you will not.",
+
+          textTwo:
+            "We must understand that the journey is always longer than the destination. In fact, the journey is what gives the destination meaning. Without the journey, the destination will be meaningless. The journey is always difficult, painful, laborious, tough, and hard. But it is this journey that always produces the sweet end. Fast food is great but it leads to a short life. When the journey is very sweet and easy, it often leads to a difficult end. But when the journey is tough. most times, it always leads to a great end.",
+
+          textThree:
+            "There are things you can use technology to fast-track, especially in the workspace. With the help of the computer, you can do a lot easily in no time. However, building a life is not the same. You can’t use an app to build a good marriage. You can’t use technology to build a great life, you have to apply principles. In using principles, you can’t use shortcuts. If you are reading this today, tell yourself to go through the journey. Enjoy the journey, it’s part of your life. There are times when you get to the destination and you aren’t so excited about it but you can’t deny who you have become because of the journey. Do the hard work, go through the seasons, and you will emerge a great force in life. Don’t try to achieve anything before it's time.",
+          },
+          footerTitle: "MEDITATION",
+
+          footerText:
+            "The process is more important than the product. When the process is compromised, the product is damaged.",
+
+        // "footerTitleTwo": 'HAPPY NEW YEAR',
+
+        // "footerTextTwo": "●	Father in the name of Jesus, Pour a fresh grace of salvation upon this generation. Let souls begin to come into repentance in their millions. ●	Father in the name of Jesus, break the power of satan and sin in this generation. Let the stronghold of Satan be destroyed. ●	Gather in the name of Jesus, We command the light of Christ to shine upon everyone blinded by the devil. ●	father in the name of Jesus, we declare that the truth of the gospel begins to set the sinner free from the lies of the devil.●	Pray for your family and friends who are yet to come into the gospel. ",
+
+        "bibleReadingPlanTitle": '1-YEAR BIBLE READING PLAN',
+
+        "bibleReadingPlanText": "1 Samuel 15-16; Luke 14:25-35",
+      },
+      {
+        id: "439",
+
+        image:
+          " https://res.cloudinary.com/dmxfjy079/image/upload/v1705143662/DLD/ta4huorpy94dxyoswmzy.jpg",
+
+        uniqueDate: "Apr 15th 25",
+
+        title: "GO YE",
+
+        bibleVerse: "MATTHEW 28:19",
+
+        memoryVerse:
+          "Therefore go and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit,",
+
+        studyBible: "MATTHEW 28:16-20",
+
+        texts: {
+          textOne:
+            "In Africa, we take the last words of our loved ones seriously before they pass on, especially parents. This is because we know that must be the most important thing to them. The same way Jesus gave us the most important instruction when He was about to ascend to heaven. However, today we think this instruction is only for pastors, evangelists, or the people in ministry. If you are a believer this instruction is for you. We do not win souls just because we want people to come to our church but because we want them to come to Christ.",
+
+          textTwo:
+            "Soul winning is Christ's last command given to His disciples. It is the duty of everyone to go out and win souls. It is our assignment to depopulate the kingdom of darkness and populate the kingdom of Christ. The reason you are kept in the world is so that you can reach the dark places of the world with light. You are saved to save others. We are sent to preach this good news of the kingdom to all creatures.",
+
+          textThree:
+            "It is not enough to reach a few people with this message. It is the vision of Jesus to reach the ends of the world. It doesn't matter how full your church is, as long as there are still sinners out there, we don't stop going until we reach every nation, culture, race, and people for Christ. Jesus is concerned about everybody because He died for the whole world. He will be sad to see anyone end up in hell. Mt 18:14. He will be sad to see His image end up in the lake of fire. This is why heaven rejoices over one sinner who repents.",
+
+          textFour:
+            "If you like to see Jesus happy then become an addicted soul winner. It is the heartbeat of God to see sinners turn to Him.",
+          },
+          footerTitle: "PRAYER",
+
+          footerText:
+            "Lord Jesus, Give me the grace to win souls in millions.",
+
+        // "footerTitleTwo": 'HAPPY NEW YEAR',
+
+        // "footerTextTwo": "●	Father in the name of Jesus, Pour a fresh grace of salvation upon this generation. Let souls begin to come into repentance in their millions. ●	Father in the name of Jesus, break the power of satan and sin in this generation. Let the stronghold of Satan be destroyed. ●	Gather in the name of Jesus, We command the light of Christ to shine upon everyone blinded by the devil. ●	father in the name of Jesus, we declare that the truth of the gospel begins to set the sinner free from the lies of the devil.●	Pray for your family and friends who are yet to come into the gospel. ",
+
+        "bibleReadingPlanTitle": '1-YEAR BIBLE READING PLAN',
+
+        "bibleReadingPlanText": "1 Samuel 17-18; Luke 15:1-10",
+      },
+      {
+        id: "440",
+
+        image:
+          " https://res.cloudinary.com/dmxfjy079/image/upload/v1705143662/DLD/ta4huorpy94dxyoswmzy.jpg",
+
+        uniqueDate: "Apr 16th 25",
+
+        title: "IT’S URGENT",
+
+        bibleVerse: "Luke 24:47-48",
+
+        memoryVerse:
+          "and repentance and forgiveness of sins will be preached in his name to all nations, beginning at Jerusalem. ",
+
+        studyBible: "MARK 16:15-16",
+
+        texts: {
+          textOne:
+            "The king's business requires haste. According to Bishop Oyedepo, we are in the “latter” days. We are closer to the end of this age than ever before. It is a pity that many believers are busy with ceremonies and the things of this world. The time is very short. Rom 13:11 And do this, knowing the time, that now it is high time to awake out of sleep; for now our salvation is nearer than when we first believed. It's time to know what's on the mind of God and pursue it.",
+
+          textTwo:
+            "The number one priority of Jesus is the preaching of the gospel of the kingdom to the ends of the earth. John 9:4 'We must work the works of Him who sent Me as long as it is day; night is coming when no one can work. This is the very purpose he died for. For his sacrifice of death not to be in vain, we must bring as many as possible to the kingdom.  There are still billions of Muslims, Hinduists, and Buddhists who are yet to hear or receive this gospel of Christ.",
+
+          textThree:
+            "Moreso, Satan, our arch-enemy is not taking a day off. 1 Peter 5:8 Be sober, be vigilant; because your adversary the devil walks about like a roaring lion, seeking whom he may devour. If the devil is not resting, believers shouldn't rest either. We must be on our toes going forth and sponsoring the good news in every possible way we can.",
+
+          textFour:
+            "Lastly, the harvest is ripe. Lk 10:2 Then He said to them, “The harvest truly is great, but the labourers are few; therefore pray to the Lord of the harvest to send out labourers into His harvest. This is the time to raise and build labourers who will go out and bring in the harvest. What role are you going to play in this great harvest?",
+          },
+          footerTitle: "PRAYER",
+
+          footerText:
+            "Father, give me the grace and strength to win souls.",
+
+        // "footerTitleTwo": 'HAPPY NEW YEAR',
+
+        // "footerTextTwo": "●	Father in the name of Jesus, Pour a fresh grace of salvation upon this generation. Let souls begin to come into repentance in their millions. ●	Father in the name of Jesus, break the power of satan and sin in this generation. Let the stronghold of Satan be destroyed. ●	Gather in the name of Jesus, We command the light of Christ to shine upon everyone blinded by the devil. ●	father in the name of Jesus, we declare that the truth of the gospel begins to set the sinner free from the lies of the devil.●	Pray for your family and friends who are yet to come into the gospel. ",
+
+        "bibleReadingPlanTitle": '1-YEAR BIBLE READING PLAN',
+
+        "bibleReadingPlanText": "1 Samuel 19-21; Luke 15:11-32",
+      },
+      {
+        id: "441",
+
+        image:
+          " https://res.cloudinary.com/dmxfjy079/image/upload/v1705143662/DLD/ta4huorpy94dxyoswmzy.jpg",
+
+        uniqueDate: "Apr 17th 25",
+
+        title: "RECOGNISING CASUAL ANOINTING",
+
+        bibleVerse: "MATTHEW 13:55",
+
+        memoryVerse:
+          "“Is this not the carpenter’s son? Isn't His mother called Mary? And His brothers James, Joses, Simon, and Judas?”",
+
+        studyBible: "2 KINGS 5:8-15",
+
+        texts: {
+          textOne:
+            "The undoing of many believers today is their inability to recognize powerful but casual grace. Many often miss the people that God sent to them because there is nothing spectacular about them. Listen to this, there are many supernatural yet not spectacular people around you. There are many powerful yet not goofy graces around you. Your pastor can carry grace for the miraculous yet not dramatic. There are many destiny helpers around you that you despise because they are not theatrical.",
+
+          textTwo:
+            "The reason people miss their anointed destiny helper is that they are looking for the dramatic and spectacular. Jacob never raised the dead or opened the eyes of the blind yet his presence alone can bless a nation. There is nothing spectacular about Joseph. No angel was following him around yet he possessed the anointing to bless and make great any organization. It is very easy to miss such graces and anointing because they do not come with so much noise and paraphernalia as others. Many of you adore the sensational television healing minister. You will do anything to have your internet celebrity evangelist lay hands on you. Meanwhile, you despise your local church pastor because he is not dramatic. Don’t forget that your spiritual father is the authorized covering over you. They have the exact anointing that your destiny needs.",
+
+          textThree:
+            "Moreso, Satan, our arch-enemy is not taking a day off. 1 Peter 5:8 Be sober, be vigilant; because your adversary the devil walks about like a roaring lion, seeking whom he may devour. If the devil is not resting, believers shouldn't rest either. We must be on our toes going forth and sponsoring the good news in every possible way we can.",
+
+          textFour:
+            "You must be alert to discern casual anointed individuals around you. They might be your servants, employees, employers, or friends. They might be meek, gentle, and easygoing. Don’t let their meek attitude deceive you. Don’t let what they wear discourage you. Sometimes, people with heavy anointing are casual. They don’t move with an entourage. They don’t shake or shout. Naaman almost missed his miracle because Elisha was too casual for him. Their meetings might not be so crowded, but they are heavily anointed and sent to you. If you despise the anointed, you will miss the anointing.",
+          },
+          footerTitle: "MEDITATION",
+
+          footerText:
+            "The fact that the anointed looks casual does not make his anointing casual.",
+
+        // "footerTitleTwo": 'HAPPY NEW YEAR',
+
+        // "footerTextTwo": "●	Father in the name of Jesus, Pour a fresh grace of salvation upon this generation. Let souls begin to come into repentance in their millions. ●	Father in the name of Jesus, break the power of satan and sin in this generation. Let the stronghold of Satan be destroyed. ●	Gather in the name of Jesus, We command the light of Christ to shine upon everyone blinded by the devil. ●	father in the name of Jesus, we declare that the truth of the gospel begins to set the sinner free from the lies of the devil.●	Pray for your family and friends who are yet to come into the gospel. ",
+
+        "bibleReadingPlanTitle": '1-YEAR BIBLE READING PLAN',
+
+        "bibleReadingPlanText": "1 Samuel 22-24; Luke 16:1-18",
+      },
+      {
+        id: "442",
+
+        image:
+          " https://res.cloudinary.com/dmxfjy079/image/upload/v1705143662/DLD/ta4huorpy94dxyoswmzy.jpg",
+
+        uniqueDate: "Apr 18th 25",
+
+        title: "HOLY SPIRIT,  EVERY DAY",
+
+        bibleVerse: "JOHN 14:16",
+
+        memoryVerse:
+          "And I will pray the Father, and He will give you another Helper, that He may abide with you forever",
+
+        studyBible: "PROVERBS 3:5-8",
+
+        texts: {
+          textOne:
+            "Most believers don’t know the person of the Holy Spirit, thus, they never maximize their relationship with the Holy Spirit. I’m not sure most believers are aware that the works of the Holy Spirit are beyond Sundays. Most believers never engaged the person of the Holy Spirit beyond prayer, worship, reading, or listening to the word. Many believers are unaware of the works of the Spirit beyond the four walls of the church. This is why most believers' homes are falling apart. Most believers' businesses are failing because we do not engage Him in our daily life.",
+
+          textTwo:
+            "God gave you the gift of the Holy Spirit so that He can be actively involved in every area of your life. The Holy Spirit is as active and relevant to your career, education, relationship, and business as He is in your spiritual life. He is interested not just in your Sundays but in your Mondays to Saturdays. He is interested in the weekend Owambe (party) as much as He’s in your worship service. He’s also useful in helping you to plan what you will wear, your food, your shelter, what you drive, the route you take, and everything you do.",
+
+          textThree:
+            "The Holy Spirit is not useful only when you are making big decisions alone. He’s also interested in the little decisions and actions you take. This is why He decided to live permanently within us. He could have decided to come Saturday evening and leave Sunday night. He can help you more than you can ever think in your career or business. He is the greatest companion, gist partner, counselor, business partner, chef, teacher, coach, friend, father, and God you can ever have. He perfectly fits into your life and can serve in any capacity you need Him. Acknowledge Him and give Him the first place in your life.",
+          },
+          footerTitle: "MEDITATION",
+
+          footerText:
+            "Make the Holy Spirit your eternal companion",
+
+        // "footerTitleTwo": 'HAPPY NEW YEAR',
+
+        // "footerTextTwo": "●	Father in the name of Jesus, Pour a fresh grace of salvation upon this generation. Let souls begin to come into repentance in their millions. ●	Father in the name of Jesus, break the power of satan and sin in this generation. Let the stronghold of Satan be destroyed. ●	Gather in the name of Jesus, We command the light of Christ to shine upon everyone blinded by the devil. ●	father in the name of Jesus, we declare that the truth of the gospel begins to set the sinner free from the lies of the devil.●	Pray for your family and friends who are yet to come into the gospel. ",
+
+        "bibleReadingPlanTitle": '1-YEAR BIBLE READING PLAN',
+
+        "bibleReadingPlanText": "1 Samuel 25-26; Luke 16:19-31",
+      },
+      {
+        id: "443",
+
+        image:
+          " https://res.cloudinary.com/dmxfjy079/image/upload/v1705143662/DLD/ta4huorpy94dxyoswmzy.jpg",
+
+        uniqueDate: "Apr 19th 25",
+
+        title: "TO CONSISTENCY, ADD…",
+
+        bibleVerse: "ECCLESIASTES  11:6",
+
+        memoryVerse:
+          "Sow your seed in the morning, and at evening let not your hands be idle, for you do not know which will succeed, whether this or that, or whether both will do equally well.  (NIV)",
+
+        studyBible: "MATTHEW 26:36-40",
+
+        texts: {
+          textOne:
+            "I have heard a lot of quotes on the power of consistency and they are all true. However, I have discovered that there are lots of things that must follow consistency for it to be successful. First of all, being consistent in the wrong thing will never make it right. If you are consistent in an area that’s not around your purpose, you need to give up and do something else. Just like direction is more important than speed, no matter how far or fast you go in the wrong direction, you will never get to your desired destination. Sometimes, you need to change direction. So being consistent in the wrong job, project, relationship, or business will not bring results.",
+
+          textTwo:
+            "Sometimes we say it's not about duration (how long) but how consistent we are. Well, that does not also apply in all senses. Sometimes, it's about being consistent for a particular time. If you put your egg on the fire and remove it in one minute, do the same thing the next day, and do it for the next ninety days, your egg will never get cooked. There is a duration you must be consistent at before you can expect a result. It's not about being consistent at studying, praying, or investing. The duration is also important.",
+
+          textThree:
+            "If I am consistent with studying for ten minutes every day, and you are consistent with one hour every day. The difference in the result is no longer in the fact that we do it every day. For instance, the least Jesus expects that we pray is one hour daily. So, don’t be satisfied that you are praying for ten minutes daily. Though you might start with the ten minutes, you must grow to the expected time and be consistent in it. No matter how far or fast you go in the wrong direction, you will never get to your desired destination.",
+          },
+          footerTitle: "PRAYER",
+
+          footerText:
+            "Help me Lord to be consistent in the right thing. Help me to know when to give up Lord.",
+
+        // "footerTitleTwo": 'HAPPY NEW YEAR',
+
+        // "footerTextTwo": "●	Father in the name of Jesus, Pour a fresh grace of salvation upon this generation. Let souls begin to come into repentance in their millions. ●	Father in the name of Jesus, break the power of satan and sin in this generation. Let the stronghold of Satan be destroyed. ●	Gather in the name of Jesus, We command the light of Christ to shine upon everyone blinded by the devil. ●	father in the name of Jesus, we declare that the truth of the gospel begins to set the sinner free from the lies of the devil.●	Pray for your family and friends who are yet to come into the gospel. ",
+
+        "bibleReadingPlanTitle": '1-YEAR BIBLE READING PLAN',
+
+        "bibleReadingPlanText": "1 Samuel 27-29; Luke 17:1-19",
+      },
+      {
+        id: "444",
+
+        image:
+          " https://res.cloudinary.com/dmxfjy079/image/upload/v1705143662/DLD/ta4huorpy94dxyoswmzy.jpg",
+
+        uniqueDate: "Apr 20th 25",
+
+        title: "YOUR HAPPINESS IS YOUR RESPONSIBILITY",
+
+        bibleVerse: "PHILIPPIANS 4:4",
+
+        memoryVerse:
+          "Rejoice in the Lord always. Again I will say, rejoice!",
+
+        studyBible: "PHILLIPPIANS 4:4-8",
+
+        texts: {
+          textOne:
+            "In Nigeria where I live, it is rare to find someone who is happy, jovial, and excited on a normal day. Almost everyone is angry about someone. People get mad at the smallest thing. There are a few times I have picked a taxi and the driver was rude and angry without reason. Sometimes, the supermarket attendant was just mad for no reason. I understand that many things could trigger such an attitude. However, you can choose to be happy.",
+
+          textTwo:
+            "The responsibility of your joy is yours to choose. Never allow any external factor, person, or circumstances determine your happiness. Happiness is not a function of what’s happening around you, it’s a function of what’s happening within you. It is how you’ve trained your mind to react to things that determine your happiness. Negative thoughts and pessimism rob you of your happiness. Whatever controls your happiness controls your life. If you allow people to determine when you are happy, then they can control your life. This is why it is your responsibility to control your mood.",
+
+          textThree:
+            "You can be happy when you choose to. You can be happy whether things are good or bad. You can be happy whether you fail or succeed. You can be happy when you have everything and when you have nothing. You can be happy on Monday just as you are happy on Saturday. You can be happy whether you are married or single. You are responsible for your happiness. Choose to be happy at all times. Happiness provides the impetus and energy that you need to succeed. Nobody wants to help or associate with a sadist. Depression is not far from a sad heart. Sickness is close to a man who is always angry. Keep a grateful heart and you will have more reasons to be happy than to be sorrowful. It’s your decision, not your situation that determines your happiness.",
+          },
+          footerTitle: "CONFESSION",
+
+          footerText:
+            "I choose joy over sorrow. Irrespective of what is happening to me, I choose to be happy. I am joyful every day, every time and everywhere. I reject anxiety and I permit joy. I do not allow negative thoughts in my mind. I am thankful always. I expect the best every day.",
+
+        // "footerTitleTwo": 'HAPPY NEW YEAR',
+
+        // "footerTextTwo": "●	Father in the name of Jesus, Pour a fresh grace of salvation upon this generation. Let souls begin to come into repentance in their millions. ●	Father in the name of Jesus, break the power of satan and sin in this generation. Let the stronghold of Satan be destroyed. ●	Gather in the name of Jesus, We command the light of Christ to shine upon everyone blinded by the devil. ●	father in the name of Jesus, we declare that the truth of the gospel begins to set the sinner free from the lies of the devil.●	Pray for your family and friends who are yet to come into the gospel. ",
+
+        "bibleReadingPlanTitle": '1-YEAR BIBLE READING PLAN',
+
+        "bibleReadingPlanText": "1 Samuel 30-31; Luke 17:20-37",
+      },
+      {
+        id: "445",
+
+        image:
+          " https://res.cloudinary.com/dmxfjy079/image/upload/v1705143662/DLD/ta4huorpy94dxyoswmzy.jpg",
+
+        uniqueDate: "Apr 21st 25",
+
+        title: "GIVE ATTENTION TO “LITTLE” (PART1)",
+
+        bibleVerse: "1 PETER 2:17",
+
+        memoryVerse:
+          "Honor all people. Love the brotherhood. Fear God. Honour the king. ",
+
+        studyBible: "JOB 8:7",
+
+        texts: {
+          textOne:
+            "In our quest to experience the spectacular, we often miss the ordinary. While we focus on the sensational, we miss the regular. In the bid to see the miraculous in our lives, we jettison the usual. Any man who cannot give attention to little cannot experience the great. The reason you haven’t seen the miraculous you are looking for is that you kept overlooking the ordinary. Without the ordinary rod of Moses, the Red Sea cannot be parted. The reason you haven’t experienced the multiplication in your finances is that you kept disregarding the little you have. Without the five loaves of bread and two fishes, Jesus cannot feed the five thousand. The widow in 2 Kings chapter four remained in debt until she recognized that the solution to her financial crisis was a bottle of oil around the corner of her room.",
+
+          textTwo:
+            "A lot of people want to meet great people. They want to have billionaires, governors, and important people in their circle, but they maltreat ordinary people. Without Saul’s servant, he will never be king. Without Mordecai, Esther would never be Queen. The ordinary people you disregard today may hold the key to your breakthrough tomorrow. Give attention to small things or people in your life because this is the door to your greatness. After Esau wasted his birthright through greed, he suddenly realized that a little blessing could change his life (Genesis 27:38)",
+
+          textThree:
+            "Give attention to the way you manage little opportunities. Your dream is to win an Oscar but how do you take the opportunity to act in a drama before the fifty members of your church? I know you want to sing to millions of people, but when you had the opportunity to back up for someone in the church, did you take that privilege seriously or it meant nothing to you? Your faithfulness to little things is what determines your access to great things. The way you treat the ordinary is what opens doors to the supernatural for you. Jesus appreciated the little bread and fish, he multiplied them. You complain and murmur about the little, that’s why it disappeared. The man with one talent complained and it was taken away from him.",
+          },
+          footerTitle: "MEDITATION",
+
+          footerText:
+            "Great opportunities are hidden in small ones. If you desire greater ones, appreciate the small ones and maximize them.",
+
+        // "footerTitleTwo": 'HAPPY NEW YEAR',
+
+        // "footerTextTwo": "●	Father in the name of Jesus, Pour a fresh grace of salvation upon this generation. Let souls begin to come into repentance in their millions. ●	Father in the name of Jesus, break the power of satan and sin in this generation. Let the stronghold of Satan be destroyed. ●	Gather in the name of Jesus, We command the light of Christ to shine upon everyone blinded by the devil. ●	father in the name of Jesus, we declare that the truth of the gospel begins to set the sinner free from the lies of the devil.●	Pray for your family and friends who are yet to come into the gospel. ",
+
+        "bibleReadingPlanTitle": '1-YEAR BIBLE READING PLAN',
+
+        "bibleReadingPlanText": "2 Samuel 1-3; Luke 18:1-17",
+      },
+      {
+        id: "446",
+
+        image:
+          " https://res.cloudinary.com/dmxfjy079/image/upload/v1705143662/DLD/ta4huorpy94dxyoswmzy.jpg",
+
+        uniqueDate: "Apr 22nd 25",
+
+        title: "GIVE ATTENTION TO “LITTLE” (PART 2)",
+
+        bibleVerse: "HEBREWS  12:16",
+
+        memoryVerse:
+          "Lest there be any fornicator or profane person like Esau, who for one morsel of food sold his birthright.",
+
+        studyBible: "GENESIS 25:29-34",
+
+        texts: {
+          textOne:
+            "The same way many little things determine your greatness, little things can also bring your downfall.  The greatest factors that have destroyed a lot of people are little mistakes. Great men have fallen because of little unfaithfulness. Little greed and covetousness were what destroyed Esau. One little disobedience was what destroyed the human race through Adam's sin. Little unforgiveness can take a man to hell. A little mistake can destroy a destiny. One fornication can result in HIV or unwanted pregnancy. Don’t joke with the tragedy little errors and mistakes can cause you.",
+
+          textTwo:
+            "Most times, a little bad attitude that you didn’t deal with may be what will deal with you in the future. Sometimes, the little weakness that you didn’t tackle may be what stands against you in the face of your greatest opportunity. Sometimes, the little things that you didn’t know in an exam are what bring a carryover in a course. Sometimes, one little thing you fail to do in an interview is what makes you lose the job.  You must know that sometimes, little things are what make all the difference. What destroyed Saul was a little mistake of offering the sacrifice when he was just supposed to wait for Samuel to come. He lost his kingdom through nastiness.",
+
+          textThree:
+            "It is little foxes that destroy the vine. Little things like not greeting people, coming late to meetings, not dressing well, carelessness, lack of planning and discipline, laziness, and sleepiness can destroy a man. With all the sacrifices that Moses made for God and the Israelites, he couldn’t get to the promise land because he struck the rock instead of touching his head.",
+          },
+          footerTitle: "MEDITATION",
+
+          footerText:
+            "Little mistakes can destroy great effort.",
+
+        // "footerTitleTwo": 'HAPPY NEW YEAR',
+
+        // "footerTextTwo": "●	Father in the name of Jesus, Pour a fresh grace of salvation upon this generation. Let souls begin to come into repentance in their millions. ●	Father in the name of Jesus, break the power of satan and sin in this generation. Let the stronghold of Satan be destroyed. ●	Gather in the name of Jesus, We command the light of Christ to shine upon everyone blinded by the devil. ●	father in the name of Jesus, we declare that the truth of the gospel begins to set the sinner free from the lies of the devil.●	Pray for your family and friends who are yet to come into the gospel. ",
+
+        "bibleReadingPlanTitle": '1-YEAR BIBLE READING PLAN',
+
+        "bibleReadingPlanText": "2 Samuel 4-6; Luke 18:18-43",
+      },
+      {
+        id: "447",
+
+        image:
+          " https://res.cloudinary.com/dmxfjy079/image/upload/v1705143662/DLD/ta4huorpy94dxyoswmzy.jpg",
+
+        uniqueDate: "Apr 23rd 25",
+
+        title: "UPDATE YOUR MIND",
+
+        bibleVerse: "ROMANS  12:2",
+
+        memoryVerse:
+          "Do not conform any longer to the pattern of this world, but be transformed by the renewing of your mind. Then you will be able to test and approve what God's will is — his good, pleasing and perfect will.",
+
+        studyBible: "MATTHEW 12:33-37",
+
+        texts: {
+          textOne:
+            "The mind is one of the most powerful components of your being. The mind refers to the core of your soul. Most times the Bible refers to it as the heart. The scriptures say a lot about it, for instance, “Out of the heart flows the issues of life” (Proverbs 4:23) “As a man thinks in his heart so is he” (Proverbs 23:7) “Out of the good treasure of the heart, brings good things” (Matthew 12:35). Your life could be out of order if you don’t know how to use this powerful engine called the mind.",
+
+          textTwo:
+            "The mind is like the operating system of a computer. It defines the capacity of the system. I just purchased an iPad recently and I was installing some apps that can help me to be more productive. The iPad was not a recent version, it was made a few years back. I went to Apple store to download a particular app and once I pressed download, it brought up this message “This Application Requires IOS 14 or later. You must update to IOS 14 to download or use this application”. Then God began to teach me some lessons here.",
+
+          textThree:
+            "There are many things available to us as children of God in Christ but we can’t download them because our mind is obsolete. We know that it’s available but every attempt to access it proves abortive. This is because our minds (IOS system) require a more recent version to be able to access and use that application (blessing). Sometimes, we are shut from accessing a realm we used to access because the criteria to now access it has been upgraded and we will need the upgrade of our mind. The fact that it’s available doesn’t mean it’s accessible. There is a requirement that makes it usable.",
+
+          textFour:
+            "Upgrading your mind requires constant openness to the workings of the Spirit. It takes enlarging your capacity to be able to dream bigger for God. It may require longer hours of prayer, fasting, studying, and staying in God’s presence. It may require loving more or being more merciful to others. You may need to have more faith. You need to find out what you need to upgrade to access the realm you desire.",
+          },
+          footerTitle: "MEDITATION",
+
+          footerText:
+            "Whatever it requires, ensure your operating system is updated so that you can enjoy up-to-date blessings.",
+
+        // "footerTitleTwo": 'HAPPY NEW YEAR',
+
+        // "footerTextTwo": "●	Father in the name of Jesus, Pour a fresh grace of salvation upon this generation. Let souls begin to come into repentance in their millions. ●	Father in the name of Jesus, break the power of satan and sin in this generation. Let the stronghold of Satan be destroyed. ●	Gather in the name of Jesus, We command the light of Christ to shine upon everyone blinded by the devil. ●	father in the name of Jesus, we declare that the truth of the gospel begins to set the sinner free from the lies of the devil.●	Pray for your family and friends who are yet to come into the gospel. ",
+
+        "bibleReadingPlanTitle": '1-YEAR BIBLE READING PLAN',
+
+        "bibleReadingPlanText": "2 Samuel 7-9; Luke 19:1-28",
+      },
+      {
+        id: "448",
+
+        image:
+          " https://res.cloudinary.com/dmxfjy079/image/upload/v1705143662/DLD/ta4huorpy94dxyoswmzy.jpg",
+
+        uniqueDate: "Apr 24th 25",
+
+        title: "PLANNING FOR SUCCESSFUL MARRIAGE",
+
+        bibleVerse: "GENESIS 2:24",
+
+        memoryVerse:
+          "'Therefore a man shall leave his father and his mother and hold fast to his wife, and they shall become one flesh.'",
+
+        studyBible: "ECCLESIASTES 4:9-12",
+
+        texts: {
+          textOne:
+            "The reason evil often prevails against good is because they are more strategic about their plans. The people Satan relied on to perpetuate his evil agenda are often committed to their plans while we believers barely have a plan. Devil and his agents are futuristic thinkers, while most believers only think of the short term and often use fire brigade methods to solve problems. It is no news that divorce in marriages is on an upsurge and this is because the enemy has carefully mastered a plan for destroying homes. Will you allow your marriage to also end the way others ended? The key is in planning.",
+
+          textTwo:
+            "This is the strategy of Satan in attacking marriages and homes. Most of the problems in our marriages today do start in marriage. Most of them started when their partners were still single. All that the devil needs to destroy a marriage that will happen in ten years is to make a disoriented, frustrated, and misdirected young man or woman. He introduces hurt, heartbreaks, confusion, hate, bitterness, and depression into the lives of young people who are supposed to be a husband or a wife long before they even start thinking about marriage.",
+
+          textThree:
+            "He introduces pornography, drug addictions, and wrong friends into the life of a man who is supposed to be a father in ten years. Most of the habits and behaviours that break the home today are things they have struggled with as singles. The devil destroys homes ten or fifteen years before the marriage even takes place. Ignorantly, we only start preparing and praying for marriage when we are six months away from the wedding. What a mistake. Most times, we already lost the battle before we even started and that is why domestic violence, separation, and divorce is on the increase in our society. The best time to start preparing for your marriage is when you are not ready to marry. Your single season is the best time to become the best husband and father, not when you are married. Start preparing now.",
+
+          },
+          footerTitle: "MEDITATE",
+
+          footerText:
+            "Marriage doesn't cover your weaknesses as singles, rather it is what exposes and amplifies your flaws.",
+
+        // "footerTitleTwo": 'HAPPY NEW YEAR',
+
+        // "footerTextTwo": "●	Father in the name of Jesus, Pour a fresh grace of salvation upon this generation. Let souls begin to come into repentance in their millions. ●	Father in the name of Jesus, break the power of satan and sin in this generation. Let the stronghold of Satan be destroyed. ●	Gather in the name of Jesus, We command the light of Christ to shine upon everyone blinded by the devil. ●	father in the name of Jesus, we declare that the truth of the gospel begins to set the sinner free from the lies of the devil.●	Pray for your family and friends who are yet to come into the gospel. ",
+
+        "bibleReadingPlanTitle": '1-YEAR BIBLE READING PLAN',
+
+        "bibleReadingPlanText": "2 Samuel 10-12; Luke 19:29-48",
+      },
+      {
+        id: "449",
+
+        image:
+          " https://res.cloudinary.com/dmxfjy079/image/upload/v1705143662/DLD/ta4huorpy94dxyoswmzy.jpg",
+
+        uniqueDate: "Apr 25th 25",
+
+        title: "PLANNING FOR MARRIAGE 2",
+
+        bibleVerse: "GENESIS 2:18",
+
+        memoryVerse:
+          "The Lord God said, it is not good for the man to be alone. I will make him a helper suitable for him.",
+
+        studyBible: "PSALMS 119:9-10",
+
+        texts: {
+          textOne:
+            "The journey to a happy marriage is an intentional one, so it starts from the day we are born. A failed marriage can be a mistake but you can never succeed in marriage. Everything you do, what you are exposed to, the school you attend, the friends you keep, the career you choose, your belief systems, value systems, and philosophy, all have an impact on the kind of marriage you will have. If you ever plan to be married one day, you must prepare for it all the days of your single life.",
+
+          textTwo:
+            "You can't live carelessly as a single person and expect to live happily in marriage. Many single ladies today live anyhow thinking they will be serious when they are ready to settle down. Several single guys sleep with everything in skirts thinking they will find a wife material when they are ready to marry and they will be faithful. It doesn’t work that way. You must protect and keep yourself for your man or woman.",
+
+          textThree:
+            "The battles that conquer you in marriage are the weaknesses you refuse to defeat while you are single. People have trust issues in marriage today because their previous relationships were a mess. Some cannot truly love their spouse because they did not totally heal from the hurt in previous relationships. Many marriages are defeated today not because of the defect of their spouse but because of attachment to their ex. Some marriages are broken because of addictions to porn, masturbation, or sex.",
+
+          textFour:
+            "As a single lady or man, you must protect your heart. Watch and pray carefully before going into a relationship. Overcome your personal challenges that could impede your success in marriage. Don’t expect your weaknesses to suddenly disappear in marriage. Start by allowing the Spirit to lead you into any relationship. I pray that you will have the best of marriage on earth.",
+
+          },
+          footerTitle: "MEDITATION",
+
+          footerText:
+            "The battles that conquer us in marriage are the weaknesses we refuse to defeat while we are single.",
+
+        // "footerTitleTwo": 'HAPPY NEW YEAR',
+
+        // "footerTextTwo": "●	Father in the name of Jesus, Pour a fresh grace of salvation upon this generation. Let souls begin to come into repentance in their millions. ●	Father in the name of Jesus, break the power of satan and sin in this generation. Let the stronghold of Satan be destroyed. ●	Gather in the name of Jesus, We command the light of Christ to shine upon everyone blinded by the devil. ●	father in the name of Jesus, we declare that the truth of the gospel begins to set the sinner free from the lies of the devil.●	Pray for your family and friends who are yet to come into the gospel. ",
+
+        "bibleReadingPlanTitle": '1-YEAR BIBLE READING PLAN',
+
+        "bibleReadingPlanText": "2 Samuel 13-14; Luke 20:1-26",
+      },
+      {
+        id: "450",
+
+        image:
+          " https://res.cloudinary.com/dmxfjy079/image/upload/v1705143662/DLD/ta4huorpy94dxyoswmzy.jpg",
+
+        uniqueDate: "Apr 26th 25",
+
+        title: "PLANNING FOR MARRIAGE 3",
+
+        bibleVerse: "GENESIS 2:18",
+
+        memoryVerse:
+          "The Lord God said, it is not good for the man to be alone. I will make him a helper suitable for him.",
+
+        studyBible: "GENESIS 24:11-27",
+
+        texts: {
+          textOne:
+            "Today, let us consider signs that show that you are ready for marriage. Once again let me state that marriage is for men, not boys and it's for women not girls. You do not get married because you are biologically endowed with protruded mammary glands or because you now have six pack. You do not get married because all your mates are married, or because you are getting old, or because your parents want you married. Some signs will show you that you are ready for it.",
+
+          textTwo:
+            "Top of the list is spiritual maturity. Marriage is spiritual and I will advise you not to get married as a babe in the spirit. This does not have anything to do with how long you have been in church. As a growing believer ready to marry, you must be able to know how God speaks to you. God must lead you to the person you will marry. Many believers today want their pastor to choose for them because they can't hear God for themselves. If you can't hear God for yourself concerning marriage, then you are not ready.",
+
+          textThree:
+            "You are ready to marry when you have discovered your purpose and assignment in life. It is dangerous to marry a man or woman who doesn't know why he or she is living. When I asked my wife to marry me, the question she asked me was what my purpose was and I was ready to reply because I knew it. If you don't know your purpose in life, I bet you won’t know the purpose of marriage. This is why many people abuse the marriage institution.",
+
+          textFour:
+            "If you can't handle complex situations in your everyday life, you are not ready for marriage. Marriage is about solving problems, not once in a while but every time. If you are always overwhelmed by little tasks or you get angry at little things, marriage is not for you yet. In a nutshell, I will say that you must be manifesting the fruits of the spirit before you get into marriage because you will need it. Emotional maturity is a must.",
+
+          },
+          footerTitle: "MEDITATION",
+
+          footerText:
+            "If you can't handle complex situations in your everyday life, you are not ready for marriage.",
+
+        // "footerTitleTwo": 'HAPPY NEW YEAR',
+
+        // "footerTextTwo": "●	Father in the name of Jesus, Pour a fresh grace of salvation upon this generation. Let souls begin to come into repentance in their millions. ●	Father in the name of Jesus, break the power of satan and sin in this generation. Let the stronghold of Satan be destroyed. ●	Gather in the name of Jesus, We command the light of Christ to shine upon everyone blinded by the devil. ●	father in the name of Jesus, we declare that the truth of the gospel begins to set the sinner free from the lies of the devil.●	Pray for your family and friends who are yet to come into the gospel. ",
+
+        "bibleReadingPlanTitle": '1-YEAR BIBLE READING PLAN',
+
+        "bibleReadingPlanText": "2 Samuel 15-16; Luke 20:27-47",
+      },
+      {
+        id: "451",
+
+        image:
+          " https://res.cloudinary.com/dmxfjy079/image/upload/v1705143662/DLD/ta4huorpy94dxyoswmzy.jpg",
+
+        uniqueDate: "Apr 27th 25",
+
+        title: "OBEDIENCE TO GOD",
+
+        bibleVerse: "1 SAMUEL 15:21",
+
+        memoryVerse:
+          "So Samuel said: “Has the Lord as great delight in burnt offerings and sacrifices, As in obeying the voice of the Lord? Behold, to obey is better than sacrifice, And to heed than the fat of rams.",
+
+        studyBible: "1 SAMUEL 15:1-24",
+
+        texts: {
+          textOne:
+            "One of the toughest responsibilities of a believer is the prompt response and obedience to God’s assignment or instructions. It is our duty to obey Him, but obedience can be tough if I must admit (Jn 2:5) sometimes. Because His ways are not our ways, His instructions sometimes may be word.  Even though His laws are not burdensome and His yoke is easy, we are often shortsighted and weak.",
+
+          textTwo:
+            "I have come to realize that we do not find the strength and grace we need until we obey (1Jn 5:3). One of the reasons we find it difficult to obey God’s instructions is because He often asks us to do things beyond our present capacity, strength,  wisdom, grace, anointing, or vision.  He asks us to do things that are practically impossible.  At times they are things that make no sense. There is no way the widow in 2 Kings four could have thought her huge debt could be paid through a bottle of oil in her house (2 Kings 4:1-7).",
+
+          textThree:
+            "Most times when we receive God’s instructions, we look at our own capacity to carry it out. We quickly check our account balance, certificates and CV, but you know you don’t always qualify. The truth is, God does not expect us to carry out His assignments on our own credit, strength, or resources. When God gives you an assignment, He already funded it, but you won’t receive the fund until you obey (1 Cor 9:7). When He gives you a vision, He supplies the resources. When He asks you to do something, He supplies the grace",
+
+          textFour:
+            "In year 2011, God gave me a book idea. I did nothing about it, but God kept reminding me. I kept thinking I don’t have what it takes to do it. In 2014, one of the youths who served under me invited me to her book launch.  As I held the book, it was the title God told me, as I flipped through the pages, many of its messages were things God was telling me to share. Since then, I learnt a big lesson, when God gives an assignment, He gives strength, grace, resources, and support. So, delay is dangerous. We must trust God enough to step out in the dark. We must trust him to help our frailty. It’s not just enough to admit our weakness, we must accept His strength.",
+
+          },
+          footerTitle: "CONFESSION",
+
+          footerText:
+            "Father, I trust you for grace to obey you always even when it is tough.  I do not consider my own weaknesses and inadequacies. I plugged into your life support system. I rely on your UNDESERVED grace, infinite resources, limitless capacity, unfathomable wisdom, and your indomitable strength  to always do your will. I trust you absolutely.",
+
+        // "footerTitleTwo": 'HAPPY NEW YEAR',
+
+        // "footerTextTwo": "●	Father in the name of Jesus, Pour a fresh grace of salvation upon this generation. Let souls begin to come into repentance in their millions. ●	Father in the name of Jesus, break the power of satan and sin in this generation. Let the stronghold of Satan be destroyed. ●	Gather in the name of Jesus, We command the light of Christ to shine upon everyone blinded by the devil. ●	father in the name of Jesus, we declare that the truth of the gospel begins to set the sinner free from the lies of the devil.●	Pray for your family and friends who are yet to come into the gospel. ",
+
+        "bibleReadingPlanTitle": '1-YEAR BIBLE READING PLAN',
+
+        "bibleReadingPlanText": "2 Samuel 17-18; Luke 21:1-19",
+      },
+      {
+        id: "452",
+
+        image:
+          " https://res.cloudinary.com/dmxfjy079/image/upload/v1705143662/DLD/ta4huorpy94dxyoswmzy.jpg",
+
+        uniqueDate: "Apr 28th 25",
+
+        title: "KNOWING THE WILL OF GOD",
+
+        bibleVerse: "HEBREWS 5:14",
+
+        memoryVerse:
+          "But solid food belongs to those who are of full age, that is, those who by reason of use have their senses exercised to discern both good and evil.",
+
+        studyBible: "HEBREWS 5:12-14",
+
+        texts: {
+          textOne:
+            "One of the major problems among many Christians is the inability to discern what the will of God is. It is sad that many believers today are still babes when it comes to knowing accurately what God's will is in some important matter of their lives. There is no way you can obey God when you can't simply discern what His will for you is. This is why many believers today just do guesswork. They keep trying one thing to another, guessing what they think God will want them to do.  God doesn't want us to guess or assume as regards His will. He wants us to be sure.",
+
+          textTwo:
+            "This kind of life does not only displease God but also wastes our time, resources, and energy. However, God did not leave us without clearly stating what His will is for every area of our lives. Most times this problem comes as a result of our immaturity in Christ.  Remaining a babe in Christ makes your spiritual senses underdeveloped. Don't be deceived, being born again does not release to you all that you are in Christ. It gives you access but you must develop some spiritual stamina to be able to take them.",
+
+          textThree:
+            "You must grow to take dominion and experience what it means to be a kingdom citizen. Knowledge is what helps you to reign in this kingdom. Until you grow up you won’t be able to exercise your power as a child of God. The purpose of a new birth is not just salvation, it is maturity in Christ.",
+
+          },
+          footerTitle: "CONFESSION",
+
+          footerText:
+            "I grow in the things of the Spirit. My spiritual senses are mature and sharp. I know what the will of God is for my life, ministry, business, family, and education. I’m not ignorant of His will on earth. I walk in His will.",
+
+        // "footerTitleTwo": 'HAPPY NEW YEAR',
+
+        // "footerTextTwo": "●	Father in the name of Jesus, Pour a fresh grace of salvation upon this generation. Let souls begin to come into repentance in their millions. ●	Father in the name of Jesus, break the power of satan and sin in this generation. Let the stronghold of Satan be destroyed. ●	Gather in the name of Jesus, We command the light of Christ to shine upon everyone blinded by the devil. ●	father in the name of Jesus, we declare that the truth of the gospel begins to set the sinner free from the lies of the devil.●	Pray for your family and friends who are yet to come into the gospel. ",
+
+        "bibleReadingPlanTitle": '1-YEAR BIBLE READING PLAN',
+
+        "bibleReadingPlanText": "2 Samuel 19-20; Luke 21:20-38",
+      },
+      {
+        id: "453",
+
+        image:
+          " https://res.cloudinary.com/dmxfjy079/image/upload/v1705143662/DLD/ta4huorpy94dxyoswmzy.jpg",
+
+        uniqueDate: "Apr 29th 25",
+
+        title: "KNOWING THE WILL OF GOD 2",
+
+        bibleVerse: "MATTHEW 26:39",
+
+        memoryVerse:
+          "Again, a second time, He went away and prayed, saying, “O My Father, if this cup cannot pass away from Me unless I drink it, Your will be done.”",
+
+        studyBible: "MATTHEW 26:36-43 ",
+
+        texts: {
+          textOne:
+            "God created you as a soul being. This means you have an independent will, an independent mind, and freedom of choice. What makes a man like God is the choice He gave you to choose. God does not compel a man to do His will, even Jesus had a choice not to die, but He submitted to God's will.",
+
+          textTwo:
+            "It is impossible to please God without knowing His will. There is the will of God for your marriage, education, career, place of residence, ministry, organization, and so on. You can either follow your own will, follow the devil's will, or decide to follow the will of God. Each one comes with its own consequences. Following your own will in matters of eternity might be dangerous. Prov14:12 There is a way that seems right to a man, But its end is the way of death ",
+
+          textThree:
+            "Following Satan's will surely leads to death but following God's will surely leads to life. (John 10:10 The thief does not come except to steal, and to kill, and to destroy. I have come that they may have life and that they may have it more abundantly). The true sign of brokenness as a believer is the ability to submit your will to God's will. Jesus demonstrated this and laid an example for us to follow.  Following God's will may not be comfortable but it is profitable, it may be hard but it's useful. You are not broken as a believer until you totally allow His will to take preeminence over yours.",
+
+          },
+          footerTitle: "PRAYER",
+
+          footerText:
+            "LORD let your will be done in my entire life. Help me to always submit my will to yours especially when it’s difficult to do.",
+
+        // "footerTitleTwo": 'HAPPY NEW YEAR',
+
+        // "footerTextTwo": "●	Father in the name of Jesus, Pour a fresh grace of salvation upon this generation. Let souls begin to come into repentance in their millions. ●	Father in the name of Jesus, break the power of satan and sin in this generation. Let the stronghold of Satan be destroyed. ●	Gather in the name of Jesus, We command the light of Christ to shine upon everyone blinded by the devil. ●	father in the name of Jesus, we declare that the truth of the gospel begins to set the sinner free from the lies of the devil.●	Pray for your family and friends who are yet to come into the gospel. ",
+
+        "bibleReadingPlanTitle": '1-YEAR BIBLE READING PLAN',
+
+        "bibleReadingPlanText": "2 Samuel 21-22; Luke 22:1-30",
+      },
+      {
+        id: "454",
+
+        image:
+          " https://res.cloudinary.com/dmxfjy079/image/upload/v1705143662/DLD/ta4huorpy94dxyoswmzy.jpg",
+
+        uniqueDate: "Apr 30th 25",
+
+        title: "KNOWING THE WILL OF GOD 3",
+
+        bibleVerse: "2 TIMOTHY 3:16",
+
+        memoryVerse:
+          "All Scripture is given by inspiration of God, and is profitable for doctrine, for reproof, for correction, for instruction in righteousness,",
+
+        studyBible: "PSALMS 119:97-104",
+
+        texts: {
+          textOne:
+            "The big questions are 'Is it possible to know the will of God for your life in every situation?' and 'How can you know the will for your life?' It is very possible to know God's will for you in every area of your life. In fact, it is the will of God that you know and it is necessary also. So, how do I know the will of God for your life?",
+
+          textTwo:
+            "First, the Scripture is the written will of God to all men, especially believers. It is the inspired will of God compiled by holy men as they were moved by the Holy Spirit. Through the bible, you can know the general will of God for the world, this age, and your own life. No personal revelation of God’s will supersede the written will of God in the  Bible. The scripture is the manual for a believer. For instance, no amount of revelation can justify a man marrying a man. It is clearly written that a mature man can only marry a mature woman. Also, it’s in the written will of God that He wants you to prosper and be in good health. You don't need to ask God if it is His will for you to stay in lack and sickness again because it is clearly written. ",
+
+          textThree:
+            "Also, there is the specific or revealed will of God. The bible may not tell you what course to study, the name of your spouse, where to live, or what career to take. He reveals this to you by revelation either through vision, dream, audible voice, or inner voice. To know some specific direction for your life, God must speak to you in specific terms. However, the revealed will doesn't contradict the written will of God. Rather, they support and complement each other.",
+
+          },
+          footerTitle: "CONFESSION ",
+
+          footerText:
+            "I receive the power to know and follow your will for my life. My eyes and ears are opened to receive the revealed will of God for my marriage, business, academics, career, and life.",
+
+        // "footerTitleTwo": 'HAPPY NEW YEAR',
+
+        // "footerTextTwo": "●	Father in the name of Jesus, Pour a fresh grace of salvation upon this generation. Let souls begin to come into repentance in their millions. ●	Father in the name of Jesus, break the power of satan and sin in this generation. Let the stronghold of Satan be destroyed. ●	Gather in the name of Jesus, We command the light of Christ to shine upon everyone blinded by the devil. ●	father in the name of Jesus, we declare that the truth of the gospel begins to set the sinner free from the lies of the devil.●	Pray for your family and friends who are yet to come into the gospel. ",
+
+        "bibleReadingPlanTitle": '1-YEAR BIBLE READING PLAN',
+
+        "bibleReadingPlanText": "2 Samuel 23-24; Luke 22:31-53",
+      },
+      {
+        id: "455",
+
+        image:
+          " https://res.cloudinary.com/dmxfjy079/image/upload/v1705143662/DLD/ta4huorpy94dxyoswmzy.jpg",
+
+        uniqueDate: "May 1st 25",
+
+        title: "WHILE YOU WAIT, GROW",
+
+        bibleVerse: "HEBREWS 6:12",
+
+        memoryVerse:
+          "That you do not become sluggish but imitate those who through faith and patience inherit the promises.",
+
+        studyBible: "HABAKKUK 2:1-3",
+
+        texts: {
+          textOne:
+            "There is a lot we can learn from farming. Lots of life’s principles are ingrained in farming. When you plant a seed, you expect a harvest but you do not expect it the next day. There are various durations a seed takes before harvest depending on the type of seed. Anyway, what we do between the time of planting and harvesting is a principle we must apply to other aspects of our lives. We wait, but what are we waiting for? We wait for the plant to grow. But do you know that it’s not only the plant that grows, we grow too. It is not the waiting that matters but what you do while waiting. If you wait without growing, your waiting is a waste of time.",
+
+          textTwo:
+            "A lot of us receive great promises from God, we have great visions and dreams, and we have amazing prophecies surrounding us, but what do we do? We wait and do nothing thinking with time, what God has promised will be done. Well, promises are not fulfilled with time, they are fulfilled with growth. What you plant never becomes fruitful just by staying in the ground and waiting for the time to pass, it grows. The magic is in the growth. Your waiting season is not the time to complain about the situation. It’s the time to cultivate your garden. Your waiting season is the time to develop capacity and build your character. It is when the harvest comes that you will be tempted to be proud, arrogant, lazy and indulge in sin.",
+
+          textThree:
+            "The children of Israel didn't realise that the reason God took them forty years through the wilderness is for them to outgrow Egypt in them. God gave them the window of forty years so that they can transform their mind from slavery to freedom. But instead, they were busy complaining. Your waiting season is the season to learn patience, faith, perseverance, suffering, love, and become a better person. This is what will help you sustain your harvest. In fact, it is what will determine your harvest. God knows that if you can survive the darkness of waiting, then you can sustain the brightness of the promise. The inability to grow while you wait can sabotage your harvest.",
+
+          },
+          footerTitle: "MEDITATION",
+
+          footerText:
+            "Grow while you wait.",
+
+        // "footerTitleTwo": 'HAPPY NEW YEAR',
+
+        // "footerTextTwo": "●	Father in the name of Jesus, Pour a fresh grace of salvation upon this generation. Let souls begin to come into repentance in their millions. ●	Father in the name of Jesus, break the power of satan and sin in this generation. Let the stronghold of Satan be destroyed. ●	Gather in the name of Jesus, We command the light of Christ to shine upon everyone blinded by the devil. ●	father in the name of Jesus, we declare that the truth of the gospel begins to set the sinner free from the lies of the devil.●	Pray for your family and friends who are yet to come into the gospel. ",
+
+        "bibleReadingPlanTitle": '1-YEAR BIBLE READING PLAN',
+
+        "bibleReadingPlanText": "1 Kings 1-2; Luke 22:54-71",
+      },
+      {
+        id: "456",
+
+        image:
+          " https://res.cloudinary.com/dmxfjy079/image/upload/v1705143662/DLD/ta4huorpy94dxyoswmzy.jpg",
+
+        uniqueDate: "May 2nd 25",
+
+        title: "PUT YOUR HOPE IN THE LORD",
+
+        bibleVerse: "PSALMS 43:5",
+
+        memoryVerse:
+          "Why are you cast down, O my soul? And why are you disquieted within me? Hope in God; For I shall yet praise Him, The help of my countenance and my God.",
+
+        studyBible: "PSALMS 34:1-8",
+
+        texts: {
+          textOne:
+            "We live in troubled times all over the world. There hasn't been any time in history when the world is in more chaos than now. There is high insecurity with the rise of terrorism, kidnapping and tribal conflict. Nations are going to war against one another. Earthquakes and natural disasters are happening more often. The outbreak of strange diseases on a global scale, and food scarcity birthing hunger in many nations. Economic instability and meltdown all over the nations. It is very easy to be discouraged and sad. Above all, the leaders seem to have failed due to their cluelessness in tackling many of these problems. If the leaders have failed, what then do we do? Who then do we trust and run to? The answer is God.",
+
+          textTwo:
+            "Amid the doom and gloom in the world, God has promised those who trust in Him will never be put to shame. In these troubling times, there is nowhere to run to. Even the developed nations have their share in these crises. The only place we can all run to is Jesus. The only place where you can find comfort, peace, and security is in Christ. Trust me, no government can guarantee your tomorrow. Your future is only secured in Christ. Sadly, it might get worse in the world, but it will get better for you because you are a child of God.",
+
+          textThree:
+            "Put your trust in God. Be positive about the outcome of your destiny. It is your Father’s pleasure to give you the kingdom. Don’t allow what is going on around you to determine your destiny. The fact that your country is bankrupt doesn't mean your life is bankrupt. Know your heritage in Christ and praise God for it. Encourage yourself in the word of God. Don’t allow your soul to be downcasted. It is easy to be when you look around but look unto God. Put your faith in Him and you won’t be disappointed. He has never for once disappointed His children. But you must focus on His goodness and not on what is going on around you.",
+
+          },
+          footerTitle: "CONFESSION",
+
+          footerText:
+            "LORD, I trust you absolutely.",
+
+        // "footerTitleTwo": 'HAPPY NEW YEAR',
+
+        // "footerTextTwo": "●	Father in the name of Jesus, Pour a fresh grace of salvation upon this generation. Let souls begin to come into repentance in their millions. ●	Father in the name of Jesus, break the power of satan and sin in this generation. Let the stronghold of Satan be destroyed. ●	Gather in the name of Jesus, We command the light of Christ to shine upon everyone blinded by the devil. ●	father in the name of Jesus, we declare that the truth of the gospel begins to set the sinner free from the lies of the devil.●	Pray for your family and friends who are yet to come into the gospel. ",
+
+        "bibleReadingPlanTitle": '1-YEAR BIBLE READING PLAN',
+
+        "bibleReadingPlanText": "1 Kings 3-5; Luke 23:1-26",
+      },
+      {
+        id: "457",
+
+        image:
+          " https://res.cloudinary.com/dmxfjy079/image/upload/v1705143662/DLD/ta4huorpy94dxyoswmzy.jpg",
+
+        uniqueDate: "May 3rd 25",
+
+        title: "DEALING WITH DEPRESSION (PART 1)",
+
+        bibleVerse: "PROVERBS 17:22",
+
+        memoryVerse:
+          "A cheerful heart is a good medicine, but a broken spirit saps a person’s strength.",
+
+        studyBible: "JOB 3:11-13",
+
+        texts: {
+          textOne:
+            "Depression is almost a common thing even among believers today. Irrespective of age, gender, class, status, or race, everyone has suffered from depression at one point in their lives. The rich get depressed as much as the poor. Though there is a clinical diagnosis for depression, however, it is majorly an attack directly or indirectly caused by our adversary, the devil. Since it is not the fruit of the Spirit, then it is the work of darkness. Depression is a demonic cloud over your soul.",
+
+          textTwo:
+            "Depression is caused by three underlying factors, namely hurts, bitterness, and hopelessness. Hurts can be a result of disappointment, heartbreak, physical pain, and failure. Bitterness is a product of the hurt, it manifests as hatred towards people or yourself, phobias towards things, pain in the mind, and many more. Then hopelessness happens when you can't see a way out of the situation, which makes people give up because they can't see any light at the end of the tunnel. This is when depression happens.",
+
+          textThree:
+            "The results of depression are diverse. Some people automatically become unproductive and some slip into some form of addiction. It might be food, sleep, drugs, or sexual addiction. Some resort to hurting themselves, and in critical cases, suicide is possible. The worst of all these causes is hopelessness. Don’t ever get to a point where you lose hope. Once hope is lost, everything is lost. A man without hope has no reason to live. This is why depression can lead to suicide. When depression sets in, there is a voice that speaks to you. A voice that tells you that you are useless. Nobody cares about you, and all sorts of evil things. This is why it must be tackled not just clinically, but spiritually. ",
+
+          },
+          footerTitle: "PRAYER",
+
+          footerText:
+            "I take authority over every spirit of depression in my life, family and friends. Every voice of strangers is silenced permanently in Jesus name.",
+
+        // "footerTitleTwo": 'HAPPY NEW YEAR',
+
+        // "footerTextTwo": "●	Father in the name of Jesus, Pour a fresh grace of salvation upon this generation. Let souls begin to come into repentance in their millions. ●	Father in the name of Jesus, break the power of satan and sin in this generation. Let the stronghold of Satan be destroyed. ●	Gather in the name of Jesus, We command the light of Christ to shine upon everyone blinded by the devil. ●	father in the name of Jesus, we declare that the truth of the gospel begins to set the sinner free from the lies of the devil.●	Pray for your family and friends who are yet to come into the gospel. ",
+
+        "bibleReadingPlanTitle": '1-YEAR BIBLE READING PLAN',
+
+        "bibleReadingPlanText": "1 Kings 6-7; Luke 23:27-38",
+      },
+      {
+        id: "458",
+
+        image:
+          " https://res.cloudinary.com/dmxfjy079/image/upload/v1705143662/DLD/ta4huorpy94dxyoswmzy.jpg",
+
+        uniqueDate: "May 4th 25",
+
+        title: "DEALING WITH DEPRESSION (PART 2)",
+
+        bibleVerse: "1 THESSALONIANS 5:16",
+
+        memoryVerse:
+          "Rejoice always,",
+
+        studyBible: "1 SAMUEL 20:1-6",
+
+        texts: {
+          textOne:
+            "Today, let's discuss how you can deal with depression and overcome it. People are often depressed over little issues, such as failing an examination. I recently heard about a sixteen-year-old girl who committed suicide because she had a credit instead of a distinction in one of her subjects in WAEC. Some are depressed over more serious issues, such as losing a marriage or a business. However, the same principles will help you stay out of it. You cannot stop hurt from coming. You can’t run away from failures, disappointment, and heartbreaks, but you can determine how you react to them.",
+
+          textTwo:
+            "Firstly, be encouraged in the Lord. There are lots of situations that can discourage and make you hopeless. But never forget that Jesus is your hope of glory. David encouraged himself in God.  To whom God was pleased to make known what is the riches of the glory of this mystery among the Gentiles, which is Christ in you, the hope of glory.—Colossians 1:27. Jesus is your anchor of hope in troubled times. You might not know how He will do it but be sure He will show up.",
+
+          textThree:
+            "Second, choose joy over sorrow. Sorrow precedes depression. If the enemy can't steal your joy then you can't be depressed. There is no happy depressed man. To choose joy, be grateful for things that are working in your life over things that aren't working. ",
+
+          textFour:
+            "Third, believe that all things work together for you. God often uses our fall to make us stronger. He uses our pain to make us better. The process might not be easy but you will always come out better. But he knows the way that I take; when he has tested me, I will come forth as gold-Job 23:10.  Jesus will never leave you nor forsake you. A man of faith is never depressed. Lastly, grow in the fruit of the spirit. It will be impossible to be depressed when the fruit of the spirit is at work in you.",
+
+          },
+          footerTitle: "CONFESSION",
+
+          footerText:
+            "The joy of the Lord is my portion. I refused to be depressed. I choose joy over sorrow. I bear the fruit of the spirit.",
+
+        // "footerTitleTwo": 'HAPPY NEW YEAR',
+
+        // "footerTextTwo": "●	Father in the name of Jesus, Pour a fresh grace of salvation upon this generation. Let souls begin to come into repentance in their millions. ●	Father in the name of Jesus, break the power of satan and sin in this generation. Let the stronghold of Satan be destroyed. ●	Gather in the name of Jesus, We command the light of Christ to shine upon everyone blinded by the devil. ●	father in the name of Jesus, we declare that the truth of the gospel begins to set the sinner free from the lies of the devil.●	Pray for your family and friends who are yet to come into the gospel. ",
+
+        "bibleReadingPlanTitle": '1-YEAR BIBLE READING PLAN',
+
+        "bibleReadingPlanText": "1 Kings 8-9; Luke 23:39-56",
+      },
+      {
+        id: "459",
+
+        image:
+          " https://res.cloudinary.com/dmxfjy079/image/upload/v1705143662/DLD/ta4huorpy94dxyoswmzy.jpg",
+
+        uniqueDate: "May 5th 25",
+
+        title: "THE STORY IS FOR THE GLORY",
+
+        bibleVerse: "EXODUS 14:17",
+
+        memoryVerse:
+          "I will harden the hearts of the Egyptians so that they will go in after them. And I will gain glory through Pharaoh and all his army, through his chariots and his horsemen",
+
+        studyBible: "JOHN 9:1-7",
+
+        texts: {
+          textOne:
+            "The challenges in your life are glories in disguise; the problems you face today are opportunities in disguise. Hidden in those tests are great testimonies. As a believer, you need to know that a furnace is a place of making and grooming. Challenges cannot break you as a believer, they only make you better. God allows challenges to come to you because He wants to reveal His glory in you and not because He hates you. Have this in your mind that every challenge you face is for the glory of His name. They all surely will end in praise.",
+
+          textTwo:
+            "Therefore, the bigger the problems, the greater the glory to be revealed. Great destinies often face hard times. God wants to reveal His greatness even in your lowly state, His power in your sickness, His strength in your weakness, His wealth in your lack, and His purpose in your hopelessness. God wants to make a bold statement about your life. Just like the blind man in the passage above, God wants to reveal His work through you. No suffering, no glory. God will not prevent the enemies from pursuing you, but He makes sure they don’t catch up with you. He allowed the Egyptians to pursue the Israelites, but only to end up in the belly of the sea. The problems pursuing you cannot overtake you. It is to reveal the power of God in your life.",
+
+          textThree:
+            "This is why God doesn’t want you to focus on your problems and suffering, rather He wants you to focus on moving towards the glory (Heb 12:2: looking unto Jesus, the author and finisher of our faith, who for the joy that was set before Him endured the cross, despising the shame, and has sat down at the right hand of the throne of God). Don’t be distracted by the noise of the advancing Egyptian chariot, rather keep moving forward. Your miracle is in your forward movement.",
+
+          },
+          footerTitle: "CONFESSION",
+
+          footerText:
+            "I see glory not suffering, God is on my side. All things work together for my good. Even in my suffering, I come forth as gold. I press on, I move forward in Jesus' name. The Story is for my Glory.",
+
+        // "footerTitleTwo": 'HAPPY NEW YEAR',
+
+        // "footerTextTwo": "●	Father in the name of Jesus, Pour a fresh grace of salvation upon this generation. Let souls begin to come into repentance in their millions. ●	Father in the name of Jesus, break the power of satan and sin in this generation. Let the stronghold of Satan be destroyed. ●	Gather in the name of Jesus, We command the light of Christ to shine upon everyone blinded by the devil. ●	father in the name of Jesus, we declare that the truth of the gospel begins to set the sinner free from the lies of the devil.●	Pray for your family and friends who are yet to come into the gospel. ",
+
+        "bibleReadingPlanTitle": '1-YEAR BIBLE READING PLAN',
+
+        "bibleReadingPlanText": "1 Kings 10-11; Luke 24:1-35",
+      },
+      {
+        id: "460",
+
+        image:
+          " https://res.cloudinary.com/dmxfjy079/image/upload/v1705143662/DLD/ta4huorpy94dxyoswmzy.jpg",
+
+        uniqueDate: "May 6th 25",
+
+        title: "DON’T CONFORM",
+
+        bibleVerse: "2 CORINTHIANS 6:17 ",
+
+        memoryVerse:
+          "Therefore 'Come out from among them and be separate, says the Lord. Do not touch what is unclean, and I will receive you.",
+
+        studyBible: "DANIEL 1:1-21",
+
+        texts: {
+          textOne:
+            "The call to Christianity is not a call to conformity, it is a call to be separated. It is not a call to blend in, it is a call to stand out. Every believer is saved from something into another thing, from darkness to light, from evil to good, from the world to Christ. However, not many Christians really stand out in this world today. The line of boundary between believers and unbelievers is gradually disappearing. It is no longer easy to differentiate between a believer and an unbeliever today. The culture of the world seems not to be different from that of many Christians. The pursuit of unbelievers and believers seems to have aligned. The value, priorities, visions, ideals, and behaviours of some believers put a question mark on the faith they confess.",
+
+          textTwo:
+            "You must ask yourself if you really stand out for Christ. Are you really an ambassador of Christ? One of such men that really stood out for God in his generation was Daniel alongside his three friends. They are exemplary leaders who refused to compromise the principles and commandments of God even when no one was looking in a faraway Babylon. When obeying God is not the trend, they still chose to stand out. Even when it was going to cost them their lives, they were ready to sacrifice it.",
+
+          textThree:
+            "As believers, we must learn from the lives of these four outstanding Israelites who stood out for God in their generation. We must learn never to allow the pleasures of this world destroy the plan and purpose of God for our lives. Don’t allow the pressure of the world make you shift the ancient landmark. Be prepared to stand even if it’s going to cost you money, a job, a relationship, or opportunities. Trends come and go, God remains unchanged.",
+
+          },
+          footerTitle: "CONFESSION",
+
+          footerText:
+            "I receive the grace to stand out in all ways. I refuse to be conformed to the ways of the world. I am different and unique. I follow the way of light because I am of the light. I do not compromise my faith for the pleasure of the world.",
+
+        // "footerTitleTwo": 'HAPPY NEW YEAR',
+
+        // "footerTextTwo": "●	Father in the name of Jesus, Pour a fresh grace of salvation upon this generation. Let souls begin to come into repentance in their millions. ●	Father in the name of Jesus, break the power of satan and sin in this generation. Let the stronghold of Satan be destroyed. ●	Gather in the name of Jesus, We command the light of Christ to shine upon everyone blinded by the devil. ●	father in the name of Jesus, we declare that the truth of the gospel begins to set the sinner free from the lies of the devil.●	Pray for your family and friends who are yet to come into the gospel. ",
+
+        "bibleReadingPlanTitle": '1-YEAR BIBLE READING PLAN',
+
+        "bibleReadingPlanText": "1 Kings 12-13; Luke 24:36-53",
+      },
+      {
+        id: "461",
+
+        image:
+          " https://res.cloudinary.com/dmxfjy079/image/upload/v1705143662/DLD/ta4huorpy94dxyoswmzy.jpg",
+
+        uniqueDate: "May 7th 25",
+
+        title: "DON’T CONFORM 2",
+
+        bibleVerse: "DANIEL 6:10",
+
+        memoryVerse:
+          "Now when Daniel knew that the writing was signed, he went home. And in his upper room, with his windows open toward Jerusalem, he knelt down on his knees three times that day, and prayed and gave thanks before his God, as was his custom since early days.",
+
+        studyBible: "DANIEL 6:1-21",
+
+        texts: {
+          textOne:
+            "It takes courage to stand out for Christ in this generation where being born again is not such a popular culture. It’s not really a trending thing to be a dedicated disciple of Christ. You can be called names like “Mugu”, “Ode” and several names when you claim you are affiliated with Christ. I remember losing all my friends immediately after I gave my life to Christ because by then, I was considered to be dull and not lively again. It takes courage to live and speak for Christ.",
+
+          textTwo:
+            "The four Hebrew boys didn’t just follow what was trending, they created their own trend. You must be ready to stand alone and walk alone. Many believers today are afraid of standing for what they believe. They rather obey the wicked authorities than obey God. Daniel did not hide his faith. In following Christ, you must be ready to lose something. In gaining Jesus, there will be a demand to move away from some benefits. God is so jealous that you can't serve him alongside other things. You must be bold to publicly separate yourself from the world. Though there was an official declaration, which was against his faith with capital punishment for offenders. Daniel still decided to stand out for God rather than bow to the king’s injunctions.",
+
+          textThree:
+            "There is a SET UP against believers today to bow to the tall image of gold. It is a pity that many are bowing before this image. To bow is to worship, submit or surrender to a superior being or thing. The moment you bow to these images, you can no longer stand out for Christ. There are set-up images of success, career, self-ambition, wealth, and influence, and many believers are submitting their crowns and identity to get the things that these images promised.",
+
+          },
+          footerTitle: "CONFESSION",
+
+          footerText:
+            "I refuse to bow to the golden images of this world. Nothing in this world will make me give up my inheritance in Christ Jesus.",
+
+        // "footerTitleTwo": 'HAPPY NEW YEAR',
+
+        // "footerTextTwo": "●	Father in the name of Jesus, Pour a fresh grace of salvation upon this generation. Let souls begin to come into repentance in their millions. ●	Father in the name of Jesus, break the power of satan and sin in this generation. Let the stronghold of Satan be destroyed. ●	Gather in the name of Jesus, We command the light of Christ to shine upon everyone blinded by the devil. ●	father in the name of Jesus, we declare that the truth of the gospel begins to set the sinner free from the lies of the devil.●	Pray for your family and friends who are yet to come into the gospel. ",
+
+        "bibleReadingPlanTitle": '1-YEAR BIBLE READING PLAN',
+
+        "bibleReadingPlanText": "1 Kings 14-15; John 1:1-28",
+      },
+      {
+        id: "462",
+
+        image:
+          " https://res.cloudinary.com/dmxfjy079/image/upload/v1705143662/DLD/ta4huorpy94dxyoswmzy.jpg",
+
+        uniqueDate: "May 8th 25",
+
+        title: "WHAT’S IN YOUR HAND",
+
+        bibleVerse: "EXODUS 4:1-2",
+
+        memoryVerse:
+          "Then Moses answered and said, 'But suppose they will not believe me or listen to my voice; suppose they say, 'The Lord has not appeared to you.' 'So the Lord said to him, 'What is that in your hand? 'He said, 'A rod.'",
+
+        studyBible: "EXODUS 4:1-14",
+
+        texts: {
+          textOne:
+            "It is amazing to know that God is patient to give answers to all our questions and excuses. In this passage, God was calling Moses to the assignment of delivering the Israelites from slavery. Moses, who was feeling incompetent gave God excuses and reasons why he was the wrong guy for the job. But God kept debunking all his excuses. He asked God for several signs and God gave him. Eventually, he still told God he was not competent for the job.",
+
+          textTwo:
+            "Many of us are like Moses today, we have one million reasons why we are not suitable for the assignment. We argue with God as if we know ourselves more than He knows us. No excuse can disqualify you from your divine assignment. God knew you before He called you. In fact, He made you and He’s familiar with all His products. It is interesting to note that what he needed was already in his hands, a rod. The things we need to succeed in our divine assignment are not somewhere far and unreachable. Most times they are always already with us. They are things we already possess.",
+
+          textThree:
+            "The widow (wife of the prophet) in 2 Kings 4:1-7 already had the oil in her house. Yet she never knew that was all she needed for her breakthrough. God will always put something in your hands that can end your problems and anxiety. There is something in your hand that can end your worries and lack. The opportunities we need to fulfil our divine mandate are always within our reach.  All you need is for God to open your eyes to see these things. Some of the things you overlook are the things that God will use to transform your life. Don't ever underestimate what is in your hand because that will be the source of your miracle.  May your eyes be opened today in Jesus name.",
+
+          },
+          footerTitle: "CONFESSION",
+
+          footerText:
+            "My eyes are opened to see the resources, grace, anointing, and relationships that God has placed in my hands for my breakthrough.",
+
+        // "footerTitleTwo": 'HAPPY NEW YEAR',
+
+        // "footerTextTwo": "●	Father in the name of Jesus, Pour a fresh grace of salvation upon this generation. Let souls begin to come into repentance in their millions. ●	Father in the name of Jesus, break the power of satan and sin in this generation. Let the stronghold of Satan be destroyed. ●	Gather in the name of Jesus, We command the light of Christ to shine upon everyone blinded by the devil. ●	father in the name of Jesus, we declare that the truth of the gospel begins to set the sinner free from the lies of the devil.●	Pray for your family and friends who are yet to come into the gospel. ",
+
+        "bibleReadingPlanTitle": '1-YEAR BIBLE READING PLAN',
+
+        "bibleReadingPlanText": "1 Kings 16-18; John 1:29-51",
+      },
+      {
+        id: "463",
+
+        image:
+          " https://res.cloudinary.com/dmxfjy079/image/upload/v1705143662/DLD/ta4huorpy94dxyoswmzy.jpg",
+
+        uniqueDate: "May 9th 25",
+
+        title: "HONOURING YOUR ANOINTED",
+
+        bibleVerse: "MARK 6:4",
+
+        memoryVerse:
+          "“But Jesus said to them, “A prophet is not without honour except in his own country, among his own relatives, and in his own house.”",
+
+        studyBible: "MARK 6:16",
+
+        texts: {
+          textOne:
+            "The anointing you do not honour cannot work for you. There is no time in history when prophets and Men of God have been so dishonoured as today. This is one of the reasons we are not seeing the manifestation of the anointing in our churches as before. You cannot love the anointing and dishonour the anointed. Many believers do not prosper today despite their belief in God. But please note that your prosperity lies in the honour you give to the anointed. I recently visited one of our first-timers in her restaurant. She was so excited to see me. She received me well and gave me gifts when I was leaving. She later shared with my wife how her business has been greatly impacted after my visit. Meanwhile, there are people you will be begging to visit and they will decline. It was how she received me that blessed her business.",
+
+          textTwo:
+            "Whether they are young or old, rich or poor, bishops or brothers, famous or unpopular. The anointing makes the difference. They might be your family or friends, if you don’t honour them as the anointed you cannot receive the reward of the anointing in their lives. Honour is what makes the anointing flow. If your son is a prophet and all you see is your son, his anointing will never work for you. If the pastor is your childhood friend and all you see is your friend, you can't draw from his grace. This is why prophets can’t do mighty works in their family, local churches, or countries. Don’t allow familiarity to rob you of your blessings.",
+
+          textThree:
+            "Listen, one of the reasons the enemy attacks the anointed with blackmail and defamation is to discredit the anointed. This is why he always amplifies the weakness, mistakes, and errors of your pastors to you so that you can find a “genuine” reason to dishonour him or her. The enemy knows that as long as you dishonor your anointed, his anointing can never work for you. If you want to receive what God has sent your pastor to give you, you must close your hearts to his errors and focus on honouring him. Honouring your Man of God is your legal obligation, not a choice. It is the key to your prosperity. It is your access to receiving the grace that he carries. Even the anointed can not profit without honouring his anointing.",
+
+          },
+          footerTitle: "MEDITATION",
+
+          footerText:
+            "Let the elders who rule well be counted worthy of double honour, especially those who labour in the word and doctrine.” I Timothy 5:17.",
+
+        // "footerTitleTwo": 'HAPPY NEW YEAR',
+
+        // "footerTextTwo": "●	Father in the name of Jesus, Pour a fresh grace of salvation upon this generation. Let souls begin to come into repentance in their millions. ●	Father in the name of Jesus, break the power of satan and sin in this generation. Let the stronghold of Satan be destroyed. ●	Gather in the name of Jesus, We command the light of Christ to shine upon everyone blinded by the devil. ●	father in the name of Jesus, we declare that the truth of the gospel begins to set the sinner free from the lies of the devil.●	Pray for your family and friends who are yet to come into the gospel. ",
+
+        "bibleReadingPlanTitle": '1-YEAR BIBLE READING PLAN',
+
+        "bibleReadingPlanText": "1 Kings 19-20; John 2",
+      },
+      {
+        id: "464",
+
+        image:
+          " https://res.cloudinary.com/dmxfjy079/image/upload/v1705143662/DLD/ta4huorpy94dxyoswmzy.jpg",
+
+        uniqueDate: "May 10th 25",
+
+        title: "HONOURING YOUR ANOINTED PART 2",
+
+        bibleVerse: "2 CHRONICLES 20:20b",
+
+        memoryVerse:
+          "Hear me, O Judah and you inhabitants of Jerusalem: Believe in the Lord your God, and you shall be established; believe His prophets, and you shall prosper.”",
+
+        studyBible: "2 SAMUEL 1:1-16",
+
+        texts: {
+          textOne:
+            "To continue yesterday’s discussion. I think the church has a lot to learn in this area. The church today easily joins the world to crucify and kill her prophets. We are not experiencing the power of God in the church because of the height of dishonour amongst us.  Mantles are not being released to the next generation because the price of honour is not found among us anymore. This ignorance and pride are rather killing us. When a pastor falls, other pastors and churches are the first to throw the stone. Listen to this, the fall of a prophet doesn’t cancel his anointing.",
+
+          textTwo:
+            "Before you start arguing, let’s learn from David. If there is anyone who should dishonour Saul, it’s David. David knew Saul was possessed by a demon, lost his mind, and was not in tune with God. God already promised the kingdom to David. Yet David understood that Saul was still the anointed of the Lord. He yet honoured him with all his heart. David understood that Saul still has the batton. And he can’t forcefully take the baton from him. He has the mantle and he must be the one to release it. Therefore, he honoured him despite all his weaknesses and errors of Saul till his death.",
+
+          textThree:
+            "Using the excuses of the errors of your prophet or pastor to misbehave and dishonour them will only rob you of your throne. The anointed may do things you don’t understand, he may be unconventional with his approach. If there is one big lesson I have learnt in the past two years, it is never to dishonour the prophets in my heart, not to talk of in my mouth and behaviours. You are on the path to destruction if you are fond of abusing spiritual fathers, leaders, and mentors around you. Not only must you stop but you must distance yourself from people who do such. Celebrate your man of God. Receive them as your prophet. I know everyone wants to be a prophet today but you must have a reference.",
+
+          },
+          footerTitle: "MEDITATION",
+
+          footerText:
+            "When the Bible says “touch not my anointed” even the backslidden ones are included.",
+
+        // "footerTitleTwo": 'HAPPY NEW YEAR',
+
+        // "footerTextTwo": "●	Father in the name of Jesus, Pour a fresh grace of salvation upon this generation. Let souls begin to come into repentance in their millions. ●	Father in the name of Jesus, break the power of satan and sin in this generation. Let the stronghold of Satan be destroyed. ●	Gather in the name of Jesus, We command the light of Christ to shine upon everyone blinded by the devil. ●	father in the name of Jesus, we declare that the truth of the gospel begins to set the sinner free from the lies of the devil.●	Pray for your family and friends who are yet to come into the gospel. ",
+
+        "bibleReadingPlanTitle": '1-YEAR BIBLE READING PLAN',
+
+        "bibleReadingPlanText": "1 Kings 21-22; John 3:1-21",
+      },
+      {
+        id: "465",
+
+        image:
+          " https://res.cloudinary.com/dmxfjy079/image/upload/v1705143662/DLD/ta4huorpy94dxyoswmzy.jpg",
+
+        uniqueDate: "May 11th 25",
+
+        title: "HONOURING YOUR ANOINTED PART 3",
+
+        bibleVerse: "1 TIMOTHY 5:17",
+
+        memoryVerse:
+          "“Let the elders who rule well be counted worthy of double honour, especially those who labour in the word and doctrine.”",
+
+        studyBible: "2 CORINTHIANS 8:1-7",
+
+        texts: {
+          textOne:
+            "Today I want to teach you how to create a system of honour both personally and as a church. As you get closer to your pastor, you see him go to the toilet, see him cry, eat, play, and do things that ordinary humans do. That’s because he is human too. Like some of us, we don’t pretend and we do not delight in you seeing us as special or different. When this happens, naturally your honour for him might decline. This is why it is dangerous to be close to an anointed person. The fact that a man or woman is anointed does not make him less human. Therefore, you must create a system that ensures that your honour for him increases.",
+
+          textTwo:
+            "I can say that the person that honours me most as an anointed person is my wife. Yet no one knows my weaknesses, errors, mistakes or is closer to me than her. Before anyone started giving me an honorarium, my wife will bless me with her money after a powerful sermon and say “I must sow into this anointing”. She still does it till now. As a person, one of the ways you honour your man of God is by blessing him financially and materially (Gal 6:6, 1Cor 9:11). Separate some amount of money to bless your anointed. It can be monthly, weekly or yearly. This must be something that costs you something, not just anything. This is a system of honour.",
+
+          textThree:
+            "As a local church, choose a day annually to celebrate and give good gifts to your Man of God. Some call it Pastors’ Appreciation Day. Be intentional about it. Also, speak well of your Pastor everywhere you go. Don’t just stand where people abuse your pastor or any pastor, and you are mute. Defend your pastor in times of persecution and stand with them in hard times. This is how you can receive from his anointing. Support the vision of your Pastor even when you don’t understand it. Share his messages with your friends, invite people to his meetings, buy his materials, and be proud of him.",
+
+          },
+          footerTitle: "MEDITATION",
+
+          footerText:
+            "It is dishonouring to wait till your anointed asks or be in lack before you bless them with your material blessing.",
+
+        // "footerTitleTwo": 'HAPPY NEW YEAR',
+
+        // "footerTextTwo": "●	Father in the name of Jesus, Pour a fresh grace of salvation upon this generation. Let souls begin to come into repentance in their millions. ●	Father in the name of Jesus, break the power of satan and sin in this generation. Let the stronghold of Satan be destroyed. ●	Gather in the name of Jesus, We command the light of Christ to shine upon everyone blinded by the devil. ●	father in the name of Jesus, we declare that the truth of the gospel begins to set the sinner free from the lies of the devil.●	Pray for your family and friends who are yet to come into the gospel. ",
+
+        "bibleReadingPlanTitle": '1-YEAR BIBLE READING PLAN',
+
+        "bibleReadingPlanText": "2 Kings 1-3; John 3:22-36",
+      },
+      {
+        id: "466",
+
+        image:
+          " https://res.cloudinary.com/dmxfjy079/image/upload/v1705143662/DLD/ta4huorpy94dxyoswmzy.jpg",
+
+        uniqueDate: "May 12th 25",
+
+        title: "BE THE GIVER",
+
+        bibleVerse: "LUKE 6:38",
+
+        memoryVerse:
+          "Give, and it will be given to you: good measure, pressed down, shaken together, and running over will be put into your bosom. For with the same measure that you use, it will be measured back to you.",
+
+        studyBible: "2 CORINTHIANS 9:6-13",
+
+        texts: {
+          textOne:
+            "One of the hallmarks of Christianity is giving, not just giving but sacrificial giving. This was first demonstrated by the Father Himself when He gave us His only begotten son. Then, Jesus also gave Himself for us. Unfortunately, this is a dying culture in the twenty-first century church. We have people come on the internet teaching people not to give to the church anymore. It all started from the mindset that you are giving to get blessed alone. No, you give because you are blessed and for the kingdom's expansion. I know some preachers extort and exploit their parishioners. However, we cannot throw the baby along with the water bath. The fact that some preachers abuse this principle does not mean God has forsaken it. This is one of the very expressions of God's Nature. This is one of the avenues of accessing God's blessings and heavenly resources. The bible clearly stated this principle, when you give, it will be given to you.",
+
+          textTwo:
+            "Moreover, God intentionally commanded us to give. Our giving brings honour to God and not to man. Giving to churches, Men of God, charities, and the poor in our community brings great honour to God. You are not giving so that a man can praise you. So, no man should dissuade you from giving. Giving is a mystery, It might not make sense but it delivers results. You might not understand it, but it works.",
+
+          textThree:
+            "Is it biblical to give to churches or men of God? These are among many questions that people ask today. (1 Cor 9:11 If we have sown [the good seed of] spiritual things in you, is it too much if we reap material things from you?) Since it is the responsibility of your spiritual shepherds to feed you spiritually, it is also your responsibility to minister to their physical and material needs. It is right for those who serve on the altar to partake of the offering of the altar. We are enjoined to also give to the poor in our society. (Prov 19:17 Whoever is kind to the poor lends to the LORD, and he will reward them for what they have done).",
+
+          textFour:
+            "However, the Bible was clear on how you must give. Whatever you give to God must be what you have determined in your heart. Then you must release with cheerful joy in your heart. Never give to God grudgingly. You cannot confess to being a Christian and not be a giver.",
+
+          },
+          footerTitle: "PRAYER",
+
+          footerText:
+            "Lord, I receive the grace to give.",
+
+        // "footerTitleTwo": 'HAPPY NEW YEAR',
+
+        // "footerTextTwo": "●	Father in the name of Jesus, Pour a fresh grace of salvation upon this generation. Let souls begin to come into repentance in their millions. ●	Father in the name of Jesus, break the power of satan and sin in this generation. Let the stronghold of Satan be destroyed. ●	Gather in the name of Jesus, We command the light of Christ to shine upon everyone blinded by the devil. ●	father in the name of Jesus, we declare that the truth of the gospel begins to set the sinner free from the lies of the devil.●	Pray for your family and friends who are yet to come into the gospel. ",
+
+        "bibleReadingPlanTitle": '1-YEAR BIBLE READING PLAN',
+
+        "bibleReadingPlanText": "2 Kings 4-5; John 4:1-30",
+      },
+      {
+        id: "467",
+
+        image:
+          " https://res.cloudinary.com/dmxfjy079/image/upload/v1705143662/DLD/ta4huorpy94dxyoswmzy.jpg",
+
+        uniqueDate: "May 13th 25",
+
+        title: "BE THE GIVER 2",
+
+        bibleVerse: "2Corinthians 9:6",
+
+        memoryVerse:
+          "Remember this: Whoever sows sparingly will also reap sparingly, and whoever sows generously will also reap generously.",
+
+        studyBible: "2CORINTHIANS 8:1-5",
+
+        texts: {
+          textOne:
+            "Many believers give the excuse that they don't have enough, that is why they cannot give. The story Jesus shared in Mark 12:41-44 gave us an idea about God’s view on giving. He illustrated the people giving in church, the millionaires gave a lot of money that's worthy of praise. But there was a particular poor widow that had just two dollars in her pocket, and she dropped the whole two dollars. Jesus told the disciples that this poor widow gave more than the rich that gave millions of dollars.",
+
+          textTwo:
+            "The greatness of a giver is not in what he/she gives but in what remains with him afterwards. Your greatness as a giver is not just in the value of what you gave but in the sacrifice of what you gave. How much does that offering mean to you? What does it cost you? There are some kinds of giving that touch God. Like that of Solomon in 2 Chron 1:6, God was forced to give Solomon a blank check, the rest was history. Giving is not only when it's convenient.",
+
+          textThree:
+            "I called this kind of giving sacrificial giving. It is not in the amount but in the sacrifice. Paul talked about the Macedonian Christians who had this kind of attitude. He mentioned that they did not just give in their abundance, but in their deep poverty, they decided to meet Paul's needs. If you can't give when you have ten thousand, you won't be able to give when you have ten million. Your seeds and offerings mean a lot to God when it costs you something.",
+
+          textFour:
+            "Do you Want To know the secret of David? It's here in 2 Samuel 24:24. The answer is that he always gives God the very best. Also, the difference between the offering of Cain and Abel is that Abel gave God his best. God knows your best. He knows if what you have been giving is what you should have given. The pastor may thank you, but only God knows if you gave what He led you to give.",
+
+          textFive:
+            "Most importantly, it’s your responsibility to give to God’s work as a believer. Don’t wait until you are cajoled to give. The kingdom cannot advance without your giving. Be a responsible believer.",
+
+          },
+          footerTitle: "ACTION",
+
+          footerText:
+            "Go out of your comfort zone and give God what you have never given before.",
+
+        // "footerTitleTwo": 'HAPPY NEW YEAR',
+
+        // "footerTextTwo": "●	Father in the name of Jesus, Pour a fresh grace of salvation upon this generation. Let souls begin to come into repentance in their millions. ●	Father in the name of Jesus, break the power of satan and sin in this generation. Let the stronghold of Satan be destroyed. ●	Gather in the name of Jesus, We command the light of Christ to shine upon everyone blinded by the devil. ●	father in the name of Jesus, we declare that the truth of the gospel begins to set the sinner free from the lies of the devil.●	Pray for your family and friends who are yet to come into the gospel. ",
+
+        "bibleReadingPlanTitle": '1-YEAR BIBLE READING PLAN',
+
+        "bibleReadingPlanText": "2 Kings 6-8; John 4:31-54",
+      },
+      {
+        id: "468",
+
+        image:
+          " https://res.cloudinary.com/dmxfjy079/image/upload/v1705143662/DLD/ta4huorpy94dxyoswmzy.jpg",
+
+        uniqueDate: "May 14th 25",
+
+        title: "SEATED IN HEAVENLIES",
+
+        bibleVerse: "Ephesians 2:6",
+
+        memoryVerse:
+          "And God raised us up with Christ and seated us with him in the heavenly realms in Christ Jesus,",
+
+        studyBible: "EPHESIAN 1:15-23",
+
+        texts: {
+          textOne:
+            "Believers in Christ operate in two realms, namely the spiritual and physical realms. While we may be going up and down physically on this earth, we remain seated on the throne with Jesus in the heavenlies. We might look confused running helter skelter on earth, yet our spirit has taken a position and posture of rest in the heavenlies. While it looks like we are not in charge here, yet our spirit through Christ has the power and the authority to determine where the world goes. Jesus rules the universe and the galaxies through the church.",
+
+          textTwo:
+            "To take control, dominion, and charge of the earth, we must constantly and if possible, permanently switch to our spirit man seated with Christ in the heavenlies. Many believers are easily overwhelmed by the activities and circumstances here on earth that they’ve forgotten their position in heaven. We must assume the position and posture of the heavenly man. The man seated with Christ knows all things, has all powers, possesses all authority, can see all things, and controls all things. This man that's seated with Christ is above all principalities and power. No witch or wizard can overpower him.",
+
+          textThree:
+            "If only we have the understanding of the man seated with Christ, then we can also reign like Christ. Until our eyes are opened, we cannot assume the posture of the man above. Physically, we might be here, but spiritually we are up there. The spiritual controls the physical, therefore, the reality of our life should be from the spiritual realm not the physical. The knowledge and revelation of Christ are what puts you in dominion. Understanding your position on the throne gives you authority here in the earthly realm.  Stop trying to change things from the earthly realm. Significant change comes when you move things from where you are seated in the heavenlies.",
+
+          },
+          footerTitle: "PRAYER",
+
+          footerText:
+            "Father, in the name of Jesus, I receive understanding about my position in the heavenlies and I assume the position and posture of the heavenly man.",
+
+        // "footerTitleTwo": 'HAPPY NEW YEAR',
+
+        // "footerTextTwo": "●	Father in the name of Jesus, Pour a fresh grace of salvation upon this generation. Let souls begin to come into repentance in their millions. ●	Father in the name of Jesus, break the power of satan and sin in this generation. Let the stronghold of Satan be destroyed. ●	Gather in the name of Jesus, We command the light of Christ to shine upon everyone blinded by the devil. ●	father in the name of Jesus, we declare that the truth of the gospel begins to set the sinner free from the lies of the devil.●	Pray for your family and friends who are yet to come into the gospel. ",
+
+        "bibleReadingPlanTitle": '1-YEAR BIBLE READING PLAN',
+
+        "bibleReadingPlanText": "2 Kings 9-11; John 5:1-24",
+      },
+      {
+        id: "469",
+
+        image:
+          " https://res.cloudinary.com/dmxfjy079/image/upload/v1705143662/DLD/ta4huorpy94dxyoswmzy.jpg",
+
+        uniqueDate: "May 15th 25",
+
+        title: "YOUR KINGDOM COME",
+
+        bibleVerse: "MATTHEW 6:10",
+
+        memoryVerse:
+          "Your kingdom come. Your will be done On earth as it is in heaven.",
+
+        studyBible: "LUKE 17:20-25",
+
+        texts: {
+          textOne:
+            "“Thy kingdom come” This is not just a prayer line. It is the will of God to bring the reign of His kingdom here on earth. Against many religious beliefs, God is not in haste to move people away from the earth to heaven. Rather he wants to fill the earth with the glories of His kingdom. It is the will of God that the earth expresses the nature and glory of heaven. He wants His knowledge to fill the earth as the water fills the sea. The purpose of God creating man is not for man to stay with Him in heaven but for God to live with man on earth. The glory of God is already established in heaven, He wants to do the same here on earth and man is the legal pioneer of this assignment. How does God bring His kingdom to earth?",
+
+          textTwo:
+            "Unlike earthly kingdoms, God’s kingdom does not start with a physical presence. It does not come from the external things that we expect like buildings, infrastructural development, great military presence, and things of such. The presence of the kingdom comes when you invite him into your heart Luke 17:21. There is no kingdom without the king. For you to experience the kingdom in your life, the King must be present. When Jesus steps into your heart, the kingdom has come into your life.",
+
+          textThree:
+            "The kingdom will not be expressed by how many church buildings we have but by how many people are getting saved. The greatness of this kingdom here on earth is not in how many mansions we own or how many cars we drive, but in how many people carry the king in their hearts. We take over the kingdoms of the earth by dispossessing souls from the evil one and filling them with the nature and Spirit of the King.",
+
+          textFour:
+            "This is why the number one heart desire of God is that men and women can come to Him. It is in soul-winning that we spread and establish the kingdom. It is through these vessels that God’s glory spreads to every corner of the earth. The glories of God are not luxury cars, expensive mansions, or beautiful cities. The glory of God is the dwelling of God in man. Let’s strive to save as many souls as we can. Don’t be distracted by riches and neglect souls. When the knowledge of the Holy One among men spreads, the kingdom spreads.",
+
+          },
+          footerTitle: "PRAYER",
+
+          footerText:
+            "Pray that the Holy Spirit empowers His church for Soul Winning like never before.",
+
+        // "footerTitleTwo": 'HAPPY NEW YEAR',
+
+        // "footerTextTwo": "●	Father in the name of Jesus, Pour a fresh grace of salvation upon this generation. Let souls begin to come into repentance in their millions. ●	Father in the name of Jesus, break the power of satan and sin in this generation. Let the stronghold of Satan be destroyed. ●	Gather in the name of Jesus, We command the light of Christ to shine upon everyone blinded by the devil. ●	father in the name of Jesus, we declare that the truth of the gospel begins to set the sinner free from the lies of the devil.●	Pray for your family and friends who are yet to come into the gospel. ",
+
+        "bibleReadingPlanTitle": '1-YEAR BIBLE READING PLAN',
+
+        "bibleReadingPlanText": "2 Kings 12-14; John 5:25-47",
+      },
+      {
+        id: "470",
+
+        image:
+          " https://res.cloudinary.com/dmxfjy079/image/upload/v1705143662/DLD/ta4huorpy94dxyoswmzy.jpg",
+
+        uniqueDate: "May 16th 25",
+
+        title: "ASKING ACCORDING TO THE WORD",
+
+        bibleVerse: "2 Corinthians 1:20",
+
+        memoryVerse:
+          "For all the promises of God in Him are Yes, and in Him Amen, to the glory of God through us.",
+
+        studyBible: "2 PETER 1:1-4",
+
+        texts: {
+          textOne:
+            "A pastor was making a declaration over his congregation on a particular Sunday service. He began to declare double portions over everyone. Double cars, double house, double promotion, double anointing, double contract, then he mistakenly said double wives. The truth is it doesn't matter how loud anybody says amen to that prayer, God is not going to answer the last one. Why? Because it is not according to the will of God. It is not available in Christ, what is available is a wife for a husband, a husband for a wife.",
+
+          textTwo:
+            "You cannot lay claim to a promise that's not available in the word. Before you can ask or claim anything in the name of Jesus, you need to be sure that it's available by grace. Faith cannot access anything grace hasn't made available. No matter how great your faith is, it has to be in the word or according to the word before your faith can access it. A lot of us ask according to our feelings and that’s why we do not receive. God did not instruct us to ask according to our feelings but according to the word. Also, note this, don’t confuse worrying with praying. God doesn't answer worrying, He answers prayers.",
+
+          textThree:
+            "This is an important principle you must learn if you want your prayers to be answered always. The word of God is what reveals the promises and will of God. God is committed to fulfilling His word, not your desires. Therefore, when your word is filled with the word of God, there is full assurance that your prayers are answered. Learn to pray according to the word. Let the scripture guide you to pray not your emotion.  Lastly, when you pray in the Spirit, you can be sure that you pray hundred per cent according to the word. Speaking in tongues helps you to pray according to the will of God because it is the Spirit Himself that prays through you.",
+
+          },
+          footerTitle: "MEDITATION",
+
+          footerText:
+            "In the same way, the Spirit helps us in our weaknesses. We do not know what we ought to pray for, but the Spirit himself intercedes for us through wordless groans. Rom 8:26",
+
+        // "footerTitleTwo": 'HAPPY NEW YEAR',
+
+        // "footerTextTwo": "●	Father in the name of Jesus, Pour a fresh grace of salvation upon this generation. Let souls begin to come into repentance in their millions. ●	Father in the name of Jesus, break the power of satan and sin in this generation. Let the stronghold of Satan be destroyed. ●	Gather in the name of Jesus, We command the light of Christ to shine upon everyone blinded by the devil. ●	father in the name of Jesus, we declare that the truth of the gospel begins to set the sinner free from the lies of the devil.●	Pray for your family and friends who are yet to come into the gospel. ",
+
+        "bibleReadingPlanTitle": '1-YEAR BIBLE READING PLAN',
+
+        "bibleReadingPlanText": "2 Kings 15-17; John 6:1-21",
+      },
+      {
+        id: "471",
+
+        image:
+          " https://res.cloudinary.com/dmxfjy079/image/upload/v1705143662/DLD/ta4huorpy94dxyoswmzy.jpg",
+
+        uniqueDate: "May 17th 25",
+
+        title: "YOUR  IDENTITY IN CHRIST",
+
+        bibleVerse: "EPHESIANS 2:19",
+
+        memoryVerse:
+          "So then you are no longer strangers and aliens, but you are fellow citizens with the saints, and are of God’s household,",
+
+        studyBible: "COLOSIANS 1:24-27",
+
+        texts: {
+          textOne:
+            "The problem of most believers today is not sin but sin consciousness. One of the deliverance most believers need is the deliverance from seeing themselves as sinners. The prayer of many believers goes like this “Jesus have mercy on me, I humble myself as a sinner, please forgive me.'' If this line is always in your prayers, you need deliverance. Before you gave your life to Christ, you were a sinner. However, immediately after you accept the life of Christ in you, you cease to be a sinner. You are now a saint. Yes, you are a saint. Never address yourself as a sinner anymore. You may make mistakes and fall into sin but you are no longer a sinner. You are now the righteousness of God in Christ.",
+
+          textTwo:
+            "Philippians 1:1: Paul and Timothy, bond-servants of Christ Jesus, To all the saints in Christ Jesus who are in Philippi, including the overseers and deacons.  Paul in his letter oftentimes refers to the church as saints. Not because they are without weakness but because that is their identity in Christ. Jesus has perfected your spirit, to Him you are clean and holy without blemish because of His blood. (Hebrews 10:14 For by one offering He has perfected for all time those who are sanctified) That doesn’t mean you are perfect in character, actions, and intention. Perfection comes as we mature in Christ.",
+
+          textThree:
+            "My mother most times when we are having a conversation always says “who am I? A nobody? What do I know? I know nothing.” One day I cautioned her and told her not to say that again. If you are a nobody, Jesus won't die for you. You know Jesus and that's enough. Calling yourself a sinner, a nobody, and a foolish person is not humility, it is like spitting in the face of Jesus. The purpose of the death of Jesus is to turn you from a sinner to a saint, which he already accomplished. Immediately you are born again, you are a new creature. The sinner died and the saint emerged. You are now a very important person at least to God.  You are no longer defined by what you do but by what Jesus did. God no longer sees you but the Christ in you. Therefore, you are not a sinner but a saint.",
+
+          },
+          footerTitle: "CONFESSION",
+
+          footerText:
+            "I am redeemed in Christ. The sinner in me died. Jesus lives in me. The life I now live is that of Christ. I am a saint, not a sinner.",
+
+        // "footerTitleTwo": 'HAPPY NEW YEAR',
+
+        // "footerTextTwo": "●	Father in the name of Jesus, Pour a fresh grace of salvation upon this generation. Let souls begin to come into repentance in their millions. ●	Father in the name of Jesus, break the power of satan and sin in this generation. Let the stronghold of Satan be destroyed. ●	Gather in the name of Jesus, We command the light of Christ to shine upon everyone blinded by the devil. ●	father in the name of Jesus, we declare that the truth of the gospel begins to set the sinner free from the lies of the devil.●	Pray for your family and friends who are yet to come into the gospel. ",
+
+        "bibleReadingPlanTitle": '1-YEAR BIBLE READING PLAN',
+
+        "bibleReadingPlanText": "2 Kings 18-19; John 6:22-44",
+      },
+      {
+        id: "472",
+
+        image:
+          " https://res.cloudinary.com/dmxfjy079/image/upload/v1705143662/DLD/ta4huorpy94dxyoswmzy.jpg",
+
+        uniqueDate: "May 18th 25",
+
+        title: "YOUR  IDENTITY IN CHRIST 2",
+
+        bibleVerse: "Romans 8:1",
+
+        memoryVerse:
+          "There is therefore now no condemnation to them which are in Christ Jesus, who walk not after the flesh, but after the Spirit.",
+
+        studyBible: "JOHN 8:1-11",
+
+        texts: {
+          textOne:
+            "In Christ you have been justified, therefore, you cannot be condemned. Many believers go about carrying the guilt of their sins and past. They are feeling condemned and guilty. In Christ, you are not condemned. Neither the law, the devil nor your past sins can condemn you. (1 John 3:21 Beloved, if our heart does not condemn us, we have confidence before God) You must break free from the condemnation of your heart and the yoke of guilt you carry about. Jesus was actually condemned and punished for your sins. He took your place so that you can take His place.",
+
+          textTwo:
+            "In our text above, a woman caught in the act of adultery was brought to Jesus. The judgement of the law was to stone her, however, despite the fact that Jesus has not gone to the cross yet, He set the pace by vindicating this woman. Eventually, all her accusers disappeared and Jesus turned to her and said, “I do not condemn you, go and sin no more”. As I said, this happened before the cross. Your own experience is after the cross, this makes your case far better than that woman's. John 3:17 For God did not send the Son into the world to judge the world, but that the world might be saved through Him.",
+
+          textThree:
+            "Jesus did not come to condemn men, but to save them. We must abstain from the posture of condemnation, either by ourselves or others. Some believers are quick to condemn themselves. We were saved to see how bad others are and start condemning them. We were saved to see others with compassion so that we can forgive them and preach the gospel to them. If we are not condemned, then we must not condemn others. The only person with the ministry of condemnation is Satan. In Christ you are justified, you are set free from all charges and you have been found guiltless. You can’t be punished for those sins again. I know it sounds too good to be true, but that is the truth. Be set free from the burden of guilt, stop being afraid of God, you and Him and now “Padi” (friends)",
+
+          },
+          footerTitle: "CONFESSION",
+
+          footerText:
+            "I am justified in Christ. No condemnation against me. I am vindicated through the blood of Jesus.",
+
+        // "footerTitleTwo": 'HAPPY NEW YEAR',
+
+        // "footerTextTwo": "●	Father in the name of Jesus, Pour a fresh grace of salvation upon this generation. Let souls begin to come into repentance in their millions. ●	Father in the name of Jesus, break the power of satan and sin in this generation. Let the stronghold of Satan be destroyed. ●	Gather in the name of Jesus, We command the light of Christ to shine upon everyone blinded by the devil. ●	father in the name of Jesus, we declare that the truth of the gospel begins to set the sinner free from the lies of the devil.●	Pray for your family and friends who are yet to come into the gospel. ",
+
+        "bibleReadingPlanTitle": '1-YEAR BIBLE READING PLAN',
+
+        "bibleReadingPlanText": "2 Kings 20-22; John 6:45-71",
+      },
+      {
+        id: "473",
+
+        image:
+          " https://res.cloudinary.com/dmxfjy079/image/upload/v1705143662/DLD/ta4huorpy94dxyoswmzy.jpg",
+
+        uniqueDate: "May 19th 25",
+
+        title: "YOUR  IDENTITY IN CHRIST 3",
+
+        bibleVerse: "Ephesians 1:3",
+
+        memoryVerse:
+          "Praise be to the God and Father of our Lord Jesus Christ, who has blessed us in the heavenly realms with every spiritual blessing in Christ",
+
+        studyBible: "EPHESIANS 1:1-10",
+
+        texts: {
+          textOne:
+            "In Christ, you are not cursed. You are blessed and that is all you have to believe. We have a Christian culture especially in Africa and among Africans that believes so much in curses more than blessings. They believe in demons more than angels. We believe that once someone has some challenges, it must be tied to one ancestral curse or the other. I am not saying that there are no ancestral curses, what I am saying is that most of the things we attach to curses are not true.",
+
+          textTwo:
+            "If you are in Christ, I strongly believe that you cannot be cursed. The blessedness of Christ is potent to neutralize any form of curse when you possess the revelation. Numbers chapter twenty-three proved this principle. How can I curse those whom God has not cursed? How can I denounce those whom the Lord has not denounced?  Then verse twenty-three hit the nail on the head.",
+
+          textThree:
+            "There is no divination against[b] Jacob, no evil omens against[c] Israel It will now be said of Jacob and of Israel, ‘See what God has done!’",
+
+          textFour:
+            "You are a spiritual Israel, more powerful than the physical Israel. You are already blessed in Christ and no man, angel, or devil can curse you as long as you remain in Christ. Tough times will come, but that does not mean you are cursed. People may persecute you but that does not mean you are under a curse. Jesus has already become a curse for you. You are only permitted to experience blessings now.",
+
+          },
+          footerTitle: "CONFESSION",
+
+          footerText:
+            "There is no divination against (YOUR NAME), no evil omens against (YOUR NAME). It will now be said of (YOUR NAME) and of Israel, ‘See what God has done!’",
+
+        // "footerTitleTwo": 'HAPPY NEW YEAR',
+
+        // "footerTextTwo": "●	Father in the name of Jesus, Pour a fresh grace of salvation upon this generation. Let souls begin to come into repentance in their millions. ●	Father in the name of Jesus, break the power of satan and sin in this generation. Let the stronghold of Satan be destroyed. ●	Gather in the name of Jesus, We command the light of Christ to shine upon everyone blinded by the devil. ●	father in the name of Jesus, we declare that the truth of the gospel begins to set the sinner free from the lies of the devil.●	Pray for your family and friends who are yet to come into the gospel. ",
+
+        "bibleReadingPlanTitle": '1-YEAR BIBLE READING PLAN',
+
+        "bibleReadingPlanText": "2 Kings 23-25; John 7:1-31",
+      },
+      {
+        id: "474",
+
+        image:
+          " https://res.cloudinary.com/dmxfjy079/image/upload/v1705143662/DLD/ta4huorpy94dxyoswmzy.jpg",
+
+        uniqueDate: "May 20th 25",
+
+        title: "HE LIVES IN YOU",
+
+        bibleVerse: "MATTHEW 28:20",
+
+        memoryVerse:
+          "Teach these new disciples to obey all the commands I have given you. And be sure of this: I am with you always, even to the end of the age.”",
+
+        studyBible: "1 KINGS 19:11-13",
+
+        texts: {
+          textOne:
+            "I know many believers still pray for God to be with them when they are about to travel. This prayer most times is born out of ignorance or fear. However, it's shocking to discover that it was Jesus Himself who said that He will always be with us till the end of time. As a believer, we are never alone or lonely. You can never go through life alone. In a situation that looks as if God has left, He is always there. When it looks as if God is not working on your behalf, He is always there. Against popular opinion, the presence of God is not always accompanied by the spectacular. Sometimes, we want to see lightning, thunder, storm, smoke, or people falling to ascertain God’s presence. God is a Spirit and He dwells in your spirit. Don’t judge His presence by some spooky events. Heb 12:18-24 ",
+
+          textTwo:
+            "Jesus is not with you sometimes, or a few times, or most times of your life, He is here with you always. Always means all the time. He never takes a break from being with you. The mistake we often make is that we want to feel His presence in our lives. There will be times you will feel the presence of God but in reality, most times you will not feel anything. You will be misled if the basis of your relationship with God is based on feelings. We walk with God by faith, so if God says He is with you, you don’t need a feeling to validate that word.",
+
+          textThree:
+            "Also, You must know that the presence of trouble does not mean the absence of God. The Father, the Son, and the Holy Spirit abide in you. (John 14:23 Jesus answered and said to him, “If anyone loves Me, he will keep My word; and My Father will love him, and We will come to him and make Our abode with him.) God doesn't visit you, He lives in you. You carry him everywhere you go. You are never alone but that doesn’t shield you from the challenges of life. As a believer, you will face many persecutions but be rest assured that God is in it with you.",
+
+          },
+          footerTitle: "CONFESSION",
+
+          footerText:
+            "I am not alone. Christ lives in me, He is with me. He is with me all the time, everywhere, and He will never forsake me.",
+
+        // "footerTitleTwo": 'HAPPY NEW YEAR',
+
+        // "footerTextTwo": "●	Father in the name of Jesus, Pour a fresh grace of salvation upon this generation. Let souls begin to come into repentance in their millions. ●	Father in the name of Jesus, break the power of satan and sin in this generation. Let the stronghold of Satan be destroyed. ●	Gather in the name of Jesus, We command the light of Christ to shine upon everyone blinded by the devil. ●	father in the name of Jesus, we declare that the truth of the gospel begins to set the sinner free from the lies of the devil.●	Pray for your family and friends who are yet to come into the gospel. ",
+
+        "bibleReadingPlanTitle": '1-YEAR BIBLE READING PLAN',
+
+        "bibleReadingPlanText": "1 Chronicles 1-2; John 7:32-53",
+      },
+      {
+        id: "475",
+
+        image:
+          " https://res.cloudinary.com/dmxfjy079/image/upload/v1705143662/DLD/ta4huorpy94dxyoswmzy.jpg",
+
+        uniqueDate: "May 21st 25",
+
+        title: "YOU ARE NOT AN ACCIDENT",
+
+        bibleVerse: "EPHESIANS 1:5",
+
+        memoryVerse:
+          "He predestined us to adoption as sons through Jesus Christ to Himself, according to the kind intention of His will,",
+
+        studyBible: "PSALMS 139:1-17",
+
+        texts: {
+          textOne:
+            "You are not an accident of creation. You are not some combination of numbers in some people's databases. This is not part of who you are in Christ Jesus. Your life in Christ is not an accident at all. Your identity in Christ goes way back to before you were born. You existed in God’s mind long before you appeared here. You need to know that you are a very special and unique person to God. He thought of you before He created you. You're always in His mind and your thoughts fill His mind.",
+
+          textTwo:
+            "God was so detailed about you when He made you. Every part of your life was custom-made to suit His purpose for your life. Your complexion, height, size, and background were not a mistake. You are a deliberate design of a deliberate God. If you're having a difficult time accepting your shape, parents, or complexion, let this be an assurance that none of these was a mistake. You are not ordinarily made, you are wonderfully made.",
+
+          textThree:
+            "Psalms 139:14: I praise you, for I am fearfully and wonderfully made. Wonderful are your works; my soul knows it very well.",
+
+          textFour:
+            "Be confident in who God has made you to be. God made your destination before He brought you forth. He had a plan, a blueprint, a purpose, and the resources to sponsor your journey. Most importantly, He will never leave you alone. In case you are confused about anything, He has put the Holy Spirit in you to teach you all things and guide you into all truth.",
+
+          },
+          footerTitle: "CONFESSION",
+
+          footerText:
+            "I am not an accident of creation. I am a deliberate design of a good God. I am His masterpiece.",
+
+        // "footerTitleTwo": 'HAPPY NEW YEAR',
+
+        // "footerTextTwo": "●	Father in the name of Jesus, Pour a fresh grace of salvation upon this generation. Let souls begin to come into repentance in their millions. ●	Father in the name of Jesus, break the power of satan and sin in this generation. Let the stronghold of Satan be destroyed. ●	Gather in the name of Jesus, We command the light of Christ to shine upon everyone blinded by the devil. ●	father in the name of Jesus, we declare that the truth of the gospel begins to set the sinner free from the lies of the devil.●	Pray for your family and friends who are yet to come into the gospel. ",
+
+        "bibleReadingPlanTitle": '1-YEAR BIBLE READING PLAN',
+
+        "bibleReadingPlanText": "1 Chronicles 3-5; John 8:1-20",
+      },
+      {
+        id: "476",
+
+        image:
+          " https://res.cloudinary.com/dmxfjy079/image/upload/v1705143662/DLD/ta4huorpy94dxyoswmzy.jpg",
+
+        uniqueDate: "May 22nd 25",
+
+        title: "YOU ARE TOO LOADED TO FAIL",
+
+        bibleVerse: "2 TIMOTHY 1:6",
+
+        memoryVerse:
+          "For this reason, I remind you to fan into flame the gift of God, which is in you through the laying on of my hands.",
+
+        studyBible: "JOSHUA 6:1-12",
+
+        texts: {
+          textOne:
+            "Some believers wander through life believing that they are helpless, hopeless and empty. They see others doing things with grace and wonder why their own lives are so full of frustration and failure. Some have resigned to fate, thinking they were created for that kind of life. Well, before you conclude, hear what the scripture says about you. Jeremiah 29:11 For I know the plans I have for you,' declares the LORD, 'plans to prosper you and not to harm you, plans to give you hope and a future. (NIV)",
+
+          textTwo:
+            "For I know the plans I have for you,” says the LORD. “They are plans for good and not for disaster, to give you a future and a hope. (NLT)",
+
+          textThree:
+            "For I know the plans I have for you, declares the LORD, plans for welfare and not for evil, to give you a future and a hope. (ESV)",
+
+          textFour:
+            "You are the most important and valuable being in the universe. You see that there is a purpose in God’s heart for you but more specifically, there is a plan to get you there. God didn’t bring you this far to leave you stranded in the middle of nowhere. There is a road map to get you to that destination. NIV called that plan a prosperity plan, NLT called it a good plan, ESV called it a welfare plan, NKJV called it a peaceful plan, and CEV called it a successful plan. Any of your experience in life that does not conform to these descriptions is not of God. ",
+
+          textFive:
+            "The truth about you is that you are too loaded to fail. You cannot fail, in fact, you cannot fail. God has put too much investment in you to fail. You carry a heavenly treasure that is needed globally on earth. You need a revelation of what you carry to deliver that purpose and plans God has ordained for you. Hold on to this truth.  Tell yourself this truth every morning, “I CANNOT FAIL” and you will see your narrative change for the better.",
+
+          },
+          footerTitle: "PRAYER",
+
+          footerText:
+            "JESUS, open my eyes to what I'm loaded with. ",
+
+        // "footerTitleTwo": 'HAPPY NEW YEAR',
+
+        // "footerTextTwo": "●	Father in the name of Jesus, Pour a fresh grace of salvation upon this generation. Let souls begin to come into repentance in their millions. ●	Father in the name of Jesus, break the power of satan and sin in this generation. Let the stronghold of Satan be destroyed. ●	Gather in the name of Jesus, We command the light of Christ to shine upon everyone blinded by the devil. ●	father in the name of Jesus, we declare that the truth of the gospel begins to set the sinner free from the lies of the devil.●	Pray for your family and friends who are yet to come into the gospel. ",
+
+        "bibleReadingPlanTitle": '1-YEAR BIBLE READING PLAN',
+
+        "bibleReadingPlanText": "1 Chronicles 6-7; John 8:21-36",
+      },
+      {
+        id: "477",
+
+        image:
+          " https://res.cloudinary.com/dmxfjy079/image/upload/v1705143662/DLD/ta4huorpy94dxyoswmzy.jpg",
+
+        uniqueDate: "May 23rd 25",
+
+        title: "YOU ARE TOO LOADED TO FAIL (PART 2)",
+
+        bibleVerse: "COLOSSIANS 4:17",
+
+        memoryVerse:
+          "And say to Archippus, “Take heed to the ministry which you have received in the Lord, that you may fulfil it.'",
+
+        studyBible: "JEREMIAH 1:4-8",
+
+        texts: {
+          textOne:
+            "Yesterday, we discussed that many are depressed and frustrated because they don't even know that God has a plan for them. Also, we discussed that the nature of that purpose is great, good, and noble. Meanwhile, some are aware of the gifts and grace of God in their lives. Some possess great gifts, grace, and anointing but they aren't making any meaning out of them for different reasons. Gifts and talents are not enough. There are several factors to ensure that you don't fail in the assignment that God has given to you.",
+
+          textTwo:
+            "Let me say this, “The presence of gifts and anointing does not equate to success and fulfilment” I have seen many talented individuals who are frustrated and depressed in life. The first thing you need to know is that you are responsible for fulfilling your purpose. God’s responsibility is to give you life, gifts, grace, and anointing, your responsibility is to fulfil it. According to our memory verse “And say to Archippus, “Be sure to carry out the ministry the Lord gave you.”",
+
+          textThree:
+            "You are the one who needs to ensure that you fulfil your ministry, career, profession, or whatever God has given you. Not your friends, mentor, mentee, parents, government, or ministry. They sure have a role to play but the fulfilment depends majorly on you. If you are not 100% committed to your vision, nobody will commit to it. Finding out what it takes to fulfil your mandate is your responsibility. Don't just sit down relaxed and think time will fulfil it, No, you are the one to fulfil it. Discover, refine, and release that which God has placed in you. Die empty.",
+
+          },
+          footerTitle: "PRAYER",
+
+          footerText:
+            "LORD, don’t let me die full",
+
+        // "footerTitleTwo": 'HAPPY NEW YEAR',
+
+        // "footerTextTwo": "●	Father in the name of Jesus, Pour a fresh grace of salvation upon this generation. Let souls begin to come into repentance in their millions. ●	Father in the name of Jesus, break the power of satan and sin in this generation. Let the stronghold of Satan be destroyed. ●	Gather in the name of Jesus, We command the light of Christ to shine upon everyone blinded by the devil. ●	father in the name of Jesus, we declare that the truth of the gospel begins to set the sinner free from the lies of the devil.●	Pray for your family and friends who are yet to come into the gospel. ",
+
+        "bibleReadingPlanTitle": '1-YEAR BIBLE READING PLAN',
+
+        "bibleReadingPlanText": "1 Chronicles 8-10; John 8:37-59",
+      },
+      {
+        id: "478",
+
+        image:
+          " https://res.cloudinary.com/dmxfjy079/image/upload/v1705143662/DLD/ta4huorpy94dxyoswmzy.jpg",
+
+        uniqueDate: "May 24th 25",
+
+        title: "THE FIGHT OF FAITH",
+
+        bibleVerse: "HEBREWS 11:6",
+
+        memoryVerse:
+          "But without faith, it is impossible to please Him, for he who comes to God must believe that He is, and that He is a rewarder of those who diligently seek Him.",
+
+        studyBible: "2 Tim 4:1-8",
+
+        texts: {
+          textOne:
+            "Life is full of battles, you may not be able to choose who or what fights you, but you must choose who or what you fight. The battles you choose to fight determine the victory you secure. Remember, you cannot live long enough to fight all your battles. But the battle you cannot but fight and win is the battle against your FAITH. The most valuable asset of a believer is not mansions or luxurious cars but his faith. Your most treasured possession is your faith in Christ. It is important that you are aware of how priceless your faith is, or else you will lose it easily. If some ladies can protect their faith like they protect their jewellery, they will have a better stand with God.",
+
+          textTwo:
+            "The greatest assault of the enemy in your life will be against your faith. The enemy is constantly trying to steal, kill or destroy your faith. Satan doesn't want you to be a Christian. This is why your unbelieving friend can have it easy but you don't.  The enemy fights your faith because without faith you cannot please God. Only the people with the faith that Jesus authored can please the Father. The whole essence of man is to please God. Man is created for His pleasure. God created things for our pleasure, but He created us for His own pleasure Ps 149:4, 1 Timothy 6:17).",
+
+          textThree:
+            "In time past, people have sought to please God through religion, sacrifices, self-discipline, and other different ways. The children of Israel could not please God due to their lack of faith in Him. May I tell you, you won’t be able to bring pleasure to God through your music, work, career, and sermons if it is not done in faith. If the enemy succeeds in defeating your faith, you cannot please God anymore. Therefore, protect your faith because that’s all you have to please God. Your faith keeps you connected to God. All the trials, persecutions, afflictions, and sacrifices are the fight for your faith. We keep fighting until we see Jesus on the throne.",
+
+          },
+          footerTitle: "CONFESSION",
+
+          footerText:
+            "I will continually please God all the days of my life because my faith in Him is undefeatable.",
+
+        // "footerTitleTwo": 'HAPPY NEW YEAR',
+
+        // "footerTextTwo": "●	Father in the name of Jesus, Pour a fresh grace of salvation upon this generation. Let souls begin to come into repentance in their millions. ●	Father in the name of Jesus, break the power of satan and sin in this generation. Let the stronghold of Satan be destroyed. ●	Gather in the name of Jesus, We command the light of Christ to shine upon everyone blinded by the devil. ●	father in the name of Jesus, we declare that the truth of the gospel begins to set the sinner free from the lies of the devil.●	Pray for your family and friends who are yet to come into the gospel. ",
+
+        "bibleReadingPlanTitle": '1-YEAR BIBLE READING PLAN',
+
+        "bibleReadingPlanText": "1 Chronicles 11-13; John 9:1-23",
+      },
+      {
+        id: "479",
+
+        image:
+          " https://res.cloudinary.com/dmxfjy079/image/upload/v1705143662/DLD/ta4huorpy94dxyoswmzy.jpg",
+
+        uniqueDate: "May 25th 25",
+
+        title: "WHAT’S YOUR SOUL WORTH? $10 BILLION OR MORE?",
+
+        bibleVerse: "MARK 8:36",
+
+        memoryVerse:
+          "For what will it profit a man if he gains the whole world, and loses his own soul?",
+
+        studyBible: "LUKE 12:13-21",
+
+        texts: {
+          textOne:
+            "If you are offered 10 billion dollars or more in exchange for your soul, will you sell it? If your answer is yes, then you would have sold it too cheap. The devil is a good businessman and you can be sure he will still make profits even if he gives you one trillion dollars for your soul. Whatever offer the enemy is offering you in exchange for your soul, it is definitely not worth it. So how much is your soul actually worth? If you take all the wealth of Apple, Google, and Microsoft and add them to the oil fields of  Russia, Saudi Arabia, the U.S, Iraq, and the U.A.E, multiplied by the diamond mines of Russia, Botswana, and Congo plus the gold mines of China, Australia, Ghana and Canada, they are not worth the price of your soul.",
+
+          textTwo:
+            "This is because a soul is priceless. Man, the devil, and other beings can create anything but nobody can create the soul. Nobody knows the mystery that created the soul except the Trinity.  No amount of money can buy your soul. If all the resources on earth are put together, they cannot match the worth of your soul. This is why the devil is flashing the fast cars, dresses, and big houses in your face so that you can lose what is most precious to you.",
+
+          textThree:
+            "The soul cannot be bought with corruptible materials. The soul was created from the uncreated and everlasting material. So, whatever will purchase it must be higher. Only the incorruptible material can buy it. This is why it takes the blood of Jesus to purchase your soul back from hell. The everlasting life of Jesus was the adequate price God paid to rescue your soul from the chains of hell. Why will you lose your soul? Because of cars, houses, money, or the things that perish?  Don't trade your freedom in Christ for anything.",
+
+          },
+          footerTitle: "MEDITATION",
+
+          footerText:
+            "Only in Jesus is your true value revealed and appreciated.",
+
+        // "footerTitleTwo": 'HAPPY NEW YEAR',
+
+        // "footerTextTwo": "●	Father in the name of Jesus, Pour a fresh grace of salvation upon this generation. Let souls begin to come into repentance in their millions. ●	Father in the name of Jesus, break the power of satan and sin in this generation. Let the stronghold of Satan be destroyed. ●	Gather in the name of Jesus, We command the light of Christ to shine upon everyone blinded by the devil. ●	father in the name of Jesus, we declare that the truth of the gospel begins to set the sinner free from the lies of the devil.●	Pray for your family and friends who are yet to come into the gospel. ",
+
+        "bibleReadingPlanTitle": '1-YEAR BIBLE READING PLAN',
+
+        "bibleReadingPlanText": "1 Chronicles 14-16; John 9:24-41",
+      },
+      {
+        id: "480",
+
+        image:
+          " https://res.cloudinary.com/dmxfjy079/image/upload/v1705143662/DLD/ta4huorpy94dxyoswmzy.jpg",
+
+        uniqueDate: "May 26th 25",
+
+        title: "AFTER THIS EARTH, WHAT’S NEXT?",
+
+        bibleVerse: "JOHN 3:18",
+
+        memoryVerse:
+          "He who believes in Him is not condemned; but he who does not believe is condemned already because he has not believed in the name of the only begotten Son of God.",
+
+        studyBible: "LUKE 16:19-31",
+
+        texts: {
+          textOne:
+            "“Heaven is a choice, hell is a choice but eternity is constant”. Think about this statement for a while. Have you ever thought of where you will spend eternity? Or do you think everything will end here on earth? The choice of where you will spend eternity is entirely yours to make. You can choose to spend it with God in eternal bliss, filled with glory, peace and joy or you can also decide to spend it in hell, full of agony, pain, weeping, and gnashing of teeth.",
+
+          textTwo:
+            "God has made the provision for your eternal redemption through faith in the finished work of Christ Jesus. Faith in Jesus gives you the free ticket to reign with God forever. Titus 2:11:For the grace of God that brings salvation has appeared to all men. John 3:16: For God so loved the world that he gave his one and only Son, that whoever believes in him shall not perish but have eternal life. Refusal to believe in the first begotten of the father automatically redirects you back to eternal condemnation. The choice is yours. But God does not want anyone to perish. He loves you so much that He died for you and He wants you to spend eternity with Him. However, He cannot force you because you are a free moral being.",
+
+          textThree:
+            "You will live forever, whether in hell or heaven. It is either you live forever in the lake of fire with pain or forever with Jesus in peace and joy. Whether you believe that there is hell or heaven doesn't matter. I know there may not be intelligent ways to prove whether there is heaven or hell. The people in Noah’s time also couldn't believe it, but it was too late when the proof was convincing. It will be too late when you are in hell to believe. Jesus wants you to reign with Him in eternity. Surrender your life to Him today if you haven’t and you will escape eternal punishment.",
+
+          },
+          footerTitle: "MEDITATION",
+
+          footerText:
+            "Witness and pray for the salvation of the soul of your families and friends today.",
+
+        // "footerTitleTwo": 'HAPPY NEW YEAR',
+
+        // "footerTextTwo": "●	Father in the name of Jesus, Pour a fresh grace of salvation upon this generation. Let souls begin to come into repentance in their millions. ●	Father in the name of Jesus, break the power of satan and sin in this generation. Let the stronghold of Satan be destroyed. ●	Gather in the name of Jesus, We command the light of Christ to shine upon everyone blinded by the devil. ●	father in the name of Jesus, we declare that the truth of the gospel begins to set the sinner free from the lies of the devil.●	Pray for your family and friends who are yet to come into the gospel. ",
+
+        "bibleReadingPlanTitle": '1-YEAR BIBLE READING PLAN',
+
+        "bibleReadingPlanText": "1 Chronicles 17-19; John 10:1-21",
+      },
+      {
+        id: "481",
+
+        image:
+          " https://res.cloudinary.com/dmxfjy079/image/upload/v1705143662/DLD/ta4huorpy94dxyoswmzy.jpg",
+
+        uniqueDate: "May 27th 25",
+
+        title: "WHAT'S YOUR GREATEST PURSUIT?",
+
+        bibleVerse: "MATTHEW 6:33",
+
+        memoryVerse:
+          "But seek first the kingdom of God and His righteousness, and all these things shall be added to you",
+
+        studyBible: "MATTHEW 19:16-22",
+
+        texts: {
+          textOne:
+            "Good morning! Can I ask you an important question again? What do you think is the greatest pursuit of a man? Some believe it is money, prosperity, or wealth. Some think it is influence, popularity, and power. Some also believe it should be a good wife, husband, or marriage. While some believe that the greatest pursuit of life should be knowledge or wisdom. For some, their greatest pursuit is good health. But let me ask you, what is your greatest pursuit in life? What is your priority in life?",
+
+          textTwo:
+            "Your greatest pursuit in life shouldn't be any of these things mentioned above. While it is God’s plan for you to be rich, powerful, married, and be in good health, they should never become your pursuit. Jesus told us what our pursuit should be in Matthew 6:33 But seek first the kingdom of God and His righteousness, and all these things shall be added to you. Your greatest pursuit should be God. Your life should not be all about how much money you have, how big your house is, how many cars you have, or your connections. Your greatest pursuit must be Christ.",
+
+          textThree:
+            "A life without God is vanity. You must get connected to your maker to live a meaningful life. Money without Christ is a life without meaning. You are created to seek God, not things. When you seek God, every other thing you need follows you. It is only God that can satisfy your yearning. It is only Jesus that can bring meaning and purpose to your life. At the end of the tunnel of any other pursuit outside Jesus are darkness, vanity, and destruction. As you pursue Christ, all other things will begin to follow you. The good family that you desire, the fine cars, and the good houses will find you. Then you will live a life of joy and fulfilment.",
+
+          },
+          footerTitle: "MEDITATION",
+
+          footerText:
+            "Seek God (Jesus) not things.",
+
+        // "footerTitleTwo": 'HAPPY NEW YEAR',
+
+        // "footerTextTwo": "●	Father in the name of Jesus, Pour a fresh grace of salvation upon this generation. Let souls begin to come into repentance in their millions. ●	Father in the name of Jesus, break the power of satan and sin in this generation. Let the stronghold of Satan be destroyed. ●	Gather in the name of Jesus, We command the light of Christ to shine upon everyone blinded by the devil. ●	father in the name of Jesus, we declare that the truth of the gospel begins to set the sinner free from the lies of the devil.●	Pray for your family and friends who are yet to come into the gospel. ",
+
+        "bibleReadingPlanTitle": '1-YEAR BIBLE READING PLAN',
+
+        "bibleReadingPlanText": "1 Chronicles 20-22; John 10:22-42",
+      },
+      {
+        id: "482",
+
+        image:
+          " https://res.cloudinary.com/dmxfjy079/image/upload/v1705143662/DLD/ta4huorpy94dxyoswmzy.jpg",
+
+        uniqueDate: "May 28th 25",
+
+        title: "THE POWER OF GOD",
+
+        bibleVerse: "ROMANS 1:16",
+
+        memoryVerse:
+          "For I am not ashamed of the gospel of Christ, for it is the power of God to salvation for everyone who believes, for the Jew first and also for the Greek.",
+
+        studyBible: "1 CORINTHIANS 15:1-19",
+
+        texts: {
+          textOne:
+            "What is the power of God? What is the highest expression and manifestation of His power? Is it in healing the sick, raising the dead, making the lame walk, or making the barren fruitful? Is it the power to prosper or make wealth? Is it the power to walk on water? According to our text, you will be shocked that the power of God is simply the Gospel. Yes!  The gospel. The reason the church has not been experiencing the power of God as in the days of the apostles is that the church is no longer preaching the gospel.",
+
+          textTwo:
+            "Every other message apart from the gospel is void of God's power. The supernatural manifestation of God is a natural occurrence when the gospel is preached. The prosperity message is good but it’s void of God’s power. Motivational and inspirational messages are great but that does not express the power of God. Any message that’s void of Christ is void of God’s power.  What is the Gospel? The gospel is not the prosperity message, it's not the deliverance message, not the hell, rapture, and all other kinds of message that goes around today.",
+
+          textThree:
+            "The gospel is simply the message of the birth, death, burial, and resurrection of Jesus Christ. The gospel is all about Jesus. The gospel is the message of the kingdom that Jesus brought into the world. The purpose for which He died and resurrected. The gospel is salvation from sin through the blood of Jesus on the cross. The gospel is the good news of eternal life that is in Christ Jesus. This is the gospel. People prospered, built cities, raised the dead, healed the sick, conducted deliverance, and performed miracles even before Jesus came. However, the only thing that could not happen was the salvation of men from sin, satan and the flesh. The gospel is the deliverance from these things",
+
+          },
+          footerTitle: "PRAYER",
+
+          footerText:
+            "Father, restore the message of the Gospel to your church in Jesus name.",
+
+        // "footerTitleTwo": 'HAPPY NEW YEAR',
+
+        // "footerTextTwo": "●	Father in the name of Jesus, Pour a fresh grace of salvation upon this generation. Let souls begin to come into repentance in their millions. ●	Father in the name of Jesus, break the power of satan and sin in this generation. Let the stronghold of Satan be destroyed. ●	Gather in the name of Jesus, We command the light of Christ to shine upon everyone blinded by the devil. ●	father in the name of Jesus, we declare that the truth of the gospel begins to set the sinner free from the lies of the devil.●	Pray for your family and friends who are yet to come into the gospel. ",
+
+        "bibleReadingPlanTitle": '1-YEAR BIBLE READING PLAN',
+
+        "bibleReadingPlanText": "1 Chronicles 23-25; John 11:1-17",
+      },
+      {
+        id: "483",
+
+        image:
+          " https://res.cloudinary.com/dmxfjy079/image/upload/v1705143662/DLD/ta4huorpy94dxyoswmzy.jpg",
+
+        uniqueDate: "May 29th 25",
+
+        title: "THE POWER OF THE GOSPEL",
+
+        bibleVerse: "1 CORINTHIANS 1:18",
+
+        memoryVerse:
+          "For the message of the cross is foolishness to those who are perishing, but to us who are being saved it is the power of God",
+
+        studyBible: "1 CORINTHIANS 1:18-24",
+
+        texts: {
+          textOne:
+            "What is the greatest miracle that the gospel brought to humanity? There is hardly any miracle that Jesus performed that has not been performed by the Prophets in the Old Testament. The sick were healed, the red sea was parted, the dead came back to life, and supernatural strength. Just mention it. The only miracle missing in the Old Testament was the miracle of salvation. Meanwhile, this is the least miracle we value.",
+
+          textTwo:
+            "The gospel has the power to heal the sick, raise the dead, walk on water, and feed thousands (1 Cor 2:4), but the greatest manifestation of its miracle was raising people who are spiritually dead back to life. The greatest miracle of the gospel is the restoration of the Spirit of God back into the spirit of man. It is declaring a wicked and ungodly man justified and holy. The greatest miracle of the gospel is turning people who are children of Satan into children of God.",
+
+          textThree:
+            "Do you know what this means? Only the gospel can make a sinner become a saint, a stranger become a family of the commonwealth of Zion, a slave become a son, a hell-bound become a heavenly-bound. What a miracle! The power of the gospel restored man back to God. It converted eternal damnation to eternal bliss. Only the gospel has the power to convict sinners and impart faith to be saved (Romans 10:17). Also, the message of the gospel empowers and matures the believer until he becomes perfect and Christ is formed in him/her. This is the greatest power of God in the gospel.",
+
+          },
+          footerTitle: "MEDITATION",
+
+          footerText:
+            "It is only by the message of the gospel that a man can be saved. No other way.",
+
+        // "footerTitleTwo": 'HAPPY NEW YEAR',
+
+        // "footerTextTwo": "●	Father in the name of Jesus, Pour a fresh grace of salvation upon this generation. Let souls begin to come into repentance in their millions. ●	Father in the name of Jesus, break the power of satan and sin in this generation. Let the stronghold of Satan be destroyed. ●	Gather in the name of Jesus, We command the light of Christ to shine upon everyone blinded by the devil. ●	father in the name of Jesus, we declare that the truth of the gospel begins to set the sinner free from the lies of the devil.●	Pray for your family and friends who are yet to come into the gospel. ",
+
+        "bibleReadingPlanTitle": '1-YEAR BIBLE READING PLAN',
+
+        "bibleReadingPlanText": "1 Chronicles 26-27; John 11:18-46",
+      },
+      {
+        id: "484",
+
+        image:
+          " https://res.cloudinary.com/dmxfjy079/image/upload/v1705143662/DLD/ta4huorpy94dxyoswmzy.jpg",
+
+        uniqueDate: "May 30th 25",
+
+        title: "WHAT TO DO WHEN YOUR EXPECTATIONS ARE UNMET",
+
+        bibleVerse: "JEREMIAH 17:5",
+
+        memoryVerse:
+          "Thus says the Lord, “Cursed is the man who trusts in mankind And makes flesh his strength, And whose heart turns away from the Lord.Jeremiah 17:5",
+
+        studyBible: "ISAIAH 31:3",
+
+        texts: {
+          textOne:
+            "We wake up every day with expectations. We have expectations from parents, families, school, friends, government, and from God. At times these expectations are valid and normal. For instance, you expect your parents to love and support you in school and in everything. You expect the government to protect you and provide social amenities. You expect your friends to support you when you need them. You expect your spouse to be there for you in difficult times. We also have expectations from ourselves. We expect something from ourselves.",
+
+          textTwo:
+            "However, everyday most of our expectations are dashed. Our hearts have been broken by disappointments, especially from those we call our loved ones. But top on the list is the disappointment from the expectation on yourself. As much as we get disappointed from people, one of the worst is the inability to meet our own expectations. A goal you couldn't smash, a project you couldn't finish, a relationship you couldn't keep and the list goes on. How then do we deal with unmet expectations?",
+
+          textThree:
+            "First, don’t put your trust in men. Psalms 146:3; Do not trust in princes, in mortal man, in whom there is no salvation. _ NASB. God commanded you never to trust in man no matter how convincing they might sound. Jesus Himself did not trust in man. Men are not reliable because they are human, they are limited in every way. Never see men as your source. God can use a man to help you, He can use your family to meet your needs but always remember that God remains the source. Don’t always focus or reply on people that God has used for you, not even your parents. Men can disappoint because sometimes they don’t have what it takes to help you. Trust God enough to choose who to use.",
+
+          textFour:
+            "Lastly, when unmet expectations are your fault, i.e it’s you who is disappointed in yourself, note that you’re also a work in progress. Even your failures are helping you make progress. Always trust in God and not in your abilities. Every other thing can fail but God can’t.",
+
+          },
+          footerTitle: "MEDITATION",
+
+          footerText:
+            "Humans disappoint but God can’t",
+
+        // "footerTitleTwo": 'HAPPY NEW YEAR',
+
+        // "footerTextTwo": "●	Father in the name of Jesus, Pour a fresh grace of salvation upon this generation. Let souls begin to come into repentance in their millions. ●	Father in the name of Jesus, break the power of satan and sin in this generation. Let the stronghold of Satan be destroyed. ●	Gather in the name of Jesus, We command the light of Christ to shine upon everyone blinded by the devil. ●	father in the name of Jesus, we declare that the truth of the gospel begins to set the sinner free from the lies of the devil.●	Pray for your family and friends who are yet to come into the gospel. ",
+
+        "bibleReadingPlanTitle": '1-YEAR BIBLE READING PLAN',
+
+        "bibleReadingPlanText": "1 Chronicles 28-29; John 11:47-57",
+      },
+      {
+        id: "485",
+
+        image:
+          " https://res.cloudinary.com/dmxfjy079/image/upload/v1705143662/DLD/ta4huorpy94dxyoswmzy.jpg",
+
+        uniqueDate: "May 31st 25",
+
+        title: "FORGIVENESS IS A MUST",
+
+        bibleVerse: "COLOSSIANS 2:13",
+
+        memoryVerse:
+          "And you, being dead in your trespasses and the uncircumcision of your flesh, He has made alive together with Him, having forgiven you all trespasses",
+
+        studyBible: "GENESIS 50;15-21",
+
+        texts: {
+          textOne:
+            "Most believers are okay with discussing many subjects in the church except forgiveness. Yet one of the blessings of the new birth is the forgiveness we enjoy in Christ. Many Christians still struggle with this experience. Many people have lost their blessings, lost their minds, incurred diseases, and destroyed their relationships because of Unforgiveness. Unforgiveness is the root of emotional trauma and mental diseases. As a believer, forgiveness is not a choice, it is compulsory. One thing you need to understand is that forgiveness is not based on asking. When people offend you, don't expect them to come and ask before you forgive.",
+
+          textTwo:
+            "The New Testament forgiveness is not based on asking (Matthew 6:12). It's based on what Christ did (1 John 2:12). You forgive others as you have also received forgiveness from God without asking many times. When you think about how much you have been forgiven, then forgiving others will not be a problem. Offences will come. It will be impossible to go through a day without someone offending you. But you must not allow offences to come through you nor be affected by the offence of others. Forgiveness breeds hatred, bitterness, and depression. You cannot experience true freedom and liberty in Christ without forgiveness.",
+
+          textThree:
+            "The love of God in you makes it very easy to forgive others. When you allow this kind of love to penetrate and operate freely in your heart, you will find it easy to forgive people. A sure sign of spiritual growth is the ability to forgive easily. However, being unoffendable is far better than forgiveness, when no action by people can offend you. Make a decision today to release everyone you are yet to forgive and live a life of freedom. One of the secrets of sound health and long life is forgiveness.",
+
+          },
+          footerTitle: "CONFESSION",
+
+          footerText:
+            "I am a forgiver. The love of God abides in me, the love of God in me prohibits me from unforgiveness. I release and forgive easily. Offence will not occur through me.",
+
+        // "footerTitleTwo": 'HAPPY NEW YEAR',
+
+        // "footerTextTwo": "●	Father in the name of Jesus, Pour a fresh grace of salvation upon this generation. Let souls begin to come into repentance in their millions. ●	Father in the name of Jesus, break the power of satan and sin in this generation. Let the stronghold of Satan be destroyed. ●	Gather in the name of Jesus, We command the light of Christ to shine upon everyone blinded by the devil. ●	father in the name of Jesus, we declare that the truth of the gospel begins to set the sinner free from the lies of the devil.●	Pray for your family and friends who are yet to come into the gospel. ",
+
+        "bibleReadingPlanTitle": '1-YEAR BIBLE READING PLAN',
+
+        "bibleReadingPlanText": "2 Chronicles 1-3; John 12:1-19",
       },
     ];
 

@@ -2,10 +2,10 @@
     <div class="container py-5 mt-5">
       <h1 class="text-center">Higher Life Conference Attendance</h1>
       <div class="text-right my-3">
-        <button class="btn btn-primary" @click="downloadExcel">Download as Excel</button>
+        <!-- <button class="btn btn-primary" @click="downloadExcel">Download as Excel</button> -->
       </div>
       <div class="table-responsive">
-        <table class="table table-striped table-bordered">
+        <!-- <table class="table table-striped table-bordered">
           <thead>
             <tr>
               <th>Full Name</th>
@@ -42,7 +42,7 @@
               <td>{{ registration.accommodation }}</td>
             </tr>
           </tbody>
-        </table>
+        </table> -->
       </div>
      
     </div>
@@ -50,7 +50,6 @@
   
   <script>
   import axios from 'axios';
-  import XLSX from 'xlsx';
   
   export default {
     name: 'HlcRegAttendance',
@@ -78,14 +77,14 @@
             console.log(error)
         })
     },
-    methods: {
-      downloadExcel() {
-        const data = XLSX.utils.json_to_sheet(this.registrations);
-        const workbook = XLSX.utils.book_new();
-        XLSX.utils.book_append_sheet(workbook, data, 'Attendance');
-        XLSX.writeFile(workbook, 'hlc_attendance.xlsx');
-      }
-    }
+    // methods: {
+    //   downloadExcel() {
+    //     const data = XLSX.utils.json_to_sheet(this.registrations);
+    //     const workbook = XLSX.utils.book_new();
+    //     XLSX.utils.book_append_sheet(workbook, data, 'Attendance');
+    //     XLSX.writeFile(workbook, 'hlc_attendance.xlsx');
+    //   }
+    // }
   };
   </script>
   
